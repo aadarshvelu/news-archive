@@ -28,6 +28,20 @@
     "image_url": "https://winbuzzer.com/wp-content/uploads/2025/07/U.S.-Food-and-Drug-Administration-FDA.jpg"
   },
   {
+    "id": "4ed08a31-4b49-4d5f-a9fd-e52fb89f2581",
+    "cluster_id": "11cc81d3-00cf-453c-8df8-968dc9850f9b",
+    "cluster_size": 1,
+    "source": "Fortune",
+    "title": "Blackstone’s Steve Schwarzman built a program to teach young leaders about China. It’s harder to get into than Harvard",
+    "teaser": "Blackstone's program to train young leaders on China is reportedly tougher to enter than Harvard, signaling high-level industry focus.",
+    "summary": "Blackstone's Steve Schwarzman has developed a new program designed to educate young leaders specifically about China, reportedly making it highly selective—even tougher to get into than Harvard. This initiative suggests a significant strategic focus within the investment world on China expertise and leadership development.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://fortune.com/2026/05/02/schwarzman-scholars-blackstone-china-tsinghua-university/",
+    "date": "2026-05-02T08:00:00Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Stephen-A-Schwarzman.jpg?resize=1200,600"
+  },
+  {
     "id": "da911ff4-1622-4cc3-9caf-ae964ec384ff",
     "cluster_id": "570ce924-d2bf-4297-b1c5-f7d0442a7437",
     "cluster_size": 1,
