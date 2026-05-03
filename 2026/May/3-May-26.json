@@ -14,6 +14,20 @@
     "image_url": "https://winbuzzer.com/wp-content/uploads/2024/11/openai-chatgpt-mobile-own.jpg"
   },
   {
+    "id": "47cba4fc-f67e-4b7c-be0a-945ddb5ec579",
+    "cluster_id": "aad93a2e-5fc5-4563-ac93-e50e72299603",
+    "cluster_size": 1,
+    "source": "WinBuzzer",
+    "title": "Pentagon Clears 8 AI Firms for Classified IL6/IL7 Networks",
+    "teaser": "Eight major AI firms, including OpenAI & Google, are now cleared for Pentagon's secret 'IL6/IL7' military networks.",
+    "summary": "The Pentagon has cleared eight major AI firms—SpaceX, OpenAI, Google, Nvidia, Reflection, Microsoft, Oracle, and Amazon Web Services—to deploy advanced AI on classified IL6/IL7 military networks for the first time at this scale. This move aims to bolster situational awareness and warfighter decision-making. While defense leaders are seeking $961.6 billion for 2026, Anthropic was excluded due to talks over guardrails. The classified rollout extend",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://winbuzzer.com/2026/05/03/pentagon-classified-ai-agreements-nvidia-microsoft-aws-google-openai-spacex-oracle-reflection-xcxwbn/",
+    "date": "2026-05-03T11:15:39Z",
+    "image_url": "https://winbuzzer.com/wp-content/uploads/2026/05/US-Department-of-Defense-Pentagon.jpg"
+  },
+  {
     "id": "2dc89be9-4562-4114-b0d5-aad8778113f6",
     "cluster_id": "6ebe0382-8bdf-4125-bec6-2da614dddc79",
     "cluster_size": 1,
@@ -82,6 +96,34 @@
     "url": "https://winbuzzer.com/2026/05/03/xai-grok-4-3-custom-voices-voice-cloning-launch-xcxwbn/",
     "date": "2026-05-03T10:16:46Z",
     "image_url": "https://winbuzzer.com/wp-content/uploads/2024/04/Microsoft-Voice-AI-Generic.jpg"
+  },
+  {
+    "id": "af2c06e6-23ff-4c64-8d4d-6927e3897d81",
+    "cluster_id": "103da744-4d4d-4ae2-bb6f-e466a5bf0895",
+    "cluster_size": 1,
+    "source": "WinBuzzer",
+    "title": "Anthropic in Talks to Buy AI Inference Chips From Fractile",
+    "teaser": "Claude's $30B revenue surge forces Anthropic to pursue a 4th chip supply track, eyeing Fractile, despite their chips not launching until 2027.",
+    "summary": "Amid soaring demand—with Claude's run-rate revenue surpassing $30 billion—Anthropic is exploring purchasing inference chips from Fractile, adding a fourth supply track alongside Nvidia, Google, and Amazon. This diversification addresses severe server capacity strains. Fractile, a London-based startup founded in July 2024 with $15 million, promises 25x faster inference via in-memory compute, though its chips won't be commercially ready until aroun",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://winbuzzer.com/2026/05/03/anthropic-in-talks-to-buy-ai-chips-from-uk-startup-xcxwbn/",
+    "date": "2026-05-03T11:07:33Z",
+    "image_url": "https://winbuzzer.com/wp-content/uploads/2024/10/Anthropic-AI-safety-AI-sabotage.jpg"
+  },
+  {
+    "id": "569b1362-13da-4af1-ba38-7c36569ea06f",
+    "cluster_id": "9d574dad-87ec-43e9-bae4-10dd95fbe309",
+    "cluster_size": 1,
+    "source": "WinBuzzer",
+    "title": "VS Code Now Stamps GitHub Copilot as Git Commit Co-Author",
+    "teaser": "VS Code's new default stemps *every* Git commit with a 'Copilot' co-author tag—even if you never used AI! 🤯",
+    "summary": "VS Code 1.118 now defaults to stamping a \"Co-authored-by: Copilot\" trailer on Git commits via PR #310226, due to changing `git.addAICoAuthor` from \"off\" to \"all\". This automatic attribution has caused backlash for being invasive, as it appears even when AI features are disabled. Developers can revert this by setting `git.addAICoAuthor` to \"off\" in VS Code settings. Microsoft has not yet patched reports showing the tag persists when `chat.disableA",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://winbuzzer.com/2026/05/03/vs-code-1-118-copilot-co-author-default-commits-xcxwbn/",
+    "date": "2026-05-03T11:55:02Z",
+    "image_url": "https://winbuzzer.com/wp-content/uploads/2022/06/GitHub-Copilot-Official-Logo.jpg"
   },
   {
     "id": "52c9be79-e040-48e0-8291-17e7a215bbc5",
