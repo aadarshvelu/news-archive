@@ -126,6 +126,20 @@
     "image_url": "https://winbuzzer.com/wp-content/uploads/2022/06/GitHub-Copilot-Official-Logo.jpg"
   },
   {
+    "id": "8caaf9c5-055e-4d0e-a8cd-c3118a91a8a1",
+    "cluster_id": "364a4c0e-1663-4a65-bfac-6948f173bafb",
+    "cluster_size": 2,
+    "source": "Fortune",
+    "title": "Sam Altman says the quiet part out loud, confirming some companies are ‘AI washing’ by blaming unrelated layoffs on the technology",
+    "teaser": "Sam Altman alleges companies are using AI buzzwords to mask real corporate issues, pointing to 'AI washing' amid layoffs.",
+    "summary": "Sam Altman has publicly accused certain companies of 'AI washing'—a practice where businesses misleadingly attribute unrelated layoffs to the technology sector. The core issue highlights corporate misrepresentation in the tech downturn. Altman made these remarks in connection with stories covered by sources citing Fortune Media IP Limited, with the article noting copyright information up to 2026. This signals growing scrutiny over how corporate c",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://fortune.com/article/sam-altman-ai-washing-tech-layoffs/",
+    "date": "2026-05-03T12:27:21Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261852455-e1771518563264.jpg?resize=1200,600"
+  },
+  {
     "id": "1a1cd0d9-ba07-496b-9d28-f344b8d64237",
     "cluster_id": "cf039666-9066-4e82-affe-fce0eaadddfe",
     "cluster_size": 1,
