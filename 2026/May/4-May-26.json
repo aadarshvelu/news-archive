@@ -154,6 +154,20 @@
     "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2216734119-e1777910330283.jpg?resize=1200,600"
   },
   {
+    "id": "eb98396f-2501-4f46-9f2b-e6b5f28d93dd",
+    "cluster_id": "4a8457ff-2229-44c8-8b29-709a04d06fde",
+    "cluster_size": 3,
+    "source": "HN: AI",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "teaser": "New voice AI, TTS-2, hits sub-200ms latency, aiming for human-like conversation flow!",
+    "summary": "Inworld AI launched Realtime TTS-2, a voice synthesis model trained on multi-turn conversation, achieving sub-200ms latency necessary for natural, real-time interaction. TTS-2 distinguishes itself by tracking emotional and tonal cues, adapting its delivery contextually rather than just transcribing text. Key features include full voice direction via natural language and crosslingual fluency across 100+ languages. Inworld AI, founded by former Dee",
+    "importance": 5,
+    "category": "ai_products",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "date": "2026-05-04T19:42:47Z",
+    "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5LQivcsFcndtRl4EsbtnOC/c548a54b9bbe11c0b4d9de714f800b30/Voice_AI___SEO_card.png?w=1600&h=900&fit=fill"
+  },
+  {
     "id": "4a8c42cb-65a7-49a5-bb8e-5e2556574774",
     "cluster_id": "9a4a74eb-904a-4b74-95cb-b3025f04a283",
     "cluster_size": 1,
@@ -364,6 +378,20 @@
     "image_url": "https://winbuzzer.com/wp-content/uploads/2024/08/Cerebras-Inference-Official.jpg"
   },
   {
+    "id": "288649a9-b786-4ad8-99a7-91128bb5da50",
+    "cluster_id": "1162da02-4e47-4891-8885-1f166945d31a",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+    "teaser": "Big tech giants join lawmakers to push funding for 'AI literacy' in schools via the NSF.",
+    "summary": "Senators Adam Schiff and Mike Rounds have introduced a bill aiming to allocate grants to the National Science Foundation (NSF) to implement 'AI literacy' programs in schools. This initiative comes as the NSF has faced significant funding cuts. The effort represents a notable coalition, bringing together major technology players like OpenAI, Google, and Microsoft to advocate for educational funding related to artificial intelligence.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+    "date": "2026-05-04T16:21:38Z",
+    "image_url": "https://images.unsplash.com/photo-1598032604570-d65c6680d246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGNoaWxkJTIwb24lMjBhJTIwY29tcHV0ZXIlMjBpbiUyMHNjaG9vbHxlbnwwfHx8fDE3Nzc5MDQ2NDd8MA&ixlib=rb-4.1.0&q=80&w=2000"
+  },
+  {
     "id": "943305c5-b62a-4f94-ab22-f02ab42a4533",
     "cluster_id": "b249bd9f-e36e-40f8-8c72-75de84e30001",
     "cluster_size": 1,
@@ -474,6 +502,20 @@
     "url": "https://fortune.com/2026/05/04/annual-meeting-berkshire-hathaway-warren-buffett-greg-abel-charlie-munger/",
     "date": "2026-05-04T19:46:09Z",
     "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2160977611-e1777922432357.jpg?resize=1200,600"
+  },
+  {
+    "id": "0a9c33cd-59df-446b-bf45-392a88266b99",
+    "cluster_id": "7d1906c7-d902-4d22-9fa7-85a616a5ee6e",
+    "cluster_size": 1,
+    "source": "HN: AI startup",
+    "title": "AI startup JuliaHub raises $65M to rival Simulink",
+    "teaser": "Former Snowflake CEO backs JuliaHub's $65M push: Can AI + Julia dethrone Simulink, a 20-year industry giant?",
+    "summary": "AI startup JuliaHub has secured $65 million in Series B funding, led by Dorilton Capital, to challenge MathWorks' established Simulink tool for simulating complex systems. The funding was announced alongside Dyad 3.0. The company is backed by former Snowflake CEO Bob Muglia, who believes combining AI agents with Julia, an open-source technical computing language, can achieve the 'mathematical certainty' required for designing complex hardware lik",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://www.axios.com/2026/04/30/bob-muglia-ai-hardware-engineering",
+    "date": "2026-05-04T20:27:55Z",
+    "image_url": "https://images.axios.com/yS0rv3oUol04XftOHFUUYA389JA=/0x0:1920x1080/1366x768/2026/01/27/1769549503866.jpeg"
   },
   {
     "id": "b2604268-8e3e-4b1b-a110-f4ee7987d63b",
