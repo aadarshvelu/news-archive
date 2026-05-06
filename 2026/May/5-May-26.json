@@ -406,6 +406,20 @@
     "image_url": "https://winbuzzer.com/wp-content/uploads/2026/02/US-Department-of-Homeland-Security.jpg"
   },
   {
+    "id": "75b2bb3c-df10-4365-b841-fc030fbd5519",
+    "cluster_id": "253ba182-b9d2-492f-a0a3-092797cd99e2",
+    "cluster_size": 1,
+    "source": "Fortune",
+    "title": "One American loses their job for every 6 immigrants removed from the workforce as researchers see ‘no evidence’ that ICE is helping the economy",
+    "teaser": "Shocking study suggests ICE removals cost American jobs: 1 American job lost for every 6 immigrants removed.",
+    "summary": "Researchers claim there is 'no evidence' that Immigration and Customs Enforcement (ICE) actions positively contribute to the economy, presenting a stark finding that suggests job losses for American workers are correlated with deportations. Specifically, the analysis indicates that for every 6 immigrants removed from the workforce, one American loses their job. This challenges narratives suggesting that immigration enforcement benefits the domest",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://fortune.com/2026/05/05/ice-deportations-us-born-job-losses-study/",
+    "date": "2026-05-05T18:04:03Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2260070766-e1778002613313.jpg?resize=1200,600"
+  },
+  {
     "id": "ce9b45ac-9bc1-4391-893e-6b714a69a30e",
     "cluster_id": "2d8c4cf4-0096-43c2-bb94-34ca47127bc3",
     "cluster_size": 1,
@@ -418,6 +432,76 @@
     "url": "https://www.testingcatalog.com/openai-launches-gpt-5-5-instant-as-new-chatgpt-default/",
     "date": "2026-05-05T19:49:23Z",
     "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/05/20250822.jpg"
+  },
+  {
+    "id": "23751366-f728-4478-a8f5-09a821fb58e2",
+    "cluster_id": "868bf8ec-f577-456a-b664-b648e031f73a",
+    "cluster_size": 2,
+    "source": "thedd",
+    "title": "$1B for Trump Ballroom Security Upgrades?",
+    "teaser": "Republicans propose $1B in taxpayer cash for Trump's ballroom security, despite claims it costs nothing.",
+    "summary": "Senate Republicans, led by Chuck Grassley, proposed allocating $1 billion in taxpayer funds for security upgrades at Donald Trump's White House ballroom project, as part of a larger $72 billion reconciliation package for law enforcement and border security. The funding targets the 90,000-square-foot East Wing Modernization Project. This proposal contradicts Trump's prior claims that the ballroom would be privately funded. The broader package also",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://link.mail.beehiiv.com/v1/c/GmdcC%2FX4f5%2BbjQ0JY2KYh2rf%2FKg7nFNE%2B0sxkcsRJ%2FVk%2Fl8BZbEQH1i%2FZdQh%0Am65GyQ1IATdmlPsPy2CwBHt1efnWlvI1VPzCaDDRDTSsC3LnXn41nueUXXxx%0ANcm8LYVh7rLmMZcDaLSMVEx881wqdKPL1ZoKCsIk67%2BdQbZayQglLUIYTZZN%0ARWwaEK6oAMX9DUKv1a3AK9VffvatKjRZBg%3D%3D%0A/40b2c910360b0813",
+    "date": "2026-05-05T20:05:10Z",
+    "image_url": null
+  },
+  {
+    "id": "098f982e-cabf-4741-82e7-e002666697c0",
+    "cluster_id": "756a2d2a-08fa-4473-bbaf-4aed282f17cc",
+    "cluster_size": 1,
+    "source": "The Deep Dive",
+    "title": "Doug Ford Could End Up “In Prison”, Warns NDP Leader",
+    "teaser": "NDP's Marit Stiles warns Doug Ford could face prison over Greenbelt 'dirty deals' amid RCMP probe.",
+    "summary": "Tensions flared in Ontario politics after Opposition Leader Marit Stiles warned that a public inquiry into the controversial Greenbelt land sales could reveal \"dirty deals,\" potentially leading to Premier Doug Ford going \"in prison.\" This followed the RCMP investigating the government's decisions regarding the protected Greenbelt land. The PC caucus attacked Stiles on Question Period, with Steve Clark criticizing her use of \"American-style\" rheto",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://thedeepdive.ca/ford-stiles-greenbelt-prison-comment/?utm_source=rss&utm_medium=rss&utm_campaign=ford-stiles-greenbelt-prison-comment",
+    "date": "2026-05-05T20:14:19Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/05/header-template.001-14.png"
+  },
+  {
+    "id": "77a43ff2-b632-4ffc-a4ec-ff138e8989e8",
+    "cluster_id": "72ecc30e-b557-405f-b873-bfbe49e97ce3",
+    "cluster_size": 1,
+    "source": "The Deep Dive",
+    "title": "Lucid Crashes As Loss Widens, Estimate Missed In Q1 2026",
+    "teaser": "Lucid's operating cash burn jumped to $1.19 billion in Q1 2026, missing analyst estimates and pressuring the EV maker's finances.",
+    "summary": "Lucid Group faced significant financial headwinds in Q1 2026, reporting a net loss of $1.03 billion and an operating cash burn of $1.19 billion, missing consensus revenue estimates ($358.0M vs. $282.5M actual). Despite higher production (5,500 vehicles) compared to Q1 2025, the company’s deepening losses forced increased reliance on capital. Key financial metrics include a $700.4 million cash balance. Lucid also named Silvio Napoli as its next CE",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://thedeepdive.ca/lucid-crashes-as-loss-widens-estimate-missed-in-q1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=lucid-crashes-as-loss-widens-estimate-missed-in-q1-2026",
+    "date": "2026-05-05T20:28:33Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/05/header-template.001-15.png"
+  },
+  {
+    "id": "5cd01c55-d9ff-4a14-b37b-df932da6ecf9",
+    "cluster_id": "21d3fae8-38c6-49e3-8aac-2dc2a2a576d0",
+    "cluster_size": 1,
+    "source": "The Deep Dive",
+    "title": "Keyera Faces Antitrust Hurdle in $2.8 Billion Plains NGL Deal as Competition Bureau Objects",
+    "teaser": "Regulatory roadblock! Keyera's $2.8B NGL deal faces a challenge from the Competition Bureau just before its May 2026 close.",
+    "summary": "Keyera faces an antitrust hurdle over its $2.8 billion acquisition of Plains' NGL business, as the Competition Bureau filed an objection. Despite this, Keyera expects to close the deal in May 2026, arguing it will boost competition by creating a more integrated NGL network across the Western Canadian Sedimentary Basin. The transaction is set to generate over $100 million in annual run-rate synergies within 12 months. Keyera anticipates maintainin",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://thedeepdive.ca/keyera-faces-antitrust-hurdle-in-2-8-billion-plains-ngl-deal-as-competition-bureau-objects/?utm_source=rss&utm_medium=rss&utm_campaign=keyera-faces-antitrust-hurdle-in-2-8-billion-plains-ngl-deal-as-competition-bureau-objects",
+    "date": "2026-05-05T23:01:08Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/05/featured-29.jpg"
+  },
+  {
+    "id": "cdda6aee-68e7-4e74-945c-4098a7c47885",
+    "cluster_id": "392d5f29-0b20-4989-bcca-0fed7539c713",
+    "cluster_size": 1,
+    "source": "Fortune",
+    "title": "Over 98% of stablecoins are dollar backed. That’s good for the U.S.—until it’s not",
+    "teaser": "The stability of the crypto market hinges on a single point: over 98% of stablecoins are dollar backed.",
+    "summary": "The article warns that while the stability of the stablecoin market is currently heavily dependent on US dollar backing (citing over 98% backing), this reliance presents a systemic risk that could negatively impact the U.S. economy. While the piece draws attention to the sector's structure, it provides no further details on the nature of the instability, only the alarming concentration risk.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://fortune.com/2026/05/05/over-98-of-stablecoins-are-dollar-backed-thats-will-be-good-for-the-u-s-until-its-not/",
+    "date": "2026-05-05T23:15:08Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Barry-Silbert-1.jpeg?resize=1200,600"
   },
   {
     "id": "28d4527e-f6a6-40ec-9977-9ba68e8b7ad6",
@@ -518,6 +602,34 @@
     "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/05/13281c6d53286ab93a927398da35818930f9bf229ec01d17913552a9b3b62210.webp"
   },
   {
+    "id": "fc92f79c-9a1d-490e-93a9-a27970989b13",
+    "cluster_id": "df306068-0b81-4562-a5c0-9a0a2b987389",
+    "cluster_size": 1,
+    "source": "Economist - Finance & Economics",
+    "title": "Can Bill Ackman save the closed-end fund?",
+    "teaser": "Bill Ackman's ambitious plan to resurrect a closed-end fund aims to rival the scale of Berkshire Hathaway.",
+    "summary": "Financier Bill Ackman is reportedly planning a major venture to build a modern-day rival to Berkshire Hathaway by reviving a closed-end fund. While the article title indicates this focus, no further details on the specifics of this endeavor, such as required capital or investment strategy, were provided in the excerpt. The core subjects remain Bill Ackman, the closed-end fund, and Berkshire Hathaway.",
+    "importance": 3,
+    "category": "economics",
+    "url": "https://www.economist.com/finance-and-economics/2026/05/05/can-bill-ackman-save-the-closed-end-fund",
+    "date": "2026-05-05T19:59:27Z",
+    "image_url": null
+  },
+  {
+    "id": "c8bc0c33-9310-4445-849f-8d93b712a39f",
+    "cluster_id": "03334904-a7a0-479b-acdd-284f7409b32e",
+    "cluster_size": 1,
+    "source": "The Deep Dive",
+    "title": "AMC Rallies On An EBITDA Rebound In Q1 2026 Despite Cash Burn",
+    "teaser": "AMC's Adjusted EBITDA hit $38.3M, a massive improvement from negative $57.7M, showing a revenue rebound!",
+    "summary": "AMC Entertainment reported a significant rebound in Q1 2026, highlighted by Adjusted EBITDA reaching $38.3 million, a marked improvement from $57.7 million the prior year. Total revenue climbed to $1.05 billion. Operating loss narrowed sharply to $45.7 million from $145.9 million, and diluted loss per share improved to $0.22 from $0.47. Cash use in operations eased to $128.5 million from $370.0 million. The company ended the quarter with $339.2 m",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://thedeepdive.ca/amc-rallies-on-an-ebitda-rebound-in-q1-2026-despite-cash-burn/?utm_source=rss&utm_medium=rss&utm_campaign=amc-rallies-on-an-ebitda-rebound-in-q1-2026-despite-cash-burn",
+    "date": "2026-05-05T20:43:13Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/05/header-template.001-16.png"
+  },
+  {
     "id": "90dd1057-f1e6-4462-8949-ecf41110cd68",
     "cluster_id": "6c67b3cd-de47-49fb-9be3-eb46bd5d3a5a",
     "cluster_size": 1,
@@ -530,6 +642,20 @@
     "url": "https://fortune.com/2026/05/05/beirut-boardroom-disruption-direction-gulf-leadership-alain-bejjani/",
     "date": "2026-05-05T07:00:00Z",
     "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/alain.png?resize=1200,600"
+  },
+  {
+    "id": "0ae34db5-bfbf-4fb5-9488-6b96776f596e",
+    "cluster_id": "a988de25-db24-400b-af65-1ac1933a9ca4",
+    "cluster_size": 2,
+    "source": "Fortune",
+    "title": "A jittery CEO crowd at Milken looks abroad for growth—and answers",
+    "teaser": "CEOs seeking growth overseas after a 'jittery' atmosphere at Milken event.",
+    "summary": "CEOs, appearing 'jittery' at the Milken event, are reportedly shifting focus abroad for growth opportunities. The article, published by Fortune Media IP Limited and copyrighted for 2026, suggests a global pivot for corporate expansion. No other specific data points such as figures or new company names were detailed in the provided text.",
+    "importance": 2,
+    "category": "economics",
+    "url": "https://fortune.com/2026/05/05/milken-institute-ceos-emerging-markets/",
+    "date": "2026-05-05T10:01:19Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2274057566.jpg?resize=1200,600"
   },
   {
     "id": "73e8ac87-a721-499c-a87a-3e41d3ac5ce6",
