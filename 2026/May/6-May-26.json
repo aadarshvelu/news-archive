@@ -1,5 +1,19 @@
 [
   {
+    "id": "2ebab55e-b0f3-43d0-b6bd-4843c88a4cf1",
+    "cluster_id": "70db8841-c84e-4c15-9967-b65f990d964c",
+    "cluster_size": 1,
+    "source": "OpenAI News",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "teaser": "Uber pairs with OpenAI to build AI tools, enabling everything from personalized driver earning advice to complex voice ride booking.",
+    "summary": "Uber is integrating OpenAI's large language models (LLMs) into its platform to enhance both driver earning strategies and rider experience. Key new features include 'Uber Assistant,' an AI tool that provides real-time, actionable insights to help drivers optimize their earnings by summarizing complex marketplace data. Furthermore, Uber is launching voice experiences using OpenAI Realtime APIs, allowing users to book rides naturally by speaking in",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://openai.com/index/uber",
+    "date": "2026-05-06T00:00:00Z",
+    "image_url": "https://images.ctfassets.net/kftzwdyauwt9/44fSkviPWfIhzSgGXp9dhg/ac7d107ec3203cd2c90db1e5b6b9fff9/oai_Uber_SEO.png?w=1600&h=900&fit=fill"
+  },
+  {
     "id": "eb677fb6-eaa8-42ec-9e95-b87e4f466d87",
     "cluster_id": "33090c12-2026-430f-8c18-b09261010e60",
     "cluster_size": 2,
@@ -152,6 +166,20 @@
     "url": "https://openai.com/index/introducing-b2b-signals",
     "date": "2026-05-06T00:00:00Z",
     "image_url": "https://images.ctfassets.net/kftzwdyauwt9/nLjavCv9SqZk0i5Ds1h7B/9c25cdb04fdb79c8b30d7c1e181d4b97/Frame2.png?w=1600&h=900&fit=fill"
+  },
+  {
+    "id": "7d60f2e6-21ff-4e30-bb81-edced612f361",
+    "cluster_id": "19b4e59f-6714-43a5-b30d-e85daf6a2840",
+    "cluster_size": 1,
+    "source": "OpenAI News",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "teaser": "Madrid's Singular Bank uses AI to save bankers 60-90 mins daily, shifting focus from prep work to high-value client advising.",
+    "summary": "Singular Bank, a private bank in Madrid, has deployed 'Singularity,' an internal AI assistant powered by ChatGPT and Codex. This system allows bankers to analyze client portfolios, prepare for meetings, and generate communications in real time, saving staff 60-90 minutes daily. Singularity immediately flags risks like concentration risk and recommends actions, allowing bankers to focus on client relationships rather than data reconciliation. Javi",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://openai.com/index/singular-bank",
+    "date": "2026-05-06T00:00:00Z",
+    "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1OnlxB4PvMkGuoGAOaSTHJ/e2a10ebfa7fe8b569d024323bcfca3dc/oai_SingularBank_SEO.png?w=1600&h=900&fit=fill"
   },
   {
     "id": "df0357f4-5c68-4520-8300-c590f97bc130",
@@ -658,6 +686,48 @@
     "image_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/correctness-before-corrections.png"
   },
   {
+    "id": "8f21e119-2fe1-4978-adc3-204fc2c62d3d",
+    "cluster_id": "f3d54f8b-c301-4f48-9069-d6e5ed972343",
+    "cluster_size": 1,
+    "source": "Testing Catalog",
+    "title": "Maket opens Draw from Scratch tool to all users for free",
+    "teaser": "Maket AI drops 'Draw from Scratch' free! Manual sketching plus 3D rendering now accessible, challenging paid CAD tools.",
+    "summary": "Maket AI has made its advanced 'Draw from Scratch' canvas free for all users, significantly lowering the barrier to entry for residential design. This key update lets users start by manually sketching layouts on a blank canvas, offering an alternative to relying solely on AI text prompts. The workflow includes a furnishing pass and a Visualize tab that generates 3D renderings from various inputs like Pinterest or Instagram images. This follows th",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://www.testingcatalog.com/maket-opens-draw-from-scratch-tool-to-all-users-for-free/",
+    "date": "2026-05-06T20:34:08Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/05/Maket-05-05-2026_11_08_PM.jpg"
+  },
+  {
+    "id": "ede95c4a-921d-4529-8e2d-90305be28686",
+    "cluster_id": "0e4f280e-a692-4845-b800-1e5696f00e61",
+    "cluster_size": 2,
+    "source": "The Deep Dive",
+    "title": "Hantavirus: What Do We Know So Far",
+    "teaser": "A cruise ship's deadly hantavirus outbreak killed three people; the strain, Andes hantavirus, is linked to rodent exposure.",
+    "summary": "Three people died in a suspected hantavirus cluster aboard the Dutch-flagged MV Hondius, prompting an international investigation coordinated by the World Health Organization (WHO). The outbreak, reported around May 2, 2026, involved 147 people. Hantaviruses are rodent-borne viruses, and while person-to-person spread is rare, the Andes strain identified is significant. The ship sailed from Ushuaia, Argentina, on April 1, stopping at remote locati",
+    "importance": 4,
+    "category": "world_news",
+    "url": "https://thedeepdive.ca/hantavirus-outbreak-2026-update/?utm_source=rss&utm_medium=rss&utm_campaign=hantavirus-outbreak-2026-update",
+    "date": "2026-05-06T23:01:48Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/05/header-template.001-22.png"
+  },
+  {
+    "id": "49d7887c-1a74-49de-a70f-3604ef7f03d3",
+    "cluster_id": "276d70bb-add0-47e6-80ed-f9d8471df967",
+    "cluster_size": 1,
+    "source": "Fortune",
+    "title": "‘Highly qualified White, Asian, and other students were denied admission’: DOJ accuses UCLA of discrimination",
+    "teaser": "DOJ accuses UCLA of discrimination, claiming highly qualified White, Asian, and other students were unfairly denied admission.",
+    "summary": "The Department of Justice (DOJ) has accused UCLA of discrimination, alleging that highly qualified students across multiple racial backgrounds—including White, Asian, and others—were unjustly denied admission. While the article confirms the accusation and names the parties (DOJ, UCLA), it lacks further details on the nature of the alleged discrimination or the specific selection process in question. This news pertains to high-stakes educational a",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://fortune.com/2026/05/06/highly-qualified-white-asian-and-other-students-were-denied-admission-doj-accuses-ucla-of-discrimination/",
+    "date": "2026-05-06T23:33:32Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26126659889619.jpg?resize=1200,600"
+  },
+  {
     "id": "d7d0f88c-7f1c-4a1e-9467-3d35d6a6a59c",
     "cluster_id": "a2947fee-760e-46de-9878-6db25b6bd6a1",
     "cluster_size": 1,
@@ -768,5 +838,47 @@
     "url": "https://fortune.com/2026/05/06/ryanair-ceo-airport-bar-morning-drinking/",
     "date": "2026-05-06T17:53:30Z",
     "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2273001876-e1778087145143.jpg?resize=1200,600"
+  },
+  {
+    "id": "05cb489e-18f2-4e13-825e-b5bd59f99820",
+    "cluster_id": "89afe1bd-6409-4aa4-884e-3956f9758d04",
+    "cluster_size": 2,
+    "source": "Fortune",
+    "title": "He was ‘The Mouth of the South’ and ‘Captain Outrageous,’ but Ted Turner said ‘If only I had a little humility, I’d be perfect’",
+    "teaser": "From 'The Mouth of the South' to a moment of humility: Ted Turner reflects on his career.",
+    "summary": "Ted Turner, known by nicknames such as 'The Mouth of the South' and 'Captain Outrageous,' offered a candid reflection on his professional life, stating, 'If only I had a little humility, I’d be perfect.' The article highlights this personal introspection regarding his public persona and career journey. No specific dates, organizations, or numbers were provided in the body content, other than the copyright notice mentioning 'Fortune Media IP Limit",
+    "importance": 2,
+    "category": "other",
+    "url": "https://fortune.com/2026/05/06/ted-turner-nicknames-mouth-of-the-south-captain-outrageous/",
+    "date": "2026-05-06T23:15:59Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26126537687658.jpg?resize=1200,600"
+  },
+  {
+    "id": "a2012296-d592-4fb0-85e7-c09f0e8e8824",
+    "cluster_id": "2c322712-ab60-4c90-990b-532fcb1a5c98",
+    "cluster_size": 1,
+    "source": "Fortune",
+    "title": "Understanding the legacy of Ted Turner and the creation of the 24-hour news cycle: ‘there is no hyperbole here’",
+    "teaser": "Ted Turner's legacy is linked to the creation of the 24-hour news cycle, a topic explored by Fortune Media IP Limited.",
+    "summary": "The article discusses the legacy of Ted Turner and his role in establishing the 24-hour news cycle. Key details provided include the copyright holder, Fortune Media IP Limited, whose trademark covers 'FORTUNE.' Users are informed that using the site means accepting the Terms of Use and Privacy Policy. The text does not delve into specifics of the news cycle's creation beyond mentioning Turner's involvement.",
+    "importance": 2,
+    "category": "other",
+    "url": "https://fortune.com/2026/05/06/ted-turner-24-hour-news-cycle-legacy-cnn-founder/",
+    "date": "2026-05-06T23:21:11Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-1253171986_6a9842-e1778109619480.jpg?resize=1200,600"
+  },
+  {
+    "id": "05b507b6-f15b-42ec-9913-7150c5f93179",
+    "cluster_id": "bebd30f1-a214-415d-a877-05aed85749af",
+    "cluster_size": 1,
+    "source": "Fortune",
+    "title": "Was it a secret Chinese spy headquarters or a ping-pong parlor? New York Chinatown case goes to trial",
+    "teaser": "A New York Chinatown case heads to trial, raising questions about its true nature—spy headquarters or mundane parlor?",
+    "summary": "A New York Chinatown case is scheduled to go to trial. While the headline suggests a dramatic unveiling—ranging from a 'secret Chinese spy headquarters' to a mere 'ping-pong parlor'—the article provides no further details, only the confirmation that the case is heading to trial. The source of the article is © 2026 Fortune Media IP Limited.",
+    "importance": 2,
+    "category": "world_news",
+    "url": "https://fortune.com/2026/05/06/was-it-a-secret-chinese-spy-headquarters-or-a-ping-pong-parlor-new-york-chinatown-case-goes-to-trial/",
+    "date": "2026-05-06T23:34:50Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26126521344575-e1778110460874.jpg?resize=1200,600"
   }
 ]
