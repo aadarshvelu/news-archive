@@ -630,6 +630,48 @@
     "image_url": null
   },
   {
+    "id": "e592989e-cc6a-400f-921c-a21d7e9a55e8",
+    "cluster_id": "c15f1589-ca12-421a-944e-d02e73755fad",
+    "cluster_size": 1,
+    "source": "dhh",
+    "title": "I just adore how quickly  @PalmerLuckey 's modretro Gameboy goes from off to in the game! No updates, no boot lag. Just...",
+    "teaser": "Palmer Luckey's modretro Gameboy boasts instant startup to Tetris, highlighting the strict constraints of cartridge-based software.",
+    "summary": "Palmer Luckey's modretro Gameboy is praised for its instant performance, launching directly into Tetris without noticeable boot lag. The post emphasizes a key technical constraint: software must be perfect *before* it is 'romified' (converted into a read-only memory format) because the original cartridge format dictates the limitations. Key elements mentioned include the @PalmerLuckey, the modretro Gameboy, and the focus on perfect pre-romificati",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://x.com/dhh/status/2052271883320451468",
+    "date": "2026-05-07T06:18:41Z",
+    "image_url": null
+  },
+  {
+    "id": "b8b98ea9-0e60-46cd-8423-8a6d20f94f87",
+    "cluster_id": "ac8284f6-eaca-4237-a801-4279a31c6153",
+    "cluster_size": 1,
+    "source": "dhh",
+    "title": "Lovely to hear  @nategentile7  cover Omarchy in such flattering tones. We are going to make this BEAUTIFUL, MODERN & OPI...",
+    "teaser": "A project aims to make 'Omarchy' a 'BEAUTIFUL, MODERN & OPINIONATED LINUX,' suggesting a major UI/OS overhaul.",
+    "summary": "A developer is excited about coverage of 'Omarchy,' signaling a significant upcoming project. The stated goal is to make 'Omarchy' into a 'BEAUTIFUL, MODERN & OPINIONATED LINUX.' This suggests a substantial overhaul or reimagining of a specific Linux distribution or interface. The sentiment is highly positive, as evidenced by the mention of '@nategentile7' covering it favorably. The ultimate vision for 'Omarchy' appears to be a complete moderniza",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://x.com/dhh/status/2052313815371378742",
+    "date": "2026-05-07T09:05:18Z",
+    "image_url": null
+  },
+  {
+    "id": "21ecd776-cf20-4745-ba74-f3bb83254706",
+    "cluster_id": "1ced32a9-c384-44bb-b9bc-183a36666870",
+    "cluster_size": 1,
+    "source": "RayDalio",
+    "title": "Give me someone who can be responsible for an entire area--someone who can design, hire, and sort to achieve the goal--a...",
+    "teaser": "Identifying the right 'responsible' leaders is key to success; capability in design, hiring, and execution is paramount.",
+    "summary": "The core message emphasizes that organizational success hinges on appointing senior managers who possess comprehensive ownership over an entire operational area. These key individuals must be capable of designing strategies, hiring top talent, and effectively managing resources to meet set goals. The advice stresses that focusing on selecting and managing these high-level leaders is the most critical determinant for overall well-being of the vent",
+    "importance": 2,
+    "category": "other",
+    "url": "https://x.com/RayDalio/status/2052393989957898466",
+    "date": "2026-05-07T14:23:53Z",
+    "image_url": null
+  },
+  {
     "id": "84d6540d-dccb-4173-919a-db2d9f6a154c",
     "cluster_id": "3f9df6a5-62c0-436e-acb7-331cc49dab8c",
     "cluster_size": 1,
@@ -641,6 +683,20 @@
     "category": "tech_news",
     "url": "https://x.com/nyutandon/status/2052434795221672441",
     "date": "2026-05-07T17:06:02Z",
+    "image_url": null
+  },
+  {
+    "id": "60d65c0d-bd6d-4f96-b1f7-d598ed4d4c1f",
+    "cluster_id": "6a0959c5-9fe0-4a7a-8ea7-877eb42919de",
+    "cluster_size": 1,
+    "source": "RayDalio",
+    "title": "People often ask whether China or the West is “winning.”  That’s the wrong question.  The more useful question is: how d...",
+    "teaser": "Stop asking who is 'winning.' Experts say focusing on system trade-offs reveals more than daily geopolitical noise.",
+    "summary": "Instead of asking if 'China or the West' is winning, the more useful question is understanding how different systems operate and the trade-offs they inherently make. Analysis shows that looking at history, geopolitics, and economics together reveals repeating patterns, which are more informative than focusing on day-to-day fluctuations. (Note: No specific organizations, dates, or numbers were provided in the excerpt.)",
+    "importance": 2,
+    "category": "world_news",
+    "url": "https://x.com/RayDalio/status/2052495487895302563",
+    "date": "2026-05-07T21:07:12Z",
     "image_url": null
   },
   {
