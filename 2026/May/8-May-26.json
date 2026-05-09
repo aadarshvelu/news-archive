@@ -126,6 +126,34 @@
     "image_url": "https://www.jefftk.com/jefftk-glyph-framed.jpg"
   },
   {
+    "id": "c0d3fad0-a543-4ae3-9a74-dd9f0aa2b098",
+    "cluster_id": "7db034f1-5a06-4ebb-bfda-409576a588cc",
+    "cluster_size": 3,
+    "source": "swyx",
+    "title": "HTML is the new markdown.   I've stopped writing markdown files for almost everything and switched to using Claude Code...",
+    "teaser": "Thariq (@trq212), reposted by @swyx: HTML is the new markdown. Learn how to use AI to master technical writing in this 15-min workshop.",
+    "summary": "Thariq (@trq212), originally quoted and reposted by @swyx, discusses how 'HTML is the new markdown,' noting his switch to using Claude Code to generate HTML for technical content. He promotes a 15-min workshop detailing how technical writing, using AI, can build mindshare and authority. The workshop covers viral article tactics, his writing workflow, and using AI effectively. This is the 4th [Technical] Write & Learn series, cohosted with @swyx a",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://x.com/trq212/status/2052811606032269638",
+    "date": "2026-05-08T18:03:20Z",
+    "image_url": null
+  },
+  {
+    "id": "dd61fadd-cebb-4590-9422-3346ca2daa77",
+    "cluster_id": "da12714b-19ae-4ec2-9a59-c7ed02759cf8",
+    "cluster_size": 4,
+    "source": "emollick",
+    "title": "Very good hire by DeepMind.  @alexolegimas wrote: > Some news: This week I am starting at @GoogleDeepMind as Director of...",
+    "teaser": "Ethan Mollick congratulates a colleague on joining Google DeepMind to study how frontier AI will reshape the economy.",
+    "summary": "Ethan Mollick congratulated his colleague, Alex Olegima, on starting a new role as Director of AGI Economics at Google DeepMind. Alex's team will research how frontier AI capabilities could potentially reshape the global economy and impact workforces, building upon the author's own connection to the field as indicated by the DeepMind sweatshirt in the photo.",
+    "importance": 5,
+    "category": "ai_research",
+    "url": "https://x.com/emollick/status/2052857992500965778",
+    "date": "2026-05-08T21:07:40Z",
+    "image_url": "https://pbs.twimg.com/media/HHzviXIWgAADvVL?format=jpg&name=small"
+  },
+  {
     "id": "70aaf115-b015-404e-aed1-94911c781f80",
     "cluster_id": "a4258676-b43b-40eb-86d9-5493d43f553d",
     "cluster_size": 4,
@@ -378,6 +406,20 @@
     "image_url": null
   },
   {
+    "id": "67a94d54-3488-484d-b39d-4be7849af346",
+    "cluster_id": "e57f8899-bc5f-4cf1-a324-03d26e4bd2fc",
+    "cluster_size": 1,
+    "source": "swyx",
+    "title": "some good sourcing. seems potentially state level.  @galnagli wrote: > The attack flow is not new and has been documente...",
+    "teaser": "The described attack flow is not new, according to @galnagli, with multiple reports detailing North Korean campaigns targeting cybersecurity researche",
+    "summary": "Swyx (@swyx) quoted @galnagli, suggesting that the described attack flow is not new, noting that it has been previously documented by various media outlets. Links provided from Google TAG, WIRED, and The Record corroborate this, detailing instances of active North Korean campaigns targeting security researchers and reports of hackers impersonating journalists.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://x.com/swyx/status/2052821959713710499",
+    "date": "2026-05-08T18:44:29Z",
+    "image_url": null
+  },
+  {
     "id": "ad5eb982-4a0e-4d60-ae8c-1d6006784582",
     "cluster_id": "bbefa1a2-5087-4cc2-940c-9e24535380a2",
     "cluster_size": 2,
@@ -448,6 +490,20 @@
     "image_url": null
   },
   {
+    "id": "e0bd269c-b1e6-45ff-9206-21135a6903d8",
+    "cluster_id": "559f25e2-21f8-4ddf-8005-2d68fb1583db",
+    "cluster_size": 1,
+    "source": "dhh",
+    "title": "Always love going to Japan.  @kaigionrails wrote: > We are pleased to announce the keynote speakers for Kaigi on Rails 2...",
+    "teaser": "Keynote speakers announced for Kaigi on Rails 2026: David Heinemeier Hansson and Dave Thomas (@pragdave).",
+    "summary": "DHH (@dhh) celebrated the announcement from @kaigionrails regarding the keynote speakers for Kaigi on Rails 2026. The confirmed speakers for the event are David Heinemeier Hansson (@dhh) and Dave Thomas (@pragdave). Further details can be found at kaigionrails.org/2026/.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://x.com/dhh/status/2052615220275585432",
+    "date": "2026-05-08T05:02:58Z",
+    "image_url": null
+  },
+  {
     "id": "dfc54e69-3207-4405-a9ed-3800578879d5",
     "cluster_id": "e1ea2e12-f680-48ac-b1da-827578239576",
     "cluster_size": 1,
@@ -459,6 +515,20 @@
     "category": "policy",
     "url": "https://substack.com/app-link/post?publication_id=35345&post_id=196866398&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=8ati21&token=eyJ1c2VyX2lkIjo1MDE5MDE5OTMsInBvc3RfaWQiOjE5Njg2NjM5OCwiaWF0IjoxNzc4MjIxNjM2LCJleHAiOjE3ODA4MTM2MzYsImlzcyI6InB1Yi0zNTM0NSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.s3bZ_ZCl4ocpHBKMzpr3cCq6EzBqsJd2zZvDSBP1kn4",
     "date": "2026-05-08T06:22:14Z",
+    "image_url": null
+  },
+  {
+    "id": "d9b0cc3c-a1a2-4a75-801d-b7d5670e468a",
+    "cluster_id": "97a2e774-a684-4412-a111-ac9118310c05",
+    "cluster_size": 1,
+    "source": "levelsio",
+    "title": "So  @loaibassam  asked me my stack recently, I replied:  FREE: Nginx web server on Ubuntu (free) Auto upgrade with unatt...",
+    "teaser": "Maintaining high-traffic sites (5M unique visitors/month) can cost as little as ~$5/mo using an optimized, largely free tech stack.",
+    "summary": "The author shared a detailed breakdown of a high-traffic, low-cost technology stack for web development, listing free components (like Nginx, vanilla PHP/CSS/JS, SQLite, Cloudflare) and cheap services (xAI API, Stripe, Cloudflare R2). The projected total cost is around ~$5/month for sites with up to 5 million unique visitors monthly. This message is a quote-tweet directed at @levelsio, who had previously questioned the 'free' status of SQLite.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://x.com/levelsio/status/2052734824541016107",
+    "date": "2026-05-08T12:58:14Z",
     "image_url": null
   },
   {
