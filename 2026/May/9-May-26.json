@@ -14,6 +14,20 @@
     "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/05/featured-44.jpg"
   },
   {
+    "id": "ba4f0061-f5e8-4337-b83f-8e9f367cffb8",
+    "cluster_id": "a5a72704-ecbf-4799-91dc-d83cf9a2bcc1",
+    "cluster_size": 1,
+    "source": "ylecun",
+    "title": "Yann LeCun closed $1.03B for AMI Labs on March 10. Three days later, this paper dropped from his NYU collaborators.  15M...",
+    "teaser": "LeWorldModel, a significant AI development from Yann LeCun's collaborators, was unveiled shortly after a $1.03B funding announcement for AMI Labs.",
+    "summary": "Yann LeCun's collaborators released a new paper on LeWorldModel, an advanced Generative Efficient Pixel-level Autoencoder (JEPA) that represents a breakthrough in AI. The model trains end-to-end directly from raw pixels. Key highlights include its efficiency (15M parameters, training on a single GPU for only a few hours) and its novel loss terms which predict the next pixel, marking a major step in raw pixel-based AI research. The announcement fo",
+    "importance": 5,
+    "category": "ai_research",
+    "url": "https://x.com/aakashgupta/status/2052977133073690820",
+    "date": "2026-05-09T05:01:05Z",
+    "image_url": "https://pbs.twimg.com/media/HH2j0bhacAA3CXQ?format=jpg&name=small"
+  },
+  {
     "id": "61207e88-435c-4a8f-b624-d5e77285d3b2",
     "cluster_id": "25d97c20-beda-4aa2-961d-aad9090131a4",
     "cluster_size": 3,
@@ -42,6 +56,20 @@
     "image_url": null
   },
   {
+    "id": "3d7cdae9-b87e-4ab9-884a-4a50cf26c0bb",
+    "cluster_id": "b4d385f0-186e-47d1-8b0c-de443c30c517",
+    "cluster_size": 1,
+    "source": "ylecun",
+    "title": "One theorem every ML engineer should know:  The Johnson–Lindenstrauss Lemma.  It states that high-dimensional data can b...",
+    "teaser": "The Johnson–Lindenstrauss Lemma demonstrates that high-dimensional data can be accurately projected into a much lower-dimensional space, a foundationa",
+    "summary": "The Johnson–Lindenstrauss Lemma proves that for a set $X$ of $N$ points in $\\mathbb{R}^n$, there exists a linear mapping $f: \\mathbb{R}^n \\to \\mathbb{R}^k$ such that the pairwise distances between points are preserved (within $1-\\epsilon$ and $1+\\epsilon$) in the lower dimension $k$, where $k$ is proportional to $\\log(N)$. This principle is crucial because it explains why random projections and embeddings can efficiently reduce dimensionality wit",
+    "importance": 5,
+    "category": "ai_research",
+    "url": "https://x.com/probnstat/status/2053124917122433097",
+    "date": "2026-05-09T14:48:20Z",
+    "image_url": "https://pbs.twimg.com/media/HH4qO0wW8Ao7eBR?format=jpg&name=small"
+  },
+  {
     "id": "52e9cd93-6886-4ca1-8c07-f26d49ffd210",
     "cluster_id": "affe688e-69f8-4639-a3be-eebc1cc5041d",
     "cluster_size": 2,
@@ -68,6 +96,20 @@
     "url": "https://fortune.com/2026/05/09/putin-presides-over-russias-victory-day-parade-without-tanks-missiles-and-other-heavy-equipment-due-to-threat-of-ukrainian-long-range-drones/",
     "date": "2026-05-09T15:23:59Z",
     "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2274690859-e1778339769685.jpg?resize=1200,600"
+  },
+  {
+    "id": "980f4264-c52d-41d5-9e70-53abce8d46e7",
+    "cluster_id": "9d03d9b8-9eda-40d3-9dc2-01e1cad31bb3",
+    "cluster_size": 1,
+    "source": "ylecun",
+    "title": "\"Trump’s most lethal policy will almost surely be his 71% cut in humanitarian aid from 2024 to 2025....The aid cuts cost...",
+    "teaser": "Kenneth Roth warns that severe cuts to humanitarian aid could cost millions of lives, including 2.5 million children under 5, highlighting the grave h",
+    "summary": "Kenneth Roth warns that a massive proposed 71% cut in humanitarian aid during the 2024-2025 period would be devastating. He argues that such cuts would cost an estimated 750,000 lives in the first year alone, escalating to a total of 9.4 million lives by 2030, affecting millions of children. The accompanying image of a sleeping child powerfully underscores the extreme vulnerability and the human cost associated with such drastic policy decisions.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://x.com/KenRoth/status/2053141037275664813",
+    "date": "2026-05-09T15:52:23Z",
+    "image_url": "https://pbs.twimg.com/card_img/2053071839593693186/gmWHgZtF?format=jpg&name=small"
   },
   {
     "id": "77c11697-fe26-4ab2-821a-8cfcc42e26b4",
@@ -392,6 +434,20 @@
     "image_url": "https://pbs.twimg.com/media/HH5s4wuWoAYMPsW?format=png&name=small"
   },
   {
+    "id": "de2833dc-eab0-4d7a-a97e-8cd20ee0a172",
+    "cluster_id": "5d9e31af-33a0-40ca-bbe7-18eed1f20abe",
+    "cluster_size": 1,
+    "source": "ylecun",
+    "title": "Europe does not lack innovation.  It lacks scale.  European universities produce world-class research, engineers and tec...",
+    "teaser": "Europe's innovation faces a 'scale' challenge: Fragmentation in national markets limits the global impact of its world-class research.",
+    "summary": "Despite generating world-class research and technology, Europe's innovation potential is constrained by fragmentation within national markets, preventing companies from scaling across the continent. This structural issue limits the continent's overall scale and global impact, as evidenced by the trends in R&D investment shares shown in the accompanying figure.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://x.com/marcosagusstinn/status/2053221015539397120",
+    "date": "2026-05-09T21:10:11Z",
+    "image_url": "https://pbs.twimg.com/media/HH6BHC5WoAIj-TU?format=jpg&name=small"
+  },
+  {
     "id": "de420cf0-af30-49cc-a072-c6e02e5c95d5",
     "cluster_id": "fca94a8a-e26f-4d1c-b5ae-d8ade3aad40f",
     "cluster_size": 1,
@@ -418,6 +474,20 @@
     "url": "https://x.com/swyx/status/2053243747115413697",
     "date": "2026-05-09T22:40:31Z",
     "image_url": "https://pbs.twimg.com/media/HH6WS8bb0AAMJbT?format=jpg&name=small"
+  },
+  {
+    "id": "243fe0b7-8173-4e4f-9c36-ca7666e59b13",
+    "cluster_id": "d1ec6514-c596-48d1-9251-be302225c36a",
+    "cluster_size": 1,
+    "source": "Noahpinion",
+    "title": "30,000 property crimes for a population of 830,000 means San Francisco has a property crime rate 2,400% that of Singapor...",
+    "teaser": "Despite overall declining trends in violent and property crime rates shown from 2015 to 2024, the property crime rate in San Francisco (30,000 crimes ",
+    "summary": "The tweet, from Kane 謝凱堯 (@kane), quotes @jrivanob's description of San Francisco as a 'crime-ridden permissive city' and cites data suggesting a property crime rate of 30,000 for a population of 830,000. This equates to a property crime rate 2,400% higher than Singapore's. This observation is made alongside a line chart (Source: California Department of Justice) which demonstrates that both violent and property crime rates in San Francisco have ",
+    "importance": 4,
+    "category": "world_news",
+    "url": "https://x.com/kane/status/2053255595323801912",
+    "date": "2026-05-09T23:27:36Z",
+    "image_url": "https://pbs.twimg.com/media/HH6Tb4_boAAIPei?format=jpg&name=small"
   },
   {
     "id": "22746bff-bd20-46cb-8bf6-c9e280ca8f8f",
