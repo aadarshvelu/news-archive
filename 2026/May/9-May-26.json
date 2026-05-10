@@ -224,6 +224,20 @@
     "image_url": null
   },
   {
+    "id": "698ea0b7-999d-45bf-9b39-646f52f44ae1",
+    "cluster_id": "d31c16c7-7773-450d-b2af-a6e08934887f",
+    "cluster_size": 2,
+    "source": "Noahpinion",
+    "title": "Which are the most common everyday phenomena that we don't properly understand?  Off the top of my head:  • Lightning (h...",
+    "teaser": "What common everyday phenomena do we still not properly understand? 🤔 From lightning to dreams, Patrick Collison lists scientific mysteries.",
+    "summary": "Patrick Collison initiated a discussion listing several everyday phenomena that remain poorly understood, such as lightning, the purpose of dreams, the formation of glass, and morphogenesis. In the original post, he included a link via @patrickc detailing ongoing progress regarding what causes lightning, noting the mystery remains fascinating. (The post was originally from @patrickc and reposted by @noahpinion).",
+    "importance": 4,
+    "category": "other",
+    "url": "https://x.com/patrickc/status/2053103361176813791",
+    "date": "2026-05-09T13:22:40Z",
+    "image_url": null
+  },
+  {
     "id": "8d21f64e-e3f0-4014-9ffd-fe4087e4c530",
     "cluster_id": "51a1ee5a-21d5-4cb4-b573-fe5d9d2a72bd",
     "cluster_size": 2,
@@ -364,6 +378,48 @@
     "image_url": "https://pbs.twimg.com/media/HH3IefoWQAIq7QB?format=jpg&name=small"
   },
   {
+    "id": "205198de-8682-4635-ae53-224d824c92af",
+    "cluster_id": "e1271f23-8001-4f9e-bcde-28be88c3a10d",
+    "cluster_size": 1,
+    "source": "Noahpinion",
+    "title": "Thomas Jefferson's 1st inaugural address reveals why the Postliberal/New Right types went apoplectic over Justice Gorsuc...",
+    "teaser": "Thomas Jefferson's 1st inaugural address is cited to critique 'postliberal' ideology, arguing that the principles laid out support the notion of the U",
+    "summary": "Author Phil Magness uses an excerpt from Thomas Jefferson's 1st inaugural address to argue that the foundational principles of the United States, which describe it as a 'creedal nation' (a view noted by Justice Gorsuch), are fundamentally antithetical to modern 'postliberal ideology.' The excerpt emphasizes enduring ideals like the right to liberty, freedom of the press, support for commerce and agriculture, and stable republican governance.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://x.com/PhilWMagness/status/2053198524993491387",
+    "date": "2026-05-09T19:40:49Z",
+    "image_url": "https://pbs.twimg.com/media/HH5s4wuWoAYMPsW?format=png&name=small"
+  },
+  {
+    "id": "de420cf0-af30-49cc-a072-c6e02e5c95d5",
+    "cluster_id": "fca94a8a-e26f-4d1c-b5ae-d8ade3aad40f",
+    "cluster_size": 1,
+    "source": "RayDalio",
+    "title": "The evolutionary process is about discovering people's likes and dislikes as well as their strengths and weaknesses; it...",
+    "teaser": "Personal evolution is a natural consequence of discovering one's strengths and weaknesses, meaning career paths are not planned at the outset.",
+    "summary": "According to Ray Dalio, the evolutionary process involves discovering individuals' likes, dislikes, strengths, and weaknesses. This happens when people are placed in jobs where they are likely to succeed but also challenged to 'stretch themselves.' Therefore, personal evolution is viewed as a rapid and natural process resulting from this discovery, implying that careers are not predetermined or planned initially.",
+    "importance": 4,
+    "category": "other",
+    "url": "https://x.com/RayDalio/status/2053240823823671607",
+    "date": "2026-05-09T22:28:54Z",
+    "image_url": "https://pbs.twimg.com/media/HH6TpF6WcAIuVTA?format=png&name=small"
+  },
+  {
+    "id": "e188fb23-4b82-4ea6-b22a-418a15e2681d",
+    "cluster_id": "1e5e6288-ae54-4f2d-94e3-e86bf82600f3",
+    "cluster_size": 1,
+    "source": "swyx",
+    "title": "this is a big deal, on the order of Kelsey Hightower’s “Kubernetes The Hard Way” and probably all ai engineers should go...",
+    "teaser": "A highly recommended learning experience for all AI engineers, comparable in depth to 'Kubernetes The Hard Way.'",
+    "summary": "swyx recommends that all AI engineers undergo a specific, challenging learning process, citing it as a 'big deal' comparable to Kelsey Hightower’s renowned 'Kubernetes The Hard Way.' While advocating for 'just in time learning,' this scenario warrants a 'just in case' approach to skill acquisition. The accompanying image suggests this discussion takes place within a professional, technical meetup or conference setting.",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://x.com/swyx/status/2053243747115413697",
+    "date": "2026-05-09T22:40:31Z",
+    "image_url": "https://pbs.twimg.com/media/HH6WS8bb0AAMJbT?format=jpg&name=small"
+  },
+  {
     "id": "22746bff-bd20-46cb-8bf6-c9e280ca8f8f",
     "cluster_id": "981fae70-ef3f-426a-ab78-c1aeababceb7",
     "cluster_size": 1,
@@ -488,6 +544,20 @@
     "url": "https://x.com/pmarca/status/2053197615085535488",
     "date": "2026-05-09T19:37:12Z",
     "image_url": null
+  },
+  {
+    "id": "7e9e5918-34a2-4b6e-a183-8faf076aec5c",
+    "cluster_id": "f8a9dd7c-e0d7-49d8-806a-ec28bcc6a5f1",
+    "cluster_size": 1,
+    "source": "Fortune",
+    "title": "A federal judge weighing the future of a D.C. golf course doesn’t want to be Amy Poehler, but Trump might be interested as he remakes parks",
+    "teaser": "A federal judge's ruling is poised to impact a D.C. golf course, potentially catching the eye of Donald Trump, who has a history of redeveloping parks",
+    "summary": "A federal judge is currently evaluating the future of a golf course in Washington D.C., a situation that has drawn public interest, partly due to comparisons to figures like Amy Poehler. The ruling's implications for urban green spaces and preservation are noteworthy, especially given Donald Trump's past involvement in remaking or developing parks and public areas. The core issue revolves around judicial oversight of land use and development in t",
+    "importance": 3,
+    "category": "policy",
+    "url": "https://fortune.com/2026/05/09/trump-national-mall-parks-golf-course-arc-ballroom-amy-poehler/",
+    "date": "2026-05-09T20:35:29Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-478221211-e1778358266567.jpg?resize=1200,600"
   },
   {
     "id": "4e42e579-57ba-403b-8cce-5dcfe3aa536c",
