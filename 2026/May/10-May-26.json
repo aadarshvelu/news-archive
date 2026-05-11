@@ -154,6 +154,56 @@
     "image_url": "https://pbs.twimg.com/media/HH-GQhwWwAUkLrL?format=png&name=small"
   },
   {
+    "id": "3741ff40-bfdc-4865-8552-49b8f01f6fac",
+    "cluster_id": "71354afb-f08f-4725-8982-caffeebf43ae",
+    "cluster_size": 15,
+    "source": "HN: LLM (>=50 pts)",
+    "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+    "teaser": "LLM performance gains come from optimizing 'glue code': caching metadata and overlapping data copies during backward passes. A critical look at the li",
+    "summary": "The efficient training of Large Language Models (LLMs) hinges not just on faster matrix multiplication (matmul) kernels, but on optimizing the 'glue code' and system overheads. The process involves complex computations, requiring trillions of floating-point operations per training cycle. Three major optimization techniques were analyzed: 1) Caching packed-sequence metadata greatly reduces repeated reconstruction and synchronization across transfo",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+    "date": "2026-05-10T17:05:05Z",
+    "image_url": "https://www.cocoawithlove.com/assets/site/touch_heartandcup.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "zdw",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48085685",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "c2ef5c10-f556-4c01-a9a1-b6fc184b8389",
+    "cluster_id": "d6acbf40-4c12-4863-a191-78418b771b93",
+    "cluster_size": 1,
+    "source": "ylecun",
+    "title": "France is the only European country that turned nuclear generation into a structural competitive advantage. 57 reactors...",
+    "teaser": "France's nuclear infrastructure gives it a distinct competitive advantage in European energy markets.",
+    "summary": "France utilizes its extensive nuclear power generation—a system built primarily between the 1970s and 1990s—to produce 70% of its electricity. This robust infrastructure, visually mapped across the country, allows France to sell electricity at a competitive price (€52/MWh), significantly lower than comparable markets like Germany. Consequently, France is positioned as a world leader and the largest net exporter of electricity.",
+    "importance": 5,
+    "category": "economics",
+    "url": "https://x.com/ChurchillWw/status/2053522202117755020",
+    "date": "2026-05-10T17:07:00Z",
+    "image_url": "https://pbs.twimg.com/media/HH-GL7oXIAEHPpx?format=png&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Winston",
+    "raw_meta": {
+      "twitter_handle": "ylecun",
+      "category_hint": "ai_research",
+      "author_handle": "@ChurchillWw",
+      "is_repost": true,
+      "reposted_by": "@ylecun"
+    }
+  },
+  {
     "id": "df09e3ff-c95a-42a5-a0fc-b8fe595adc94",
     "cluster_id": "f6ef3fa1-5556-4f1b-9e6a-dd0a75cbd0eb",
     "cluster_size": 5,
@@ -208,6 +258,32 @@
     "url": "https://x.com/GaryMarcus/status/2053562454479978879",
     "date": "2026-05-10T19:46:57Z",
     "image_url": null
+  },
+  {
+    "id": "1bdd429d-9e79-4c4e-9621-7c13b23e35e3",
+    "cluster_id": "1a4d7d25-57b8-4c3c-959a-d6fd2e9bb90d",
+    "cluster_size": 3,
+    "source": "swyx",
+    "title": "on build vs buy saas  cc  @levie  for corrections  @swyx wrote: > Idea: Business owners should crowdsource a list of Mos...",
+    "teaser": "Detailed advice on making the 'Build vs Buy' decision for SaaS, emphasizing risk management, dependency control, and phased migration strategies.",
+    "summary": "The discussion revolves around the critical 'Build vs Buy' decision for modern SaaS development. The expert provides detailed, actionable advice, warning that simply replacing 'hate' features isn't enough. Key advice includes building a strategy to limit blast radius, critically assessing all external dependencies and technical debt, and adopting a phased approach: cataloging features, understanding pain points, and gradually migrating to a new s",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://x.com/swyx/status/2053572059767427302",
+    "date": "2026-05-10T20:25:07Z",
+    "image_url": "https://pbs.twimg.com/media/HH_A53baMAA4kS1?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "swyx",
+    "raw_meta": {
+      "twitter_handle": "swyx",
+      "category_hint": "tech_news",
+      "author_handle": "@swyx",
+      "quoted_author": "swyx",
+      "quoted_handle": "@swyx",
+      "is_quote_tweet": true
+    }
   },
   {
     "id": "61895c0f-ff71-48e2-8586-f72447abbe87",
@@ -278,6 +354,31 @@
     "url": "https://thedeepdive.ca/chinas-gold-appetite-grows-reserves-up-260000-ounces-in-april-alone/?utm_source=rss&utm_medium=rss&utm_campaign=chinas-gold-appetite-grows-reserves-up-260000-ounces-in-april-alone",
     "date": "2026-05-10T03:55:08Z",
     "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/05/featured-47.jpg"
+  },
+  {
+    "id": "99694822-c00a-4cea-80b0-af8aea169df3",
+    "cluster_id": "ec93cd73-ccd8-4baf-a2a9-f86b29aa0b06",
+    "cluster_size": 1,
+    "source": "ylecun",
+    "title": "71% say Trump is not honest or trustworthy, and 67% say he doesn’t carefully consider important decisions — WaPo/Ipsos p...",
+    "teaser": "According to a WaPo/Ipsos poll, 71% of respondents say Trump is not honest or trustworthy, and 67% say he doesn't carefully consider important decisio",
+    "summary": "A WaPo/Ipsos poll indicates significant public skepticism regarding Donald Trump. Specifically, 71% of respondents stated that Trump is not honest or trustworthy, and 67% believed he fails to carefully consider important decisions. This information was shared by Republicans against Trump (@RpsAgainstTrump) and re-posted by @ylecun.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://x.com/RpsAgainstTrump/status/2053343777754870129",
+    "date": "2026-05-10T05:18:00Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Republicans against Trump",
+    "raw_meta": {
+      "twitter_handle": "ylecun",
+      "category_hint": "ai_research",
+      "author_handle": "@RpsAgainstTrump",
+      "is_repost": true,
+      "reposted_by": "@ylecun"
+    }
   },
   {
     "id": "22968534-7a0b-4d98-b268-54712edd0c27",
@@ -628,6 +729,33 @@
     "url": "https://x.com/simonw/status/2053529689122328947",
     "date": "2026-05-10T17:36:45Z",
     "image_url": null
+  },
+  {
+    "id": "a6f52313-088f-4dc8-bd0b-d7c6037c1fe4",
+    "cluster_id": "ce8264d5-6994-4d7d-8df7-48a86622114a",
+    "cluster_size": 1,
+    "source": "levelsio",
+    "title": "The most important people in tech you want to meet are almost all on here, and you can just tweet at them  They're not a...",
+    "teaser": "Forget networking events! @levelsio suggests the most important people in tech are right here on Twitter.",
+    "summary": "According to @levelsio, the most important people in tech are readily available on Twitter, making physical networking events unnecessary. The author tweeted that professionals don't need to attend traditional network events, as valuable connections can be made directly by tweeting at them.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://x.com/levelsio/status/2053547033059819765",
+    "date": "2026-05-10T18:45:40Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "@levelsio",
+    "raw_meta": {
+      "twitter_handle": "levelsio",
+      "category_hint": "startup",
+      "author_handle": "@levelsio",
+      "quoted_author": "@levelsio",
+      "quoted_handle": "@levelsio",
+      "is_quote_tweet": true,
+      "merged_tweet_count": 2
+    }
   },
   {
     "id": "f559d9d8-b61b-4ed5-9ec0-7ec5dadb1c0f",
