@@ -98,6 +98,34 @@
     "image_url": "https://pbs.twimg.com/card_img/2053437024648990723/Xa0cq7hM?format=jpg&name=small"
   },
   {
+    "id": "97d6b949-0b72-418f-b470-dadf8599bac8",
+    "cluster_id": "d7b9ce06-98b2-4197-8914-f6393af78eb5",
+    "cluster_size": 2,
+    "source": "pmarca",
+    "title": "My conversation with  @danawhite , president and CEO of the  @UFC .  0:00 Founders Are the Best Storytellers 1:04 Buying...",
+    "teaser": "A deep dive into the business, rise, and strategy of the UFC, featuring insights from CEO Dana White.",
+    "summary": "David Senra shared a comprehensive conversation with Dana White, CEO of the UFC, covering the company's entire business lifecycle. The discussion details pivotal moments, including the initial low-value acquisition of the UFC for $2M, the dramatic growth to a reported valuation of over $4 billion, and key operational decisions. Topics covered include effective storytelling in the founder's journey, financial strategies (like the Napkin Deal with ",
+    "importance": 5,
+    "category": "economics",
+    "url": "https://x.com/davidsenra/status/2053475144174071931",
+    "date": "2026-05-10T14:00:00Z",
+    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2053324234781548544/img/Q9xW225Euf47D5DP.jpg"
+  },
+  {
+    "id": "e501e445-a260-4dcd-a96b-b3fd37da1644",
+    "cluster_id": "d4579fed-08c4-46dc-8c9f-4367c59a1876",
+    "cluster_size": 1,
+    "source": "pmarca",
+    "title": "Narrative violation:  with the right policy, new data centers can *lower* electricity prices by spreading the fixed cost...",
+    "teaser": "New data centers could lower electricity prices and fund necessary grid improvements in San Antonio.",
+    "summary": "According to a report from San Antonio Report, a 1 gigawatt (GW) of new data center load in San Antonio could significantly benefit the power grid. Financially, this load is estimated to generate $123 million per year of new revenue, which could justify up to $1.45 billion in new infrastructure investment without requiring a rate increase. Furthermore, this revenue stream could help keep system-wide rates stable, saving the average customer appro",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://x.com/BenSchifman/status/2053494204991410248",
+    "date": "2026-05-10T15:15:45Z",
+    "image_url": "https://pbs.twimg.com/media/HH96GCBWwAUbfER?format=jpg&name=small"
+  },
+  {
     "id": "9cb54d10-3ffa-4d6c-a580-2d8e6dbaddf1",
     "cluster_id": "d7d21748-82ad-4e27-a408-e8b44f95184c",
     "cluster_size": 1,
@@ -126,6 +154,20 @@
     "image_url": "https://pbs.twimg.com/media/HH-GQhwWwAUkLrL?format=png&name=small"
   },
   {
+    "id": "df09e3ff-c95a-42a5-a0fc-b8fe595adc94",
+    "cluster_id": "f6ef3fa1-5556-4f1b-9e6a-dd0a75cbd0eb",
+    "cluster_size": 5,
+    "source": "HN: AI",
+    "title": "Local AI needs to be the norm",
+    "teaser": "Local AI is gaining traction for privacy, while OpenAI aims for a 2027 AI phone launch, accelerating the shift in development standards.",
+    "summary": "The AI development landscape is marked by a crucial tension between cloud convenience and local privacy. Experts argue that building applications using local AI (on-device processing) is superior to relying on external cloud APIs because it eliminates data risks and dependency on external servers. Google is set to emphasize Gemini Intelligence across Android, while OpenAI released advanced real-time voice and translation models. Meanwhile, Anthro",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "date": "2026-05-10T17:19:28Z",
+    "image_url": null
+  },
+  {
     "id": "6ef95c3f-d323-4675-a93c-2fb5d63c2e8e",
     "cluster_id": "a3662fdf-394a-4302-b325-5b8ad597b499",
     "cluster_size": 3,
@@ -140,6 +182,20 @@
     "image_url": "https://winbuzzer.com/wp-content/uploads/2025/03/encryption-lock-symbol.jpg"
   },
   {
+    "id": "71a83b71-2624-4047-a540-0ff6b0280501",
+    "cluster_id": "06091e32-e5a8-4595-97ec-17f59b1228a5",
+    "cluster_size": 1,
+    "source": "WinBuzzer",
+    "title": "Meta Drops Instagram DM Encryption, Pushes Users to WhatsApp",
+    "teaser": "Meta ends optional end-to-end encryption for Instagram DMs, forcing users to WhatsApp for stronger privacy protection.",
+    "summary": "Meta has eliminated the optional, end-to-end encrypted Direct Messages (DMs) feature on Instagram, pushing users to WhatsApp for those desiring stronger privacy. This rollback removes a crucial protection layer, establishing a 'privacy split' across Meta's apps. While Meta claims low adoption was the reason, privacy advocates warn that this exposes millions of users to interception and misuse. The article highlights that while future sensitive ch",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://winbuzzer.com/2026/05/10/meta-u-turns-on-encryption-push-for-instagram-as-d-xcxwbn/",
+    "date": "2026-05-10T19:43:12Z",
+    "image_url": "https://winbuzzer.com/wp-content/uploads/2026/05/Instagram.jpg"
+  },
+  {
     "id": "2bca9563-b82a-4f2c-99f3-0af7ba768e09",
     "cluster_id": "74cba685-7107-4751-a1fc-fdcad7e7ce73",
     "cluster_size": 1,
@@ -152,6 +208,34 @@
     "url": "https://x.com/GaryMarcus/status/2053562454479978879",
     "date": "2026-05-10T19:46:57Z",
     "image_url": null
+  },
+  {
+    "id": "61895c0f-ff71-48e2-8586-f72447abbe87",
+    "cluster_id": "c5a6b0f5-b042-4811-ac52-a4f434360ece",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+    "teaser": "🚨 Did Maryland consumers face paying billions to upgrade power grids mainly benefiting out-of-state data centers? The OPC files a massive regulatory c",
+    "summary": "Maryland consumers face a major utility dispute as the Office of People's Counsel (OPC) challenges PJM Interconnection's plan to charge $2 billion for a massive grid upgrade. This cost is part of a $22 billion expenditure meant to accommodate increased power demand from data centers and AI systems across 13 states. The OPC warns that these fees could add $1.6 billion to Maryland consumers' bills over the next decade. The core issue is cost alloca",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+    "date": "2026-05-10T21:16:58Z",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-2560-80.jpg"
+  },
+  {
+    "id": "1aff2b5f-3f32-42c4-a119-59a5978c2558",
+    "cluster_id": "da6efc42-35b3-4450-92c9-2f34e98c8d36",
+    "cluster_size": 1,
+    "source": "Fortune",
+    "title": "Mexican cartel armed with explosives launched from drones attacks rural communities, forcing 800-1,000 families to flee",
+    "teaser": "Mexican cartels used drones armed with explosives to attack rural communities, forcing up to 1,000 families to flee their homes.",
+    "summary": "In a significant display of violence, Mexican cartels launched attacks on rural communities using drones equipped with explosives. The violence has triggered a major humanitarian crisis, forcing between 800 and 1,000 families to abandon their homes and flee the area. This incident highlights the pervasive danger posed by organized crime in remote regions, leading to massive civilian displacement and escalating security concerns.",
+    "importance": 5,
+    "category": "world_news",
+    "url": "https://fortune.com/2026/05/10/mexican-cartel-los-ardillos-explosives-drones-attacks-guerrero-rural-communities-families-flee/",
+    "date": "2026-05-10T21:25:28Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2262685309.jpg?resize=1200,600"
   },
   {
     "id": "ed390085-6556-4e85-a895-552d130a9256",
@@ -222,6 +306,20 @@
     "url": "https://x.com/kshashi/status/2053380039207735638",
     "date": "2026-05-10T07:42:05Z",
     "image_url": "https://pbs.twimg.com/card_img/2052969896267436035/PWXQke2B?format=jpg&name=small"
+  },
+  {
+    "id": "2d4cd57a-6b45-445c-9306-98a4d90a441e",
+    "cluster_id": "3e37dc72-a9c9-414e-b3b6-be6a4cf72e91",
+    "cluster_size": 1,
+    "source": "levelsio",
+    "title": "Trying  @Cloudflare 's new Email Sending feature today  If you send 1,000,000 emails per month: - Postmark: $1,206/mo -...",
+    "teaser": "Cloudflare's new Email Sending feature is presented as a major cost-saver, making email sending a commodity.",
+    "summary": "The tweet analyzes the cost of sending 1 million emails per month across major providers (Postmark, Resend, SendGrid, Cloudflare, Amazon SES). The comparison shows that Postmark is the most expensive, while Amazon SES and Cloudflare emerge as the cheapest options. The accompanying image confirms the existence and interface of Cloudflare's 'Email Sending Beta' feature. The author concludes that given the low cost and ease of use (especially with A",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://x.com/levelsio/status/2053466448169685110",
+    "date": "2026-05-10T13:25:27Z",
+    "image_url": "https://pbs.twimg.com/media/HH9ZlQwW4AIGDT-?format=jpg&name=small"
   },
   {
     "id": "eb07a52a-772f-47f2-9cdc-361b8fec86bf",
@@ -322,6 +420,20 @@
     "image_url": "https://pbs.twimg.com/amplify_video_thumb/2053519453527146499/img/2UfwY4m4oD7_E40N.jpg"
   },
   {
+    "id": "530845be-ab03-4764-9494-18272a3a8b0a",
+    "cluster_id": "a8329569-b77b-46f8-9bcc-0ea7e3e70fb4",
+    "cluster_size": 1,
+    "source": "The Deep Dive",
+    "title": "Canada Offers Deeper U.S. Ties in USMCA Talks, Rejects One-Sided Demands",
+    "teaser": "Despite considering 'fortress North America,' Canada signals readiness for deeper U.S. ties while staunchly rejecting unilateral trade demands.",
+    "summary": "Canada is preparing for the USMCA review by signaling a dual economic strategy: pursuing deeper integration with the U.S. while fiercely maintaining autonomy. PM Mark Carney confirmed Canada's openness to enhanced cooperation, even referencing 'fortress North America' concepts. However, Carney was equally firm that negotiations must be mutual, rejecting unilateral U.S. demands. Current friction highlights this tension; U.S. Commerce Secretary How",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://thedeepdive.ca/canada-offers-deeper-u-s-ties-in-usmca-talks-rejects-one-sided-demands/?utm_source=rss&utm_medium=rss&utm_campaign=canada-offers-deeper-u-s-ties-in-usmca-talks-rejects-one-sided-demands",
+    "date": "2026-05-10T17:05:04Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/05/featured-50.jpg"
+  },
+  {
     "id": "8fb64bf4-8b3d-4ff0-a9f4-2a7de943702a",
     "cluster_id": "78938447-abcb-4ba8-9580-4194f52f6deb",
     "cluster_size": 2,
@@ -390,6 +502,48 @@
     "url": "https://link.mail.beehiiv.com/ss/c/u001._SR4S8YLPUYanH1JLonj6ptAAyW81fjdJfKzcqJ4cy1jD7OsrYyMNeGxArB0jy4M5wwNN2_k3nKprFg_dhm8I1Byq987qFBTyF9-Lm-wZlEdUim-Bl_saRDX_GIHqWlS5PEzQLU426NYa278ifDnOUHpKv88Ea9fLE0D-FIDmQtGKRR4HbAsf6QZnY9SaOPZzmx1koVA5Lqx7T7RlFw7Qb13picn48MKalegW6zx-DKrx_Ig1-nSzzqY57zzcBKrC105oUca9IVrp3jGrWwo5oH-kmr8hIQmRlf5-YbxKeNV2upMEuGUqK1sFfM2VTsIdn6b2MBngh8Rzzw66dXaOcmpKaFd78xUWlD7PV0NW_ASlgN-1WHpg002B9928wtDD_iTm_gR9dbDQ0TB89GH6MG4O8DlEMrSmUvrA39GbGacjJR1agJ7prQRi1V-AKHdMOq5_MnvV8ICL_CQzSvv774flkMzYaZVj-z9ouOyuQCOJ6qmbqXBelZHqfZnRwRxFy2lcxrr26TT3xfPPOwHbA/4qi/FIqAhJLbQNe0j9b8wn8H-A/h2/h001.DrZqgnDbQsxzuXAwP8XZla8Iki5Pf2B54g96O0Yt-vo",
     "date": "2026-05-10T19:32:05Z",
     "image_url": null
+  },
+  {
+    "id": "372c4dde-2b6a-47d3-a9c0-20c532b8b727",
+    "cluster_id": "076a23d9-3145-4440-84ee-664c2ab886f2",
+    "cluster_size": 1,
+    "source": "Fortune",
+    "title": "Market guru Yardeni sees S&P 500 hitting 8,250 this year, highest among top Wall Street forecasters, as earnings bolster ‘Roaring 2020s’",
+    "teaser": "Market guru Yardeni predicts the S&P 500 will soar to 8,250 this year, citing powerful corporate earnings to underpin the 'Roaring 2020s'.",
+    "summary": "Market guru Yardeni predicts that the S&P 500 index will reach 8,250 this year, positioning his forecast as the highest among top Wall Street analysts. This significant optimism is primarily fueled by strong corporate earnings, which suggest a continued period of robust growth, characterizing the era as the 'Roaring 2020s'. Investors should note that this prediction relies heavily on sustained corporate profitability to drive market appreciation.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://fortune.com/2026/05/10/stock-market-outlook-yardeni-sp500-price-target-hike-8250-earnings-roaring-2020s/",
+    "date": "2026-05-10T20:13:27Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-841240992-e1778440692708.jpg?resize=1200,600"
+  },
+  {
+    "id": "bd29a4f7-58e8-4325-8589-dfa7a2cbff6e",
+    "cluster_id": "4928d192-92b4-4c34-807b-3a584f5be928",
+    "cluster_size": 1,
+    "source": "Fortune",
+    "title": "Mah Sing sees natural ‘spillovers’ from Malaysia’s strong growth, as the conglomerate bets on premium residences and data centers",
+    "teaser": "Mah Sing is banking on Malaysia's strong economic growth, focusing its bets on booming sectors like luxury residences and data centers.",
+    "summary": "The article details how Mah Sing, a major conglomerate, anticipates positive economic 'spillovers' driven by Malaysia's robust growth. To capitalize on this strong market momentum, the company is strategically positioning itself by making significant bets on two high-growth sectors: premium residential properties and data centers. This dual focus allows Mah Sing to maximize returns from both the luxury housing market and the rapidly expanding dig",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://fortune.com/2026/05/10/mah-sing-deputy-ceo-lionel-leong-ai-data-centers/",
+    "date": "2026-05-10T21:00:00Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Resized-Lionel-Leong-Mah-Sings-Deputy-GCEO-and-ED.jpg?resize=1200,600"
+  },
+  {
+    "id": "6bd6c4ba-c0cd-4489-85f1-2dcdeeef765b",
+    "cluster_id": "b5605a3e-20b8-4cae-9ef4-93b29c80f4a2",
+    "cluster_size": 1,
+    "source": "levelsio",
+    "title": "I want this!  @catalinmpit wrote: > I’ve seen @levelsio and others talk about CO2, so I installed a heat-recovery air ve...",
+    "teaser": "This heat-recovery air ventilation system provides continuous fresh air exchange, making the indoors feel like always having the windows open.",
+    "summary": "The tweet highlights a modern, flush-mounted heat-recovery air ventilation unit, pictured in the image. According to the quoted account, installing this system continuously removes stale indoor air and brings in fresh outdoor air, effectively improving indoor air quality while maintaining comfort, as if the windows were always open.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://x.com/levelsio/status/2053608154257117683",
+    "date": "2026-05-10T22:48:32Z",
+    "image_url": "https://pbs.twimg.com/media/HH98Z7maAAAGwVZ?format=jpg&name=360x360"
   },
   {
     "id": "4ab14368-1f49-4f59-8474-4c0598c43e96",
@@ -515,6 +669,34 @@
     "category": "tech_news",
     "url": "https://x.com/Noahpinion/status/2053567123834994934",
     "date": "2026-05-10T20:05:30Z",
+    "image_url": null
+  },
+  {
+    "id": "9613f05b-ce12-4540-b47b-c771ccd81576",
+    "cluster_id": "b1654ade-5a4d-4dc0-b205-3f0c37fcc40c",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+    "teaser": "PS3 emulator devs warn against AI-generated code, citing frustration over 'AI slop' flooding their GitHub.",
+    "summary": "The developers of RPCS3, the open-source PlayStation 3 emulator, publicly asked users to cease submitting 'AI slop code pull requests' to its GitHub page. While the initial request was civil, the subsequent replies were reportedly highly sarcastic. RPCS3 warned that it would begin banning users who submit such code, suggesting plenty of online resources exist for proper debugging and coding skills. The article notes that this is not an isolated i",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+    "date": "2026-05-10T23:36:48Z",
+    "image_url": "https://kotaku.com/app/uploads/2026/03/ps3-update-1200x675.jpg"
+  },
+  {
+    "id": "80d8af11-8433-4712-9121-f43898e7b74e",
+    "cluster_id": "132000cd-badf-4a7a-bd68-50460445ca4e",
+    "cluster_size": 1,
+    "source": "levelsio",
+    "title": "@DavidOndrej1 wrote: > stop developing locally  start developing on a VPS  trust me",
+    "teaser": "Don't develop locally—start on a VPS, according to David Ondrej.",
+    "summary": "David Ondrej (@DavidOndrej1) advises others to stop developing locally and instead start developing on a VPS. This advice was shared by @levelsio, who used a quote-tweet format to disseminate the technical tip.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://x.com/levelsio/status/2053625352002421078",
+    "date": "2026-05-10T23:56:53Z",
     "image_url": null
   },
   {
