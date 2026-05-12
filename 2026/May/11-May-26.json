@@ -108,6 +108,51 @@
     }
   },
   {
+    "id": "4111ac3e-3cff-4864-84a5-412a21c22fa5",
+    "cluster_id": "43d48d6a-3a57-4850-b429-79d69f5c0a0a",
+    "cluster_size": 2,
+    "source": "WinBuzzer",
+    "title": "GPT-5.5 Costs 49-92% More in Real-World Use Than GPT-5.4",
+    "teaser": "AI model buyers face a cost challenge: GPT-5.5 and Mistral Medium 3.5 demand careful review of real-world running costs, not just headline benchmarks.",
+    "summary": "Two analyses detail the current high-stakes landscape of large language models. One report notes that while GPT-5.5 might look efficient, its effective cost saw jumps of 49–92% compared to GPT-5.4, driven by longer completions in mid-range prompts. Buyers are warned to prioritize production traces over list prices. Separately, Mistral launched Medium 3.5 (128B parameters), positioning it as a cost-effective alternative to competitors like Alibaba",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://winbuzzer.com/2026/05/11/gpt-55-costs-49-to-92-percent-more-than-its-predec-xcxwbn/",
+    "date": "2026-05-11T11:23:10Z",
+    "image_url": "https://winbuzzer.com/wp-content/uploads/2026/05/AI-Inference-cost.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Markus Kasanmascheff",
+    "raw_meta": {
+      "rss_entry_id": "https://winbuzzer.com/?p=1951661",
+      "rss_tags": [
+        "WinBuzzer News",
+        "AI APIs",
+        "AI Competition",
+        "AI Inference",
+        "AI Models",
+        "AI Monetization",
+        "Anthropic",
+        "API Pricing",
+        "APIs",
+        "Artificial Intelligence (AI)",
+        "Claude",
+        "Efficiency",
+        "Generative AI",
+        "GPT-5",
+        "GPT-5.4",
+        "GPT-5.5",
+        "Large Language Models (LLMs)",
+        "OpenAI",
+        "OpenRouter"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "36a17932-1944-460e-8711-adb0865154b4",
     "cluster_id": "e28bf76d-edf8-45b7-b1ad-ef954ff4c5c8",
     "cluster_size": 1,
@@ -1827,6 +1872,60 @@
     }
   },
   {
+    "id": "fc65da8e-3f4b-466e-8279-b20539c034d3",
+    "cluster_id": "b4b62483-09a9-47f1-9c7d-6717be2ef8cf",
+    "cluster_size": 1,
+    "source": "Fortune",
+    "title": "Native American businesses have diversified beyond casinos to become a rural economic force. Trump is cutting off a lifeline that goes beyond tribes",
+    "teaser": "Native American businesses are becoming a rural economic force, but the political climate risks cutting off a vital lifeline of support.",
+    "summary": "Native American enterprises are diversifying significantly, evolving beyond the traditional casino industry to become a major rural economic force. This growth represents a substantial engine for local economies. However, the article warns that the current political environment poses a risk, suggesting that specific policy actions could cut off a crucial lifeline of support for these developing businesses, threatening their continued expansion an",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://fortune.com/2026/05/11/trump-cuts-native-american-small-business-contracting-sba-8a-program/",
+    "date": "2026-05-11T20:01:26Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-1397245876-e1778255412669.jpg?resize=1200,600",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Tristan Bove",
+    "raw_meta": {
+      "rss_entry_id": "https://fortune.com/2026/05/08//?preview_id=4482162",
+      "rss_tags": [
+        "Economy",
+        "Finance",
+        "Economy"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "ecbdf47a-2521-4cbd-9074-03fbec2c0112",
+    "cluster_id": "7ccfeb3b-3879-44dc-98ac-65abdeb84e66",
+    "cluster_size": 1,
+    "source": "ylecun",
+    "title": "News organizations are increasingly blocking the Wayback Machine even as their reporters still depend on it   In PRESERV...",
+    "teaser": "Major news organizations increasingly depend on the Wayback Machine for historical material, even as these archives face restrictions.",
+    "summary": "The Internet Archive highlights the critical reliance of major news organizations on the Wayback Machine. Mark Graham explains that reporters often use archived web content that is so valuable it rivals material not found even in the newsrooms' own archives. This dependency is growing even as news organizations begin to block access to the machine.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://x.com/internetarchive/status/2053931994443071603",
+    "date": "2026-05-11T20:15:22Z",
+    "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053931925258080256/pu/img/AKgsjqqWhcNRUMpJ.jpg",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Internet Archive",
+    "raw_meta": {
+      "twitter_handle": "ylecun",
+      "category_hint": "ai_research",
+      "author_handle": "@internetarchive",
+      "is_repost": true,
+      "reposted_by": "@ylecun"
+    }
+  },
+  {
     "id": "79aeebd6-0695-4441-a8e8-da2d86bc52a4",
     "cluster_id": "4c8bd2a5-3f9b-4ec1-b99a-7074cbf6df40",
     "cluster_size": 1,
@@ -1976,6 +2075,33 @@
       "author_handle": "@GaryMarcus",
       "quoted_author": "Jon Hernandez",
       "quoted_handle": "@JonhernandezIA",
+      "is_quote_tweet": true,
+      "merged_tweet_count": 2
+    }
+  },
+  {
+    "id": "97905226-b332-43e0-86c0-ba925b44cfc3",
+    "cluster_id": "b79b919c-f095-446d-a8a0-5a25e867a77f",
+    "cluster_size": 2,
+    "source": "sama",
+    "title": "would you call it  a superapp?  @fimoculous wrote: > After being a Claude Code devotee for a year, I finally tried Codex...",
+    "teaser": "Sam Altman, via @fimoculous, suggests the combination of new ChatGPT model, personality, and personalization feels like a 'new thing'—a potential 'sup",
+    "summary": "Sam Altman, via a quote-tweet from @fimoculous, suggests that the current AI landscape—specifically the combination of the new ChatGPT model, personality, and personalization—feels like a 'new thing' that has crossed a major threshold. The original thread detailed how AI tools like Codex are rapidly evolving, noting that after trying it, the feeling is that 'the world changed' in just a few months, and the capabilities are so vast that one can 'd",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://x.com/sama/status/2053970698725679437",
+    "date": "2026-05-11T22:49:10Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Sam Altman",
+    "raw_meta": {
+      "twitter_handle": "sama",
+      "category_hint": "ai_products",
+      "author_handle": "@sama",
+      "quoted_author": "Rex Sorgatz",
+      "quoted_handle": "@fimoculous",
       "is_quote_tweet": true,
       "merged_tweet_count": 2
     }
