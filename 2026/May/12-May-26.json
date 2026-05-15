@@ -646,6 +646,36 @@
     }
   },
   {
+    "id": "df2012dd-cd83-4bc1-8c13-d2153efa387f",
+    "cluster_id": "cf039666-9066-4e82-affe-fce0eaadddfe",
+    "cluster_size": 2,
+    "source": "Fortune",
+    "title": "Exclusive: White Circle raises $11 million to stop AI models from going rogue in the workplace",
+    "teaser": "White Circle raised $11 million to combat a major industry fear: preventing AI models from 'going rogue' in the workplace.",
+    "summary": "White Circle has secured $11 million in funding to address a critical industry concern: ensuring AI models operate safely within professional environments. The company's mission is focused on mitigating the risks associated with AI models 'going rogue'—meaning they operate outside intended parameters or become uncontrollable. This investment highlights the growing need for robust safety protocols and governance frameworks as AI adoption increases in the workplace, solidifying the focus on responsible and reliable AI deployment.",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://fortune.com/2026/05/12/exclusive-white-circle-raises-11-million-to-stop-ai-models-from-going-rogue-in-the-workplace/",
+    "date": "2026-05-12T06:00:00Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/White-Circle-pic-e1778511149628.jpeg?resize=1200,600",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Beatrice Nolan",
+    "content": "© 2026 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.",
+    "raw_meta": {
+      "rss_entry_id": "https://fortune.com/2026/05/11//?preview_id=4483106",
+      "rss_tags": [
+        "AI",
+        "Tech",
+        "AI"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "2038a9a5-fa54-4ca4-9cb1-886816b5eb31",
     "cluster_id": "558140cf-6d51-4f54-8f54-5a344234348f",
     "cluster_size": 1,
@@ -1115,6 +1145,57 @@
     }
   },
   {
+    "id": "7ed0f43c-a8f0-4202-a620-c3ed7870a9e6",
+    "cluster_id": "e938522c-971d-498e-9bc6-24b6ca14e477",
+    "cluster_size": 2,
+    "source": "thedd",
+    "title": "Poilievre Targets Carney Over Jobs Slump",
+    "teaser": "Weak jobs data fuels political attack: Poilievre challenges Carney, citing drops in employment and high youth unemployment.",
+    "summary": "Leader of the Opposition Pierre Poilievre is using weak job figures to challenge Prime Minister Mark Carney's economic record. According to Statistics Canada's April Labour Force Survey, total employment dropped 18,000 from March, with the unemployment rate hitting 6.9% and youth unemployment at 14.3%. Poilievre launched attacks focusing on what he calls a gap between the government's economic messaging and its policy execution, specifically targeting issues like taxes, energy rules, and permitting. While Carney's government promotes a narrative of building economic resilience, Poilievre argues that the poor job data demands immediate, rapid domestic policy changes, setting up a clear political confrontation over Canada's economic path.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://link.mail.beehiiv.com/v1/c/MvuAjsV0gjxEsrbLrfIp987R9kPsHaiR%2B0yHZRYKXaU8IwTffK090XtGjwF7%0AgsSeTU0G0fv2SGQJdsC6s%2FxXaS5pah6eNuxOckQctLYUpET7Zfy3k8%2BbItQG%0A%2FihjHCJmiI9m9iYh1zFHConuT8rRoGdUwAJ5nScwk08%2FGuwtUpZnLIsakyto%0AjqED64kaoRMBANHzKWClAkIk5kYZd1kOOA%3D%3D%0A/4d78476a8efc560a",
+    "date": "2026-05-12T20:11:30Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "The Deep Dive",
+    "content": "Sponsored by PTX Metals Poilievre Targets Carney Over Jobs Slump Leader of the Opposition Pierre Poilievre is moving Canada's latest jobs numbers into the centre of his case against Prime Minister Mark Carney, arguing that weak employment data exposes a gap between the government's economic message and its domestic policy record. The Conservative leader posted two social media attacks on Carney, one aimed at taxes, energy rules, permitting, and reinvestment, and another built around a split-screen comparison of Carney's remarks on Canada's relationship with the US. The labour backdrop is doing much of the political work. Statistics Canada's April Labour Force Survey showed total employment down 18,000 from March, with the unemployment rate at 6.9%. The youth unemployment rate reached 14.3%, half a percentage point higher than the previous month. You can read more on the matter here . PTX Metals (TSXV: PTX) is a minerals exploration Company with two flagship projects situated in northern Ontario, renowned as a world-class mining jurisdiction for its abundance of mineral resources and investment opportunities. The corporate objective is to advance the exploration programs towards proving the potential of each asset, which includes the W2 Copper Nickel PGE Project and South Timmins Gold Projects. What's going on? Ex-California Mayor Pleads Guilty To Chinese Agent Acts ( theDeepDive ) Trump plays down differences with Xi over Iran ahead of high-stakes Beijing summit ( Globe ) Senate Confirms Kevin Warsh to Federal Reserve Board in Tight 51-45 Vote ( theDeepDive ) AI minister names 44 projects getting federal money to access compute power ( CBC ) Belarus Prepares for War with Selective Mobilizations, Lukashenko Announces ( theDeepDive ) Contrarian 5% Bet on 10-Year Treasuries Is Gaining Credibility ( Bloomberg ) US Household Debt Hits $18.8 Trillion as Student Loan Delinquencies Surge ( theDeepDive ) Group linked to Trump sons asks US for extra $400mn for tungsten mine ( FT ) U.S. Inflation Surges to 3.8% in April, Highest Since May 2023, as Energy Costs Soar ( theDeepDive ) What's the latest? Prediction Markets: U.S. inflation rose to 3.8% in April, its fastest pace since 2023, driven mainly by higher energy prices from the Iran war and the Strait of Hormuz disruption. Traders on Kalshi and Polymarket now expect inflation to rise even further, with growing bets that it could exceed 4.5% this year and potentially force the Federal Reserve to raise interest rates again. Politics : Doug Ford says he won't attack rival cities bidding to host the new NATO-backed Defence, Security and Resilience Bank, but argued that Toronto is the strongest choice because of its major financial sector, large banks, pension funds, and global connections. Toronto is competing against Montreal, Ottawa, and Vancouver for the project, while Quebec groups continue lobbying heavily for Montreal. Markets : U.S. stocks pulled back Tuesday as rising oil prices and a sharp selloff in AI-related tech stocks dragged markets lower. The S&P 500 fell 1% from record highs while chipmakers like Intel, Micron Technology, and CoreWeave dropped sharply after massive rallies this year. Meanwhile, oil prices climbed again as tensions with Iran threatened the fragile ceasefire and kept the Strait of Hormuz largely blocked, adding to inflation concerns and increasing expectations that the Federal Reserve could keep interest rates higher for longer. Real Estate : Jesta Group is taking advantage of Toronto's weak condo market by planning to buy up to $500 million worth of unsold units over the next year, starting with a $30 million bulk purchase near Toronto Metropolitan University. The move comes as Toronto condo sales hit a 35-year low and unsold inventory surged to record highs, with thousands of completed units still sitting on the market. Tariffs : The U.S. Customs and Border Protection agency has already processed about US$35.5 billion in refunds tied to tariffs imposed by Donald Trump that were later ruled illegal by courts. The refunds, which include interest, follow a Supreme Court decision that Trump exceeded his authority when using emergency powers to impose certain tariffs, with as much as US$166 billion in tariff collections potentially subject to reimbursement. Avenir x Fox River Gold Giant Agnico Eagle Makes a Critical Minerals Bet | Avenir x Fox River The stock market and stuff Google and SpaceX Team Up to Put AI Data Centers in Orbit ( theDeepDive ) Jack Daniel's Maker Brown-Forman Rejects $15 Billion Takeover Offer From Sazerac ( WSJ ) First Majestic Silver Posts Record Treasury, Quadruples Dividend on Q1 Strength ( theDeepDive ) In the juniors Altamira Gold Extends Maria Bonita Porphyry System Westward With 70.6 Metres At 0.51 g/t Hit ( theDeepDive ) Canada Nickel Nears Final Permitting Decision on Flagship Crawford Project ( theDeepDive ) Antimony Resources Reports 13.9% Antimony in Latest Drill Core at Bald Hill ( theDeepDive ) FULL DISCLOSURE: PTX Metals is a client of Canacom Group, the parent company of The Deep Dive. Canacom Group is currently long the equity of PTX Metals. The author has been compensated to cover PTX Metals on The Deep Dive, with The Deep Dive having full editorial control. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security.",
+    "raw_meta": {
+      "gmail_message_id": "181",
+      "gmail_uid": "181",
+      "gmail_labels": [],
+      "gmail_msgid": "1865014780332401640",
+      "gmail_thrid": "1865014780332401640"
+    }
+  },
+  {
+    "id": "b7e27e87-6094-45ee-9dbb-1f253ebbbbbb",
+    "cluster_id": "2fa35b6a-9201-453b-aee2-a9d90a80d0da",
+    "cluster_size": 1,
+    "source": "paulg",
+    "title": "Longines cal 12.68Z, one of the great movements of the golden age.  It's so weird how difficult it is for the left to un...",
+    "teaser": "The complex mechanical beauty of the Longines Cal. 12.68Z movement juxtaposed with a commentary on urban housing policy.",
+    "summary": "The tweet features a close-up of the Longines Cal. 12.68Z watch movement, praising it as a hallmark of the golden age of watchmaking. However, the author, Paul Graham, pivots the discussion to a policy critique, noting the difficulty in accepting that increasing housing supply is the solution to high housing costs, referencing historical examples like Berkeley, which saw dramatic affordability improvements after a building boom (YIMBY movement).",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://x.com/paulg/status/2054318430644211930",
+    "date": "2026-05-12T21:50:55Z",
+    "image_url": "https://pbs.twimg.com/media/HIJnN47XwAAVP2D?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Paul Graham",
+    "content": "Longines cal 12.68Z, one of the great movements of the golden age.\n\nIt's so weird how difficult it is for the left to understand that all you have to do to decrease housing costs is to let people build more housing.\n\n@mnolangray wrote:\n> For 45 years, Berkeley built virtually no new housing. By the mid-2010s, it was the most expensive college town in America. Shortly thereafter, YIMBYs took over and kicked off a building boom. Today, nominal rents are below 2018 rates—remarkable progress on affordability.",
+    "raw_meta": {
+      "twitter_handle": "paulg",
+      "category_hint": "startup",
+      "author_handle": "@paulg",
+      "merged_tweet_count": 2
+    }
+  },
+  {
     "id": "fe0c7928-b18b-48f1-bc1c-10cd9eb66401",
     "cluster_id": "13574503-6fd0-493d-aa67-6c14b048be22",
     "cluster_size": 1,
@@ -1219,6 +1300,30 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "e349dd74-6e11-4a99-8de0-7e57eec5afda",
+    "cluster_id": "cb1f86f6-6006-4c8d-a9c4-73ecd69c841a",
+    "cluster_size": 1,
+    "source": "paulg",
+    "title": "I always tell visitors that Hobbs House Sherston is the best white bread they'll ever try. Now I've been vindicated: Bri...",
+    "teaser": "Paul Graham praises Hobbs House Sherston white bread after it was named the best white loaf in Britain by British Baker.",
+    "summary": "Paul Graham highly recommends Hobbs House Sherston white bread, stating it is the best white bread he has ever tried. This claim is supported by the fact that British Baker has recognized it as the best white loaf in Britain.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://x.com/paulg/status/2054187024140169300",
+    "date": "2026-05-12T13:08:46Z",
+    "image_url": "https://pbs.twimg.com/media/HIHvnCPWMAEAyid?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Paul Graham",
+    "content": "I always tell visitors that Hobbs House Sherston is the best white bread they'll ever try. Now I've been vindicated: British Baker picked it as the best white loaf in Britain. It actually is the best!",
+    "raw_meta": {
+      "twitter_handle": "paulg",
+      "category_hint": "startup",
+      "author_handle": "@paulg"
     }
   },
   {
