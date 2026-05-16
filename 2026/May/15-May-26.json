@@ -28,6 +28,32 @@
     }
   },
   {
+    "id": "5a4835d8-3f4e-4835-8c33-10a3ee088de2",
+    "cluster_id": "d1bd53ae-3b1c-44d4-8648-ee154bb458f6",
+    "cluster_size": 1,
+    "source": "ylecun",
+    "title": "If you have this weird gut feeling that the rich pay little tax in the US, your gut is spot on... Source:  https:// nyti...",
+    "teaser": "Contrary to a common misconception, the total tax rate (federal, state, and local) increases sharply for the wealthiest Americans, reaching approximately 70% for the top 400 earners.",
+    "summary": "The provided graph illustrates the relationship between income group and total tax rates in the US (federal, state, and local). While the tax rate remains relatively flat and low for lower-to-middle income groups (up to around the 90th percentile), it begins to rise sharply after that point. The rate accelerates dramatically, reaching a peak of over 70% for the top 400 earners. This data refutes the notion that the wealthy pay little tax, demonstrating a steeply increasing tax burden at the highest income levels.",
+    "importance": 5,
+    "category": "economics",
+    "url": "https://x.com/simongerman600/status/2055083274897089022",
+    "date": "2026-05-15T00:30:08Z",
+    "image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055083264495206400/pu/img/pPP4qyzF2Hhn-tma.jpg",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Simon Kuestenmacher",
+    "content": "If you have this weird gut feeling that the rich pay little tax in the US, your gut is spot on... Source: \nhttps://\nnytimes.com/interactive/20\n19/10/06/opinion/income-tax-rate-wealthy.html?action=click&module=Opinion&pgtype=Homepage\n…",
+    "raw_meta": {
+      "twitter_handle": "ylecun",
+      "category_hint": "ai_research",
+      "author_handle": "@simongerman600",
+      "is_repost": true,
+      "reposted_by": "@ylecun"
+    }
+  },
+  {
     "id": "3fdb5e65-dc45-436f-a7b9-4c27a917b17c",
     "cluster_id": "e9b89793-02d2-4824-8d49-3bb14369841a",
     "cluster_size": 1,

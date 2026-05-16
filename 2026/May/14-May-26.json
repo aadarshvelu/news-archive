@@ -674,6 +674,118 @@
     }
   },
   {
+    "id": "1d963b14-1015-45f5-82e9-1ccabc9bfd88",
+    "cluster_id": "daa9f069-cba5-41b4-878d-e38bb4442c04",
+    "cluster_size": 1,
+    "source": "GaryMarcus",
+    "title": "almost all LLM “thought” is derivative.  below just sounds like hype to me  @JonhernandezIA wrote: > Jensen Huang, CEO o...",
+    "teaser": "Gary Marcus expresses skepticism regarding the hype surrounding LLMs, arguing that most of the apparent 'thought' is derivative, and the true revolution lies in AI becoming a continuously reasoning system.",
+    "summary": "Gary Marcus criticizes the hype surrounding large language models (LLMs), specifically challenging the idea that LLMs generate 'thought' (a point made by NVIDIA's CEO, Jensen Huang). He argues that most LLM functionality is derivative. He posits that the genuine, fundamental shift in AI is its evolution from a sporadically queried 'tool' into a system capable of continuous, intrinsic reasoning.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://x.com/GaryMarcus/status/2054917733477679365",
+    "date": "2026-05-14T13:32:20Z",
+    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2054858411750117376/img/_LY61m0VFeyJFi1d.jpg",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Gary Marcus",
+    "content": "almost all LLM “thought” is derivative.\n\nbelow just sounds like hype to me\n\n@JonhernandezIA wrote:\n> Jensen Huang, CEO of NVIDIA, says GPT was never just about generating images or text but about generating thought itself. \n\nThe real shift is that AI is no longer becoming a tool you query occasionally but a system that reasons continuously. \n\nOnce computers stop waiting for",
+    "raw_meta": {
+      "twitter_handle": "GaryMarcus",
+      "category_hint": "ai_research",
+      "author_handle": "@GaryMarcus",
+      "quoted_author": "Jon Hernandez",
+      "quoted_handle": "@JonhernandezIA",
+      "is_quote_tweet": true
+    }
+  },
+  {
+    "id": "52a500be-7063-4b80-aec5-9420286bbdf5",
+    "cluster_id": "dc48b71a-7c8d-4e5c-8456-d937d81b0ee3",
+    "cluster_size": 2,
+    "source": "The Deep Dive",
+    "title": "Honda Suspends $15 Billion Ontario EV Plant Amid Weak Demand",
+    "teaser": "Facing plummeting U.S. EV demand and shifting policies, Honda has suspended its ambitious $15 billion Ontario EV plant, pivoting instead to hybrids.",
+    "summary": "Honda has indefinitely suspended its massive $15 billion EV manufacturing complex in Ontario, signaling a major strategic pivot away from pure electric vehicles. This decision stems from weak U.S. demand, with EV sales dropping 36% in Q4 2025, compounded by adverse policy changes like the removal of EV tax credits. Instead, Honda is redirecting expansion capital toward hybrid models, which are gaining strong traction in the U.S., capturing a record 19% of new car sales. The company will leverage existing facilities in Ohio to produce gasoline, hybrid, and EV models on shared lines. The retreat is financially significant, with Honda anticipating losses of up to $15.6 billion in fiscal 2026. This move reflects a broader industry trend as automakers adjust to market reality and policy uncertainties.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://thedeepdive.ca/honda-suspends-15-billion-ontario-ev-plant-amid-weak-demand/?utm_source=rss&utm_medium=rss&utm_campaign=honda-suspends-15-billion-ontario-ev-plant-amid-weak-demand",
+    "date": "2026-05-14T13:34:39Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/05/featured-70.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Johnathan Wall",
+    "content": "Honda's first ever full year loss came stamped with a US$2.7 billion price tag and a clear message: the company's electric vehicle ambitions have outrun the market's appetite to absorb them. That reckoning landed hardest in Ontario, where Honda's $15-billion EV manufacturing complex has now been suspended indefinitely. The project, first announced in 2024, was supposed to begin producing up to 240,000 vehicles annually by 2028 and was once billed as Canada's first comprehensive electric vehicle supply chain. Global CEO Toshihiro Mibe laid out the rationale in Tokyo on Thursday. Capital earmarked for EV expansion will be redirected toward hybrid models over the next three years, part of a structural rebuild of the automaker's business. Hybrids, he noted, are what consumers are actually buying. The decision is less a surprise than the formalization of one. Honda already pushed the project back two years in May 2025, and Nikkei Asia reported the indefinite halt last week. Roughly 1,000 direct jobs and up to $5 billion in combined federal and provincial support were tied to the build. None of that public money has been distributed. The broader context begins in Washington, where the Trump administration has scrapped EV tax credits and rolled back emissions standards, knocking the economic case for battery-only production sideways almost overnight. Finance Minister François-Philippe Champagne has framed the resulting slowdown as a global \"hold\" rather than a uniquely Canadian problem. Prime Minister Mark Carney's government recently scrapped the mandate requiring all new car sales to be electric by 2035, replacing it with revised emissions standards and a new EV rebate program. Ottawa was already adjusting to the same signals Honda just acted on. Whether \"indefinitely\" becomes \"permanently\" depends on two variables outside Honda's control: consumer demand returning, and U.S. policy stabilizing long enough for a 15-billion-dollar bet to pencil out again. Information for this story was found via the sources and companies mentioned. The author has no securities or affiliations related to the organizations discussed. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security. The author holds no licenses.",
+    "raw_meta": {
+      "rss_entry_id": "https://thedeepdive.ca/?p=288711",
+      "rss_tags": [
+        "Automotive",
+        "Latest",
+        "Honda"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "0163c55b-3729-43df-932c-2f3a4d6d4251",
+    "cluster_id": "69900a31-e940-49e5-87a4-d33e1bf4fd86",
+    "cluster_size": 2,
+    "source": "levelsio",
+    "title": "",
+    "teaser": "Airline List Pro provides a comprehensive tool for researching airlines, allowing users to filter and evaluate carriers based on safety records, fleet composition, and operational status.",
+    "summary": "Airline List Pro is a resource designed to help users vet airlines by presenting detailed information through navigable filters and cards. Users can evaluate airlines across various criteria, such as safety (e.g., 'No accidents'), fleet type (e.g., 'No Boeing', 'No 737 MAX'), and operational status. The tool showcases a variety of global carriers, including Azul (Brazil), JetBlue (United States), Finnair (Finland), and others, to aid in informed travel decisions.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://x.com/levelsio/status/2054926356819943925",
+    "date": "2026-05-14T14:06:36Z",
+    "image_url": "https://pbs.twimg.com/card_img/2053308579436736517/MNbk-m5S?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "@levelsio",
+    "content": "",
+    "raw_meta": {
+      "twitter_handle": "levelsio",
+      "category_hint": "startup",
+      "author_handle": "@levelsio"
+    }
+  },
+  {
+    "id": "8aa945e5-b116-4f70-aff3-916bb2849540",
+    "cluster_id": "a1c6af96-7f4b-4e07-88ff-e1679385bf4c",
+    "cluster_size": 1,
+    "source": "The Deep Dive",
+    "title": "Report: Swiss Nuclear Plants Estimated To Viable for 80 Years",
+    "teaser": "Switzerland plans to operate its nuclear plants for 80 years, a huge energy policy shift aimed at bolstering energy security.",
+    "summary": "Switzerland's government released a report stating that the Goesgen and Leibstadt nuclear plants are estimated to remain economically viable for up to 80 years, extending previous estimates by 20 years. This strategic pivot aims to bolster national energy security, particularly by reducing reliance on winter energy imports. The report confirms that necessary technical upgrades are feasible given current projections for electricity prices. Following the 2011 Fukushima disaster, a ban on new nuclear builds was enacted, but this has been reevaluated due to supply uncertainties and emission goals. Furthermore, a parliamentary commission narrowly voted to lift the 2018 ban on new nuclear facilities, suggesting that new capacity could secure supply if renewable targets falter. While the focus is on these two sites, the overall push signals a major policy direction for Switzerland's energy future.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://thedeepdive.ca/report-swiss-nuclear-plants-estimated-to-viable-for-80-years/?utm_source=rss&utm_medium=rss&utm_campaign=report-swiss-nuclear-plants-estimated-to-viable-for-80-years",
+    "date": "2026-05-14T14:26:27Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/05/featured-72.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Johnathan Wall",
+    "content": "Switzerland has concluded that its nuclear power plants in Goesgen and Leibstadt can remain economically viable for up to 80 years, a full 20 years longer than earlier estimates. This finding, detailed in a recent government report, underscores a strategic pivot to bolster energy security amid evolving regional challenges. The report highlights that the necessary technical upgrades for both facilities are feasible under current projections for electricity prices and operational costs. \"The investments required for technical upgrades to ensure the long-term operation are likely to be economically viable, based on realistic assumptions regarding electricity price trends and costs,\" Swiss Government Representatives stated. Goesgen, operational since 1979, and Leibstadt, online since 1984, stand to play a critical role in reducing the country's reliance on winter energy imports by complementing renewable energy growth. This extended timeline aligns with broader policy shifts in Swiss energy planning. Last year, the government moved to prolong nuclear power usage beyond initial limits, a decision reinforced by draft legislation to overturn a 2018 ban on constructing new nuclear facilities. That prohibition, enacted after the 2011 Fukushima disaster, has been reevaluated in light of emission reduction goals, grid stability needs, and supply uncertainties following Russia's invasion of Ukraine. Notably absent from the report is Switzerland's third nuclear site at Beznau, where two reactors are slated for decommissioning by 2033. The focus on Goesgen and Leibstadt signals a selective approach to nuclear longevity, prioritizing plants with stronger economic and technical outlooks. Parallel to these developments, a parliamentary commission within the Committee for the Environment, Spatial Planning and Energy recently voted 13 to 12 in favor of lifting the ban on new nuclear builds. This narrow endorsement supports the Federal Council's position and aligns with a counter-proposal to the Stop Blackout initiative, aiming for a technology-agnostic energy framework. The commission projects that new nuclear capacity could secure supply from around 2050 if renewable targets falter, though opponents warn of financial burdens on the public and potential setbacks for renewable investment. The Council of States has already backed the repeal, with the National Council's vote pending and a public referendum likely to settle the matter. Information for this story was found via the sources and companies mentioned. The author has no securities or affiliations related to the organizations discussed. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security. The author holds no licenses.",
+    "raw_meta": {
+      "rss_entry_id": "https://thedeepdive.ca/?p=288722",
+      "rss_tags": [
+        "Energy",
+        "Latest",
+        "nuclear energy",
+        "Switzerland"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "cafa05c9-7644-4ae5-acb4-bf6519a44a55",
     "cluster_id": "98241020-5ed9-41fa-be0f-88157b444047",
     "cluster_size": 1,
@@ -1048,6 +1160,34 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "41b6cd79-a3fd-4a81-8d71-266cae7188b1",
+    "cluster_id": "4e46fe8c-170c-41b2-a346-8a90509bde84",
+    "cluster_size": 1,
+    "source": "levelsio",
+    "title": "So  @home_assistant  solves this  Open source app with a device they sell that ties into all brands shitty IOT software...",
+    "teaser": "Open-source platforms like Home Assistant offer a solution to proprietary IoT systems, giving users genuine control over their smart devices.",
+    "summary": "Levelsio (@levelsio) suggests that the issue of controlling disparate and proprietary IoT brands can be solved by open-source platforms, specifically mentioning @home_assistant. This is a response to @SamuelkArcher, who questioned why personal, provider-independent control (like that offered by HomeKit) over smart devices and security cameras is not standard. The suggestion is that using open-source software can 'unshittify' the interconnected, proprietary hardware ecosystem.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://x.com/levelsio/status/2054918916556685772",
+    "date": "2026-05-14T13:37:02Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "@levelsio",
+    "content": "So \n@home_assistant\n solves this\n\nOpen source app with a device they sell that ties into all brands shitty IOT software to unshittify it\n\n@SamuelkArcher wrote:\n> I don’t understand why this is not solved I would like to personally control everything using homekit. No contract with any hardware providers. Same thing with security cameras",
+    "raw_meta": {
+      "twitter_handle": "levelsio",
+      "category_hint": "startup",
+      "author_handle": "@levelsio",
+      "quoted_author": "Samuel Karl Archer",
+      "quoted_handle": "@SamuelkArcher",
+      "is_quote_tweet": true,
+      "merged_tweet_count": 2
     }
   },
   {
