@@ -1,5 +1,33 @@
 [
   {
+    "id": "ce3a18f6-802d-4171-a77d-09a9617eb37c",
+    "cluster_id": "a9cade55-de55-4d17-b019-a8722dff7417",
+    "cluster_size": 1,
+    "source": "OpenAI News",
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "teaser": "Malta launches a world's first AI program: ChatGPT Plus access is granted to all citizens after completing a free AI literacy course.",
+    "summary": "OpenAI and the Government of Malta launched a pioneering 'AI for All' program, making ChatGPT Plus available to all Maltese citizens. The initiative frames intelligence as a global utility, ensuring citizens gain practical skills and responsible knowledge through an AI literacy course provided by the University of Malta. Upon successful completion of the course, citizens receive free access to ChatGPT Plus for one year. This unique model combines essential education—helping people understand what AI is and how to use it responsibly—with advanced technological tools. The first phase of this national rollout, managed by the Malta Digital Innovation Authority, is scheduled for May, positioning Malta as a global leader in strategic AI adoption.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "date": "2026-05-16T00:00:00Z",
+    "image_url": "https://images.ctfassets.net/kftzwdyauwt9/25iIHzkpMZU6D9guaSf5JD/fdbc74ef48943e248e832d406c68695c/SEO_Card__2_.png?w=1600&h=900&fit=fill",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "OpenAI and the Government of Malta are today announcing a world's first partnership to roll out ChatGPT Plus to all Maltese citizens. The initiative will provide access to intelligence and empower citizens through an AI literacy course to build practical AI skills and benefit from the technology in their everyday lives. At OpenAI, we're turning intelligence into a global utility. We believe that, like electricity, intelligence should be available for people, businesses, and institutions to use as much as they need, where and when they need it. That vision only matters if people can actually use these tools in ways that improve their own lives and communities. Malta's AI for All initiative ⁠ (opens in a new window) will offer people of all backgrounds the opportunity to learn how AI can be used responsibly through a course developed by the University of Malta. The course is designed to help people understand what AI is, what it can and can't do, and how to use it responsibly at home and work. After the course is completed, citizens can access ChatGPT Plus for one year at no cost to them. The first phase of the programme will launch in May, with the Malta Digital Innovation Authority managing distribution to eligible participants. The programme will scale as more Maltese residents and citizens abroad complete the course. The Maltese Minister for Economy, Enterprise and Strategic Projects, Silvio Schembri said, \"Through this AI for everyone course we are making sure that every citizen, regardless of their background, has the chance to build the confidence and skills needed to thrive in a digital world. By pairing this education with free access to the most advanced digital tools available today, we are turning an unfamiliar concept into practical assistance for our families, students, and workers. Malta is the first country to launch a partnership of this scale because we refuse to let our citizens stay behind in the digital age. We are putting our people at the very forefront of global change.\" \"With this partnership, Malta is leading Europe and the world in bringing AI to all its citizens\" said George Osborne, Head of OpenAI for Countries. \"Intelligence is becoming a national utility and all governments have an important role to play in making sure their populations have both the access and the skills to make the most of AI. So I congratulate the Maltese authorities for their vision and ambition on behalf of their people. This is exactly the kind of strategic initiative that will speed AI adoption and bring the benefits of this transformative technology to the economy and the everyday lives of people. Where Malta leads, I hope others will follow.\" The partnership reflects a growing recognition by countries that want practical ways to help people build confidence using AI and how to apply it to real tasks. Malta's model of AI adoption brings together a locally designed course, a clear route to access ChatGPT Plus, and a national programme intended to help citizens use AI with confidence in ways that support learning, work, creativity, and public participation. The partnership, tailored to Malta's needs and national AI priorities, is the latest under the OpenAI for Countries initiative, OpenAI's work to support governments and institutions as they move from early AI interest to strategic national adoption. Rather than a one-size-fits-all model, OpenAI for Countries is built around local priorities, whether that means education, workforce training, public services, startup support, or AI literacy. OpenAI is already working with governments in countries like Estonia and Greece to support their national education systems.",
+    "raw_meta": {
+      "rss_entry_id": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "rss_tags": [
+        "Global Affairs"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "877971c8-de76-43dd-a67c-249f7435a039",
     "cluster_id": "57ed74cf-2654-48f9-8339-2a02c68ad7f3",
     "cluster_size": 1,
@@ -24,6 +52,33 @@
       "is_repost": true,
       "reposted_by": "@pmarca",
       "merged_tweet_count": 2
+    }
+  },
+  {
+    "id": "f0e6551a-63b3-4df5-b16d-27687939a7a2",
+    "cluster_id": "ab3d91aa-7e67-47f1-a207-c12719b38610",
+    "cluster_size": 3,
+    "source": "swyx",
+    "title": "holy shit lmao  @Gavriel_Cohen  he's seriously using this thing for conducting the foreign policy/parliamentary affairs...",
+    "teaser": "A powerful new system, 'NanoClaw,' is being used to manage and structure diplomatic knowledge by turning diverse raw data into a comprehensive, AI-powered 'second brain' for policy-making in Singapore.",
+    "summary": "The tweet highlights the deployment of 'NanoClaw,' an advanced AI system, for enhancing diplomatic and policy work in Singapore. As illustrated in the accompanying image, NanoClaw functions as a 'second brain for a diplomat,' enabling the digestion of diverse raw data sources (e.g., transcripts, web clips) into a structured, graph-based knowledge base stored in SQLite. This capability, which involves sophisticated techniques like graph memory and integrating WhatsApp data, is being showcased by a key figure and has garnered attention from the tech and policy communities.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://x.com/swyx/status/2055452778118500551",
+    "date": "2026-05-16T00:58:25Z",
+    "image_url": "https://pbs.twimg.com/media/HIZu0bMXUAASoh0?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "swyx  AIE Singapore!",
+    "content": "holy shit lmao \n@Gavriel_Cohen\n he's seriously using this thing for conducting the foreign policy/parliamentary affairs of singapore - and sharing his stack on how he is hacking around WhatsApp and doing graph memory on SQLite\n\nwtf is this vibecoded country man\n\n@aiDotEngineer wrote:\n> All @aiDotEngineer SG talks kick off in 22 mins! \n\nTune in live: \nhttps://\nyoutube.com/watch?v=_xQnSN\nlBP_w\n…\n\n- @VivianBala, NanoClaw power user & Cabinet Minister\n- @Gavriel_Cohen, creator of NanoClaw\n- @thsottiaux, Eng lead Codex @OpenAI\n- @ryolu_, Head of Design @cursor_ai \n- @dmsobol, Head",
+    "raw_meta": {
+      "twitter_handle": "swyx",
+      "category_hint": "tech_news",
+      "author_handle": "@swyx",
+      "quoted_author": "AI Engineer",
+      "quoted_handle": "@aiDotEngineer",
+      "is_quote_tweet": true
     }
   },
   {
@@ -536,6 +591,35 @@
       "quoted_handle": "@Schuldensuehner",
       "is_quote_tweet": true,
       "merged_tweet_count": 3
+    }
+  },
+  {
+    "id": "6555e4e9-ce56-4bbc-926d-f06ce0706e08",
+    "cluster_id": "6d794f7b-2976-4ab8-bcd8-014161f715f7",
+    "cluster_size": 3,
+    "source": "Noahpinion",
+    "title": "I keep trying to explain to people, but America doesn’t have a viable 3D printer company because we don’t have any of th...",
+    "teaser": "A 3D printer is an industrial failure in America due to lack of underlying component architecture, forcing reliance on China.",
+    "summary": "Greg Koenig (@gak_pdx), reposted by @noahpinion, argues that America lacks a viable 3D printer company because it lacks the necessary underlying industrial architecture. He details that a 3D printer requires components like micron accurate linear rails, sub micron bearings, and high-resolution servo/stepper motors, none of which America currently manufactures at a consumer product scale, having outsourced them to China for 40 years. The post concludes that America can only build them using primarily Chinese components. Furthermore, @gak_pdx quotes @josefprusa, noting that many independent companies in the US and Europe have been driven out of the industry due to consolidation into large platforms.",
+    "importance": 5,
+    "category": "economics",
+    "url": "https://x.com/gak_pdx/status/2055746965330399278",
+    "date": "2026-05-16T20:27:25Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Greg Koenig",
+    "content": "I keep trying to explain to people, but America doesn’t have a viable 3D printer company because we don’t have any of the underlying architecture.\nShocking how many people think a complex product is some singular thing you build at a “factory.”\nA 3D printer is really just a featherweight CNC mill, so much so that they speak yeh same language (G-Code). You need:\n- micron accurate linear rails\n- Sub micron bearings for those linear rails.\n- High resolution servo/stepper motors.\n- Motion control chips and boards and stuff.\n- Sheet metal, injection molding, various coatings.\n\nAmerica has *no* industrial base for *any* of this at consumer product scale. We invented or definitively innovated everything above, then the McKinsey set came in and convinced us to ship it all to China for the last 40 years.\n\nSo yea, sure… you can screw a 3D printer together in America, at great expense… but you are doing so with primarily Chinese components.\n\nWhat we need is a bunch of uninvestible (by venture funds) businesses that are boring and competently supply a bunch of even more boring, medium margin, no-moat components.\n\n@josefprusa wrote:\n> This is what I keep coming back to. So many companies in the US and Europe, driven out of the printer business over the last few years. Each one was its own thing, there was a place for everyone, and we were all friends sharing innovations across the industry. Now everything is x.com/WeShallPai/sta…",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@gak_pdx",
+      "quoted_author": "Josef Prusa",
+      "quoted_handle": "@josefprusa",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@noahpinion"
     }
   },
   {

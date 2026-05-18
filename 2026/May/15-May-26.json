@@ -384,6 +384,32 @@
     }
   },
   {
+    "id": "bbe6a882-f3a1-446a-b48e-4a102bf35ddd",
+    "cluster_id": "b1676358-db74-4f7b-a5a3-d1b9e14095d9",
+    "cluster_size": 4,
+    "source": "CNBC - Top News",
+    "title": "Democrats blast Trump over 'slush fund' in possible IRS lawsuit settlement",
+    "teaser": "Did Trump try to settle his tax lawsuit with a $1.7 billion \"slush fund\" that could end all audits and shield him from accountability?",
+    "summary": "Democrats strongly criticized reports that Donald Trump may settle his lawsuit against the IRS for $1.7 billion, alleging the payment is a 'slush fund' to compensate his political allies using taxpayer dollars. The lawsuit originated from the 2019 leak of Trump's tax returns. While the exact terms are unfinalized, the potential settlement could include a compensation fund and the permanent end of federal audits into Trump, his family, and his businesses. This move has prompted concern regarding accountability. Furthermore, Judge Kathleen Williams has previously questioned the case's viability, noting the potential conflict of interest given Trump's role as a sitting president and the subjects involved. Lawmakers branded the potential settlement as a corrupt effort to grant immunity and public funds to a political movement.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://www.cnbc.com/2026/05/15/trump-irs-taxes-democrats.html",
+    "date": "2026-05-15T19:31:34Z",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108305831-1778610075624-gettyimages-2275850384-kd1_1169_q7ytsg0x.jpeg?v=1778610110&w=1920&h=1080",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "U.S. President Donald Trump speaks in front of the American flag to the press as he departs the White House on May 12, 2026 in Washington, DC. Kevin Dietsch | Getty Images Democratic lawmakers on Friday slammed the Trump administration over reports that President Donald Trump would drop his $10 billion lawsuit against the Internal Revenue Service in an exchange for what some called a $1.7 billion \"slush fund.\" \"This administration is dripping with corruption from top to bottom, but rushing a settlement to steal $1.7 billion taxpayer dollars for a slush fund before a judge can toss your junk lawsuit would be among the most corrupt acts in American political history,\" Sen. Ron Wyden , D-Ore., the top Democrat on the Senate Finance Committee. \"This lawsuit has never been anything more than a shakedown of the American people by a crook president and his crook lawyers,\" Wyden said. Trump, his two eldest sons, and his family business sued the IRS and the Treasury Department in U.S. District Court for the Southern District of Florida over the 2019 leak of the president's tax returns . It was an unprecedented move that raised concerns about conflicts of interest at the time. ABC News, citing sources familiar with the situation, reported on Thursday that Trump and the IRS could settle his lawsuit in exchange for a compensation fund that could be used to compensate the president's allies who claim to have been wrongfully targeted by the Biden administration . The New York Times reported on Tuesday that the Justice Department was considering settling Trump's IRS suit, also citing sources familiar. The agreement could involve the exchange of taxpayer funds or another public benefit to Trump and the end of any audit into Trump, his family, and business, the Times reported. The White House did not immediately respond to a request for comment on Friday. News of the potential settlement comes ahead of a May 20 deadline set by U.S. District Court Judge Kathleen Williams, who asked the Justice Department and Trump's legal team to explain whether the case with the president on both sides can even be heard by a federal court. \"(A)lthough President Trump avers that he is bringing this lawsuit in his personal capacity, he is the sitting president and his named adversaries are entities whose decisions are subject to his direction,\" Williams wrote in a court filing in April. \"It is unclear to this Court whether the Parties are sufficiently adverse to each other so as to satisfy\" the constitutional requirement that federal cases only adjudicate cases or controversies. Williams' comment came after attorneys for both Trump and the IRS requested a 90-day pause in proceedings as they sought a resolution. \"Trump is 'dropping' his bogus lawsuit against the IRS in exchange for a slush fund, courtesy of your tax dollars, that he can use to pay off his political allies,\" Sen. Chris Van Hollen, D-Md., posted to X on Friday. \"While people drown in high prices & inflation - Trump's lining his & his buddies' pockets. We will fight this,\" Van Hollen wrote. The exact terms of any settlement have not been finalized, but it could include a victim compensation fund as well as a truth-and-reconciliation-style commission that could vote to issue monetary rewards, ABC News reported. \"Donald Trump is orchestrating a $1,700,000,000 fraud on the American taxpayer to line the pockets of his MAGA political allies, another installment in his ongoing effort to turn the federal government into a personal cash machine for his unpopular extremist movement,\" said Rep. Jamie Raskin , D-Md., the top Democrat on the House Judiciary Committee. \"This is a massive and unprecedented presidential plunder of the American people.\"",
+    "raw_meta": {
+      "rss_entry_id": "108307800",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "3b26d39f-8eba-4344-9936-eeb184f6c2ec",
     "cluster_id": "15f22cca-b574-4687-906b-1ed66dfa9e33",
     "cluster_size": 4,
@@ -488,6 +514,34 @@
     }
   },
   {
+    "id": "c54a19ee-ed1c-4da1-86b1-df94b39a4b58",
+    "cluster_id": "b444ac8f-6ed7-4b55-ac64-b8a567fda575",
+    "cluster_size": 4,
+    "source": "The Register",
+    "title": "Datacenters slurping up so much juice they boosted prices 75% in largest US energy market",
+    "teaser": "Data center boom nearly doubled power prices by 75% in the US, forcing experts to advocate for AI-driven solutions to save the failing grid.",
+    "summary": "The rapid expansion of data centers, particularly those fueling the AI boom, has severely strained the U.S. power grid, causing wholesale electricity prices in the PJM Interconnection to jump 75.5% over the last year, reaching $136.53/MWh. Watchdogs warn the current supply capacity is inadequate, noting that data center load growth is the main culprit. While experts recommend data centers adopt a 'bring-your-own power' (BYOP) model to ease the burden, a new solution has emerged: GridCare Inc. This startup has raised $64 million for its AI platform, GridCARE Energize. This software uses AI to identify and utilize underutilized power delivery infrastructure, allowing data centers to connect without needing years of costly, time-consuming hardware upgrades. This technology offers a crucial path toward optimizing grid capacity and mitigating the severe financial strain on consumers.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/on-prem/2026/05/15/datacenters-slurping-juice-help-drive-75-jump-in-pjm-power-prices/5241491",
+    "date": "2026-05-15T21:02:01Z",
+    "image_url": "https://image.theregister.com/254320.jpg?imageId=254320&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "On-prem Datacenters slurping up so much juice they boosted prices 75% in largest US energy market BYO power for AI bit barns may be the best way to ease the problem, says energy watchdog Prices in the United States' largest wholesale power market have nearly doubled in the past year thanks to demand from datacenters. And an independent watchdog predicts things will only get worse without some serious changes. The PJM Interconnection serves all or parts of 13 states and the District of Columbia in the eastern US, including Northern Virginia, that's got the densest cluster of datacenters in the world. The surge in wholesale power costs across PJM was outlined on Thursday by Monitoring Analytics, a firm that serves as the official market monitor for the Interconnection, in its Q1 2026 state of the market report . According to the report, the total cost per megawatt-hour (MWh) of wholesale power rose from $77.78 in the first three months of 2025 to $136.53 in the same period this year, an increase of 75.5 percent year over year. Monitoring Analytics didn't mince words in its report, identifying datacenter load growth as the main driver of recent capacity market conditions and rising prices in PJM. \"Data center load growth is the primary reason for recent and expected capacity market conditions, including total forecast load growth, the tight supply and demand balance, and high prices,\" the report reads. \"But for data center growth, both actual and forecast, the capacity market would not have seen the same tight supply demand conditions.\" As for what might come next, the report doesn't ignore the likely outcome of the current situation, either. \"The price impacts on customers have been very large and are not reversible,\" the report states, but the bad news doesn't stop there. \"The price impacts will be even larger in the near term unless the issues associated with data center load are addressed in a timely manner.\" Based on the rest of the report, a timely resolution to the datacenter load issue shouldn't be expected, at least not in a way that'll benefit locals. For starters, Monitoring Analytics found that - like pretty much everywhere right now - power grids aren't ready for the datacenter boom. PJM has taken steps to upgrade its power commitment and dispatch software to better operate its grid, but planned upgrades have been delayed multiple times with no planned implementation date on the calendar, per the report. \"The current supply of capacity in PJM is not adequate to meet the demand from large data center loads and will not be adequate in the foreseeable future,\" Monitoring Analytics asserted. Current plan: Shift the risk to everyone else PJM has been planning a one-time backstop auction to procure new power generation for datacenter projects in the region at the request of the Trump administration and the governors of the states it serves, but Monitoring Analytics isn't convinced the Interconnection is going about the process in the right way. The currently proposed auction structure, says the watchdog, would \"generally shift significant risk to other PJM customers,\" which is a temptation the group says \"should be resisted.\" \"Other PJM customers, whether residential, commercial or industrial, should not be treated as a free source of insurance, or collateral, or financing for data centers,\" the report continued. \"Yet that is what most of the proposals related to a backstop auction actually do.\" As for what PJM ought to be doing, you probably won't need to rack your brain to figure that out: Monitoring Analytics says datacenters ought to be required to bring their own power. Such a rule, says the group, should include fast-track options for interconnection for BYOP datacenters, and otherwise a queue that would only connect datacenters when there is adequate capacity to serve them. \"This broad bring-your-own new generation solution to the issues created by the addition of unprecedented amounts of large data center load does not require a continued massive wealth transfer through ongoing shortage pricing,\" the analysts argue. When asked for its response to the problems raised by the Monitoring Analytics report, PJM told us that it was fully aware of the impact of electricity cost increases on its customers. \"PJM is working with states and member companies to address these consumer impacts on multiple fronts, including extending market caps put in place since the 2025/2026 auction, authorizing multiple transmission expansion projects that are now in development, and reforming wholesale electricity market rules,\" the Interconnection told us. Monitoring Analytics didn't respond to questions. Americans have become increasingly hostile to new datacenter projects driven by the AI boom, with 71 percent of respondents to a Gallup survey saying they opposed DC projects in their neighborhoods. Projects in multiple states have been abandoned recently due to pushback from locals, many of whom are concerned not only with electrical price increases, noise, and eyesores, but environmental harm as well. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5241491",
+      "rss_tags": [
+        "on-prem"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "1646f875-c206-4335-b72f-6889e5ce5d8e",
     "cluster_id": "3632e7bb-bbcd-4748-8713-aae851e1934c",
     "cluster_size": 3,
@@ -539,6 +593,101 @@
       "author_handle": "@mada299",
       "is_repost": true,
       "reposted_by": "@swyx"
+    }
+  },
+  {
+    "id": "44286912-f817-4c5c-975f-2df678cc355c",
+    "cluster_id": "b12b476e-ba0a-4384-80a7-f252c4693d37",
+    "cluster_size": 3,
+    "source": "ylecun",
+    "title": "EBMs are so back! Aleph now leads the major formal reasoning benchmarks.  America is eating its young. We’re a nation bu...",
+    "teaser": "AI research is seeing a resurgence with Energy-Based Models (EBMs), and the US scientific infrastructure is facing a critical challenge.",
+    "summary": "In the realm of AI, Energy-Based Models (EBMs) are proving highly effective, with Aleph leading major formal reasoning benchmarks. Concurrently, the author issues a strong warning regarding the decline of American scientific prowess, lamenting that the nation is trading its scientific heritage for non-academic interests. This concern is highlighted by a report noting MIT's reduction in graduate student numbers, emphasizing the need for a robust next generation of scientists.",
+    "importance": 5,
+    "category": "ai_research",
+    "url": "https://x.com/logic_int/status/2055419014654853580",
+    "date": "2026-05-15T22:44:15Z",
+    "image_url": "https://pbs.twimg.com/media/HIZPQaiXsAAj17w?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Logical Intelligence",
+    "content": "EBMs are so back! Aleph now leads the major formal reasoning benchmarks.\n\nAmerica is eating its young. We’re a nation built on the greatness of our research universities, it’s what gave us the Manhattan Project, victory in the Cold War, over HIV/AIDS. Our future depends on a robust NextGen of scientists. But we traded it for wellness influencers, climate denialists, and phony MAHA ideologies that more resemble a twisted Lysenko version of Stalinist Russia in the 1930s and 40s\n\n@marcportermagee wrote:\n> MIT announces “the number of grad students will be 20 percent less than it was in 2024 — about 500 fewer students”",
+    "raw_meta": {
+      "twitter_handle": "ylecun",
+      "category_hint": "ai_research",
+      "author_handle": "@logic_int",
+      "is_repost": true,
+      "reposted_by": "@ylecun",
+      "merged_tweet_count": 2
+    }
+  },
+  {
+    "id": "caf8b5d1-d283-4c5b-9ca3-3d45edd00fdd",
+    "cluster_id": "be1ffc0a-feee-4a53-aa30-cbd72dadbfb6",
+    "cluster_size": 3,
+    "source": "SiliconANGLE",
+    "title": "OpenAI previews personal finance features in ChatGPT Pro",
+    "teaser": "OpenAI’s ChatGPT Pro can now connect to your bank accounts, offering sophisticated budgeting and financial planning that even estimates credit card approval odds.",
+    "summary": "OpenAI has launched personal finance features in preview for ChatGPT Pro subscribers, allowing users to connect bank accounts via Plaid to gain deep insights into their finances. The platform generates a comprehensive dashboard visualizing spending, investments, and subscription patterns. Powered by GPT-5.5 Thinking, the AI can analyze spending trends, calculate vacation expenses, and generate multiyear budget roadmaps. Beyond current use, OpenAI aims for future capabilities, such as allowing users to submit credit card applications and estimate approval odds. While the features are advanced, experts advise users to remain cautious, emphasizing the need for fact-checking and suggesting advanced simulation tools for maximum benefit.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/05/15/openai-previews-personal-finance-features-chatgpt-pro/",
+    "date": "2026-05-15T23:45:50Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/OpenAI2.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "OpenAI Group PBC has added a set of personal finance features to ChatGPT Pro, the priciest consumer tier of its popular chatbot service. On launch, the capabilities are available in preview to a limited number of U.S. users. OpenAI will collect feedback from the testers to refine the features before making them more broadly accessible. The company stated in a blog post today that it plans to make the features \"available to everyone,\" which hints they may eventually roll out to free accounts. Before consumers can start using ChatGPT for personal finance tasks, they have to connect it to their bank accounts via Plaid. It's a service operated by a startup of the same name that helps developers integrate their applications with financial institutions' systems. OpenAI says that Plaid enables ChatGPT to pull data from more than 12,000 banks. Once all the necessary integrations are set up, ChatGPT creates a dashboard that shows key information from the user's bank accounts. Simple graphs visualize monthly spending numbers, the asset types that make up the user's investment portfolio and other high-level details. ChatGPT Pro subscribers can dig deeper by asking natural language questions. One of the tasks that the chatbot promises to ease is finding ways to improve the user's finances. A consumer could ask it to identify subscriptions that can be safely canceled or check for risky stocks in an investment portfolio. Additionally, ChatGPT can perform tasks that require analyzing data from multiple accounts and credit cards. For example, it could add up the expenses incurred during a vacation to calculate the total price tag. The chatbot is capable of analyzing not only individual financial events but also trends. It can highlight how a user's monthly spending fluctuated over the 12 months and generate multiyear budget roadmaps. A consumer looking to buy a new car could ask ChatGPT to create a savings plan that makes it easier to realize that goal. The new personal finance features are powered by GPT-5.5 Thinking, a version of OpenAI's latest large language model that is optimized for reasoning. It scored 60% on a benchmark called FinanceAgent that measures LLMs' ability to perform tasks such as analyzing earnings reports. GPT-5.5 set a record on a second evaluation, FrontierMath Tier 4, that comprises doctorate-level math challenges. OpenAI created a custom personal finance benchmark with the help of more than 50 financial professionals to measure ChatGPT's performance. The evaluation will help its engineers improve the chatbot's performance over time. According to OpenAI, future versions of ChatGPT will be capable of taking a more active role in users' personal finance decisions. Currently, a consumer planning to apply to a new credit card can only ask the chatbot for guidance. In the future, ChatGPT will be capable of submitting the card application and estimating its odds of receiving approval. OpenAI also sees consumers using the chatbot for a wide range of related tasks. Image: OpenAI A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=756421",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "Top Story 5",
+        "ChatGPT",
+        "ChatGPT Pro",
+        "GPT-5.5",
+        "large language model",
+        "LLM",
+        "OpenAI",
+        "personal finance"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "fd6be477-1029-4146-9c2b-5a08a2a3905c",
+    "cluster_id": "fbe0bae2-2c14-45fe-89cc-b1de3d23f347",
+    "cluster_size": 4,
+    "source": "Testing Catalog",
+    "title": "OpenAI launches personal finance on ChatGPT for Pro users",
+    "teaser": "AI is rapidly moving into the regulated enterprise: OpenAI and Anthropic are launching specialized agents for finance, and Anthropic partners with SpaceX for high-tech engineering workflows.",
+    "summary": "Major AI players are intensely competing to embed sophisticated, workflow-driven AI into regulated, high-value industries. OpenAI is launching a finance feature for ChatGPT Pro, allowing users to securely connect and analyze real financial accounts (banks, loans, investments) via Plaid, moving beyond general budgeting tips. Concurrently, Anthropic launched a comprehensive suite of ten specialized finance agents for Wall Street, integrating deep workflows like KYC screening and pitchbook creation within the Microsoft 365 ecosystem. Furthermore, Anthropic secured a high-capacity deal with SpaceX, extending Claude's use to engineering and complex operational workflows. These developments signal a critical industry shift: AI is moving from general chatbots to specialized, audit-ready agentic systems that handle complex, interconnected processes in finance and aerospace.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/openai-launches-personal-finance-on-chatgpt-for-pro-users/",
+    "date": "2026-05-15T23:46:54Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/05/OAI-ChatGPT-Personal-Finances-Connecting-accounts-16x9.webp",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Alexey Shabanov",
+    "content": "OpenAI is expanding ChatGPT into personal finance with a new preview feature that allows users to connect their bank, card, loan, investment, and other financial accounts directly within ChatGPT. The rollout begins with ChatGPT Pro users in the U.S. on web and iOS, with plans to support Plus users later and a long-term goal of broader access. At launch, the feature supports over 12,000 financial institutions through Plaid, with Intuit support planned next. The new Finances experience introduces a dedicated dashboard for portfolio performance, spending, subscriptions, upcoming payments, balances, liabilities, and other synced account data. Users can initiate this feature from the ChatGPT sidebar or by typing \"@Finances, connect my accounts.\" After authentication, ChatGPT syncs and categorizes the data, then uses it to answer questions about budgets, spending patterns, financial tradeoffs, savings goals, subscription cleanup, travel costs, investment risks, and major purchase planning. This feature is not intended to replace a financial adviser. OpenAI emphasizes that the system is designed to help users understand their financial situation and plan accordingly, while professional financial advice remains outside ChatGPT's scope. The core change is context: instead of providing generic budgeting tips, ChatGPT can analyze a user's actual transactions, balances, investments, debts, goals, and financial memories. The experience defaults to GPT-5.5 Thinking for conversations involving connected financial accounts. OpenAI reports that it evaluated the feature with over 50 finance professionals from leading institutions and developed an internal benchmark for complex personal finance tasks. GPT-5.5 Thinking scored 79 out of 100 on that benchmark, while GPT-5.5 Pro scored 82.5. Privacy controls are a key aspect of the rollout. ChatGPT can access balances, transactions, investments, and liabilities, but OpenAI states it cannot view full account numbers or make changes to accounts. Users can disconnect accounts in Settings or from the Finances page, with synced account data being deleted from OpenAI systems within 30 days after disconnection. Temporary chats do not access connected financial accounts, and financial memories can be viewed or deleted from the Finances page. OpenAI is an AI research and deployment company structured around the OpenAI Foundation and OpenAI Group, with ChatGPT as one of its core consumer products. This launch propels ChatGPT further into high-context personal assistance, where account connections, memory, reasoning models, and partner integrations are combined into a single workflow. Source",
+    "raw_meta": {
+      "rss_entry_id": "6a077e5fbd5ab8000151a5ab",
+      "rss_tags": [
+        "ChatGPT News",
+        "AI Announcements",
+        "Latest AI News"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {
@@ -1171,6 +1320,133 @@
     }
   },
   {
+    "id": "f627bcbb-6140-4dcc-a987-f272d8476b04",
+    "cluster_id": "51aeb644-f13f-4fb7-be54-c2601730c8f0",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "LocalSend puts your sneakernet out of business",
+    "teaser": "LocalSend is the cross-platform solution to file sharing, offering AirDrop-like convenience across Windows, Mac, and Linux without the Apple lock-in.",
+    "summary": "LocalSend is a free, open-source tool solving the common problem of cross-platform file sharing. Functioning similarly to AirDrop, it allows users to effortlessly transfer files across a local network (LAN) regardless of the operating systems involved, including Windows, Linux, macOS, and Android. Available across multiple platforms (GitHub, Snap store, Flathub, and major app stores), LocalSend is noted for its reliability and ease of use. Testing confirmed its ability to handle multi-gigabyte transfers identically across Windows, Linux, and macOS, making it a superior alternative to physical USB drives or complex, unstable network configurations. Since the transfer happens locally, it saves metered bandwidth and works even when the internet is down.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/personal-tech/2026/05/15/localsend-puts-your-sneakernet-out-of-business/5241407",
+    "date": "2026-05-15T19:10:13Z",
+    "image_url": "https://image.theregister.com/5241464.jpg?imageId=5241464&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "personal tech LocalSend puts your sneakernet out of business Like AirDrop, minus the Apple lock-in FOSS It happens all the time. You have a file on one of your devices and you need to have it on another one. You could put the file on a USB flash drive and walk it over (the so-called sneakernet), you could email it to yourself, or you could try to set up some kind of network resource. LocalSend , a free open source tool, makes the process of sharing files on a LAN easier than anything else and it works on Windows, Linux, macOS, Android, and more. The Reg FOSS desk is not routinely a fan of Apple fondleslabs. (We've tried, but they're a bit too locked down for us.) Saying that, from what we've heard, LocalSend is a bit like Apple's AirDrop but for grown-up computers and non-Apple kit. For Linux Mint users, it's a bit like the included Warpinator - and as that page says, don't search for it and go to warpinator.com, as it's a fake site. It's a free download from its GitHub page and is also available in Canonical's Snap\nstore and on\nFlathub . You run it, and it gives that computer a cute nickname in\nthe form of (adjective)+(fruit). Run it on two computers on the same\nlocal network, and they should see each other. You click \"send\" on one,\nand \"receive\" on the other, and that's about it: pick the file or\nfolder, and off it goes. LocalSend isn't very big - the installation\npackages are mostly around the 15 MB mark - so it's pretty fast to\ndownload or install. LocalSend on macOS 12 - but it looks pretty much identical on Windows and Linux, too. This vulture found and tried it when we downloaded a just-over-4 GB\nfile and then worked out we'd downloaded it onto the wrong OS on the\nwrong machine. It takes a good few minutes to download several gigabytes\n- we live on a small, remote island, where our 100 Mbps broadband costs about four times what 1 Gbps broadband used to cost in Czechia - and it seemed\nworth trying to transfer it rather than grab another copy. The gist of the idea is that LocalSend is quicker than using a USB\nkey. You know the sort of process: find a big enough USB key, check it\nhas space, copy the file onto it, eject it, go to the other machine,\ninsert it, and copy the file off again. Even if it goes perfectly,\nLocalSend is still less hassle. It's also easier than configuring some\nkind of temporary folder-sharing setup between different OSes on\ndifferent computers with different login names. (The Irish Sea wing of\nVulture Towers recently moved house and has yet to finalize his office\nlayout and reconnect his NAS servers. It's climbing to the top of the\nto-do list, though.) LocalSend is also available on both the iOS App\nStore and Google Play Store , so it can help for devices that you can't readily plug a\nUSB key into. The transfer happens across your local network, so it\nwon't use up bandwidth on metered internet connections, and will even\nwork if your internet connection is down. Warpinator is Mint's solution - but in our case, we initially needed\nto move the file from Windows to macOS. Both have ports of Warpinator,\nbut both seem unofficial, and while the machines could see one another,\nfile transfers failed. We've also tried SyncThing , but\nit's not good at keeping machines in sync when they're rarely on at the\nsame time - and we've had problems with it recursively duplicating\ndirectory trees into themselves so deeply that no GUI tool could delete\nthem. Ideally, you should have an always-on home server that also runs\nSyncThing - and if you have one of those, then for one-off file\ntransfers, you don't really need SyncThing: just copy it to the server,\nand off again. LocalSend just worked, and for us, it worked identically whether\neither end was running Windows, Linux, or macOS. We couldn't ask for\nmore. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5241407",
+      "rss_tags": [
+        "personal tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "f09170bc-4a8b-45a4-9687-b1172f466358",
+    "cluster_id": "856954eb-14f9-43e0-a88b-8e7abbb50234",
+    "cluster_size": 1,
+    "source": "SiliconANGLE",
+    "title": "Red Hat dials in on telco cloud modernization as legacy pressure mounts",
+    "teaser": "Telcos must unify decades of siloed infrastructure; Red Hat positions OpenShift to bridge cloud-native and legacy systems.",
+    "summary": "Telco cloud modernization is an urgent necessity driven by the complexities of 5G/6G and AI, pressuring operators away from decades of siloed infrastructure. To solve the management challenge, Red Hat advocates for OpenShift Virtualization, a unified platform that connects modern cloud-native networks with older, legacy virtual IT environments. This unified approach allows operators to improve efficiency—with some seeing deployment speed increases of up to 50%. Furthermore, the concept of 'digital sovereignty' is growing, prompting European telcos to offer sovereign cloud solutions. These solutions go beyond simple data residency, encompassing operational support within a country's border, allowing telcos to turn a regulatory hurdle into a key business advantage.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/05/15/telco-cloud-modernization-accelerates-red-hat-rhsummit/",
+    "date": "2026-05-15T19:14:20Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/IMG_6135.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Jonathan Anthony",
+    "content": "Telco cloud modernization has become an urgent operational imperative for operators burdened by decades of siloed infrastructure and the demands of 5G, 6G and edge AI. A unified platform approach is now essential to deliver consistent lifecycle management, security and speed to production. The pressure to consolidate disparate network domains onto a single, consistently managed platform has moved from a long-term roadmap item to a strategic necessity - especially as regulations and AI economics tighten. That convergence is reshaping what telcos demand from their infrastructure partners, according to Fran Heeran (pictured), vice president and head of global telecommunications business at Red Hat Inc. \"In telco, for the longest time, we've been building siloed applications and siloed solutions,\" Heeran said. \"You end up with multiple technology stacks that, over time, will become more out of date. One of the critical demands right now is on the area of lifecycle management - how do I manage the lifecycle of all the applications? How do I make sure security patching is up to date in a consistent way across all parts of my network and across all applications?\" Heeran spoke with theCUBE's Rob Strechay and Rebecca Knight at Red Hat Summit 2026 , during an exclusive broadcast on theCUBE, SiliconANGLE Media's livestreaming studio. They discussed telco cloud modernization, AI deployment at the network edge and how digital sovereignty is becoming both a compliance requirement and a new monetization opportunity. (* Disclosure below.) Telco cloud modernization through a common platform Red Hat is positioning OpenShift Virtualization - a unified VM and container platform - as the connective tissue that bridges the gap between cloud-native core networks and the legacy virtualized IT environments that telcos still rely on. The horizontal telco cloud approach is already producing measurable results for early movers. One New Zealand Group Ltd. was among the first operators to focus on a common infrastructure strategy spanning both core and IT, and its results have become a reference case for the industry. Deploying new workloads is now almost 50% faster than in its siloed environment, Heeran noted - a gain driven by unified management, consistent versioning and a single set of deployment guidelines for vendors. \"OpenShift Virt is critical there because you can manage both your VMs and your containers from your core, your IT, out even to your radio with a single platform from a single place,\" Heeran said. \"That's kind of what we're seeing all of our customers coming to us for - that consistency, helping solve that management problem as the networks become more diverse.\" Digital sovereignty is adding a new dimension to the modernization calculus. In Europe especially, operators such as Telenet Group N.V. in Belgium and Telenor ASA in Norway are deploying country-specific sovereign cloud solutions that go beyond data residency to include operational sovereignty - where the cloud is both hosted and supported from inside the sovereign border, Heeran noted. That expertise is converting a compliance obligation into a differentiated service offering for telcos. \"Telcos are very, very well positioned to offer those [sovereign solutions] because of their years of experience in building in-country sovereign infrastructure,\" he said. \"It's not just something they have to do regulatory-wise - now it's also a new business opportunity for them as well.\" Here's the complete video interview, part of SiliconANGLE's and theCUBE's coverage of the Red Hat Summit 2026 event: (* Disclosure: Red Hat sponsored this segment of theCUBE. Neither Red Hat nor other sponsors have editorial control over content on theCUBE or SiliconANGLE.) Photo: SiliconANGLE A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=754292",
+      "rss_tags": [
+        "Cloud",
+        "Cube Event Coverage",
+        "NEWS",
+        "#RHSummit",
+        "#theCube",
+        "agentic AI",
+        "Ansible Automation",
+        "containers",
+        "digital sovereignty",
+        "edge AI",
+        "edge inference at the edge",
+        "enterprise open source",
+        "Fran Heeran",
+        "Kubernetes",
+        "open hybrid cloud",
+        "OpenShift Virtualization",
+        "Rebecca Knight",
+        "Red Hat",
+        "Red Hat Summit 2026",
+        "RedHatSummit26eventpage",
+        "Rob Strechay",
+        "telco cloud modernization"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "c9d25f3d-70a5-42c7-bb6d-eb05892edc45",
+    "cluster_id": "bb2a5ed6-ed4b-493a-813a-d3c9932c2df6",
+    "cluster_size": 1,
+    "source": "SiliconANGLE",
+    "title": "Companies are rethinking the contact center to deliver outcomes — and empathy — at scale",
+    "teaser": "AI is transforming call centers, using predictive insights to deliver empathy and resolve complex financial needs, rather than just recording scores.",
+    "summary": "Contact center AI is revolutionizing financial services by moving beyond mere efficiency metrics to provide genuine customer understanding and empathy. Firms are using AI platforms, such as EXL’s Customer 360 Insights, to analyze historical interactions, identifying underlying customer needs and intents rather than just the stated call reason. This approach helps build frictionless customer journeys and improve first-call resolution. For human agents, AI's role is shifting from replacement to enhancement: the technology routes complex, empathy-intensive calls to agents, equipping them with real-time next-best-action guidance and personalized coaching nudges. This ensures agents can focus on complex problem-solving while minimizing training lag and improving overall service quality.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/05/15/contact-center-ai-transformation-drives-cx-googlecloudnext/",
+    "date": "2026-05-15T19:44:30Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Shashank-Verma-Dana-Kantor-Clean.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Jonathan Anthony",
+    "content": "Contact center AI transformation is accelerating in financial services as new innovations close the gap between surface-level metrics and genuine customer understanding in high-stakes interactions. For companies handling deeply personal products - health savings accounts, retirement rollovers, flexible spending plans - the stakes of a poor customer experience go beyond satisfaction scores. These are lifecycle moments for individuals, demanding empathy as much as efficiency, and data-driven AI is now offering the tools to deliver both at scale, according to Dana Kantor (pictured, right), senior director of vendor and technology optimization at Inspira Financial Trust LLC, a benefits and retirement account administrator serving millions of Americans. \"These are really personal choices that people are making every day,\" Kantor said. \"They're trying to pay for healthcare. They're planning for their futures. We're always focused on providing better health, greater wealth and supporting our account holders that way.\" Kantor and Shashank Verma (left), senior vice president and global head of digital customer experience at EXL Service Holdings Inc., spoke with theCUBE's Alison Kosik and Rebecca Knight at Google Cloud Next , during an exclusive broadcast on theCUBE, SiliconANGLE Media's livestreaming studio. They discussed contact center AI transformation, first-call resolution and AI-powered customer journeys. (* Disclosure below.) Contact center AI transformation drives first-call resolution EXL, a data and AI services company specializing in business transformation, has built its AI strategy with Inspira around a foundational insight: The reason a customer calls is rarely the whole story. The real question is why that call was necessary at all, and how the underlying need can be resolved without a follow-up. To get there, EXL's Customer 360 Insights platform uses historical interaction data to surface those underlying intent signals with the intent of building frictionless customer journeys , Verma noted. \"What we are really doing with Inspira is we're using AI to learn from all the historical interactions that Inspira has been having with their customers, really knowing what are the reasons or the intents customers are reaching out for, building those customer journeys, removing friction - because what we don't want to do is just automate a broken journey,\" Verma said. \"We're trying to reduce and minimize all those friction points for the customers and building those sound journeys for them.\" On the agent side, AI is also changing the work itself. Rather than eliminating human judgment, the model routes complex, empathy-intensive interactions to live agents - equipped in real time with next-best-action guidance so they spend less time searching and more time resolving, Verma explained. Personalized coaching nudges, derived from historical call analysis, are also reducing training lag and improving retention in what are traditionally high-burnout roles. \"You can have insights where you can identify personalized coaching and training needs - and developer needs for agents - to drive continuous improvement for the business,\" Verma said. \"Those are the kinds of initiatives that we've lined up for Inspira to drive for their business.\" Here's the complete video interview, part of SiliconANGLE's and theCUBE's coverage of Google Cloud Next 2026 : (* Disclosure: EXL sponsored this segment of theCUBE. Neither EXL nor other sponsors have editorial control over content on theCUBE or SiliconANGLE.) Photo: SiliconANGLE A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=756212",
+      "rss_tags": [
+        "AI",
+        "Cube Event Coverage",
+        "NEWS",
+        "#GoogleCloudNext",
+        "#theCube",
+        "agentic AI",
+        "AI native enterprise",
+        "Alison Kosik",
+        "contact center AI transformation",
+        "Dana Kantor",
+        "data and AI",
+        "digital transformation",
+        "enterprise AI",
+        "EXL",
+        "Gemini",
+        "Google Cloud Next",
+        "Google Cloud Next 2026",
+        "GoogleCloudNext26eventpage",
+        "Inspira Financial",
+        "Rebecca Knight",
+        "Shashank Verma",
+        "Vertex.AI",
+        "NASDAQ:EXLS"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "2b9c110e-f996-4c43-aa67-1165451cd7dc",
     "cluster_id": "b3f17101-690c-4ce3-b21c-ce5f8d83a1b9",
     "cluster_size": 1,
@@ -1283,6 +1559,163 @@
     }
   },
   {
+    "id": "692e119a-6f1b-4720-a120-4a47b5b0da71",
+    "cluster_id": "cc6d95c8-30f9-4fc2-b35b-1e6b2ba74287",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
+    "teaser": "General Catalyst posted a viral 'VC vs GC' parody, suggesting they hold a 'high bar around responsibility' that rivals (like a16z) allegedly ignore.",
+    "summary": "General Catalyst (GC) recently created a 'VC vs GC' video on X, mimicking classic Mac vs. PC ads. The parody positions GC against other major VCs, particularly mocking the investment practices of a16z. Through the satirical portrayal of funding decisions, GC aims to convey that it maintains a 'really high bar around responsibility.' The viral post, which reached 2.4 million views, ignited significant industry commentary. Andreessen responded by calling the stunt 'smarmy,' highlighting how effective the 'rage-bait' was. Ultimately, the piece serves as an industry commentary on investment ethics and market positioning.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
+    "date": "2026-05-15T20:25:35Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Rage-bait.png?resize=1200,960",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Julie Bort",
+    "content": "One of the most entertaining moments in VC this week was a piece of rage-bait marketing from General Catalyst. In a now-viral post on X that parodies the old Mac vs. PC commercials, the venture firm - better known as GC - posted a \"VC vs GC\" video on Wednesday. The VC was played by a tall actor in a baggy shirt and vest with a distinctly large, bald head - an apparent dig at Andreessen Horowitz co-founder Marc Andreessen. (But the real Andreessen never looks that disheveled). The GC character was played by a man with a thick head of dark hair, white kicks, and a tendency to stare deeply into the camera. He was clearly supposed to represent actor Justin Long's cooler, \"hipper\" Mac character from the original commercials, in contrast to John Hodgman's straight-laced \"square\" PC persona. GC asks VC about his robotic dog. VC explains, \"This is Woof AI\" and then extols the virtues of the artificial companion (you don't need to walk it or break the news to the kids when it dies!) and declares, \"You'll never want a real dog after this.\" VC mentions that his firm is leading the seed round and pitches GC to join the cap table. GC explains how people like real dogs and remarks, \"I'd love to hear more, but we actually have a really high bar around responsibility for these things.\" Then VC kicks the AI dog and the dog chases him off the screen. The post has now been viewed 2.4 million times with hundreds of shares and comments, and thousands of likes. I'd have to read so far between the lines that I'd be off the page and peering into another book to unpack this, but I'll try anyway. The message, roughly: Other VCs, and a16z in particular, will fund anything. GC won't. (I asked about this. GC hasn't responded.) It's a pointed argument if so, and not entirely without basis. Andreessen's firm frequently invests in companies that are considered controversial, like the surveillance startup Flock Safety , AI notetaker Cluely, and Adam Neumann's Flow . But the same measure could just as easily be applied to General Catalyst. GC's portfolio includes Anduril, Percepta , and Polymarket . My takeaway is that GC wanted to show an a16z-type character kicking a dog, without anyone actually kicking an actual dog because that would be a major problem. Many of the comments on the video seemed to find the video, and the choice to post it, cringe. Plenty liked and loved it, too. Compulsive X user Andreessen himself couldn't resist responding, many, many times. He said it made GC look \" smarmy \" and said, \"Stay tuned for our upcoming ad campaign, 'We're the VC who doesn't sneer at your idea .'\" He kept going from there. My personal favorite was: \"The thing they got right is the relative heights.\" As others noted, you know you've hit the right rage bait when the target takes it. There were plenty of a16z partners and staffers who came to Andreessen's defense, too. So much so that their reactions drew lots of comments . My personal favorite in this category was from VSC Ventures VC Jay Kapoor: \"GC vs. A16Z beef is like Kendrick vs. Drake for people who know what a 409A valuation is.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3123082",
+      "rss_tags": [
+        "Venture",
+        "General Catalyst",
+        "Marc Andreessen",
+        "a16z"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "6b798cb8-90eb-44c8-af97-e358b13f9ffa",
+    "cluster_id": "4da657e4-be88-412f-a412-e1cf965f2c7b",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+    "teaser": "RJ Scaringe has raised over $12.3B across his startups, showcasing an unmatched ability to secure massive investment in niche tech areas.",
+    "summary": "Serial entrepreneur RJ Scaringe has raised over $12.3 billion across his startups, including Rivian, Also, and Mind Robotics, demonstrating an exceptional talent for attracting capital. According to his associate Jiten Behl, Scaringe's superpower is his ability to communicate complex visions credibly. While past massive funding rounds were reserved for defense or AI tech, Scaringe successfully raised $105 million for his micromobility startup, Also. His knack for fundraising is attributed by others to a rare combination of being a 'great engineer' and having 'exceptional instinct for product design.' Scaringe's recent fundraising pace remains high, with Mind Robotics alone raising $400 million, challenging previous limits.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+    "date": "2026-05-15T20:30:20Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Kirsten Korosec",
+    "content": "Investors can't seem to get enough of RJ Scaringe or his ideas. In less than a decade, the serial entrepreneur best known for his EV company Rivian has raised more than $12.3 billion from venture capital firms, as well as from strategic and institutional investors for his three - and counting - startups. If the latest $400 million raise for his new venture Mind Robotics is an indicator, investors are still happily piling in. Outsized raises for newly minted startups have become more common in recent years. But those hundred-million-plus seed rounds have generally been reserved for buzzy defense tech startups or AI companies founded by former OpenAI or Anthropic employees. Those supersized seeds certainly weren't flowing toward something as niche as an electric micromobility startup. And yet in 2025, Scaringe raised $105 million for exactly that - a startup called Also , which he founded that same year. The total has since surpassed $300 million , with DoorDash among its backers. Jiten Behl, partner at Eclipse and former chief growth officer at Rivian, has spent years watching and learning from Scaringe. His firm is now one of Scaringe's biggest backers, leading rounds in both Also and Mind Robotics - Scaringe's industrial AI and robotics startup that he also founded last year. Storytelling and communication are one of his superpowers, according to Behl, who joined Rivian when the company had just a handful of employees. \"When RJ explains a certain issue, topic, opportunity, vision, he just has this very unique ability to communicate it so effectively, and it comes across so credible,\" Behl said. \"He's not trying to undersell the difficulty or oversell the opportunity, and that's an art.\" Scaringe isn't the only serial entrepreneur to repeatedly attract massive amounts of capital, but founders who can raise billions across multiple ventures remain rare. A self-professed car enthusiast who earned his doctorate in mechanical engineering from MIT, Scaringe joins a small cadre of entrepreneurs that includes Tesla CEO and SpaceX co-founder Elon Musk, OpenAI CEO Sam Altman, Anduril and Oculus founder Palmer Luckey, and Jack Dorsey, who founded Square (now called Block) and Twitter. The difference, at least in the view of some investors TechCrunch spoke to, is that he is able to separate selling the idea from selling himself. \"He is very comfortable and confident in his own personality, and he's not trying to be an Elon,\" Behl said, noting that many have tried to make the comparison over the years. \"It's not about him,\" another insider familiar with Scaringe's companies told TechCrunch. \"When you talk to him, he has enthusiasm about the product that is completely external.\" Of course, there is confidence and even a little ego, the same source mused, but \"it doesn't weigh on you.\" The source also added that Scaringe has a unique ability to make you feel like the most special person in the room - a sentiment others echoed. Giving that kind of undivided attention to an investor, supplier, or exec at a manufacturer is a challenge at the scale Scaringe is attempting. He is running three companies, often traveling between Palo Alto, Irvine, Rivian's factory in Normal, Illinois, and a second factory soon to open in Georgia. And then there is family -- Scaringe has three sons with his ex-wife. Joe Fath, another partner at Eclipse, credits his open-mindedness and collaborative nature for helping him attract investment and juggle these connected, yet disparate businesses. He noted that Scaringe also \"has the rare combination of being a truly great engineer while also having an exceptional instinct for product design,\" said Fath, who previously worked at a major Rivian backer, T. Rowe Price. \"Very few founders can operate at that level technically while also understanding what resonates emotionally with customers -- both consumers and commercial buyers. That combination is incredibly uncommon and has clearly been part of what makes Rivian's products, and now Also and Mind's, so differentiated.\" The pace of Scaringe's fundraising over the past eight years is particularly notable and doesn't seem to be slowing. More than $11 billion, and by far the largest slice of VC and strategic capital, went into Rivian - most of it between 2018 and its blockbuster IPO in 2021. That's a startling timeline, especially considering the company, initially called Mainstream Motors, had existed since 2009. For years, Rivian operated as a small, unknown entity until its breakout moment in late 2018 at the Los Angeles Auto Show, when it revealed prototypes of its all-electric R1T truck and R1S SUV. The money soon flowed, and from every direction. In early 2019 and just a couple of months after that reveal, Rivian raised a $700 million funding round led by Amazon . U.S. automaker Ford would invest $500 million and make plans to collaborate on a since-scrapped future EV program. Cox Automotive contributed $350 million . Rivian would close out the year with a $1.3 billion round - its fourth in 2019 - led by funds and accounts advised by T. Rowe Price Associates, with additional participation from Amazon, Ford, and funds managed by BlackRock. In July 2020, Rivian raised $2.5 billion and another $2.65 billion six months later. As whispers of an IPO got louder, Rivian closed another $2.5 billion private funding round led by Amazon's Climate Pledge Fund, D1 Capital Partners, Ford Motor, and funds and accounts advised by T. Rowe Price Associates Inc. Third Point, Fidelity Management and Research Company, Dragoneer Investment Group, and Coatue also participated. Then the IPO came. Rivian raised nearly $12 billion in gross proceeds after locking in $78 per share. Its market cap hit $100 billion when it debuted on Nasdaq in November 2021. Today, it stands at $18.2 billion, a significant comedown that also reflects the broader struggles of the EV sector. The ability to raise that much capital, despite those headwinds, is exceptional. But Scaringe didn't stop with Rivian. If anything, the pace has accelerated. Also and Mind Robotics have together raised more than $1.3 billion so far, with Mind Robotics moving especially fast: $115 million in its first year, $500 million in March, and another $400 million just this week. Rivian also continues to land notable backers through high-profile deals like the $5.8 billion joint venture with Volkswagen Group and a robotaxi partnership valued at up to $1.25 billion with Uber. \"Now, the big question is, how much can he do?\" Behl said. \"That's a question [that] already assumes that he's reaching his limit. The thing is, he doesn't look at it that way. His perspective is that there is huge value to be created, there is huge impact to be created, and I just have to do it.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3122332",
+      "rss_tags": [
+        "Transportation",
+        "also",
+        "EVs",
+        "mind robotics",
+        "Rivian",
+        "RJ Scaringe"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "d3c9e276-cf1d-44fd-b3d4-c9a209b7e5ac",
+    "cluster_id": "d53870e1-0023-4b8a-a38c-e080cbc2dab8",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Windows 11 tests an adjustable taskbar and resizable Start menu",
+    "teaser": "Windows 11 is rolling out major updates allowing users to reposition the taskbar and customize the Start menu's appearance.",
+    "summary": "Microsoft is rolling out several significant user experience enhancements for Windows 11, starting with the ability to reposition the taskbar to any side (top, bottom, left, or right). Users can also now adjust the Start menu size and layout, choosing from 'Small' or 'Large' views. Further customization includes the ability to hide user profile pictures and control the visibility of sections like 'Pinned,' 'Recommended,' and 'All'. Additionally, the 'Recommended' section will be renamed 'Recent' to better reflect its focus on recently used files and apps. These features are being delivered through the Experimental Insiders channel.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
+    "date": "2026-05-15T21:14:45Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/windows-11-taskbar-top.png?quality=90&strip=all&crop=0%2C11.248584361217%2C100%2C77.502831277567&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Emma Roth",
+    "content": "Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the Experimental channel, lets you place the taskbar on the bottom, top, left, or right side of the screen. Microsoft first teased its movable taskbar in March as part of efforts to rebuild trust among users . You can adjust the alignment of the icons inside the taskbar, as well as open the Start menu drawer from wherever you placed it. Windows 11 Insiders can access a shorter taskbar, too, which could come in handy for devices with smaller displays. There's also an option to choose from a \"Small\" or \"Large\" Start menu. The Start menu's layout will soon get easier to adjust as well, with new toggles that will allow you to show or hide the \"Pinned,\" \"Recommended,\" and \"All\" sections. The company is also renaming the \"Recommended\" section to \"Recent\" to \"better reflect what the section primarily shows, including recently installed apps and recently used files.\" You can now hide your name and profile picture from the Start menu, too, in case you're sharing your screen or making a presentation. These features are rolling out in the \"coming weeks\" to the Experimental Channel. \"We have talked about earning trust through steady and visible progress,\" Microsoft design director Diego Baca says in the blog post. \"Start and taskbar are where that trust is tested most, every time you sit down at your PC.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=931817",
+      "rss_tags": [
+        "Microsoft",
+        "News",
+        "Tech",
+        "Windows"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "4ee65a6c-7b4b-4e86-b2ee-1d3dd1ce01b7",
+    "cluster_id": "2c210b80-6820-4d74-846c-e8ff8d3bba22",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Google reimburses Register sources who were victims of API fraud",
+    "teaser": "Google's automatic spending increases left developers vulnerable to fraud, forcing the rollout of 'Spend Caps' to set hard cost limits.",
+    "summary": "Developers using Google Cloud services faced significant financial risk after hackers exploited API keys, leading to massive, unauthorized bills (up to $17,000). While Google has reimbursed some users, the controversy highlights the company's automatic policy of expanding spending tiers, which prioritizes preventing service outages over respecting individual budget limits. Users are left highly vulnerable to fraud or unexpected usage spikes. To mitigate this, Google has launched a preview of 'Spend Caps.' These new project-level cost boundaries can alert and pause API traffic when a budget is reached, offering a crucial safety measure against crippling unforeseen charges.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/devops/2026/05/15/google-reimburses-register-sources-who-were-victims-of-api-fraud/5241429",
+    "date": "2026-05-15T21:26:32Z",
+    "image_url": "https://image.theregister.com/5241525.jpg?imageId=5241525&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Two of the Google Cloud developers who were hit with bills for thousands of dollars following unauthorized API calls to Gemini models have had their bills reversed, the users told The Register in recent days. But Google plans to continue automatically expanding users' spending limits, leaving them and countless other customers vulnerable to bills they cannot afford, whether from fraud or a sudden traffic surge. Australia-based developer Isuru Fonseka - whose usage bill skyrocketed to $17,000 in minutes after Google automatically upgraded his $250 spending tier when a hacker took control of his account - told us that he was happy to put this behind him. \"It's so good. It felt like they were just giving me the run around until your article. I just hope they fix it properly for everyone,\" he said. \"It's great that the article was able to get the refund but it's sad that it had to go to that level for them to process it urgently.\" Despite refunding his money, Google seems to have lost a customer. Fonseka said that he has since ensured his API cannot be used with Google's stable of AI products, and will likely try one of the independent foundation models if he needs those features. \"I've disabled Gemini on everything - if I ever plan to use AI on my projects, I'm better off using it via a different service such as OpenRouter or going directly to one of the other LLM providers - just as a way to keep Gemini out of my account and the risk as low as possible,\" he said. Fonseka said he was blindsided by a Google policy that allowed the company to automatically upgrade a user's billing tier without permission or adequate warning. He had thought by signing up for a user tier with a $250 spending cap that his bills would be restricted to that amount. It was only after attackers exploited his API key that he learned Google would upgrade the cap automatically based on his history of spending. While Google acknowledged that the automatic tier upgrades allowed credential hijackers to rack up thousands of dollars in bills in cases like the one Fonseka described to The Register, it said it has not reconsidered the policy. In a statement to The Register , Google said that it wants to prioritize access to Google Cloud services without interruption, preferring to prevent service outages over respecting users' budget preferences. \"With our automated growth tiers, we helped businesses scale as usage increased, built on their historic reputation of payments and usage,\" a Google spokesperson told us in a statement. \"This prevents their business having a hard service outage once they pass an artificial system quota.\" Tiers vs spending caps There is some confusion between Google's usage tiers and its newly introduced spending caps, and Google's documentation hasn't helped much. Google says its users can set their usage tiers not to exceed a certain spending level. For example the maximum spending allowed by a Tier 1 user like Fonseka is $250. However, if the account is older than 30 days and if, over the lifetime of their work with Google, they have spent at least $1,000, then Google will automatically allow that account to spend up to $100,000. So good customers have the most to fear from fraud or from an unexpected spike in usage. In several cases shared on social media, Google users were only aware of this after their credit cards were billed thousands of dollars. On April 22, Google introduced a trial of hard caps on spending within Google Cloud, but those are in a preview and are approved on a case-by-case basis. \"We're excited to announce that Spend Caps are coming soon to Google Cloud. Designed to work with Google Cloud Budgets, FinOps and DevOps can set budgets that enforce automated cost boundaries (caps) at the project level for AIS, Agent Platform, Cloud Run, Cloud Run Functions, and Maps,\" Google wrote. \"These caps alert and ultimately pause API traffic once your set budget is reached, but leave your resources intact. If you need the traffic to resume, simply suspend the Spend Cap.\" Spend caps can only be set per project for a single, eligible service, Google said . Eligible services for this preview include Gemini API, Agent Platform (previously known as VertexAI), Cloud Run, Cloud Run Functions, Maps, Google said. Users who apply for a spending cap will have their submissions reviewed on a \"one to two week basis\" and customers are added in the order they submitted. \"Once onboarded, you will receive an email with instructions on how to access the feature as well as details on how to submit feedback,\" Google writes in its sign up page. Rod Danan, CEO of Prentus, a company that helps job applicants with interview preparation and tracks job placements for universities, told The Register earlier this week that he saw his bill skyrocket to $10,000 in just 30 minutes of usage by attackers who exploited his public API key. Google forgave the charges on Thursday, he said. \"They got back to me today agreeing to a refund,\" he told us. \"It's definitely relieving. You want to focus on the business. You don't want to have to focus on going and getting refunds from some crazy charges.\" He said the stress of running a startup is hard enough without the addition of fighting one of the largest companies in the world imposing erroneous five-figure charges. \"I'm happy that it's behind me. I wish it was easier,\" he said. \"I've learned, yeah, definitely don't give up. Be annoying whenever something is wrong and just keep pushing. Again, try to make it as public as possible, get louder and louder until the people you need to hear you actually hear you.\" Google said any unauthorized use of API keys will be investigated and it historically has treated customers compassionately when there is clear evidence of fraud or error. \"We take reports of credential abuse and the financial security of our customers extremely seriously; and as you know are investigating these specific cases you have pointed to and we will work directly with any impacted users to resolve charges resulting from fraudulent activity,\" Google said. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5241429",
+      "rss_tags": [
+        "devops"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "7d42a6f0-9914-4355-bbe4-2f47c043f8a3",
+    "cluster_id": "e0981fa8-ed36-484f-b785-4e15260064b2",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+    "teaser": "🚨 YouTube is expanding its AI deepfake detection to *all* users over 18, giving everyone the power to monitor the platform for unauthorized digital replicas of themselves.",
+    "summary": "YouTube is dramatically expanding its AI likeness detection tool, making it available to all users over 18. This feature uses a selfie-style face scan to monitor the platform, allowing individuals to flag potential deepfakes of themselves. Upon detecting a match, the user can request removal, which is evaluated based on YouTube's privacy policy. The platform considers factors such as the content's realism, whether it's labeled as AI-generated, and if the person can be uniquely identified. Key limitations include that the tool covers only facial likeness, not other identifiers like voice. This expansion means nearly anyone can constantly monitor content for their likeness, giving private citizens the protection previously reserved for public figures.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+    "date": "2026-05-15T22:25:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Mia Sato",
+    "content": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts the user; the person then has the option to request that YouTube remove the content. YouTube has said in the past that it has found the number of removal requests to be \"very small.\" YouTube began testing the feature with content creators , and then expanded it to government officials, politicians, journalists, and finally the entertainment industry . The expansion to any user 18 years or older is a significant shift - it essentially gives the average person the ability to constantly monitor content on YouTube that could use their likeness. Takedown requests are evaluated using YouTube's privacy policy , and the company says it considers removals based on criteria like whether the content is realistic, is labeled as AI-generated, and if a person can be uniquely identified. There are carveouts for things like parody or satire, and the tool only covers facial likeness, not other identifying features like a person's voice. Users can withdraw from the program and have YouTube delete their data. The news was announced on YouTube's creator forum, but spokesperson Jack Malon says there are no requirements on what constitutes a \"creator\" who is eligible. \"With this expansion, we're making clear that whether creators have been uploading to YouTube for a decade or are just starting, they'll have access to the same level of protection,\" Malon said in an email. Deepfake content often centers on celebrities, politicians, or other public figures, but the ability to create a convincing digital replica is a concern for private citizens, too . There have been instances of teenagers being deepfaked by classmates , and three teenagers sued xAI alleging that the company's Grok chatbot generated child sexual abuse material (CSAM) of them.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=931884",
+      "rss_tags": [
+        "AI",
+        "Creators",
+        "Google",
+        "News",
+        "Streaming",
+        "Tech",
+        "YouTube"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "db02d130-d289-4c14-9181-1ad758743ff7",
     "cluster_id": "b4b2c1ae-9f08-475a-8768-6afbcaffd10f",
     "cluster_size": 2,
@@ -1306,6 +1739,32 @@
       "author_handle": "@unusual_whales",
       "is_repost": true,
       "reposted_by": "@noahpinion"
+    }
+  },
+  {
+    "id": "a7c3c01f-ab7c-4817-8d2b-6157b8577969",
+    "cluster_id": "3c527394-39b6-4e8d-ae38-c4b2d7bbb493",
+    "cluster_size": 1,
+    "source": "CNBC - Business",
+    "title": "Jim Cramer: Why the bond market has become a thorn in the market's side",
+    "teaser": "Jim Cramer warns that the bond market is now 'in the driver's seat, potentially hurting stocks amid high oil prices and IPO speculation.",
+    "summary": "Jim Cramer cautioned investors that the bond market currently holds significant power, warning that its 'wrath' can hurt the stock market. This concern is amplified by jumping Treasury yields and high oil prices, which diminish hopes for Federal Reserve interest-rate cuts. Cramer also voiced concern over speculative excess in IPOs, urging caution. While predicting that stocks need a tame bond environment to advance, he provided actionable picks for the coming week. Key highlights include remaining bullish on Walmart and reiterating his view that Nvidia, central to data centers, is a long-term hold. He suggested Lowe's may outperform Home Depot in the current weak housing market, but cautioned that most tech stocks, including Nvidia, require perfect quarters after massive runs.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://www.cnbc.com/2026/05/15/jim-cramer-why-the-bond-market-has-become-a-thorn-in-the-markets-side.html",
+    "date": "2026-05-15T22:42:38Z",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/107113452-NUP_198430_00216r.jpg?v=1697496575&w=1920&h=1080",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "CNBC's Jim Cramer said Friday that stock investors need to remember the bond market is in the driver's seat at the moment - a dynamic that looms large ahead of key earnings reports next week. \"The bond market's wrath can smackdown any stock market no matter how robust,\" said the \" Mad Money \" host. On Friday, Treasury yields jumped higher as oil prices surged after President Donald Trump told Fox News that he is \"not going to be much more patient\" with Iran, adding that \"they should make a deal.\" Concerns about inflation also diminished hopes for interest-rate cuts from the Federal Reserve, Cramer noted. \"We need a tame bond market for stocks to keep advancing, which means we need oil to come down, and that's not happening unless we get an end to the war,\" he said. Cramer said that in addition to triple-digit oil and one-year highs for the benchmark 10-year Treasury yield, signs of speculative excess in recent IPOs require a more cautious stance toward equities. \"You know haven't been a doomer...I haven't been a bear at all. But a smart bull needs to recognize when the facts change and I'm very worried that we're headed for the kind of reckless flood of IPOs that always leads to heartbreak,\" Cramer said. \"We aren't there yet. But we need to be wary of the possibility and we need to protect our gains.\" With that, Cramer turned to the week ahead. Monday The head of Caterpillar's power and energy business, which is benefitting from the data center construction boom, is meeting with Wall Street . While Cramer said he loves the company, he warned the stock's valuation looks overheated after a major run. \"It's like a tech stock,\" he said. Tuesday Home Depot - a holding in Cramer's Charitable Trust , the portfolio used by the CNBC Investing Club -reports after struggling under the weight of higher rates. Cramer isn't expecting much, but said results that are \"not terrible\" could spark a relief rally. Vertiv Holdings , a major data center infrastructure player, could post a huge number, Cramer said, though expectations are already elevated after a massive stock run. After the close, Cramer's \"favorite homebuilder\" Toll Brothers reports. With its focus on luxury homes, Cramer said it's a decent time for Toll but rising mortgage rates make it tough to own any homebuilding stocks. Wednesday Cramer expects Lowe's , which reports in the morning, to potentially outshine Home Depot given its greater exposure to do-it-yourself consumers in a weak housing market. After the bell, the spotlight shines on Nvidia . \"If the data center is the most important piece of this economy...then Nvidia is at the heart of the data center,\" Cramer said. He reiterated his long-held view that investors should own, not trade, the stock. Cramer's Charitable Trust has owned Nvidia since 2019. Still, after its massive run, Cramer said Nvidia will likely need a \"perfect quarter\" to move meaningfully higher. He said he thinks it may deliver one. Thursday Walmart reports, and Cramer remains bullish. \"I remain convinced that Walmart is one of the greatest companies of the era,\" he said, praising its broad appeal and value proposition. Software company Workday also reports as investors debate whether artificial intelligence will disrupt traditional software-as-a-service businesses. While Cramer said he doesn't expect weak results, he warned investors remain skeptical about software names. Friday BJ's Wholesale Club reports. Cramer said there may be a catch-up opportunity in the smaller retailer, though Costco remains his long-term favorite. Costco is also a holding in the Charitable Trust.",
+    "raw_meta": {
+      "rss_entry_id": "108307899",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {
@@ -1525,6 +1984,38 @@
       "twitter_handle": "fchollet",
       "category_hint": "ai_research",
       "author_handle": "@fchollet"
+    }
+  },
+  {
+    "id": "238da4f2-06ca-4a78-9edf-dfe03f58cfad",
+    "cluster_id": "11a2064b-f74b-48b9-9c55-87a4bb316629",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Xbox is now XBOX",
+    "teaser": "Xbox is undergoing a major rebranding, adopting all caps—XBOX—as part of a comprehensive 'return' strategy spearheaded by CEO Asha Sharma.",
+    "summary": "Xbox is undergoing a visible rebranding, adopting all caps—XBOX—a shift Microsoft appears to be implementing after a fan poll. This move signals a wider 'return of Xbox' strategy championed by CEO Asha Sharma. The adoption of all caps recalls the console's original branding, mirroring the style used for the Xbox 360 and Xbox Series X/S. This rebranding is part of larger changes, including the renaming of the core gaming division back to Xbox and significant organizational updates to build a platform that is 'affordable, personal, and open.'",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
+    "date": "2026-05-15T23:10:13Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Tom Warren",
+    "content": "Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Microsoft should use Xbox or XBOX. The results were in favor of XBOX, and the company has now renamed its X account. Curiously, the Threads and Bluesky accounts for Xbox haven't been renamed yet, but if Microsoft is going ahead with a rebranding then I expect those will change soon. I asked Microsoft to comment on this potential Xbox rebranding and the company simply referred me to Sharma's post. The use of all caps for Xbox is a return to original form, though. Microsoft's first Xbox logo for its console was all caps, and the company has favored using similar capped versions for the Xbox 360, Xbox One, and Xbox Series X / S console logos. The apparent rebranding comes just a few weeks after Sharma scrapped Microsoft Gaming and renamed Microsoft's gaming division back to Xbox. It's part of Sharma's continued promise of a \"return of Xbox,\" which has involved fan-focused console updates , a new Xbox logo , Game Pass pricing changes , and lots more in recent weeks. Last week Sharma also outlined her first major organizational changes at Xbox and revealed a new Xbox boot-up animation . The reorganization of the Xbox platform team is designed to \"build a platform that is affordable, personal, and open by staying close to the work and the people we serve,\" according to Sharma .",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=931918",
+      "rss_tags": [
+        "Gaming",
+        "Microsoft",
+        "News",
+        "Tech",
+        "Xbox"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {
