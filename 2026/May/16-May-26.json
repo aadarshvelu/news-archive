@@ -752,6 +752,32 @@
     }
   },
   {
+    "id": "2160f48a-6c72-4d58-bd78-109bc3922646",
+    "cluster_id": "5c2617c2-d635-4e8d-8b62-56395972480c",
+    "cluster_size": 1,
+    "source": "ylecun",
+    "title": "Trump disparages the European Union as a collective force against the United States, but his threats, tariffs, and arbit...",
+    "teaser": "Trump's actions, not the EU's unity, have driven European cohesion.",
+    "summary": "Kenneth Roth notes that despite Donald Trump characterizing the European Union as a collective opponent of the United States, Trump's own policy actions—such as threats and imposing tariffs—have been the primary catalysts in recent years for fostering unity and cooperation within Europe. The accompanying image depicts a group of European political figures, reinforcing the concept of unified leadership discussed in the text.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://x.com/KenRoth/status/2055743049695654137",
+    "date": "2026-05-16T20:11:51Z",
+    "image_url": "https://pbs.twimg.com/card_img/2055210990971637760/-AbgS3IE?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Kenneth Roth",
+    "content": "Trump disparages the European Union as a collective force against the United States, but his threats, tariffs, and arbitrary conduct have done more than anything else in recent years to unify Europe.",
+    "raw_meta": {
+      "twitter_handle": "ylecun",
+      "category_hint": "ai_research",
+      "author_handle": "@KenRoth",
+      "is_repost": true,
+      "reposted_by": "@ylecun"
+    }
+  },
+  {
     "id": "07c36414-b30d-4fae-90f2-42ca5f11813f",
     "cluster_id": "61e7813f-76a3-4713-8693-d2ce98d9a4f0",
     "cluster_size": 1,
@@ -938,6 +964,36 @@
       "is_repost": true,
       "reposted_by": "@noahpinion",
       "merged_tweet_count": 2
+    }
+  },
+  {
+    "id": "938690a0-2d6b-4772-bf56-7de90de6a9ce",
+    "cluster_id": "b7f0b428-c1cf-45ab-94cb-6506e06dc137",
+    "cluster_size": 2,
+    "source": "Fortune",
+    "title": "Leaders, stop with the Gen Z generalizations",
+    "teaser": "Leaders are urged to stop using generalizations about Gen Z, advocating instead for a more nuanced understanding of the generation.",
+    "summary": "The article title 'Leaders, stop with the Gen Z generalizations' suggests a broader discussion on avoiding stereotypes when analyzing or leading younger generations. The piece aims to caution corporate and institutional leaders against using broad or simplistic generalizations about Gen Z, advocating instead for nuanced understanding and individual consideration when developing strategies or policies. While the article body provides no detailed content, the core message centers on moving beyond superficial profiling to engage with the cohort's complexities.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://fortune.com/2026/05/16/gen-z-stereotypes-boardroom-decision-making-leaders/",
+    "date": "2026-05-16T07:00:00Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/alex-cooper.png?resize=1200,600",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Alex Cooper",
+    "content": "© 2026 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.",
+    "raw_meta": {
+      "rss_entry_id": "https://fortune.com/?p=4486681&showAdminBar=true",
+      "rss_tags": [
+        "Future of Work",
+        "Leadership",
+        "Future of Work"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {
