@@ -553,6 +553,32 @@
     }
   },
   {
+    "id": "fbf183a1-d08f-42e2-875f-e5d8ce38593d",
+    "cluster_id": "958f0a68-98df-4a9f-a9ed-f83823df384f",
+    "cluster_size": 1,
+    "source": "ylecun",
+    "title": "Howard Lutnick's FIRST political donation since becoming Commerce Secretary was a $5 MILLION donation to House Republica...",
+    "teaser": "Commerce Secretary Howard Lutnick donated $5 million to House Republicans just one month before testifying about his ties to Jeffrey Epstein.",
+    "summary": "According to Senator Chris Van Hollen, Commerce Secretary Howard Lutnick made a significant $5 million political donation to House Republicans shortly before appearing before them for an interview regarding his past relationship with Jeffrey Epstein. This donation marks Lutnick's first reported political contribution since assuming his role as Commerce Secretary.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://x.com/ChrisVanHollen/status/2057903114875797598",
+    "date": "2026-05-22T19:15:11Z",
+    "image_url": "https://pbs.twimg.com/media/HI8j-ikXAAAuzUy?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Senator Chris Van Hollen",
+    "content": "Howard Lutnick's FIRST political donation since becoming Commerce Secretary was a $5 MILLION donation to House Republicans 1 month before they interviewed him about his ties to Jeffrey Epstein.\n \nLet that sink in.\n\n\nhttps://\nnytimes.com/2026/05/22/us/\npolitics/howard-lutnick-donation-house-republicans.html\n…",
+    "raw_meta": {
+      "twitter_handle": "ylecun",
+      "category_hint": "ai_research",
+      "author_handle": "@ChrisVanHollen",
+      "is_repost": true,
+      "reposted_by": "@ylecun"
+    }
+  },
+  {
     "id": "10edc747-8fe4-44d1-8a90-bc1bd82475ac",
     "cluster_id": "6a0ee88d-eee9-457e-ae48-4d6b0128a962",
     "cluster_size": 3,
@@ -576,6 +602,34 @@
       "gmail_labels": [],
       "gmail_msgid": "1865923254612294111",
       "gmail_thrid": "1865923254612294111"
+    }
+  },
+  {
+    "id": "051bbc74-ffcd-42c5-954b-42680b22d0bc",
+    "cluster_id": "4f0d314f-8b11-4bb2-9805-4f573f438f7a",
+    "cluster_size": 4,
+    "source": "The Register",
+    "title": "Zuck defends monitoring employees to win AI race in purported leaked audio",
+    "teaser": "To win the AI race, Meta CEO Zuckerberg defends monitoring employees' keystrokes and clicks, sparking controversy over internal corporate surveillance.",
+    "summary": "Driven by an intense focus on winning the competitive AI race, Meta CEO Mark Zuckerberg is advocating for the use of employee monitoring—collecting keystrokes, mouse clicks, and screenshots—to feed its AI models. Meta calls this data collection the Model Capability Initiative (MCI), stating it’s crucial for improving AI tools like coding abilities. The company is simultaneously undergoing massive restructuring, reportedly laying off 10% of its workforce and reassigning 7,000 employees to specialized AI units. Zuckerberg argued that Meta's internal workforce is superior to contractors. Despite assurances that data will not be used for performance tracking, staff protests highlight deep concerns about the corporate surveillance required for Meta’s projected $162-$167 billion AI investment.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/ai-ml/2026/05/22/zuck-defends-monitoring-employees-to-win-ai-race-in-purported-leaked-audio/5245379",
+    "date": "2026-05-22T20:55:41Z",
+    "image_url": "https://image.theregister.com/250238.jpg?imageId=250238&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "ai + ml Zuck defends monitoring employees to win AI race in purported leaked audio Limping Llama model needs a crutch made of surveillance tools Meta CEO Mark Zuckerberg appears so determined to win the AI race that he is willing to sacrifice some employee privacy to make it happen. In a leaked audio recording published by the worker advocacy group More Perfect Union, Zuckerberg purportedly answered an employee's question about \"device monitoring\" with a six-minute monologue in which he said Meta employees are very smart and to win the most competitive technology race in history, he would need to collect their keystrokes , mouse clicks, and screenshots to make its own AI measure up to its rivals. \"We are using this to feed a very large amount of content into the AI model, so that way it can learn how smart people use computers to accomplish tasks. I think that this is going to be a very big advantage if we can do it,\" Zuckerberg purportedly said during an April 30 meeting in which an employee asked about the \"top of mind\" issue. Meta did not reply to an email from The Register seeking comment and has not confirmed the authenticity of the audio clip, but a company spokesperson confirmed in April that Meta would monitor employees to train AI. Meta's tracking tool is called Model Capability Initiative, according to reports. The audio was posted the same day Meta announced 8,000 job cuts . It captured Zuckerberg's thoughts on the news, first reported by Reuters , that Meta planned to install software on employees' computers to monitor activity for AI training. More Perfect Union did not reply to an email from The Register seeking comment. \"So if we're trying to teach the models coding, for example, then having people internally build tools that or solve tasks that help teach the model how to code, we think, is going to dramatically increase our models' coding ability faster than what others in the industry have the capability to do, who don't have thousands and thousands of extremely strong engineers at their company,\" he purportedly said in the audio. \"So that's one example. Another thing that our system needs to be very good at is using computers, so the way that you get a system to be good at using computers is by having it watch really smart people use computers. So that's basically the essence of what we are trying to do here.\" In one part of the audio, Zuckerberg said the software would not be used to surveil employees' actions on the job, though he stopped short of saying the data would be anonymized. Rather, he said the purpose was narrowly focused on making its AI work better than competitors. \"The content is sort of, you know, stripped out in like as much as is possible,\" he purportedly said in the leaked audio. \"It's like none of the data has been used for like looking at what people are doing, or surveillance, or performance tracking, or anything like that.\" That aligns with what a Meta spokesperson told Reuters: that MCI data would not be used for performance assessments. European employees are reportedly exempt from the program because the EU's General Data Protection Regulation likely prohibits this type of monitoring without explicit consent, according to multiple reports. Meta is not the only major technology company turning to its own workforce for AI training data. The Information reported this week that Microsoft and xAI are also leveraging internal employees to generate and refine training datasets. In a similar vein to what Zuckerberg purportedly said, Microsoft, which employs thousands of software engineers, reportedly views its workforce as a competitive advantage for improving GitHub Copilot. In the recording, Zuckerberg purportedly said Meta settled on using its own employees over contractors because they were smarter. \"One basic insight and hypothesis that we have is that a lot of data generation across the field is done by these like contract companies,\" Zuckerberg purportedly said. \"(B)ut in general, the average intelligence of the people who are at this company is significantly higher than the average set of people that you can get to do tasks if you're working through these contractors.\" However, the contractor pipeline is also being watched. In January 2026, Wired reported that OpenAI's data vendor, Handshake AI, began asking freelance contractors to upload real work products from past and current jobs, including contracts, financial models, presentations, and code repositories. OpenAI provided a tool to help contractors strip confidential information before uploading, but intellectual property lawyers warned the approach carries significant legal risk. Zuckerberg said this sort of surveillance and the difficult conversations around it are the cost of competing at the frontier of AI. \"How do we navigate running the company through what is just this incredibly dynamic period?\" he said. \"There's lots of things that people would like more certainty on than we have.\" ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5245379",
+      "rss_tags": [
+        "ai + ml"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {
@@ -1744,6 +1798,35 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "38a1f6dd-606c-401b-8bcf-8e8eb37b3864",
+    "cluster_id": "56cd6b94-329d-4841-b834-643a8caf000a",
+    "cluster_size": 2,
+    "source": "pmarca",
+    "title": "My laptop screen looks pretty much like this all day now and same on my iPhone when I work (which could be anywhere now)...",
+    "teaser": "A developer workflow setup using Termius on a VPS to manage multiple, isolated websites and services.",
+    "summary": "The user, @levelsio, shares a sophisticated developer setup allowing them to manage and work on multiple independent websites from a single Virtual Private Server (VPS). By leveraging Termius, they create profiles that instantly drop them into dedicated 'tmux' sessions for each site, ensuring they can maintain isolated and persistent environments for development, fixing, or building new features across all their projects.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://x.com/levelsio/status/2057939237303914660",
+    "date": "2026-05-22T21:38:43Z",
+    "image_url": "https://pbs.twimg.com/media/HI9DZw1XkAIkGKv?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "@levelsio",
+    "content": "My laptop screen looks pretty much like this all day now and same on my iPhone when I work (which could be anywhere now)\n\nIt's just tabs for my sites, all on a VPS, synced with my iPhone via \n@TermiusHQ\n (unaffiliated) and usually with Claude Code open to fix or build new things\n\n@levelsio wrote:\n> So here's my latest set up\n\nEvery site I have is a profile on Termius like \n\n> hoodmaps .com\n\nI click it and immediately I'm in my server and I get dropped in a tmux session that's always tied to the corresponding site I wanna log in to\n\nTo make this work I have this startup  x.com/ldsc4303/statu…",
+    "raw_meta": {
+      "twitter_handle": "pmarca",
+      "category_hint": "startup",
+      "author_handle": "@levelsio",
+      "quoted_author": "@levelsio",
+      "quoted_handle": "@levelsio",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@pmarca"
     }
   },
   {
