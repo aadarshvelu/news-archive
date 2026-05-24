@@ -184,6 +184,32 @@
     }
   },
   {
+    "id": "a930b758-56ad-44b4-a3a0-36cde963027f",
+    "cluster_id": "b1e51968-8ea4-4eb4-9d8f-47cb87b6320e",
+    "cluster_size": 4,
+    "source": "TLDR AI",
+    "title": "Anthropic Microsoft deal 🤝, Cursor $3B ARR📈, cloud agent lessons 🤖",
+    "teaser": "OpenAI leads Anthropic in Q1 revenue, but Anthropic's ambitious profit targets suggest the AI race for leadership remains fiercely contested.",
+    "summary": "The competitive landscape in generative AI was highlighted by OpenAI reporting $5.7 billion in Q1 revenue, leading Anthropic. While OpenAI's growth is attributed to enterprise adoption via tools like Codex and increased paid uptake, Anthropic has set a $10.9 billion second-quarter revenue target, indicating a steep path to challenge its rival. The article also covered other tech highlights, including Cursor, whose annualized revenue reached $3 billion and is potentially targeted by SpaceX for $60 billion. Furthermore, advanced research in Sparse Autoencoders (SAEs) offers new ways to map neural geometry, while Alibaba’s Qwen3.7-Max emerges as a powerful agent-foundation model. The overall message is that despite high valuations and intense competition, the sustainable scaling of AI compute remains a critical long-term bottleneck.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FTgMrfv/1/0100019e4fdb2098-430ea0b0-aa21-4a39-a17b-298855b25af8-000000/_fxRiuGR-duICf5w7wK6QhbJRNhbbo5qImOAaHrkEAE=452",
+    "date": "2026-05-22T13:23:41Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "TLDR AI",
+    "content": "Cursor Hits $3 Billion Annual Sales Rate Ahead of SpaceX Deal (2 minute read) Cursor's annualized revenue hit $3 billion in late April. The company now has more than 3,000 customers paying at least $100,000 each for its software on an annualized basis. The business has become one of the fastest-growing startups of all time. SpaceX has the right to buy Cursor for $60 billion during a 30-day window that starts soon after it begins trading publicly. SpaceX is expected to list its shares on June 12. Manus Weighs Raising $1 Billion to Unwind Meta Takeover (4 minute read) Manus has been told to unwind its acquisition by Meta by China's regulators. Its founders now need to raise funds to buy back the operation. They are now in discussions for funding and may chip in with their own money to finance the transaction. A reversal of a deal this large months after completion is virtually unheard of. Frontier labs don't use most AI compute (yet) (26 minute read) The current rate of scaling compute isn't sustainable unless AI starts to dramatically accelerate economic growth. There is no guarantee that this rate of AI capex spending can continue after 2026. However, flat compute capex is still growing the compute stock for years. AI chips will still improve, and companies can research and train models even with a fixed amount of compute. Qwen3.7: The Agent Frontier (15 minute read) Alibaba's Qwen team released Qwen3.7-Max as a proprietary agent-foundation model that posts top scores on Terminal-Bench 2.0-Terminus, SWE-Pro, SciCode, MCP-Mark, GPQA Diamond, HMMT Feb 2026, and IMOAnswerBench, with consistent performance across Claude Code, OpenClaw, Qwen Code, and custom harnesses. Can SAEs Capture Neural Geometry? (6 minute read) Sparse autoencoders (SAEs) can help explore neural geometry by representing curved manifolds using several distinct methods, including shattering, compact capture, and dilution. The study reveals that each SAE feature only represents part of the whole manifold, necessitating the clustering of features to understand the overall structure. An unsupervised pipeline leveraging these findings could enhance our understanding of neural networks by reconstructing the internal geometric structures on their terms. How Google plans to win the AI war (4 minute read) Google is aggressively integrating AI into its products to remain competitive while protecting its lucrative core businesses. The company leverages its scale, distribution, and financial resources to deploy AI like Gemini 3.5 Flash and features such as YouTube's \"Ask YouTube.\" Despite challenges, Google aims to maintain market leadership by adapting its offerings swiftly without undermining its existing revenue streams. OpenAI's Q1 revenue was $5.7 billion, beating Anthropic (2 minute read) OpenAI reported $5.7 billion in Q1 revenue, surpassing Anthropic. The high demand for AI inference chips has companies like Amazon, Google, and potentially Microsoft vying to supply custom solutions. Anthropic's rapid adoption by enterprises has exposed compute constraints, leading it to strike deals with multiple providers to secure capacity.",
+    "raw_meta": {
+      "gmail_message_id": "305",
+      "gmail_uid": "305",
+      "gmail_labels": [],
+      "gmail_msgid": "1865895087652659942",
+      "gmail_thrid": "1865895087652659942"
+    }
+  },
+  {
     "id": "b52f9640-b0ac-42bc-bfbd-6766b4fde9fd",
     "cluster_id": "bfe5582f-7833-4b5f-ad87-3993a625e0d0",
     "cluster_size": 3,
@@ -924,6 +950,85 @@
     }
   },
   {
+    "id": "a6a2b8ac-c2e0-4843-be45-325536cbc928",
+    "cluster_id": "3cef8cd7-0692-4204-8240-ac0eaa841d7d",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "Generic LLMs won’t cut it — AI agents demand unified context",
+    "teaser": "Generic LLMs can't manage complex business incidents; effective AI agents demand a unified data foundation, linking ITSM, ITAM, and ITOM context.",
+    "summary": "Effective AI agents require unified context, moving beyond the limitations of generic Large Language Models (LLMs). Freshworks is consolidating its Freshservice platform to unify IT service, asset, and operations management (ITSM, ITAM, ITOM) under a single foundation. This strategy was highlighted by the launch of Freddy AI Agent Studio. Companies are adopting this unified approach to tear down data silos. For instance, iQor successfully integrated acquisitions and reduced ticket volume by 39% using Freshservice's AI capabilities. Similarly, New Balance focused on using the platform to deliver a world-class employee experience, confirming that platform consolidation is crucial for modern enterprise operations.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/05/22/unified-ai-service-management-creates-competitive-edge-freshworksrefresh/",
+    "date": "2026-05-22T13:14:40Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/wzBWAlEE_M0-HD-e1779448938340.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Jonathan Anthony",
+    "content": "Unified AI service management lives or dies on context - and that context demands consolidating fragmented tools, data and operations into a single foundation . That consolidation imperative is now the central argument behind Freshworks Inc.'s expanded Freshservice platform , which the company has grown over the past year to span IT service management, IT asset management and IT operations management - all within a single environment. At the core of these developments - along with Freshworks' agentic strategy - is the idea that context is what separates effective AI from generic AI, and without a unified foundation, AI simply cannot understand the business impact of any given incident, according to Freshworks Chief Product Officer Srini Raghavan (pictured, left). \"The generic LLMs don't have knowledge about your specific environment,\" Raghavan said. \"What we have done [at Refresh 2026] is bringing ITSM, ITOM, and ITAM together so that our AI capabilities, our AI agents that we launched today, they know what the underlying context is and they will be able to resolve incidents way more effectively.\" Raghavan and Martha Perez (right), vice president of IT at iQor Holdings Inc., spoke with Bob Laliberte at the Freshworks Refresh event, during an exclusive broadcast on theCUBE, SiliconANGLE Media's livestreaming studio. They discussed unified AI service management, the expanded Freshservice platform and how iQor, a global business process outsourcing company, is driving transformation through platform consolidation. (* Disclosure below.) Unified AI service management demands a unified data foundation The momentum behind AI service management is accelerating, but the organizations that are achieving results are not simply buying new tools - they are tearing down silos first. Freshworks has reinforced that thesis with the launch of Freddy AI Agent Studio , a no-code environment that lets IT and business teams build, customize or deploy domain-specific AI agents in weeks rather than quarters, with governance and auditability built into the platform, according to Raghavan. \"The trust, governance, security and the compliance [elements] - these are non-negotiables for us,\" Raghavan said. \"Customers tell us they want all the data that they have to be governed and all the actions that they have to be auditable. We have built that as part of the platform.\" The real-world proof is compelling. iQor used Freshservice to integrate two acquired companies into its IT infrastructure, including one with no ticketing system or change management process, Perez noted. The team added change management and asset management on top of existing workflows and completed both integrations in record time, she added. That momentum has carried over into how iQor's teams are embracing AI-driven automation. \"It's not about being replaced. It's about doing other things,\" Perez said. \"We have reduced our ticket volume by 39% just by using chatbot and orchestration. [Our team's] SLAs are faster. User experience has improved tremendously - our CSATs prove so. There was hesitation at the beginning, but now they're actually welcoming the fact that they're learning something new.\" Here's the complete video interview, part of SiliconANGLE's and theCUBE's coverage of the Freshworks Refresh event: (* Disclosure: TheCUBE is a paid media partner for the Freshworks Refresh event. Neither Freshworks, the sponsor of theCUBE's event coverage, nor other sponsors have editorial control over content on theCUBE or SiliconANGLE.) Photo: SiliconANGLE A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=761459",
+      "rss_tags": [
+        "AI",
+        "Cube Event Coverage",
+        "NEWS",
+        "#FreshworksRefresh",
+        "#theCube",
+        "AI agents",
+        "AI service management",
+        "automation",
+        "Bob Laliberte",
+        "customer experience",
+        "digital transformation",
+        "employee experience",
+        "enterprise AI",
+        "Freddy AI Agent Studio",
+        "Freshservice",
+        "Freshworks",
+        "Freshworks Refresh 2026",
+        "FreshworksRefresh26eventpage",
+        "iQor",
+        "IT service management",
+        "Martha Perez",
+        "Srini Raghavan",
+        "unified AI service management",
+        "NASDAQ:FRSH"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "c4f815d7-6a9a-4a2c-a3a7-2b4e29146226",
+    "cluster_id": "d239bf94-9f66-49cf-9f99-c91f1aa31aac",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "AT&T sues to ditch Cali copper phone lines to save billions",
+    "teaser": "AT&T sues California over copper lines, arguing the old network serves only 3% of homes, while critics warn vulnerable users could be left behind in the fiber transition.",
+    "summary": "AT&T is pushing to abandon its aging copper phone network in California, citing the need to invest $19 billion in fiber optics for over 4 million households. The company filed a lawsuit against state officials to dismantle 'Carrier of Last Resort' (COLR) rules that mandate maintaining the outdated Plain Old Telephone Service (POTS). While AT&T claims the old lines only serve 3% of homes, critics, including public interest groups, warn that the transition could endanger vulnerable users, such as the elderly or those with specialized medical equipment. They point out that the FCC directive weakens previous safeguards meant to ensure reliable service replacement.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/networks/2026/05/22/att-sues-to-ditch-cali-copper-phone-lines-to-save-billions/5244917",
+    "date": "2026-05-22T13:29:00Z",
+    "image_url": "https://image.theregister.com/226807.jpg?imageId=226807&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Networks AT&T sues to ditch Cali copper phone lines to save billions Telecoms giant files suit in Golden State so it doesn't have to maintain network it claims is hardly used AT&T wants to ditch its traditional copper phone line infrastructure\nin California in favor of fiber everywhere, claiming it has to spend $1 billion\neach year on a telephone network that a tiny percentage of customers use. The US telecoms giant announced plans this week to invest $19\nbillion in The Golden State between now and the end of the decade to bring\nfiber to more than 4 million additional households and businesses, upgrading customers\nto the newer infrastructure. As part of its plans, the telco has filed a lawsuit [PDF] against\nseveral state officials seeking a court order to overturn California rules that\nrequire AT&T to continue offering a \"plain old telephone service\" (POTS). AT&T points out that the Federal Communications\nCommission (FCC) recently adopted\nrules that encourage telcos to retire their aging copper lines. The Washington-based telecoms regulator said the expansion\nof fiber cabling is hindered by \"the need for carriers to divert precious\nresources to the maintenance of deteriorating legacy networks that deliver\noutdated services to an ever-decreasing number of subscribers.\" In its court filing, AT&T says \"the copper wires\nthat once served every home now serve just 3 percent of households in\nAT&T's California territory,\" but complains that state-level \"Carrier of Last\nResort\" (COLR) rules require it to continue supporting and maintaining POTS\neven after the FCC has authorized the service to be phased out. Under basic pre-emption\nprinciples, those COLR rules cannot stand, it asserts. But while the telco likes to portray this as bringing\nfaster and more reliable modern network technology to all California residents,\ncritics say rushing to phase out the old phone network could\nleave some users behind. A nonprofit public interest group, Public Knowledge, previously warned the FCC directive could impact consumers in rural areas, the\nelderly, those with disabilities, and anyone who relies on specialized medical\nequipment that uses phone lines. As The Register has previously covered, the UK's former state-level\noperator BT was forced to delay plans to turn off the public switched telephone network (PSTN) and replace it all with all-fiber infrastructure after similar concerns\nwere raised. This followed the introduction of a government charter to protect\nvulnerable customers, particularly those using TeleCare, which supports alarms\nthat the elderly or infirm can trigger if they need emergency assistance. AT&T said it will take \"a thoughtful, phased\napproach to upgrade customers,\" and claimed \"no customer will be left\nwithout access to phone or 911 service.\" However, Public Knowledge said the FCC order relaxes or\nentirely drops various safeguards put in place by previous US administrations, including the requirement to prove through engineering tests that a new service adequately replaces the old for medical equipment and alarm systems. \n®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5244917",
+      "rss_tags": [
+        "networks"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "61a80358-23ce-4585-a978-a7f7ceccfe8a",
     "cluster_id": "a67a12d5-f830-4d15-a187-1f6664b4eb8f",
     "cluster_size": 2,
@@ -1252,6 +1357,35 @@
     }
   },
   {
+    "id": "daa7152a-f5b3-4195-b808-6ccc393adaf9",
+    "cluster_id": "f3e28a77-add5-4ae3-bc81-c2175fe0f7ed",
+    "cluster_size": 2,
+    "source": "pmarca",
+    "title": "A major talking point for those who think AI will cause mass unemployment is the recent slowdown in junior-level hiring....",
+    "teaser": "New research suggests that the slowdown in junior-level hiring isn't primarily due to AI, but rather the rise of work-from-home (WFH) policies.",
+    "summary": "Lambert and Schindler's working paper, supported by the attached graph, analyzes hiring data across four countries. They find that the negative correlation between AI exposure and junior hiring vanishes when controlling for WFH. Conversely, WFH remains strongly correlated with reduced hiring when controlling for AI. The paper theorizes that WFH makes supervision and on-the-job learning harder, causing firms to invest less in less experienced junior talent. The graph visually shows this attenuation of the 'Gen'AI' coefficient when 'WFH' is added as a co-treatment.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://x.com/CharlesFLehman/status/2057843766585856295",
+    "date": "2026-05-22T15:19:21Z",
+    "image_url": "https://pbs.twimg.com/media/HI7snGPbIAA2yfN?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Charles Fain Lehman",
+    "content": "A major talking point for those who think AI will cause mass unemployment is the recent slowdown in junior-level hiring. Lambert and Schindler, in this new working paper, point to a different culprit: work from home policies.\n\nUsing data on ~250 million hires across four countries,they show that AI exposure strongly correlates with a role being work from home. So you have to disentangle the two to get a clean estimate.\n\nWhich is the driving variable? They find that the effect of exposure to AI on junior hiring ~vanishes when you control for WFH, whereas the effect of WFH remains ~unchanged when you control for AI exposure.\n\nIn other words: it's WFH, not AI, that is slowing junior hiring.\n\nWhy? Their theory: \"WFH makes supervision, monitoring, and on-the-job learning harder, all of which hit junior-workers more. Firms less willing to invest in junior talent when these frictions rise.\"\n\nI think that makes sense. WFH involves a certain degree of trust and makes management harder. If an employee is less experienced, all else equal you're less likely to prefer them for a WFH position.\n\nBigger takeaway, though: if AI is going to take all our jobs, it's sure not there in the data yet!\n\n@pj_lambert wrote:\n> Is GenAI causing the relative decline in early-career hiring? Our latest research finds that these effects may be conflated with another important driver: the rise of WFH arrangements (1/N)",
+    "raw_meta": {
+      "twitter_handle": "pmarca",
+      "category_hint": "startup",
+      "author_handle": "@CharlesFLehman",
+      "quoted_author": "Peter John Lambert",
+      "quoted_handle": "@pj_lambert",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@pmarca"
+    }
+  },
+  {
     "id": "3dc34a4f-eeff-4258-925e-8d794d369b43",
     "cluster_id": "d87add6c-3bf4-40c6-8d53-aead40876760",
     "cluster_size": 1,
@@ -1384,6 +1518,33 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "a144a25c-18da-41f5-a2bf-f33c95114f9a",
+    "cluster_id": "5f1f1a8d-0e64-4870-b161-25ac6d14927a",
+    "cluster_size": 2,
+    "source": "paulg",
+    "title": "The New York Times rightly stands behind  @NickKristof  's careful and accurate account of Israel's systematic sexual as...",
+    "teaser": "Kenneth Roth, reposted by @paulg, weighs in on Israel's actions against Palestinian prisoners, while also offering philosophical advice on tackling seemingly 'impossible' challenges.",
+    "summary": "Kenneth Roth, surfaced via a repost from @paulg, first commended The New York Times for its accurate account of Israel's alleged systematic sexual assault of Palestinian prisoners. He then offered a philosophical reflection, cautioning against the belief that 'nothing is impossible' in practice, calling it a terrible strategy. Roth suggested a better approach is to distinguish between degrees of impossibility and focus energy on challenges that seem only 'just barely impossible,' believing that deeper examination might prove them solvable. (Authored by @KenRoth)",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://x.com/KenRoth/status/2057856381953167661",
+    "date": "2026-05-22T16:09:29Z",
+    "image_url": "https://pbs.twimg.com/card_img/2057579085824397313/R603eN72?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Kenneth Roth",
+    "content": "The New York Times rightly stands behind \n@NickKristof\n 's careful and accurate account of Israel's systematic sexual assault of Palestinian prisoners.\n\nI understand why people advocate believing that \"nothing is impossible,\" but in practice it would be a terrible strategy, and I doubt anyone sane actually operates this way.\n\nA better approach is to try to distinguish between degrees of impossibility, and to focus on the things that seem to be just barely impossible. Maybe some of them will turn out not to be, when you examine them more closely. But that's as strongly as you can put it.",
+    "raw_meta": {
+      "twitter_handle": "paulg",
+      "category_hint": "startup",
+      "author_handle": "@KenRoth",
+      "is_repost": true,
+      "reposted_by": "@paulg",
+      "merged_tweet_count": 3
     }
   },
   {
@@ -1988,6 +2149,30 @@
     }
   },
   {
+    "id": "e17809aa-9123-4e6b-bdd6-a235b7910116",
+    "cluster_id": "1c94a012-69cb-43e2-a37e-1e0bf2418b57",
+    "cluster_size": 1,
+    "source": "emollick",
+    "title": "Strawberry was the popular code word for reasoning, as implemented in o1-preview, in case that wasn’t clear.",
+    "teaser": "Strawberry was the popular code word for reasoning, as implemented in o1-preview, in case that wasn’t clear.",
+    "summary": "Ethan Mollick (@emollick) notes that 'Strawberry' was the popular code word used for the reasoning capability, which was implemented in the o1-preview, clarifying the internal naming convention for this feature.",
+    "importance": 3,
+    "category": "ai_products",
+    "url": "https://x.com/emollick/status/2057809414371831839",
+    "date": "2026-05-22T13:02:51Z",
+    "image_url": "https://pbs.twimg.com/card_img/2056964584079228929/vAohF73c?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Ethan Mollick",
+    "content": "Strawberry was the popular code word for reasoning, as implemented in o1-preview, in case that wasn’t clear.",
+    "raw_meta": {
+      "twitter_handle": "emollick",
+      "category_hint": "ai_research",
+      "author_handle": "@emollick"
+    }
+  },
+  {
     "id": "76e119f7-a672-4398-9791-6aa3daa0d2b5",
     "cluster_id": "fb6d4274-9c36-4f5c-8843-b16ff53f8101",
     "cluster_size": 1,
@@ -2011,6 +2196,36 @@
         "Deals",
         "Gadgets",
         "Verge Shopping"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "d905d6bc-6bc1-4341-b51d-c93988639e18",
+    "cluster_id": "32e8106b-a666-4f38-9f30-c2f80df78a20",
+    "cluster_size": 1,
+    "source": "Fortune",
+    "title": "Apple’s Steve Wozniak says he cofounded the tech giant after 5 rejections from HP—not to ‘make money.’ For years, his paycheck was just $50",
+    "teaser": "Before Apple, Steve Wozniak faced 5 rejections from HP, and his first paycheck barely covered $50.",
+    "summary": "Tech legend Steve Wozniak revealed that his journey to cofounding Apple was anything but smooth, starting with professional setbacks. He recounted being rejected five times by the tech giant HP. Furthermore, he noted that when he first started out, his paycheck was only $50. This story highlights the challenging early days of the personal tech industry, contrasting his eventual success with humble beginnings and rejection.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://fortune.com/2026/05/22/apple-cofounder-steve-wozniak-not-in-it-for-the-money-rejected-from-hp-personal-computer-passions-gen-z-advice/",
+    "date": "2026-05-22T15:02:07Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2173419411-stevewoz.jpg?resize=1200,600",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Preston Fore",
+    "content": "© 2026 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.",
+    "raw_meta": {
+      "rss_entry_id": "https://fortune.com/?p=4491563&showAdminBar=true",
+      "rss_tags": [
+        "Success",
+        "Leadership",
+        "Success"
       ],
       "fetch_ok": true,
       "fetch_status": 200,

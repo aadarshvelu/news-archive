@@ -54,6 +54,35 @@
     }
   },
   {
+    "id": "3046098c-f730-4f01-a7eb-91dbd46641b9",
+    "cluster_id": "8d4f4afa-8217-4ecf-a92e-f95f1d1380a7",
+    "cluster_size": 3,
+    "source": "Noahpinion",
+    "title": "Here’s a key line in this mythos update. This is precisely an example of why engineers don’t go away, ever.   We’ve made...",
+    "teaser": "Cybersecurity bottleneck shifts: Finding bugs is easy; fixing them requires human ingenuity, predicting a boom in security engineer jobs.",
+    "summary": "According to Aaron Levie, as tools make it easier to discover security vulnerabilities in open-source code (like the vulnerabilities found by Anthropic AI), the primary bottleneck in cybersecurity is no longer detection, but the human capacity to efficiently review, respond to, and fix the resulting issues. He suggests that despite AI advances, significant human judgment and triage work remains essential, predicting an upcoming 'security engineer boom' due to this increased demand.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://x.com/levie/status/2058006473620463985",
+    "date": "2026-05-23T02:05:53Z",
+    "image_url": "https://pbs.twimg.com/media/HI-B-yya0AAJrlW?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Aaron Levie",
+    "content": "Here’s a key line in this mythos update. This is precisely an example of why engineers don’t go away, ever. \n\nWe’ve made it far easier to create and find security issues, which means the new bottleneck is our ability to actually review, respond to, and fix the issues. \n\nFar from AI magically solving all of this, there still is major triage work and human judgment required to do the follow on work to actually protect systems. As a result, we’re about to enter a security engineer boom.\n\nJevons paradox all over again.\n\n@AnthropicAI wrote:\n> Last month we launched Project Glasswing, our collaborative AI cybersecurity initiative. Since then, we and our partners have found more than ten thousand high- or critical-severity vulnerabilities in essential software.",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@levie",
+      "quoted_author": "Anthropic",
+      "quoted_handle": "@AnthropicAI",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@noahpinion"
+    }
+  },
+  {
     "id": "77dfced9-e2ab-4933-bf48-612d092f9dff",
     "cluster_id": "9e1bbbce-fb9a-45f4-bc26-9be489ada099",
     "cluster_size": 3,
@@ -81,6 +110,33 @@
     }
   },
   {
+    "id": "c61c6d7d-7fe5-48d6-87b3-6e06353eb021",
+    "cluster_id": "48b38862-870e-4498-9f41-61aad595af32",
+    "cluster_size": 1,
+    "source": "dhh",
+    "title": "Working with  @flavorjones  at both  @37signals  and in  @rails  has been such a delight. Great to have him on the commi...",
+    "teaser": "@flavorjones joins the Rails Committers team, bolstering framework security and collaboration for the Rails community.",
+    "summary": "DHH announced that @flavorjones has joined the Rails Committers team, recognizing his valuable work, particularly in framework security. The image clarifies that the Committers team plays a vital role in processing pull requests and suggesting changes to the Rails framework. However, the team's function is explicitly stated as assisting with development, as they do not possess the keys to make final releases or set policy, ensuring proper governance within the open-source community.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://x.com/dhh/status/2058111534589489557",
+    "date": "2026-05-23T09:03:22Z",
+    "image_url": "https://pbs.twimg.com/media/HI_cPTSXgAA-hdI?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "DHH",
+    "content": "Working with \n@flavorjones\n at both \n@37signals\n and in \n@rails\n has been such a delight. Great to have him on the committers team alongside this fine gang of excellent programmers working to advance Rails.\n\n@rails wrote:\n> We're please to announce that @flavorjones has joined the Rails Committers team. His work on framework security in particular has been greatly appreciated! \nhttps://\nrubyonrails.org/community",
+    "raw_meta": {
+      "twitter_handle": "dhh",
+      "category_hint": "tech_news",
+      "author_handle": "@dhh",
+      "quoted_author": "Ruby on Rails",
+      "quoted_handle": "@rails",
+      "is_quote_tweet": true
+    }
+  },
+  {
     "id": "e0248ec4-4711-40dc-852e-a6ce83cb23ad",
     "cluster_id": "1f67fdc0-cf03-49b9-ae8b-50aa71a50e8d",
     "cluster_size": 2,
@@ -104,6 +160,35 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "6f7e8c1e-23ba-4f98-96f5-27fb01b31068",
+    "cluster_id": "6856e1e0-bb95-4acb-bfee-273663e8722e",
+    "cluster_size": 1,
+    "source": "Noahpinion",
+    "title": "This is not even the worst of it. Kids who grew up with these kinds of safetist constraints end up being very distrustin...",
+    "teaser": "This infographic reveals alarming statistics on parental constraints: up to 92% of 14-year-olds are reportedly unable to leave their neighborhood, pointing to a potential decline in social capital due to a culture obsessed with safety.",
+    "summary": "Analysis of the 'Anxious Generation of American Family Culture' survey reveals widespread and increasing safety constraints on American children's mobility. The data shows that by age 14, 92% of children cannot leave their neighborhood, and restrictions persist through age 17. The author argues that this hyper-focus on safety creates a culture of distrust, which ultimately impairs social capital and contributes to increased anxiety in the adult population.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://x.com/tunguz/status/2058191770425372781",
+    "date": "2026-05-23T14:22:12Z",
+    "image_url": "https://pbs.twimg.com/media/HI7iPQDWIAE5KNt?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Bojan Tunguz",
+    "content": "This is not even the worst of it. Kids who grew up with these kinds of safetist constraints end up being very distrusting of strangers as adults as well. One of the consequences of this is a total implosion of social capital.\n\n@stevemagness wrote:\n> 84% of 11-year-olds aren't allowed to leave their street.\n\n53% can't leave their front yard.\n\n92% of 14-year-olds can't leave their neighborhood.\n\nWe built a culture obsessed with safety. The result? A generation that's measurably more anxious: \nhttps://\nstevemagness.substack.com/p/the-cost-of-\nsafetyism\n…",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@tunguz",
+      "quoted_author": "Steve Magness",
+      "quoted_handle": "@stevemagness",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@noahpinion"
     }
   },
   {
@@ -190,6 +275,35 @@
     }
   },
   {
+    "id": "f012e3ee-00dd-4898-8126-9f3e2aecf7c3",
+    "cluster_id": "fda44d89-c294-4ea2-a5a4-89c79c8c0aa5",
+    "cluster_size": 2,
+    "source": "Noahpinion",
+    "title": "The GLP-1 era is quietly rewriting 40 years of public health failure. Obesity has been falling YoY since GLP-1 adoption...",
+    "teaser": "Obesity rates appear to be trending downwards, potentially signaling a major positive shift in metabolic health, coinciding with the increased adoption of GLP-1 medications.",
+    "summary": "The tweet argues that the GLP-1 era is marking a significant positive shift in public health, showing that obesity rates have been falling year-over-year (YoY) since the scaling of GLP-1 adoption. The accompanying graph from Epic Research validates this, illustrating a clear downward trend in the Obesity Rate while simultaneously showing a sharp increase in 'Any GLP-1 Use' from 2021 to 2026. The trend suggests that the epidemic might finally be receding.",
+    "importance": 5,
+    "category": "ai_research",
+    "url": "https://x.com/PeptideProSrc/status/2058219198229401905",
+    "date": "2026-05-23T16:11:11Z",
+    "image_url": "https://pbs.twimg.com/media/HI58q0fXkAA38kz?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "PeptideProSource",
+    "content": "The GLP-1 era is quietly rewriting 40 years of public health failure. Obesity has been falling YoY since GLP-1 adoption started scaling and the seasonal pattern is now trending DOWN each cycle. \n\nThis is the biggest metabolic health shift in modern history and we're living through it.\n\n@cremieuxrecueil wrote:\n> Obesity rates appear to be seasonal in America.\n\nAnd Q1 2026 has a lower obesity rate than Q1 2025. Q1 2025 has a lower obesity rate than Q1 2024, and...\n\nObesity is falling! The epidemic might finally be over!",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@PeptideProSrc",
+      "quoted_author": "Crémieux",
+      "quoted_handle": "@cremieuxrecueil",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@noahpinion"
+    }
+  },
+  {
     "id": "02138fe6-64c1-4eaf-9a95-911891c7675f",
     "cluster_id": "464e1dbf-4bd2-457a-969a-99d3d724fc2e",
     "cluster_size": 3,
@@ -213,6 +327,152 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "c788c531-3509-4901-90cf-39f2861e831b",
+    "cluster_id": "716c76de-98b0-4c94-97cb-4a262da68896",
+    "cluster_size": 1,
+    "source": "Noahpinion",
+    "title": "Cats who drink filtered water live longer.  Cats who drank primarily filtered water had 87% lower odds of developing kid...",
+    "teaser": "⚠️ Warning for cat owners: Scientific evidence suggests that tap water significantly increases the risk of chronic kidney disease (CKD) in cats, while filtered water offers a protective benefit.",
+    "summary": "According to recent veterinary research presented in the attached article, both water type and diet are critical factors in feline kidney health. Specifically, cats drinking filtered water showed a dramatically lower risk of CKD compared to those consuming tap water. The findings indicate that improper hydration and environmental factors—as detailed in the scientific literature—can drastically impact kidney function, emphasizing the need for pet owners to monitor water quality and general welfare.",
+    "importance": 5,
+    "category": "other",
+    "url": "https://x.com/maxlugavere/status/2058235527368003900",
+    "date": "2026-05-23T17:16:04Z",
+    "image_url": "https://pbs.twimg.com/media/HJBSTcYbcAAx4YU?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Max Lugavere",
+    "content": "Cats who drink filtered water live longer.\n\nCats who drank primarily filtered water had 87% lower odds of developing kidney disease. Tap water led to 3.4x higher risk.",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@maxlugavere",
+      "is_repost": true,
+      "reposted_by": "@noahpinion"
+    }
+  },
+  {
+    "id": "d8a1cafb-3dec-4157-9924-3ab0417cd919",
+    "cluster_id": "cc649a9b-8d3a-45e5-8607-9f6cb80b8e03",
+    "cluster_size": 1,
+    "source": "paulg",
+    "title": "Whenever there’s a question of “Why is ____ so expensive???”  The answer is almost always a collection of regulations yo...",
+    "teaser": "Restrictive building codes, such as the ban on scissor stairs, artificially increase housing costs by wasting valuable space.",
+    "summary": "Allie Voss argues that the high cost of housing is often due to restrictive and outdated building codes. The tweet highlights the reform of implementing 'scissor stairs,' a code-compliant design shown in the attached image. This design can significantly free up living space (up to 56%) on each floor, leading to increased efficiency and ultimately making homes cheaper, especially on smaller lots. The author notes that this reform has been banned in most US states since the 1970s.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://x.com/allie__voss/status/2058239995089924594",
+    "date": "2026-05-23T17:33:49Z",
+    "image_url": "https://pbs.twimg.com/media/HI7-oocWYAAxM5-?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Allie ✞",
+    "content": "Whenever there’s a question of “Why is ____ so expensive???”\n\nThe answer is almost always a collection of regulations you had no idea exist\n\n@realsaadasad wrote:\n> Washington unanimously legalized scissor stairs, a building code reform that frees up to 56% more living space per floor. \n\nLess wasted space means cheaper homes on smaller lots. \n\nMost US states banned this since the 1970s for no good reason.",
+    "raw_meta": {
+      "twitter_handle": "paulg",
+      "category_hint": "startup",
+      "author_handle": "@allie__voss",
+      "quoted_author": "Saad Asad",
+      "quoted_handle": "@realsaadasad",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@paulg"
+    }
+  },
+  {
+    "id": "699867a5-95d7-4349-ab5c-62027c70b71a",
+    "cluster_id": "aca158f7-8eee-42e1-82b8-0684ca244c99",
+    "cluster_size": 3,
+    "source": "levelsio",
+    "title": "After this post my Google Maps has now also been banned from reviewing places  No wonder every place is now a 4.7/5, the...",
+    "teaser": "User criticizes Google Maps' strict review moderation policies, stating that banning reviews is censoring free speech and eroding the platform's credibility.",
+    "summary": "A user shares their frustration and concern regarding Google Maps' strict content moderation, noting that their account was restricted from posting reviews. The user contends that user reviews are protected opinions and not defamation, arguing that Google's policies—especially those citing defamation laws in specific regions—are severely limiting free speech. The attached image serves as proof of this restriction, highlighting the tension between platform content control and user freedom of expression.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://x.com/levelsio/status/2058256531058221114",
+    "date": "2026-05-23T18:39:32Z",
+    "image_url": "https://pbs.twimg.com/media/HJBjkg_XkAAAXjO?format=jpg&name=360x360",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "@levelsio",
+    "content": "After this post my Google Maps has now also been banned from reviewing places\n\nNo wonder every place is now a 4.7/5, they all converge to that rating if you just remove all the bad ratings\n\nInterestingly, my account has been banned because of my reviews in Dubai from ages ago, I know UAE has strict defamation laws, so I think businesses use that to remove reviews there\n\nI don't know why the Google Maps team is allowing this though, a review or rating is not defamation, it's just an opinion, and Google needs that opinion for people to know where to go\n\nWhat Google should be doing I think is defending the people who review and rate places in court wherever they live, because by just allowing any business to remove bad ratings/reviews, they make Google Maps completely non-credible!\n\nLong term people will just use other apps to find good places and I don't think you want that \n@sundarpichai\n\n\nMaybe we need \n@X\n Maps with real reviews \n@elonmusk\n?\n\n@levelsio wrote:\n> My gf is banned from reviewing places in Europe on Google Maps after she gave one restaurant in Portugal a 1-star review\n\nWhen she reviews inside EU it gets auto rejected, outside EU she can review any place\n\nFree speech in Europe has sadly died a long time ago x.com/jmkettle/statu…",
+    "raw_meta": {
+      "twitter_handle": "levelsio",
+      "category_hint": "startup",
+      "author_handle": "@levelsio",
+      "quoted_author": "@levelsio",
+      "quoted_handle": "@levelsio",
+      "is_quote_tweet": true
+    }
+  },
+  {
+    "id": "989184c5-8e6f-4cb2-a734-ae15b8e005d3",
+    "cluster_id": "e18a9506-ae38-4d2c-8a9f-053563de73a2",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+    "teaser": "SolarSquare is in talks to raise up to $60M in a massive funding round, signaling rapid investor belief in India's residential solar market.",
+    "summary": "SolarSquare, an Indian rooftop solar startup, is reportedly advancing talks to secure a Series C funding round of $55M-$60M. Co-leads for this round include B Capital and Lightspeed Venture Partners. The deal is expected to value SolarSquare between $450 million and $500 million, representing a significant increase from its previous valuation. This influx of capital highlights the soaring investor confidence in India's residential solar sector. India itself has set an ambitious goal of achieving 500 gigawatts of renewable energy capacity by 2030, with solar powering over half of that. SolarSquare, which services homes and housing societies, has installed over 150 megawatts across 29 cities.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+    "date": "2026-05-23T20:03:13Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/solarsquare-solar-panel.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Jagmeet Singh",
+    "content": "SolarSquare , an Indian rooftop solar startup that helps households and housing societies adopt solar power, is in advanced talks to raise fresh capital after securing India's largest solar venture investment in December 2024, TechCrunch has learned. B Capital and Lightspeed Venture Partners are set to co-lead the Series C round, which could value SolarSquare at between $450 million and $500 million and bring in $55 million to $60 million in new investment, according to multiple people familiar with the matter. That would represent more than a doubling of SolarSquare's valuation in roughly 18 months - a sign of how rapidly investor conviction is building around India's residential solar market. Lightspeed Venture Partners previously led SolarSquare's $40 million Series B round at around a $200 million post-money valuation in December 2024. This time, according to a source, it's investing through its growth fund, which has backed names such as Razorpay - India's leading digital payments platform - and Zepto, the fast-delivery startup. Existing investor Elevation Capital is also expected to participate in the deal, which is currently in advanced stages and is expected to close next month. The terms could still change as the financing has not yet been finalized. SolarSquare has raised $61.1 million in equity financing to date, per the startup data platform Tracxn . India has set a target of achieving 500 gigawatts of renewable energy capacity by 2030, with solar expected to contribute more than half of that total. The country became the world's third-largest solar power producer in 2025, trailing only China and the U.S. Its cumulative installed solar capacity has surged from about 3 GW in 2014 to more than 150 GW in 2026 , aided partly by government incentives and subsidy schemes aimed at accelerating rooftop solar adoption. Mumbai-headquartered SolarSquare, founded in 2015, is positioning itself as a full-stack residential solar platform in a market that remains highly fragmented, dominated by small local installers and dealer networks tied to component manufacturers such as Tata Power, Waaree Energies, Luminous Power Technologies, and Exide Industries. The startup designs, installs, and maintains rooftop solar systems for homes, housing societies (the apartment complexes and gated communities common across urban India), and enterprises, and has installed more than 150 megawatts of solar capacity with a presence across 29 cities in nine states, per its website. SolarSquare has powered nearly 50,000 homes and around 400 housing societies, according to a source. The startup has also deployed rooftop solar systems for large enterprises including Swiggy, Zepto, and iD Fresh Food. Residential customers and housing societies now account for a majority of SolarSquare's business, according to people familiar with the startup's operations, as the startup has increasingly scaled back lower-margin industrial rooftop solar projects in recent years. The startup has crossed an annualized revenue run rate of more than ₹10 billion (around $104 million) across homes and housing societies combined, according to a source familiar with the matter. It also aims to reach 200 megawatts in its residential solar portfolio this year, the source added. SolarSquare declined to comment. B Capital, Lightspeed Venture Partners, and Elevation Capital did not respond to requests for comment.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3125780",
+      "rss_tags": [
+        "Climate",
+        "Startups",
+        "b capital",
+        "Elevation Capital",
+        "Exclusive",
+        "lightspeed venture partners",
+        "SolarSquare"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "005eb39a-0059-4a0a-9e95-9935d1a42b2a",
+    "cluster_id": "18b5e344-904f-4518-bc35-c6619affd1bc",
+    "cluster_size": 2,
+    "source": "GaryMarcus",
+    "title": "This is collectively the largest financial iceberg ever put in front of the stock market. This is $5 trillion in TOTAL A...",
+    "teaser": "Jim Stewartson warns that the current hype around AI companies (OpenAI, Anthropic, SpaceX) represents a $5 trillion 'financial iceberg' bubble destined to burst, despite bullish views from experts like @PeterDiamandis.",
+    "summary": "Jim Stewartson, surfaced via a repost from @GaryMarcus (originally from @jimstewartson), warns that the current focus on AI companies—like OpenAI, Anthropic, and SpaceX—is an 'iceberg' of overvaluation, representing $5 trillion in 'TOTAL AIR.' Stewartson argues these companies, which have not generated significant revenue, are artificially prolonging the AI Bubble. He contrasts this view with @PeterDiamandis' bullish assertion that these three companies will be historically significant IPOs, and @AlexanderKalian's general view that speculative hype bubbles are natural market cycles that must eventually burst for efficient capital reallocation.",
+    "importance": 5,
+    "category": "economics",
+    "url": "https://x.com/jimstewartson/status/2058327420755980539",
+    "date": "2026-05-23T23:21:13Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Jim Stewartson, Decelerationist",
+    "content": "This is collectively the largest financial iceberg ever put in front of the stock market. This is $5 trillion in TOTAL AIR.\n\nThese companies have never made a dime.\n\nSpaceX is literally a government welfare project. OpenAI & Anthropic burn money in a furnace.\n\nI see dead people.\n\n@PeterDiamandis wrote:\n> OpenAI, Anthropic, SpaceX. Three of the most important companies in human history. All are going public within months of each other. These IPOs will be unlike anything in the history of financial markets.\n\nThe biggest myth of all is that I am the only one who doubts  the hype.  Demonize me all you like, but the bubble is still probably gonna burst. \n\nSo many other people see it, too.\n\n@AlexanderKalian wrote:\n> Speculative hype bubbles come and go as part of the market cycle, and they do have some economic benefits.\n\nBut they must eventually burst, to force more efficient capital reallocation.\n\nThe major AI companies are instead trying to artificially prolong the AI Bubble through",
+    "raw_meta": {
+      "twitter_handle": "GaryMarcus",
+      "category_hint": "ai_research",
+      "author_handle": "@jimstewartson",
+      "quoted_author": "Peter H. Diamandis, MD",
+      "quoted_handle": "@PeterDiamandis",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@GaryMarcus",
+      "merged_tweet_count": 2
     }
   },
   {
@@ -241,6 +501,35 @@
       "quoted_handle": "@theo",
       "is_quote_tweet": true,
       "merged_tweet_count": 6
+    }
+  },
+  {
+    "id": "640547bb-0a3e-4589-910c-de99db75c25f",
+    "cluster_id": "a814a879-84fc-4018-a2df-4af28c71ed55",
+    "cluster_size": 2,
+    "source": "pmarca",
+    "title": "I can share an interesting experience from last week. We have a person who is incharge of buying hardware, software and...",
+    "teaser": "An employee used Claude AI to build a complex, integrated inventory/maintenance portal for hardware/software, showing AI's 'killer use case' potential.",
+    "summary": "Rishabh Mukherjee reports on a colleague who used Claude AI to build a full tracking and maintenance portal for company hardware and software inventory, integrating it with existing monitoring software. He argues this demonstrates AI's 'killer use case' potential: simplifying complex business functions that are otherwise too challenging for non-developers but too small to justify hiring a dedicated developer. This initial report, reposted by @pmarca, was met with skepticism from @Priyansh_31Dec, who commented, 'Peak delusion,' challenging the notion that non-coders are now as skilled as actual developers merely because of advanced AI coding tools.",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://x.com/rishabhm/status/2058046743758209076",
+    "date": "2026-05-23T04:45:55Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Rishabh Mukherjee",
+    "content": "I can share an interesting experience from last week. We have a person who is incharge of buying hardware, software and data sets. This might sound stupid but when you are buying 100s of servers, workstations and laptops a month, it's complicated. This dude used Claude to create an entire tracking and maintanence portal that inventoried everything. He even managed to integrate the portal with our monitoring software to display the status of every server vm. He then modified it to store invoices and so on. He's been at it for a couple of weeks and we've been able to identify wastage and needs.\n\nWithout Claude, this would have been a maze of spreadsheets and a lot of manual labor. But we wouldn't have hired a developer for this. To me, this kind of software is the killer use case for AI. Enough to simplify your life, but not enough to justify hiring someone or buying a product.\n\nIs the code great? Is it scalable? Is it good software engineering? No, no and no. But that's besides the point.\n\n@Priyansh_31Dec wrote:\n> Peak delusion.\n\nPeople who can’t code, think they’re now as good as people who can code, because apparently AI tools can code very well now.",
+    "raw_meta": {
+      "twitter_handle": "pmarca",
+      "category_hint": "startup",
+      "author_handle": "@rishabhm",
+      "quoted_author": "Priyansh Agarwal",
+      "quoted_handle": "@Priyansh_31Dec",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@pmarca"
     }
   },
   {
@@ -326,6 +615,32 @@
     }
   },
   {
+    "id": "c6bab502-fd12-4142-88f2-4c631110a222",
+    "cluster_id": "e3fc7430-d767-4cad-b20f-20d867c3e98a",
+    "cluster_size": 1,
+    "source": "ylecun",
+    "title": "Francis Fukuyama on the U.S. as a declining power:  American decline is a direct product of Trump's rise since 2016.  It...",
+    "teaser": "Francis Fukuyama: Donald Trump's actions since 2016 are the direct cause of American decline and global instability.",
+    "summary": "According to Francis Fukuyama, the United States has become a 'rogue state' contributing to global instability and is viewed as a 'laughingstock' by friends and rivals alike. Fukuyama argues that this decline is directly attributable to Donald Trump's actions since 2016. He points to Trump's polarization of the country, the cutting of funding for basic scientific research, and the undermining of American universities as evidence that Trump has weakened the U.S. vis-à-vis China. Furthermore, he notes that Trump and his allies have prioritized viewing domestic opponents (Democrats) as a greater threat than geopolitical rivals like China or Russia.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://x.com/clashreport/status/2058137041532039481",
+    "date": "2026-05-23T10:44:43Z",
+    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2058136908547407872/img/PoScxdJ-OLhl6NCf.jpg",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Clash Report",
+    "content": "Francis Fukuyama on the U.S. as a declining power:\n\nAmerican decline is a direct product of Trump's rise since 2016.\n\nIt is as if Trump had decided to do everything in his power to weaken the United States vis-à-vis China. \n\nHe has polarized an already polarized country, cut funding for basic scientific research, and attacked American universities which are the best in the world.\n\nHe and his colleagues have openly stated that their domestic opponents — the Democrats — are a far greater threat to the future of the United States than either China or Russia.\n\nThere is agreement among America's friends and rivals that the United States has become something of a rogue state that is contributing to global instability and disorder — as well as something of a laughingstock.",
+    "raw_meta": {
+      "twitter_handle": "ylecun",
+      "category_hint": "ai_research",
+      "author_handle": "@clashreport",
+      "is_repost": true,
+      "reposted_by": "@ylecun"
+    }
+  },
+  {
     "id": "d536c770-4437-47f9-8aeb-049dfdfb1d2e",
     "cluster_id": "8d4f4afa-8217-4ecf-a92e-f95f1d1380a7",
     "cluster_size": 2,
@@ -379,6 +694,32 @@
         "Streaming",
         "Tech"
       ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "fdc6a34a-3bc5-43d2-ac6b-0d8feee17801",
+    "cluster_id": "feaacab9-47c4-4238-bb22-f00803b45fba",
+    "cluster_size": 1,
+    "source": "CNBC - Top News",
+    "title": "‘Blue dot fever’? What's really behind a tricky summer dynamic for live music",
+    "teaser": "Inflation is creating a stark 'K-shaped' dynamic in live music, making massive concerts accessible to the rich while leaving many fans 'priced out' of the market.",
+    "summary": "The live music industry is navigating a challenging economic dynamic, dubbed 'blue dot fever,' where soaring prices and inflation are causing consumers to become highly selective. The market is showing a 'K-shaped demand curve': wealthy patrons can afford mega-stars like Harry Styles (who is doing a 30-show residency at MSG), but the high costs—with basic tickets reaching $500+—are leaving many fans 'priced out.' Data shows that demand is diverging, with stadium-scale events thriving, while smaller venues struggle. Economists point to the broader macroeconomic environment as the cause, noting that the average ticket price for a top 100 tour reached $136 in 2024, a 50% increase since 2019. Fans are prioritizing experiences that offer high value, while the lower end of the market struggles against persistent inflation.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://www.cnbc.com/2026/05/23/concert-ticket-prices-live-music-demand.html",
+    "date": "2026-05-23T12:00:01Z",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108300007-1777561389061-gettyimages-2225069509-img_0972.jpeg?v=1777561412&w=1920&h=1080",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Rolfo | Moment | Getty Images This summer, mega artist Harry Styles will take the stage at Madison Square Garden in New York City for an exclusive 30-show residency - his only planned stop in the country and a show that's garnered intense attention since its announcement. Despite her best efforts, Shira Elfassy won't be there. \"His tickets were absurd,\" Elfassy, 29, told CNBC. \"It felt like an insult going in and seeing, like, not only can I not get in, not only are there no tickets left, but even then, the most basic price point is $500 for a nose-bleed seat - and this is becoming commonplace.\" Instead, Elfassy said she got tickets to see other artists live, like Florence + the Machine and Olivia Rodrigo, at far lower price points. She said feeling \"priced out\" of some concerts is now a common occurrence. \"It's just a weird dynamic now. ... At this point, if I have to make the decision between making more summer plans or hanging out with my friends - or even just [to] pay rent - or I can go to this concert, it's a no-brainer,\" she said. \"But it didn't used to be that way.\" Elfassy represents a growing cohort of consumers who aren't willing to keep up with the rising prices for live music, creating a K-shaped demand curve where higher-income consumers are spending more - and keeping prices inflated - while lower-income consumers are pulling back. That dynamic has played out across discretionary spending categories , like retail, dining and travel, as Americans grapple with persistent inflation, economic uncertainty and, now, soaring gas prices. In live music, this K-shaped environment is spurring fears that the lower end of the market is falling out entirely. Some are calling the demand shifts \"blue dot fever,\" named for the blue dots on Ticketmaster seating maps that denote an unsold ticket. For some artists, it's forcing them to take a critical look at their performances. Post Malone, Zayn and The Pussycat Dolls are just a few examples of artists who have canceled shows or tours in recent months, with the last group openly admitting that poor ticket sales was the catalyst. Last summer, even before the most recent pricing pressures, industry research suggested higher ticket prices were helping to prop up the overall health of the market. Goldman Sachs analysts wrote in a 2025 report that demand for live music was expected to grow at a 7.2% compounded annual growth rate between 2024 and 2030. Average ticket price for a concert in one of the top 100 global tours, the report found, was $136 in 2024, up 50% from an average of $91 in 2019. How inflation is changing concert spending Several of the major ticketing companies told CNBC they're not seeing more show cancellations this summer than an average year. \"Of all the shows Live Nation has on the books this year, less than 1% have been cancelled,\" a spokesperson for the Ticketmaster parent said. \"That's not 'blue dot fever' - it's a normal touring year; in fact, 2026 is shaping up to be a record with concert ticket sales up 11% for the year.\" The spokesperson added that roughly 70% of tickets sold on its platform are priced under $100. Live Nation and Ticketmaster have faced scrutiny over the company's ticketing practices and dominant influence in the music industry. The company faced legal challenges over alleged anticompetitive behavior and reached a settlement with the Department of Justice in March. A federal jury found last month that Live Nation held an anticompetitive monopoly, though the company said in a statement at the time, \"The jury's verdict is not the last word on this matter.\" The Live Nation website arranged on a laptop in New York, US, on Wednesday, April 17, 2024. Gabby Jones | Bloomberg | Getty Images StubHub , a ticket reseller, told CNBC that the company is seeing the K-shaped pattern take shape in live music, with demand diverging fast between various events. While StubHub said overall concert demand is up nearly 10% year-over-year, it's not across the board. Ticket demand for stadium-scale events is up significantly, while demand for mid-size and smaller venues is waning. The events that are struggling to sell are facing a \"supply-sizing problem,\" according to Jill Gonzalez, head of consumer communications at StubHub. The events earning the strongest fan attention, she said, are stadium tours, residencies and marquee festivals. \"What our data makes clear is that fan demand for live music hasn't softened, but it's sharpened,\" Gonzalez told CNBC. \"Fans are making deliberate choices about where they spend, and when they decide a show is worth it, the demand signal is as strong as anything we've seen on our platform.\" Ticket platform SeatGeek said while more artists are announcing tours, the resale environment remains healthy. \"If you have more artists that are flooding the market with tours, you're going to have the gross number of cancellations pick up year-over-year, so that's expected,\" said Oliver Marvin, the company's senior director of strategic finance. \"But the overall number, cancellations as a percentage of people who are out on tour, is not too much different than what we've seen in prior years.\" He added that the company is seeing some consumers dive in for last-minute tickets out of hope the prices will drop for tours that aren't garnering as much immediate demand. Why stadium tours still draw big demand Experts say dropping demand for some shows may be more nuanced than what meets the eye. As prices everywhere rise, and consumers begin to be more intentional about how they're spending their money, the blame of unsold tickets may be more appropriately placed on the macroeconomic environment rather than on the artists themselves, according to Sam Howard-Spink, the director of music business at New York University. \"It's really mostly to do with the economics of live performance and touring right now, which is also at the moment, I would say, very closely tied to economic conditions and cost-of-living questions,\" Howard-Spink said. Tighter spending among fans can turn a tour misstep into a disaster, he suggested, like if an artist plans dates at an inappropriately sizes venue or in an off-base market. While nostalgia for older acts can occasionally draw crowds, it's struggling to outweigh all other factors. And while bigger artists can still sell out a stadium, less-popular acts are falling short. \"Harry Styles, Bad Bunny, Lady Gaga, Ariana Grande - these are acts of, 'I'm not really going to have too much trouble,'\" he said. \"But if you're talking about like ... an early 2000s band that might not just be able to pull in those crowds, maybe they are overconfident in the kinds of venues that they think that they can fill up.\" Artur Debat | Moment | Getty Images Howard-Spink added that the business of music has long been considered largely \"recession-resistant,\" even weathering the pandemic well. But because concert tickets are a scarce resource, as opposed to music streaming, it's allowed the prices to rise rapidly. Music publicist Eric Alper noted artists couldn't have foreseen these macroeconomic factors currently at play when booking out their tours months in advance. There's also more artists on tour this year than past years, he said, crowding the schedule. With prices broadly higher, fans are also seeking out more experiences that give them a bang for their buck, he added, as the live music scene sees a rise in residencies, along with unique new venues like The Sphere in Las Vegas. \"What people want, they want the choreography, they want the lights, they want the superior sound, they want great sightlines,\" Alper said. \"They're not just going to sit there and spend $150 to go watch a band play with very bare bones.\" Still, Alper said, he believes the diehard fans are willing to pay up. \"If you're a fan of an artist, I don't think you care about the high ticket prices as much as people think that they do,\" Alper said. \"People want the experience, and they also want to tell people that they were there.\"",
+    "raw_meta": {
+      "rss_entry_id": "108309038",
+      "rss_tags": [],
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
@@ -702,6 +1043,35 @@
     }
   },
   {
+    "id": "162b8537-e8fc-4a3e-8ec9-0c8d9e446ec3",
+    "cluster_id": "f5696832-57be-4ebe-8198-4ae4a9243961",
+    "cluster_size": 1,
+    "source": "ylecun",
+    "title": "“If we erase January 6th, it didn’t happen”  “If we don’t release certain inflation data, there’s no inflation”  “If we...",
+    "teaser": "🚨 Historical erasure warning: 'If we erase January 6th, it didn’t happen.' A quote-tweet highlights the DOJ removing Jan. 6 news releases, calling it 'partisan propaganda.'",
+    "summary": "Melanie D'Arrigo, via a quote-tweet, and reposted by @ylecun, raises a concern about the tendency to minimize or dismiss inconvenient facts. The original tweet poses rhetorical questions such as: 'If we erase January 6th, it didn’t happen,' and 'If we stop Covid testing, [then there’s no data]'. The accompanying quote-tweet from @ABC reports that the Department of Justice acknowledged removing news releases about Jan. 6 prosecutions, dismissing the information as “partisan propaganda.”",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://x.com/DarrigoMelanie/status/2058213892870815994",
+    "date": "2026-05-23T15:50:06Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Melanie D'Arrigo",
+    "content": "“If we erase January 6th, it didn’t happen”\n\n“If we don’t release certain inflation data, there’s no inflation”\n\n“If we don’t measure food insecurity, no one’s hungry”\n\n“If we delete research on right-wing violence, there’s no right-wing violence”\n\n“If we stop Covid testing,\n\n@ABC wrote:\n> The Department of Justice is acknowledging it has removed from its website news releases about criminal cases related to the Jan. 6, 2021, riot, calling the information about the prosecutions “partisan propaganda.” \nhttps://\nabcnews.link/A8W2vOT",
+    "raw_meta": {
+      "twitter_handle": "ylecun",
+      "category_hint": "ai_research",
+      "author_handle": "@DarrigoMelanie",
+      "quoted_author": "ABC News",
+      "quoted_handle": "@ABC",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@ylecun"
+    }
+  },
+  {
     "id": "65052ea3-bb6c-4c97-9e2d-ab3d065e7dcb",
     "cluster_id": "9b4ef159-7a55-4d2a-9b18-16f816aa74d8",
     "cluster_size": 1,
@@ -846,6 +1216,34 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "cde648ed-b314-43f9-9a31-8d6299e4d438",
+    "cluster_id": "1778276a-9c34-41e6-813c-2b4b4121c792",
+    "cluster_size": 2,
+    "source": "Noahpinion",
+    "title": "Humanity has one great tool, and it's called \"drawing straight lines\"  @Jackbmeyer wrote: > Recent LLM advances in mathe...",
+    "teaser": "A discussion on the fundamental skills driving AI advances (linear algebra) and the immigrant role in the global tech startup economy.",
+    "summary": "Noah Smith's quote-tweet highlights that fundamental skills like 'drawing straight lines' are key to modern technological progress. This is supported by the observation (via a quote from @Jackbmeyer) that recent LLM advances in mathematics primarily require linear algebra. The thread further discusses the economic structure of the tech industry, noting that 'unicorn founder jobs' are poaching jobs from native-born Americans. This trend is reinforced by a related tweet (@AlecStapp) stating that nearly half of the founders of billion-dollar tech startups are immigrants.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://x.com/Noahpinion/status/2058332943240876117",
+    "date": "2026-05-23T23:43:10Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Noah Smith",
+    "content": "Humanity has one great tool, and it's called \"drawing straight lines\"\n\n@Jackbmeyer wrote:\n> Recent LLM advances in mathematics goes to show you really do only need linear algebra\n\nThink of all the unicorn founder jobs these guys have poached from native-born Americans\n\n@AlecStapp wrote:\n> Nearly half of the founders of billion-dollar tech startups are immigrants",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@Noahpinion",
+      "quoted_author": "Jack Meyer",
+      "quoted_handle": "@Jackbmeyer",
+      "is_quote_tweet": true,
+      "merged_tweet_count": 2
     }
   },
   {
@@ -1168,6 +1566,38 @@
       "twitter_handle": "fchollet",
       "category_hint": "ai_research",
       "author_handle": "@fchollet"
+    }
+  },
+  {
+    "id": "6849b5fe-dc8b-429e-a04d-32ad15c86fd7",
+    "cluster_id": "63f16679-5da7-4007-8d3c-dae8c95d3ece",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Record Club is trying to be Letterboxd for music nerds",
+    "teaser": "Record Club aims to be the Letterboxd for music fans, offering a clean interface to track records, create lists, and connect with a global community.",
+    "summary": "Record Club is a new platform aiming to become the Letterboxd for music fans. The service provides a modern, streamlined interface for cataloging listening habits and connecting with other music lovers. Users can rate, review, and track records, while also keeping tabs on friends' listening activities and trending albums. Key features include the ability to create and share custom lists, managing a listening queue, and following both artists and record labels like 4AD and Warp. The platform sources all its data from the open-source MusicBrainz encyclopedia.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
+    "date": "2026-05-23T22:41:11Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-23-at-6.30.34PM.png?quality=90&strip=all&crop=0%2C9.6034762271773%2C100%2C80.793047545645&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music , but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and connecting with other fans. Record Club is clean and modern, with a streamlined interface that's quite similar to Letterboxd. The basic features you'd expect from such a site are all there. You can rate and review records or mark them as listened to. You can also see what your friends are listening to and see what albums are trending with other users. There's a spot on your profile to list your five favorite albums, plus five records you have in heavy rotation. You can also create custom lists (ranked or unranked) and share them - handy for tracking your top albums of the year, or putting together genre-specific crash courses. You can also add records to your queue, so you can keep track of albums you want to listen to, but haven't gotten around to yet. (I'll probably be making extensive use of that.) You can follow your favorite artists as well as entire record labels . That makes it easy to stay on top of new artists on labels like 4AD, AD 93, Fire Talk, and Warp. Record Club pulls all of its data from the open-source music encyclopedia MusicBrainz . If you sign up, give me a follow , and see what I'm spinning on repeat this week.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=936829",
+      "rss_tags": [
+        "Culture",
+        "Entertainment",
+        "Internet Culture",
+        "Music",
+        "News"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {
