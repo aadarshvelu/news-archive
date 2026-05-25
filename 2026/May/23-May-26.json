@@ -137,6 +137,32 @@
     }
   },
   {
+    "id": "1ad30a65-2c91-404b-9652-0313db01161f",
+    "cluster_id": "02d07c48-10d0-4b30-8e44-51ca37ec4616",
+    "cluster_size": 2,
+    "source": "Noahpinion",
+    "title": "CS enrolment is predicted to fall back in the US after a peak.  The humanities and social sciences keep falling.",
+    "teaser": "A projection suggests that while CS enrollment may peak, humanities and social sciences enrollment continue a steady decline, pointing toward a major shift in academic focus.",
+    "summary": "According to a projection showing enrollment index by field, Computer Science enrollment is forecasted to reach a peak around 2026 before beginning a decline. Furthermore, the trend indicates a continued decline in enrollment for both the humanities and social sciences. Conversely, fields like Engineering and Business/Finance are projected to maintain or increase their share of student enrollment throughout the period analyzed (2018-2029), suggesting a significant shift towards STEM and business studies in higher education.",
+    "importance": 5,
+    "category": "economics",
+    "url": "https://x.com/StefanFSchubert/status/2058139007884685643",
+    "date": "2026-05-23T10:52:32Z",
+    "image_url": "https://pbs.twimg.com/media/HI_6hNeXYAAvU0U?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Stefan Schubert",
+    "content": "CS enrolment is predicted to fall back in the US after a peak.\n\nThe humanities and social sciences keep falling.",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@StefanFSchubert",
+      "is_repost": true,
+      "reposted_by": "@noahpinion"
+    }
+  },
+  {
     "id": "e0248ec4-4711-40dc-852e-a6ce83cb23ad",
     "cluster_id": "1f67fdc0-cf03-49b9-ae8b-50aa71a50e8d",
     "cluster_size": 2,
@@ -412,6 +438,32 @@
     }
   },
   {
+    "id": "2a0f429c-bc63-40ec-8303-74f099958f66",
+    "cluster_id": "f908efad-8a76-46b4-a73f-85be322365f5",
+    "cluster_size": 1,
+    "source": "Noahpinion",
+    "title": "The recent decline in young adult happiness is concentrated among the unmarried. But fewer and fewer young adults are ge...",
+    "teaser": "Graph reveals a sharp decline in happiness among young adults who are not married, contrasting with the stable happiness levels among the married population.",
+    "summary": "According to data from the General Social Survey (1980-2024), young adult happiness is declining, with the trend being most pronounced among those who are not married. While the happiness rate for the married population remained high and stable (near 90-91%), the happiness rate for the unmarried group dropped significantly, starting at 83% in 1980 and falling to 68% by 2020. This trend suggests a possible link between marital status and overall life satisfaction among young adults.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://x.com/FamStudies/status/2058276813408006651",
+    "date": "2026-05-23T20:00:07Z",
+    "image_url": "https://pbs.twimg.com/media/HJB32e1aUAA__IC?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "The Institute for Family Studies",
+    "content": "The recent decline in young adult happiness is concentrated among the unmarried. But fewer and fewer young adults are getting married.",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@FamStudies",
+      "is_repost": true,
+      "reposted_by": "@noahpinion"
+    }
+  },
+  {
     "id": "989184c5-8e6f-4cb2-a734-ae15b8e005d3",
     "cluster_id": "e18a9506-ae38-4d2c-8a9f-053563de73a2",
     "cluster_size": 1,
@@ -443,6 +495,33 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "53cb069f-10ab-4a9a-9974-eb4c4e162e6d",
+    "cluster_id": "c3bc1509-b23b-4c5c-a41e-ac05270f1336",
+    "cluster_size": 4,
+    "source": "ylecun",
+    "title": "The Journal of the  @americanacad  just published a new issue of Daedalus on AI and Science, edited by James Manyika....",
+    "teaser": "The new Daedalus issue on AI and Science highlights global talent shifts, underscored by findings on immigrant founders.",
+    "summary": "Erik Brynjolfsson announced that the American Academy just published a new Daedalus issue on AI and Science, edited by James Manyika. The issue features prominent contributors including Demis Hassabis, Yann LeCun, Josh Tenenbaum, Anima Anandkumar, and Eric Topol. While pointing out the historical status of the US as a talent magnet, the post notes this is not inevitable. Furthermore, the tweet was reposted by @ylecun, highlighting Alec Stapp's observation that nearly half of the founders of billion-dollar tech startups are immigrants.",
+    "importance": 5,
+    "category": "world_news",
+    "url": "https://x.com/erikbryn/status/2058291413574644183",
+    "date": "2026-05-23T20:58:08Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Erik Brynjolfsson",
+    "content": "The Journal of the \n@americanacad\n just published a new issue of Daedalus on AI and Science, edited by James Manyika.  \n\nIt has terrific line-up of contributors, including \n@demishassabis\n, \n@ylecun\n, Josh Tenenbaum, \n@AnimaAnandkumar\n, \n@EricTopol\n, \n@alondra\n and many others.\n\nHistorically, the US has been the greatest magnet for talent on earth.\n\nWhether that continues to be the case is not inevitable.\n\n@AlecStapp wrote:\n> Nearly half of the founders of billion-dollar tech startups are immigrants",
+    "raw_meta": {
+      "twitter_handle": "ylecun",
+      "category_hint": "ai_research",
+      "author_handle": "@erikbryn",
+      "is_repost": true,
+      "reposted_by": "@ylecun",
+      "merged_tweet_count": 2
     }
   },
   {
@@ -1598,6 +1677,33 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "c748d83b-5bb3-43cf-9455-70bad355d3d9",
+    "cluster_id": "463ce5c1-c257-40d6-997f-eabee79db565",
+    "cluster_size": 1,
+    "source": "Noahpinion",
+    "title": "New post.  Link below.  International artists find more opportunity in Japan's anime industry",
+    "teaser": "A new post details opportunities for international artists in Japan's anime industry.",
+    "summary": "Arin Dube announced a new article titled, 'Inflation inequality meets wage compression,' which questions whether unequal inflation has undone post-pandemic wage compression. Separately, the announcement points to content regarding the increased opportunities for international artists within Japan's thriving anime industry.",
+    "importance": 3,
+    "category": "world_news",
+    "url": "https://x.com/arindube/status/2058317402190836025",
+    "date": "2026-05-23T22:41:25Z",
+    "image_url": "https://pbs.twimg.com/media/HJCcrHkXsAA2cqh?format=png&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Arin Dube",
+    "content": "New post. \nLink below.\n\nInternational artists find more opportunity in Japan's anime industry",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@arindube",
+      "is_repost": true,
+      "reposted_by": "@noahpinion",
+      "merged_tweet_count": 2
     }
   },
   {

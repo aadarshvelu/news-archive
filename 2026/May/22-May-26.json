@@ -184,6 +184,64 @@
     }
   },
   {
+    "id": "96654f9c-8444-42e7-b8a6-682e8f29758e",
+    "cluster_id": "074dc470-6d22-4941-bc97-e7d65a977c06",
+    "cluster_size": 2,
+    "source": "TLDR AI",
+    "title": "FDE 101 🤝, AI-era positioning crisis🗺️, GTM hiring paradox🏃",
+    "teaser": "The AI age demands strategic positioning, making the Forward Deployed Engineer (FDE) the hottest role as companies pivot to capture the untapped 'identity graph' data.",
+    "summary": "The AI era necessitates strategic re-positioning for B2B products, as customers demand clear roadmaps detailing if a SaaS solution will use chat, agents, or human interaction. Amid these shifts, the Forward Deployed Engineer (FDE) has become a crucial role, serving as a blend of solutions architect and deeply technical consultant who liaises between code and business impact.\n\nMarket data shows a paradox in Go-To-Market (GTM) staffing: While some AI-focused firms are aggressively hiring SDRs, the broader market is seeing significant cuts. However, the demand for human interaction remains high, evidenced by the fact that 3 in 5 open GTM roles are still for AEs or solution engineers.\n\nLooking ahead, consumer tech is predicted to move beyond the 'interest graph' (like TikTok) toward the 'identity graph,' which AI can piece together from unstructured personal data. Tech companies must build mechanisms—like dedicated agent platforms—to handle this complex, high-value data.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faprildunford.substack.com%2Fp%2Fpositioning-in-the-age-of-ai%3Futm_source=tldrfounders/1/0100019e4fae6da8-ef104f3b-2d1b-492c-94b3-5c2d8246bbad-000000/gnGTrOgVFJHejjHKDiopKSTAXeXHeBwUo_zStj_KHc0=452",
+    "date": "2026-05-22T12:34:51Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "TLDR Founders",
+    "content": "Positioning in the age of AI (6 minute read) Customers are wandering through B2B sales calls so confused right now that a clear point of view on the future of your category is no longer optional. They want answers on whether your SaaS product will be fronted by chat, by agents, by humans, or some mix, and they want them in the room. Position against the competitors on their short list today, not the AI-native ones you're afraid will exist next year, but build the roadmap to beat those future ones anyway. Hype the future where you have to, but tie every claim to a feature you can ship now, or you'll lose the deal to indecision or look like a legacy company without a path forward. Who's actually hiring in GTM right now (6 minute read) Cursor, Decagon, and OpenAI are aggressively hiring SDRs while the rest of the market cut SDR roles by 21% year over year. The companies whose entire pitch is \"AI replaces sales\" doubled their own SDR headcount this year. Customer support was the one role they actually automated away, down 37%, the biggest drop of any GTM function. GTM engineering doubled to 400+ across US digital natives, Claude mentions in GTM engineering job posts tripled in one quarter, and 3 in 5 open GTM roles are still AEs or solution engineers because buyers still want to talk to a human. Forward Deployed Engineering 101 (17 minute read) Forward Deployed Engineer (FDE) is the hottest role in tech right now. The FDE is a highly skilled engineer who can understand customers' problems very deeply, write code, and communicate business impact to non-technical decision makers. It is a role that requires the engineer to be on-site with customers. This article explains why Anthropic, OpenAI, Google, and other AIs are looking for FDEs, and how workers can capitalize on this demand. How to win the next wave of consumer software (3 minute read) Facebook used to spend its first ten days with you trying to get you to add seven friends, because the friend graph was the product. TikTok overlaid an interest graph onto Musically's video player and suddenly the feed felt \"For You.\" The next graph is the identity graph, the unstructured stuff that makes you who you are (job, worldview, family, and hobbies), that AI can finally piece together. Whoever connects those signals first wins the next decade of consumer. Your AI agents need more than API keys (Sponsor) Some founders don't realize their AI agents are running on shared API keys and service accounts until something goes wrong. Teleport gives every agent a short-lived identity, scoped access, and a full audit trail so teams can build and scale AI without credential sprawl catching up to them. Try Teleport for free . StoreClaw (Tool) Optimize ecommerce growth with AI agents that analyze store performance and execute sales improvements automatically. PollyReach (Tool) Give AI agents a real phone number to make calls, handle conversations, book reservations, and answer incoming calls. The founder mental health survey (Resource) A founder mental health survey, anonymous, built on validated clinical instrument. PHQ-9 for depression, GAD-7 for anxiety, ASRS for ADHD, MBI-GS for burnout, plus founder-specific sections on cofounder relationships, ambition, and identity-merge with the company. On Blunt Feedback (4 minute read) Blunt feedback can be life-changing if it comes from someone with the right intent and astute judgment in the specific subject matter. Some people use blunt feedback as a weapon for manipulation. Even if they have the right intent, they might not have the skill to give the correct feedback. In many cases, you have to have the confidence to ignore the feedback or significantly adapt it so it actually works. On Grindslop (15 minute read) Will Manidis dissects the founder-suffering content genre as secular hagiography, where podcasters chronicle the seven-day workweeks, office sleeping arrangements, and 20 employees tattooing the company logo on their bodies without ever asking what the company does, because the suffering itself is the product rather than any output. Manidis distinguishes hard companies from \"grindslop\" companies, where performed labor exists to answer the question meritocratic culture cannot otherwise answer: why do you deserve so much. Your app throws bad parties (4 minute read) Pinterest's search data showed \"analog aesthetic\" up 260% and \"dumb phone\" up 150%, so they ran a phone-free activation at Coachella with Yondr pouches and keychain-embellishing tables. eBay just hosted Julia Fox's 450-piece stoop sale in Tribeca with proceeds going to a Rikers book club. That's what an IRL activation looks like when the consumer insight matches the brand, versus an influencer dinner that gets fifteen minutes of fame. The feed is infinite, the room is not, and the brands treating IRL as a growth function will outrun the ones still chasing CAC on the timeline. Why founder conviction matters more than ever (5 minute read) Gamma co-founder Grant Lee challenges the market-validation gospel by citing a Crunchbase study where 34% of 205 failed startups reported \"impressive traction\" in fundraising materials months before dying, arguing downloads, sign-ups, and press are lagging indicators dressed up as proof.",
+    "raw_meta": {
+      "gmail_message_id": "303",
+      "gmail_uid": "303",
+      "gmail_labels": [],
+      "gmail_msgid": "1865892015274855253",
+      "gmail_thrid": "1865892015274855253"
+    }
+  },
+  {
+    "id": "54590a4f-8c8b-422c-86b3-54678ace1ac4",
+    "cluster_id": "483f0ea3-e2ac-4247-97ca-3764ca13ac1d",
+    "cluster_size": 1,
+    "source": "The Deep Dive",
+    "title": "WHO Raises DRC Ebola Outbreak Risk To “Very High”, Cases “Spreading Rapidly”",
+    "teaser": "WHO raises DRC Ebola risk to 'very high' as the Bundibugyo virus spreads rapidly, threatening to overwhelm response efforts.",
+    "summary": "The Ebola outbreak in the Democratic Republic of Congo (DRC) is escalating, forcing the WHO to raise the national risk to \"very high\" as cases are \"spreading rapidly.\" The crisis, caused by the Bundibugyo virus (which lacks a vaccine), is compounded by conflict and difficulty in implementing standard containment measures. WHO declared a Public Health Emergency of International Concern (PHEIC) on May 17. While initial counts show 82 confirmed cases in the DRC, the true numbers are significantly higher, with the outbreak already crossing into Uganda. International support is mounting, including a $60 million release from the UN and a $23 million pledge from the US. Effective containment remains highly challenging in the volatile region.",
+    "importance": 5,
+    "category": "world_news",
+    "url": "https://thedeepdive.ca/who-congo-ebola-risk/?utm_source=rss&utm_medium=rss&utm_campaign=who-congo-ebola-risk",
+    "date": "2026-05-22T13:01:55Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/05/header-template.001-85.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "ER Velasco",
+    "content": "The Ebola outbreak in the Democratic Republic of Congo is forcing health agencies to fund and staff a response before they know the full size of the epidemic, a dangerous gap in a region where conflict, mining traffic, informal healthcare, and cross-border movement can turn missed cases into new transmission chains. WHO Director-General Tedros Adhanom Ghebreyesus said Friday that the agency had raised its national risk assessment for Congo to \"very high\" as cases are believed to be \"spreading rapidly\", while keeping the regional risk high and the global risk low, according to the AP News . He said Congo had 82 confirmed cases and seven confirmed deaths, but added that the real epidemic is larger, with nearly 750 suspected cases and 177 suspected deaths. Reuters reported a separate DRC health ministry count published Thursday showing 61 confirmed cases, 670 suspected cases, and 160 suspected deaths. Uganda has confirmed two cases among people who travelled from Congo, including one death. The strain matters. WHO says the outbreak is caused by a specific Ebola species, Bundibugyo virus. Unlike Ebola Zaire, Bundibugyo has no approved vaccine or targeted treatment. Past Bundibugyo outbreaks have had case fatality rates ranging from 30% to 50%, although early supportive care can improve survival. That leaves containment dependent on old-school outbreak control: fast detection, isolation, contact tracing, infection prevention, safe burials, and community trust. The problem is that the outbreak is unfolding in exactly the type of setting where those tools are hardest to execute. WHO said the first known suspected case, a health worker in Bunia, developed symptoms on April 24 and later died. The agency was alerted on May 5 to a high-mortality illness in Ituri province, including deaths among health workers, and DRC declared its 17th Ebola outbreak on May 15 after laboratory confirmation. The early testing picture also suggests undercounting. WHO said initial confirmation found eight positives among 13 samples, while suspected cases and clusters of community deaths were being reported across Ituri and North Kivu. The agency said uncertainty remains over the true number of infections, geographic spread, and links between known or suspected cases. The outbreak has already crossed a border with WHO confirming two cases were reported in Kampala, Uganda, on May 15 and May 16 among people who had travelled from DRC. A separate suspected case involving travel from Ituri to Kinshasa tested negative on confirmatory testing and is not considered confirmed. The emergency designation came before the usual committee process. Tedros said he declared a Public Health Emergency of International Concern on May 17 before convening an Emergency Committee, the first time a WHO director-general had taken that step before such a meeting. The committee later agreed that the outbreak is a PHEIC (Public Health Emergency of International Concern) but not a pandemic emergency. The financing response is now trying to catch up. AP reported that the UN released $60 million from its Central Emergency Response Fund to accelerate the response in Congo and the region. The US has pledged $23 million and said it would fund up to 50 Ebola treatment clinics, although Ugandan authorities told AP they were not aware of US-backed treatment centers being set up there. WHO's operational concerns go beyond virology. Ituri has faced intensified conflict since late 2025, with more than 100,000 people newly displaced over the past two months, according to Tedros. He also cited significant population movement and mining activity as factors increasing the risk of further spread. WHO Africa regional director Mohamed Yakub Janabi warned against treating the outbreak as a contained local problem, telling Reuters that even one contact case could move the virus beyond DRC and Uganda. He also said the Bundibugyo strain raises the stakes because there is no vaccine, while misinformation and weak community trust are complicating the response. WHO describes Ebola as a severe, often fatal disease that spreads through direct contact with bodily fluids of infected people, contaminated materials, or people who have died from the disease. Information for this story was found via the sources and companies mentioned. The author has no securities or affiliations related to the organizations discussed. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security. The author holds no licenses.",
+    "raw_meta": {
+      "rss_entry_id": "https://thedeepdive.ca/?p=289764",
+      "rss_tags": [
+        "Healthcare",
+        "Latest",
+        "Democratic Republic of Congo",
+        "Ebola",
+        "World Health Organization"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "a930b758-56ad-44b4-a3a0-36cde963027f",
     "cluster_id": "b1e51968-8ea4-4eb4-9d8f-47cb87b6320e",
     "cluster_size": 4,
@@ -605,6 +663,33 @@
     }
   },
   {
+    "id": "dea37081-480d-4b42-b782-7f38dab050e7",
+    "cluster_id": "9d3dda96-a8ef-4062-b23b-c85f4b416077",
+    "cluster_size": 2,
+    "source": "ylecun",
+    "title": "Howard Lutnick's FIRST political donation since becoming Commerce Secretary was a $5 MILLION donation to House Republica...",
+    "teaser": "Commerce Secretary Howard Lutnick made a $5 million political donation to House Republicans just one month before testifying about his professional ties to Jeffrey Epstein.",
+    "summary": "Senator Chris Van Hollen highlights that Howard Lutnick, the Commerce Secretary, made a $5 million political donation to House Republicans shortly before agreeing to an interview about his relationship with Jeffrey Epstein. Additionally, Van Hollen criticizes the new White House policy requiring green card applicants to apply from outside the US, arguing it negatively impacts families, the labor force (doctors, teachers, scientists), and American competitiveness in AI.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://x.com/ChrisVanHollen/status/2057903114875797598",
+    "date": "2026-05-22T19:15:11Z",
+    "image_url": "https://pbs.twimg.com/media/HI8j-ikXAAAuzUy?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Senator Chris Van Hollen",
+    "content": "Howard Lutnick's FIRST political donation since becoming Commerce Secretary was a $5 MILLION donation to House Republicans 1 month before they interviewed him about his ties to Jeffrey Epstein.\n \nLet that sink in.\n\n\nhttps://\nnytimes.com/2026/05/22/us/\npolitics/howard-lutnick-donation-house-republicans.html\n…\n\nThe new White House policy requiring green card applicants to apply from outside the US is a capricious attack on legal immigration. It will hurt families, leave us with fewer doctors, teachers and scientists, and hurt American competitiveness in AI.",
+    "raw_meta": {
+      "twitter_handle": "ylecun",
+      "category_hint": "ai_research",
+      "author_handle": "@ChrisVanHollen",
+      "is_repost": true,
+      "reposted_by": "@ylecun",
+      "merged_tweet_count": 2
+    }
+  },
+  {
     "id": "10edc747-8fe4-44d1-8a90-bc1bd82475ac",
     "cluster_id": "6a0ee88d-eee9-457e-ae48-4d6b0128a962",
     "cluster_size": 3,
@@ -947,6 +1032,32 @@
       "quoted_handle": "@FTC",
       "is_quote_tweet": true,
       "merged_tweet_count": 2
+    }
+  },
+  {
+    "id": "6bd2b942-8eee-403b-bc6a-82ca324a7846",
+    "cluster_id": "eaed94a9-b9f6-4df7-a85a-e08e960943ce",
+    "cluster_size": 1,
+    "source": "CNBC - Top News",
+    "title": "What the AvalonBay, Equity Residential megamerger means for the apartment industry and rents",
+    "teaser": "The mega-merger of Equity Residential and AvalonBay creates a $52B real estate giant, aiming to dominate the U.S. apartment market.",
+    "summary": "In a move set to reshape the U.S. apartment industry, Equity Residential and AvalonBay Communities announced a massive merger, creating one of the nation's largest real estate players. The combined entity boasts a market cap of $52 billion and will manage over 180,000 rental apartments. The merger, praised by industry experts, is viewed as a strategy for scale, achieving balance sheet efficiency, and acting as a defense against privatization. The consolidation aims to reduce high overhead costs related to modern building technology, like online leasing and bandwidth. While the deal is enormous, analysts point out the combined company’s market share remains small (under 3%), and future profitability must be proven through sustained earnings growth beyond merger synergies.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://www.cnbc.com/2026/05/22/avalonbay-equity-residential-apartment-merger.html",
+    "date": "2026-05-22T12:55:22Z",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108310846-1779392678540-gettyimages-1151704252-337697706_1-9.jpeg?v=1779451220&w=1920&h=1080",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The AvalonBay Communities Inc. Park Loggia condominium, center, is reflected in a building in New York, U.S. Mark Abramson | Bloomberg | Getty Images The biggest ever merger of real estate investment trusts - the combination of Equity Residential and AvalonBay, announced Thursday - has investors and analysts alike left with dropped jaws. The all-stock merger will have a market capitalization of about $52 billion and a total enterprise value of approximately $69 billion, according to a release. It will create one of the largest real estate companies in the U.S., with more than 180,000 rental apartments. \"This combination creates a new and fundamentally stronger company with differentiated capabilities that will drive structurally superior cash flow generation, earnings and dividend growth, and value for shareholders,\" said Benjamin Schall, CEO of AvalonBay. Schall will become CEO of the newly formed company, and Equity Residential CEO Mark Parrell will retire when the transaction closes. Allan Swaringen, president and CEO of JLL Income Property Trust, called the tie-up \"unbelievable.\" \"That they would merge is really incredible,\" he said. JLL Income Property Trust is part of LaSalle Investment Management, which manages about $90 billion of real estate investments globally for institutional clients and high-net-worth individuals. Swaringen noted that the stocks of both companies are trading at below their net asset values, a situation that makes them both ripe to be bought and privatized. CNBC's Property Play with Diana Olick covers new and evolving opportunities for the real estate investor, delivered weekly to your inbox. Subscribe here to get access today . \"I think this might be a defense against privatization. By putting themselves together, they're almost too big to get bought,\" Swaringen said. He also noted the high cost of building technology, which residential tenants now demand - from online leasing to credit checking to delivering bandwidth and Wi-Fi. Consolidating could reduce those costs. \"Strategically, the rationale is straightforward: scale, liquidity, balance sheet efficiency and overhead synergies,\" said David Auerbach, chief investment officer at Hoya Capital Real Estate. Auerbach said he thinks this could be the first of more megadeals in the space. \"We have WAY too many Apartment REITs out there, and it's a sector ripe for consolidation,\" he wrote in emailed comments to CNBC. Auerbach noted that the deal comes after a challenging stretch for apartment landlords, who have been dealing with sluggish rent growth due to the post-Covid construction boom that delivered a massive wave of new supply. Neither Auerbach nor Swaringen said they expect to see any effect on rents. While the combined company's market share might be growing in certain markets, they are still going to have to compete with the rest of the field. The apartment market is highly diversified, building to building, giving consumers a lot of options. Regulatory and political scrutiny may arise, given the sheer size of the deal and the current drumbeat on housing affordability. But even after merging, the combined company will have a small market share. \"While there are no antitrust regulatory approvals needed, there is the political PR battle for which we think management well articulated [that] the combined company is < 3% market share and heavily invests in expanding housing,\" wrote Alexander Goldfarb, senior analyst with Piper Sandler. \"Ultimately, we believe the combined company needs to improve earnings growth beyond the one-time synergies to show bigger is actually more profitable.\" Correction: JLL Income Property Trust is part of LaSalle Investment Management, which manages about $90 billion of real estate investments globally. A previous version of this story mischaracterized the investment vehicle.",
+    "raw_meta": {
+      "rss_entry_id": "108310837",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {
