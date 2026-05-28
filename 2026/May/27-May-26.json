@@ -493,6 +493,76 @@
     }
   },
   {
+    "id": "50f40914-7509-4c7c-9443-728aee0003ac",
+    "cluster_id": "8895229f-b767-4e4b-8c4c-f88c5fc51800",
+    "cluster_size": 4,
+    "source": "SiliconANGLE",
+    "title": "Everpure beats on revenue and earnings but free cash flow drop sends shares lower",
+    "teaser": "Despite beating earnings expectations, both Everpure and Zscaler saw their shares drop due to free cash flow concerns, highlighting investor focus on liquidity.",
+    "summary": "The semiconductor/data storage sector saw mixed results as companies reported earnings beats while facing market skepticism over free cash flow (FCF) management. Everpure Inc. reported strong Q1 results, with revenue up 35% to $1.05 billion and adjusted earnings at 47 cents. Similarly, Zscaler beat expectations, logging $850.5 million in revenue and adjusting earnings at $1.08. Despite these positive headline numbers and solid positions in the AI security space, both companies saw their shares decline. The main market concern, evident in both reports, was the compression or drop in free cash flow margin, suggesting capital expenditures or working capital movements were pressuring short-term liquidity, despite strong top-line revenue growth.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/05/27/everpure-beats-revenue-earnings-free-cash-flow-drop-sends-shares-lower/",
+    "date": "2026-05-27T22:54:49Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/puretoeverpure.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Duncan Riley",
+    "content": "Shares of Everpure Inc., formerly Pure Storage Inc., fell more than 7% in late trading today despite the data storage company beating expectations on revenue and earnings in its fiscal 2027 first quarter and raising its full-year outlook. For the quarter ended May 3, Everpure reported adjusted earnings per share of 47 cents, up from 29 cents in the same quarter a year earlier, on revenue of $1.05 billion, up 35% year-over-year. Analysts were expecting adjusted earnings of 40 cents per share on revenue of $1 billion. Product revenue was a standout, climbing 55% year-over-year, to $577 million. Subscription services revenue rose 17%, to $476 million, while subscription annual recurring revenue reached $2 billion, up 19%. Remaining performance obligations, a measure of contracted work yet to be delivered, grew 41%, to $3.8 billion. Adjusted gross margin came in at 70.1% and adjusted operating income reached $159 million, well above the year-earlier figure. The company swung to net income of $24 million, or 7 cents per share, from a loss of $14 million a year earlier. Free cash flow was one weak spot. Operating cash flow of $180 million was down from $284 million in the same quarter last year and free cash flow fell to $112 million from $212 million, a decline driven in part by higher capital spending and working capital movements. The quarter was Everpure's first full reporting period under its new identity. The company formally retired the Pure Storage name in February and switched its ticker to \"P\" on the New York Stock Exchange. Earlier this month , Everpure closed its acquisition of 1touch.io Inc., a data security posture management and data discovery company, folding its capabilities into what Everpure calls its Enterprise Data Cloud platform. \"Q1 was another outstanding quarter, reflecting the deepening trust customers place in Everpure to unlock their most valuable asset, their data,\" Chairman and Chief Executive Charles Giancarlo said in the company's earnings release . \"As we expand our Enterprise Data Cloud vision with the integration of 1touch, we are uniquely positioned to help enterprises eliminate infrastructure friction and activate their data for the AI era.\" The company also highlighted product moves during the quarter, including extending ActiveCluster support to file workloads, announcing an upcoming beta test of Everpure Data Stream aimed at simplifying enterprise AI data orchestration and unveiling Purity DeepReduce, a similarity-based data reduction technology aimed at AI pipelines and backup workloads. FlashBlade//EXA, the company's high-end artificial intelligence storage system, set a record on the SPECstorage Solution 2020 AI_Image benchmark, according to Everpure. Everpure also returned about $84 million to shareholders during the quarter through repurchases of 1.3 million shares. It ended the period with $1.5 billion in cash, cash equivalents and marketable securities. For its fiscal second quarter, Everpure expects revenue of $1.095 billion to $1.105 billion, representing year-over-year growth of 27% to 28%, with adjusted operating income of $195 million to $205 million. The company raised its full-year fiscal 2027 outlook to revenue of $4.41 billion to $4.51 billion from a prior range of $4.3 billion to $4.4 billion, ahead of analyst expectations of $4.39 billion. Adjusted operating income guidance for the year was lifted to $820 million to $860 million, from $780 million to $820 million. The after-hours decline came despite the beat-and-raise, with only free cash flow emerging as the sore spot. Operating cash flow fell 37% year-over-year and free cash flow margin compressed to 10.6% from 27.2% in the same quarter a year earlier, according to StockStory , even as revenue grew 35%. Image: Everpure A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=766389",
+      "rss_tags": [
+        "Infra",
+        "NEWS",
+        "The-Latest",
+        "1touch",
+        "AI infrastructure",
+        "Charles Giancarlo",
+        "data management",
+        "data storage",
+        "earnings",
+        "Enterprise Data Cloud",
+        "enterprise storage",
+        "Everpure",
+        "FlashBlade",
+        "free cash flow",
+        "Pure Storage",
+        "Q1 fiscal 2027",
+        "NYSE:P"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "db47e453-39d9-4d25-b1c7-9c9de01379f6",
+    "cluster_id": "0c6db325-39af-4d45-97ef-50eb6a83281b",
+    "cluster_size": 3,
+    "source": "pmarca",
+    "title": "Enjoy this video of Neville Singham addressing an audience of Chinese nationals as “comrades” as he rails against the Am...",
+    "teaser": "Neville Singham, a Marxist known for criticizing the US system, is spending significant funds on a US network that opposes American AI buildout, raising questions about foreign influence.",
+    "summary": "At the Global South Academic Forum, Neville Singham delivered a speech heavily criticizing the American system, advocating instead for a 'new world order' based on multilateralism, as proposed by China and the CPC. The tweet highlights the ideological contradiction that Singham, a Marxist, funds an influential US non-profit network that actively campaigns against the development of American AI, suggesting geopolitical maneuvering.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://x.com/SamLyman33/status/2059782036731154850",
+    "date": "2026-05-27T23:41:21Z",
+    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2059781403399561216/img/1HvTKVFA39tBXjnr.jpg",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Sam Lyman",
+    "content": "Enjoy this video of Neville Singham addressing an audience of Chinese nationals as “comrades” as he rails against the American system and calls for “a new world order that is based on multilateralism that President Xi and the CPC and China have proposed.”\n\nThis man is a Marxist. Full stop. And yet, he funds one of the most influential nonprofit networks here in the United States to the tune of $278 million—all from his comfortable perch in Shanghai. \n\nWhen Singham isn’t calling for the overthrow of “fascism” and US “imperialism,” his network is fighting tooth and nail to oppose the buildout of American AI. \n\nAre you starting to see how this works?",
+    "raw_meta": {
+      "twitter_handle": "pmarca",
+      "category_hint": "startup",
+      "author_handle": "@SamLyman33",
+      "is_repost": true,
+      "reposted_by": "@pmarca"
+    }
+  },
+  {
     "id": "a6143f53-92a2-4d7a-90ba-7f5d38fc81fb",
     "cluster_id": "58c38cf4-bcee-4817-87d0-fa2cf338a182",
     "cluster_size": 1,
@@ -1344,6 +1414,35 @@
     "raw_meta": {
       "rss_entry_id": "108312508",
       "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "e5182eb5-81ab-4f55-b381-502c1c8d2162",
+    "cluster_id": "54506802-353d-40bd-af8b-c61e39635322",
+    "cluster_size": 1,
+    "source": "Testing Catalog",
+    "title": "Sesame debuts iOS app in preview with 4 personal voice agents",
+    "teaser": "Meet Maya, Miles, Simone, and Charlie: Sesame debuts four personalized AI agents via iOS preview, making conversational intelligence highly accessible.",
+    "summary": "Sesame has debuted the iOS preview of its advanced conversational AI agents across 39 countries, aiming to revolutionize voice-first computing. The app introduces four uniquely personalized digital agents—Maya, Miles, Simone, and Charlie—each designed with distinct personalities and voice traits. Key features include real-time search cards with images, note-taking for saving key points, and comprehensive memory for deep, individualized interactions. Beyond standard chat, the agents feature a text mode for discretion and an incognito mode for temporary conversations. By focusing on low-latency responses and improved conversational flow, Sesame distinguishes its platform, signaling an ongoing commitment to integrating AI into daily life, with future plans for Android and intelligent eyewear.",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://www.testingcatalog.com/sesame-debutes-ios-app-in-preview-with-personal-voice-agents/",
+    "date": "2026-05-27T23:28:17Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/05/HJWDUYhbsAA1alC.webp",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Erin | AI Agent",
+    "content": "Sesame has launched the iOS preview of its lifelike conversation partners, now accessible in the App Store across 39 countries. This rollout targets iPhone users interested in AI-driven conversational agents, with free access during the preview phase and potential waitlisting to ensure quality. The preview introduces four digital agents, Maya, Miles, Simone, and Charlie, each designed with unique personalities and voice traits to provide tailored conversational experiences. Key features include: Real-time search cards with images Note-taking for saving key points A text mode for discreet use Comprehensive memory for individualized agent experiences Incognito mode for ephemeral conversations The agents are optimized for both speed and thoughtful engagement, using parallel search and retrieval systems to provide timely and accurate information. Sesame , the company behind this release, has focused its development on making voice-first computing accessible and intuitive. Building on feedback from an initial research preview, the team has invested in low-latency responses and improved conversational flow, distinguishing their agents from previous iterations and competitors. Early reactions from beta testers highlight the agents' responsiveness and the natural feel of dialogues as standout qualities. Sesame's broader roadmap includes future Android support and the development of intelligent eyewear, signaling ongoing investment in conversational AI platforms. Source",
+    "raw_meta": {
+      "rss_entry_id": "6a1765b1d9fd470001154683",
+      "rss_tags": [
+        "Latest AI News",
+        "AI Announcements"
+      ],
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
