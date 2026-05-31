@@ -435,6 +435,35 @@
     }
   },
   {
+    "id": "91c1a841-1e93-4daa-8557-c8e86626db1b",
+    "cluster_id": "5d4e6c7f-db95-4b0a-adfa-2b8cf6df3766",
+    "cluster_size": 5,
+    "source": "Noahpinion",
+    "title": "In my Harvard fellowship I study the views of AI accelerationists, safetyists and skeptics.   What I have come to realiz...",
+    "teaser": "A discussion on the differing perspectives—accelerationist, safetyist, and skeptic—concerning the development and perceived power of advanced AI.",
+    "summary": "Jeffrey Snover examines the AI development landscape, noting that both accelerationists and safetyists share the belief that humanity is creating an 'AI God,' though they differ on its nature (New Testament loving kindness vs. Old Testament jealous destruction). Skeptics, conversely, view advanced AI as merely an over-engineered household appliance (e.g., a toaster). The discussion suggests a deep-seated pattern of overestimation regarding AI's potential and danger.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://x.com/jsnover/status/2060761906323804168",
+    "date": "2026-05-30T16:35:00Z",
+    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2060741096511053825/img/dnU_7eQ3wqC6qjIc.jpg",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Jeffrey Snover",
+    "content": "In my Harvard fellowship I study the views of AI accelerationists, safetyists and skeptics. \n\nWhat I have come to realize is that both the Accelerationists and the Safetyists believe that we are creating an AI God. \n\nThe difference is that Accelerationists believe that it is the god of the New testament. \nA god of loving kindness. \n\nThe Safetyists believe that it is the god of the Old testament. \nThe jealous one who told Abraham to kill his son, destroyed Sodom and Gomorrah, and killed everybody in the flood. \n\nThe Skeptics think it's just a damn toaster with more knobs.\n\n@theallinpod wrote:\n> Bill Gurley: Anthropic Thinks It’s Building God\n\n@Jason: It is the ultimate level of narcissism and delusion of grandeur to think you can create God.\n\n@bgurley:\n\n“Anthropic is a mystery to me. I've never, ever seen a company that is both leading their field and the most",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@jsnover",
+      "quoted_author": "The All-In Podcast",
+      "quoted_handle": "@theallinpod",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@noahpinion"
+    }
+  },
+  {
     "id": "b63b6907-a0a5-4434-8653-9156705c15cd",
     "cluster_id": "c39ce38c-7048-41d0-a9e7-3f695caddcd4",
     "cluster_size": 2,
@@ -460,6 +489,95 @@
       "quoted_handle": "@BasedMikeLee",
       "is_quote_tweet": true,
       "merged_tweet_count": 2
+    }
+  },
+  {
+    "id": "ace3a4df-8618-4cc6-b6e1-cf3d7f50bf31",
+    "cluster_id": "aa0ebfff-26de-49c6-a693-ff157f27c524",
+    "cluster_size": 5,
+    "source": "WinBuzzer",
+    "title": "Intel Arc G3 Chips Launch for Acer, MSI, OneXPlayer",
+    "teaser": "Facing supply chain struggles, gaming handheld prices soar while Intel launches its Arc G3 chips to challenge the market, signaling fierce competition in the portable PC space.",
+    "summary": "The handheld gaming PC market is marked by both technological advancements and significant economic headwinds. Intel recently launched its Arc G3 and Arc G3 Extreme chips for Windows 11 handhelds, partnering with Acer, MSI, and OneXPlayer. This new platform utilizes Panther Lake architecture and XeSS 3 AI upscaling to deliver high performance, exemplified by Acer's Predator Atlas 8, which is set for October 2026. However, the sector faces major cost pressures: Valve has significantly raised Steam Deck prices due to global component and memory shortages, a trend mirrored by competitors like Raspberry Pi and Lenovo. These shortages, predicted to last until 2027 or beyond, force vendors to pass rising silicon and storage costs onto consumers, creating a complex market where new tech launches must compete with inflationary price points.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://winbuzzer.com/2026/05/30/intel-arc-g3-chips-launch-for-acer-msi-onexplayer-xcxwbn/",
+    "date": "2026-05-30T19:35:10Z",
+    "image_url": "https://winbuzzer.com/wp-content/uploads/2026/05/Intel-Arc-G-Series.webp",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Markus Kasanmascheff",
+    "content": "TL;DR Launch: Intel has launched Arc G3 and Arc G3 Extreme for Windows 11 handhelds with Acer, MSI, and OneXPlayer as first partners. Platform Design: The chips combine Panther Lake foundations, XeSS 3 graphics features, and a low-power core mix aimed at smoother handheld gaming. Rollout Timing: Intel says partners will share more details in June 2026, while Acer's Atlas 8 is scheduled to reach stores in October 2026. Ahead of Computex in Taipei, Intel has introduced Intel Arc G-Series processors on May 28 for handheld gaming PCs. Arc G3 and Arc G3 Extreme now give Windows 11 handheld makers another x86 platform, with Acer, MSI, and OneXPlayer as the first named partners. Jim Johnson, Intel's Senior Vice President and General Manager, Client Computing Group, pointed to Acer's Predator Atlas 8 handheld as an early example. He called it \"PC-class performance without being tied to a desktop or charger.\" Real hardware still has to prove that pitch. Battery life, thermals, and sustained gaming results will decide whether the launch becomes a credible rival platform or stays a promising spec sheet. Intel had already previewed Panther Lake, and its Panther Lake on Intel 18A roadmap had already established the manufacturing base behind Arc G3. Partners will share fuller device specifications before rollouts starting in June 2026 , making Computex the first real checkpoint for how quickly the chip launch turns into shipping systems. Arc G3 arrives with named hardware and platform claims Arc G3 builds on Panther Lake architecture for Intel's handheld push, bringing Core Series 3 foundations into a smaller gaming form factor. In January 2026, Intel's XeSS 3 Multi-Frame Generation rollout had already expanded the software stack that now sits behind this launch. Intel pairs Xe3 architecture and XeSS 3 with AI upscaling and frame generation so handhelds can chase smoother frame rates without rendering every scene at full native cost. Dan Rogers, Intel's Vice President and General Manager, PC Product, Client Computing Group, cast the platform as a handheld push built around graphics features, accessibility, and efficiency rather than a simple brand extension. Intel lists 2 P-cores and 8 E-cores plus four low-power E-cores on 18A for the platform's CPU layout. Buyers will certainly will also judge built-in Wi-Fi 7 R2 and Thunderbolt 4 on how well they support docks, storage, and wireless accessories without cutting too deeply into battery life. Acer's Atlas 8 shows what the first wave could look like Acer gave the launch its clearest hardware proof point with the Predator Atlas 8, listed as available from October 2026 in North America, EMEA, and Australia. Acer's later retail window also means Intel's plan to start rollouts in June 2026 and Acer's own shipping schedule should be treated as separate milestones. Atlas 8 pairs the new platform with an 80 Wh battery and 120 Hz display. For buyers, those specifications are the first concrete signal about how one manufacturer may balance screen smoothness, power draw, and battery size in a real device. Acer also includes dual Thunderbolt 4 ports, AeroBlade cooling, Hall-effect controls, and microSD expansion. For handheld buyers, those design choices matter because credibility depends on more than silicon alone once reviewers start testing thermals, docks, and long play sessions. Jerry Kao, Acer's Chief Operating Officer, framed the device as a way to translate the Predator lineup into a handheld form factor: \"With the Predator Atlas 8, we are combining the Predator design philosophy with the power of the new Intel Arc G-Series processors to blur the lines between gaming PC and handheld performance. From the Predator AeroBlade cooling system to PredatorSense to the adaptive trigger controls, every element of this handheld is curated to give gamers maximum control over their own experiences, wherever they choose to play.\" Jerry Kao, Chief Operating Officer at Acer (via Acer ) Rival handheld chips already set the market bar Intel is entering a field where rivals already have shipping reference points. Qualcomm had already launched Snapdragon G Series handheld chips in March 2025, and MSI had already refreshed its Claw handheld line around Intel silicon in 2024, so Arc G3 is arriving in a category that already has visible alternatives rather than creating one from scratch. Computex 2025 had also previewed Panther Lake and the broader AI PC handheld push a year before Arc G3 was formally named. More partner disclosures in June and Acer's October retail window should now show whether Intel can turn launch specifications into competitive handhelds with convincing battery life and sustained gaming performance.",
+    "raw_meta": {
+      "rss_entry_id": "https://winbuzzer.com/?p=1952396",
+      "rss_tags": [
+        "WinBuzzer News",
+        "Acer",
+        "Battery",
+        "Chips",
+        "Gaming",
+        "Gaming Handhelds",
+        "GPUs",
+        "Hardware",
+        "Intel",
+        "Intel Arc",
+        "Intel Arc G3",
+        "OneXPlayer",
+        "PC Gaming",
+        "Processors",
+        "Semiconductors",
+        "Windows 11",
+        "Windows Handhelds"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "1be67486-c1e7-4be1-9f5c-64db8a484c79",
+    "cluster_id": "6156d251-faed-475b-94d4-14861668dfd0",
+    "cluster_size": 5,
+    "source": "WinBuzzer",
+    "title": "Meta Launches Paid Facebook and Instagram Plans for $3.99",
+    "teaser": "Meta is fundamentally restructuring its income: launching paid add-ons across Facebook, Instagram, WhatsApp, and Meta AI, starting at $2.99 to test multiple revenue streams.",
+    "summary": "Meta is implementing a comprehensive strategy to diversify revenue by rolling out paid subscription tiers across its platforms, notably Instagram, Facebook, WhatsApp, and Meta AI. Consumer entry points, such as Facebook Plus ($3.99) and Instagram Plus ($3.99), offer features like profile customization and story insights, while WhatsApp Plus focuses on personalization (themes, ringtones) at $2.99. Beyond these consumer perks, Meta is launching the structured 'Meta One' umbrella, which includes professional tools ranging up to $49.99. Furthermore, Meta AI services are entering the paid market, with plans costing $7.99 or $19.99 for advanced compute capacity. This multi-tiered approach allows Meta to test multiple monetization streams, ranging from simple social perks to high-compute AI queries, solidifying subscriptions as a critical pillar alongside its core advertising business.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://winbuzzer.com/2026/05/30/meta-launches-facebook-and-instagram-plus-for-399-xcxwbn/",
+    "date": "2026-05-30T21:49:28Z",
+    "image_url": "https://winbuzzer.com/wp-content/uploads/2026/05/Instagram.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Markus Kasanmascheff",
+    "content": "TL;DR Launch Pricing: Meta has rolled out Facebook Plus and Instagram Plus at $3.99 per month, while WhatsApp Plus is listed at $2.99. App Split: Facebook and Instagram focus on profile and Story extras, while WhatsApp Plus centers on themes, stickers, ringtones, and pinned chats. Roadmap Test: Meta is using the launch to test separate subscriptions before expanding Meta One, business tools, and paid Meta AI tiers. Meta has launched new Plus subscriptions worldwide across Facebook, Instagram, and WhatsApp. A day earlier, the Facebook Plus and Instagram Plus plans were listed at $3.99 each, while WhatsApp Plus was listed at $2.99. Meta head of product Naomi Gleit described the paid tiers as ways to express and connect across Meta's apps, with more features to come. Meta moved from outlining a subscription test in January to selling live paid add-ons across its biggest social apps. Separate product tracks keep Facebook, Instagram, and WhatsApp from being folded into one bundle on day one. Meta can now see which social and messaging perks users may pay for before any broader package is defined. Users who want premium features on both Facebook and Instagram still need separate subscriptions for each app instead of buying one shared pass. Separate tiers span Instagram, Facebook, and WhatsApp, but they do not unlock a universal paid layer across the three services. Facebook and Instagram stay closest to profile and audience tools, while WhatsApp is being positioned as a separate messaging add-on with its own pricing and perks. What Users Get Profile customization, Story insights, and super reactions are the clearest perks for Instagram Plus and Facebook Plus. Story insights are audience metrics for stories, while super reactions are paid animated replies rather than standard reactions. WhatsApp heads in a different direction by focusing on personalization and chat management instead of creator-style features. The global rollout still does not come with a full feature list. Users now know the starting prices and the broad feature buckets, but they still lack a clear app-by-app matrix for which perks arrive first in which markets. Separate subscriptions are harder to judge without a plain list of what changes inside each product. Instagram and Facebook are the easier consumer pitch because their extras tie directly to posting identity and audience feedback. WhatsApp's package is more utility driven, with themes, extra pinned chats, stickers, and ringtones aimed at heavier messaging use. Meta is treating those habits as separate premium lanes instead of forcing every service into the same paid template. Meta One extends the launch beyond consumer perks Meta is also framing Meta One as a future subscription hub rather than a product people can buy today. Gleit positioned it as a place that could eventually bring subscriptions together across Meta's apps and indicated that the launch is only an early step. Separate paid products keep the current rollout grounded while leaving room for a later bundle if the first wave proves durable. Beyond consumer perks, Meta has already linked the rollout to creator, business, and Meta AI subscriptions . Meta also plans subscriptions for businesses and creators around tools such as presence management, task automation, and brand protection, while it is testing Meta AI subscriptions with more capacity and advanced features. Future business, creator, and AI tiers still read as planned expansions rather than confirmed commercial packages. Meta One reads less like a finished bundle than a marker for where these separate subscriptions could lead. Facebook Plus and Instagram Plus can show what everyday users will pay for, while later business and AI tiers could target a different willingness to spend. Keeping those lanes separate for now also limits the risk of promising a cross-app bundle before Meta has settled the features, pricing, and support scope for each service. Competitors and earlier tests show where Meta is heading Meta's current move lands after the company first tested premium subscriptions on Instagram and Facebook in January. Its feature mix also resembles Snapchat Plus or X Premium, where paid add-ons sell convenience, visibility, or customization on top of a free service rather than replacing the free tier. Meta is entering an established category rather than inventing a new social subscription format from scratch. Telegram Premium offered an earlier messaging example in June 2022 by keeping the core app free while charging for extra perks. Discord Nitro still shows the same basic logic in a different form, with customization, larger file uploads, and HD screensharing sold as a premium layer for heavier users. Meta's version is broader because it is trying to price social posting, audience feedback, and messaging extras at once, while also leaving room for business tools and AI tiers above the consumer plans.",
+    "raw_meta": {
+      "rss_entry_id": "https://winbuzzer.com/?p=1952406",
+      "rss_tags": [
+        "WinBuzzer News",
+        "AI Subscription",
+        "App Monetization",
+        "Apps",
+        "Artificial Intelligence (AI)",
+        "Big Tech",
+        "Chat Apps",
+        "Facebook",
+        "Facebook Plus",
+        "Instagram",
+        "Instagram Plus",
+        "Messaging",
+        "Meta AI",
+        "Meta Inc",
+        "Meta One",
+        "Monetization Strategy",
+        "Social Media",
+        "Subscriptions"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {
@@ -545,6 +663,58 @@
     }
   },
   {
+    "id": "27049ee2-24ce-494b-8f38-ea0db1b22f05",
+    "cluster_id": "1f7df73f-7295-4f95-9711-a0ba97b76bad",
+    "cluster_size": 1,
+    "source": "CNBC - Top News",
+    "title": "U.S. support for Taiwan reaffirmed by members of Congress even after Trump called arms sales a 'negotiating chip' with China",
+    "teaser": "Despite political efforts to diminish arms sales, U.S. Congress members reaffirmed strong, bipartisan support for Taiwan's security, countering claims of reduced commitment.",
+    "summary": "U.S. Congress members reaffirmed strong, bipartisan support for Taiwan's security and ability to defend itself, even amidst political commentary questioning the commitment. The discussion, held at the IISS Shangri-La Dialogue in Singapore, featured several lawmakers dismissing any attempt to characterize approved arms sales to Taiwan—amounting to $14 billion—as merely a 'negotiating chip' with China. Lawmakers confirmed the U.S. focus on Taiwan's security, stating that Congress has approved weapons sales in a bipartisan manner to ensure the island has the necessary means for self-defense.",
+    "importance": 4,
+    "category": "world_news",
+    "url": "https://www.cnbc.com/2026/05/30/us-support-taiwan-reaffirmed-members-congress.html",
+    "date": "2026-05-30T07:10:44Z",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108246264-17670226712025-12-29t043053z_682402530_rc24qiaw2x91_rtrmadp_0_china-taiwan-drills.jpeg?v=1767022776&w=1920&h=1080",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "A ship fires a weapon during drills east of Taiwan, in this screenshot from a video released by the Eastern Theatre Command of China's People's Liberation Army (PLA) on Dec. 29, 2025. Eastern Theatre Command | Via Reuters The U.S. Congress continues to have strong support for Taiwan even as it remains a focal point in relations with China , according to members of a delegation at the IISS Shangri-La Dialogue in Singapore. \"There's really strong bipartisan support for Taiwan and Taiwan security, and making sure we build on so much of the progress that has been made\" regarding the island's ability to defend itself, Senator Tammy Duckworth, D-Ill, said in a media roundtable at the Dialogue. Taiwan, which asserts the right to self-government but is also claimed by China, has been in focus given remarks made over time by U.S. President Donald Trump. Trump has referred to $14 billion in arms sales to the island, which has been approved by Congress, as a \" negotiating chip \" with China. \"Our commitment to Taiwan - it's not changing,\" said Representative Pat Harrigan, R-N.C., in another media roundtable at the Dialogue. \"If you look at the work we have done with Taiwan, there can be no assertion that the United States has not been there\" for the island. Secretary of War Pete Hegseth didn't mention Taiwan in his earlier remarks at the Dialogue. However, Representative Michael Baumgartner, R-W.A., downplayed the significance of the omission. Hegseth \"mentioned the status quo with emphasis,\" Baumgartner said. \"That includes Taiwan in my view.\" Weapons sales to Taiwan were approved by Congress \"in a bipartisan manner,\" noted Representative Greg Meeks, D-N.Y.. \"We're focused on Taiwan and its security,\" and \"we're willing to give them what they need to defend themselves.\"",
+    "raw_meta": {
+      "rss_entry_id": "108314189",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "7f6336e0-48a3-402d-b06d-ebe71552d96d",
+    "cluster_id": "d1b361ea-3e8f-41e6-add2-efff5ec971ea",
+    "cluster_size": 1,
+    "source": "paulg",
+    "title": "At the peak of their influence around 1970, illustrators charged huge fees and drove Ferraris. The right half of the cha...",
+    "teaser": "A look back at the history of advertising fees shows a dramatic peak around 1970, leading to questions about the art industry's future, especially with the advent of AI.",
+    "summary": "James Gurney analyzes the historical growth and subsequent decline of professional advertising fees, particularly for illustrators. The graph illustrates that fees reached a peak around the 1970s (especially 'Top National Advertising'), where illustrators commanded very high rates. However, the chart reveals a steep and continued decline in these market values over the decades. Gurney suggests that this decline, which predates the rise of AI, poses serious questions about the viability of the industry and encourages readers to check out his Substack for more insights.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://x.com/GurneyJourney/status/2060637258399519130",
+    "date": "2026-05-30T08:19:41Z",
+    "image_url": "https://pbs.twimg.com/media/HJjaHaQWoAgnj6a?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "James Gurney",
+    "content": "At the peak of their influence around 1970, illustrators charged huge fees and drove Ferraris. The right half of the chart tells a grim story, and that’s even before AI enters the room. Is the party completely over, or is there a tiny glimmer of hope? Check out my Substack.",
+    "raw_meta": {
+      "twitter_handle": "paulg",
+      "category_hint": "startup",
+      "author_handle": "@GurneyJourney",
+      "is_repost": true,
+      "reposted_by": "@paulg"
+    }
+  },
+  {
     "id": "db33c8ec-5440-433d-a786-ef8581c3699d",
     "cluster_id": "159a2376-3dcf-4ca0-a4ba-518e1b601ccf",
     "cluster_size": 1,
@@ -570,6 +740,60 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "85c287e5-cf9a-46a6-8942-f224474da667",
+    "cluster_id": "678d9f0c-f3b3-46d7-8703-aa5b57b53f33",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "Wikipedia editors plot strike and banner sabotage after Wikimedia layoffs",
+    "teaser": "Angry Wikipedia editors plot strikes and sabotage after WMF cuts the team responsible for crucial bug fixes and moderation tools.",
+    "summary": "Wikipedia editors are protesting the Wikimedia Foundation's (WMF) decision to disband its Community Tech team, which previously managed editor-requested fixes and moderation tools via the Community Wishlist. WMF claimed the move was necessary because no single team could handle the vast scope of software support. The layoffs and restructuring have ignited a revolt among unpaid contributors, leading to plots for editing strikes and banner sabotage. Editors criticize WMF for being disconnected from the community they serve, questioning why an organization with $300 million in assets would enact such cuts. WMF denied that the move was related to union efforts, where affected employees were linked to the group Wiki Workers United. The situation is critical, as a slowdown in volunteer moderation could severely damage Wikipedia's integrity.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theregister.com/software/2026/05/30/wikipedia-editors-plot-strike-and-banner-sabotage-after-wikimedia-layoffs/5248491",
+    "date": "2026-05-30T11:15:00Z",
+    "image_url": "https://image.theregister.com/243499.jpg?imageId=243499&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Software Wikipedia editors plot strike and banner sabotage after Wikimedia layoffs Foundation sparks revolt after disbanding team responsible for many community-requested fixes and moderation tools The Wikimedia Foundation (WMF) has sparked a revolt among Wikipedia editors after disbanding the engineering team responsible for many community-requested fixes and moderation tools. The Register was tipped off this week to growing unrest inside the Wikipedia editing community following the WMF's decision to disband its Community Tech team, the group responsible for triaging and developing editor-requested bug fixes, moderation tools, and workflow improvements through the long-running Community Wishlist process. Wikimedia's internal forums have turned into a running argument over how editors should respond. Some are calling for editing strikes, while others want volunteers to stop handling vandalism cleanup for a period of time. There have also been discussions about replacing fundraising banners with messages criticizing the layoffs. The foundation confirmed to The Register that the restructuring affected six staff roles connected to the Community Wishlist program, including engineers and a manager. It said the decision came after months of internal reviews that started last year. According to the foundation, leadership concluded that relying on a single dedicated team to process editor requests was no longer working well. \"We learned from these assessments that it is rarely possible to fulfill community wishes through a single team due to the vast breadth of the software we support and the number of channels through which we receive wishes,\" a spokesperson for the foundation said. Under the new structure, responsibility for Community Wishlist requests will be spread across the wider Product and Technology department rather than handled by a dedicated team. The foundation said affected employees remain employed for now while being considered for other internal roles. Staff who are not placed elsewhere inside the organization will leave next month with severance packages. That explanation has gone down badly with parts of the editor community, where some contributors accuse Wikimedia leadership of becoming increasingly disconnected from the unpaid volunteers who maintain Wikipedia itself. Several editors have also questioned why an organization reporting nearly $300 million in assets in its latest annual report is restructuring an engineering team dedicated specifically to editor support. The situation has become even messier because several affected employees were reportedly involved in early unionization efforts linked to a newly created labor group called Wiki Workers United. One of the laid-off engineers created the union page on Wikimedia Meta earlier this month, fueling accusations from some editors that the restructuring amounted to union busting. The foundation denied that outright, telling The Register : \"The decision to disband the Community Tech team is not in any way connected to discussions about unionizing, nor have we terminated any staff for their participation in those discussions.\" The WMF also stressed that no formal request for union recognition has been submitted and said it would respect the legal process if staff eventually vote to unionize. Meanwhile, editors continue to discuss protest options that could create highly visible problems for the world's largest online encyclopedia. Since much of Wikipedia's moderation infrastructure is maintained by volunteers rather than foundation employees, even a temporary pullback in anti-vandalism work could turn parts of the site into an open sewer of spam, hoaxes, and defacement. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5248491",
+      "rss_tags": [
+        "software"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "b2c71d99-70b6-4075-a878-d8cca9767f29",
+    "cluster_id": "b97cd56b-509b-4bdd-b28a-fa086f89ee53",
+    "cluster_size": 1,
+    "source": "paulg",
+    "title": "Here's what the pork industry doesn't want you to know about the way it sneaked a provision into the 2026 farm bill that...",
+    "teaser": "Concerns about a farm bill provision potentially undermining animal welfare laws, highlighted by a visual of industrial pig farming.",
+    "summary": "Nicholas Kristof raises alarm over a provision in the 2026 farm bill that could nullify ballot measures designed to improve animal welfare. The author contrasts the view of pigs as mere commodities against their reality as intelligent animals, arguing that the systemic abuse in large-scale farming operations (pictured) is often overlooked by voters who support such industry practices. He calls on members of Congress to defend animal wellbeing, citing the massive scale of pig slaughter.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://x.com/NickKristof/status/2060683549552820496",
+    "date": "2026-05-30T11:23:38Z",
+    "image_url": "https://pbs.twimg.com/card_img/2060680599828856838/3-7MzBF_?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Nicholas Kristof",
+    "content": "Here's what the pork industry doesn't want you to know about the way it sneaked a provision into the 2026 farm bill that would nullify ballot measures that improve  animal welfare, while helping Chinese companies torture American pigs. The issue is personal to me, because we once raised pigs on our family farm, and I saw that these are not commodities but animals rather like dogs: smart with very distinct personalities. A naughty boy who punishes a single animal may be punished, but an adult who presides over the systematic abuse of hundreds of thousands of pigs as a business model is hailed as a visionary CEO -- and voters get that, and that's why they have backed laws that improve animal wellbeing. This is, remarkably, an issue that unites many liberals and conservatives alike; \n@TomiLahren\n, \n@Cernovich\n and \n@IngrahamAngle\n are among those who have been outspoken on this issue. I hope R and D members of Congress alike will stand firm, for the stakes are immense, with four pigs slaughtered around the clock on average all year. Here's a gift link to my piece: \nhttps://\nnytimes.com/2026/05/30/opi\nnion/pigs-farm-bill-meat-industry.html?unlocked_article_code=1.mVA._gKf.tJaF0tK5nHNG&smid=url-share\n… I welcome your comments.",
+    "raw_meta": {
+      "twitter_handle": "paulg",
+      "category_hint": "startup",
+      "author_handle": "@NickKristof",
+      "is_repost": true,
+      "reposted_by": "@paulg"
     }
   },
   {
@@ -654,6 +878,32 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "6d19dd97-92fb-4f06-aba6-f5e91dfe7dd0",
+    "cluster_id": "e55c8468-a79e-4400-bb9d-d600e1badb65",
+    "cluster_size": 1,
+    "source": "Noahpinion",
+    "title": "“You need to learn Taiwanese.”  -Jensen Huang",
+    "teaser": "Jensen Huang advises that foreigners living in Taiwan should learn Taiwanese.",
+    "summary": "Tech industry leader Jensen Huang strongly advises foreigners residing in Taiwan that they must learn to speak Taiwanese. The media accompanying the tweet is a segment from a news report illustrating this advice, emphasizing the necessity of learning the local dialect for integration and daily life in Taiwan.",
+    "importance": 4,
+    "category": "other",
+    "url": "https://x.com/foreignersinTW/status/2060711382241116255",
+    "date": "2026-05-30T13:14:14Z",
+    "image_url": "https://pbs.twimg.com/media/HJkeFLIWYAAozWs?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Foreigners in Taiwan  外國人在台灣",
+    "content": "“You need to learn Taiwanese.”\n\n-Jensen Huang",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@foreignersinTW",
+      "is_repost": true,
+      "reposted_by": "@noahpinion"
     }
   },
   {
@@ -767,6 +1017,32 @@
     }
   },
   {
+    "id": "d36a8b1e-ce42-47d4-9958-ede5eabf2ea4",
+    "cluster_id": "f36fb3c7-d72e-4310-9432-16fc168d87ad",
+    "cluster_size": 1,
+    "source": "pmarca",
+    "title": "This book is incredible and the first time you read it you marvel at how the ancient world was entirely defined by relig...",
+    "teaser": "A must-read work that challenges assumptions about historical change, showing how profoundly religion shaped ancient life, and how much of our world remains connected to those roots.",
+    "summary": "Auron MacIntyre highly recommends 'The Ancient City' by Numa Denis Fustel de Coulanges. The book is described as an incredible read that reveals how the ancient world was fundamentally defined by religion. It provides readers with a framework to understand that while much has changed, the underlying structures and core human conditions have shown remarkable continuity.",
+    "importance": 4,
+    "category": "other",
+    "url": "https://x.com/AuronMacintyre/status/2060765896000299176",
+    "date": "2026-05-30T16:50:51Z",
+    "image_url": "https://pbs.twimg.com/media/HJlPqWlXQAMECF9?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Auron MacIntyre",
+    "content": "This book is incredible and the first time you read it you marvel at how the ancient world was entirely defined by religion and how much things have changed \n\nThen you realize nothing has actually changed and you’ve been handed the keys to understand the world",
+    "raw_meta": {
+      "twitter_handle": "pmarca",
+      "category_hint": "startup",
+      "author_handle": "@AuronMacintyre",
+      "is_repost": true,
+      "reposted_by": "@pmarca"
+    }
+  },
+  {
     "id": "dbbe8af0-6497-44f3-b648-df033bc0f975",
     "cluster_id": "b061ec0a-8b42-4c94-afb9-afcb315a6f2b",
     "cluster_size": 1,
@@ -791,6 +1067,67 @@
         "Venture",
         "Ghost Angels",
         "Max Rivera"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "ab1ad580-04c1-4945-93b3-c92670ee295d",
+    "cluster_id": "7df104bd-02d3-4035-94c3-edc773ea1e5e",
+    "cluster_size": 1,
+    "source": "Testing Catalog",
+    "title": "3 upcoming NotebookLM features we all should be waiting for",
+    "teaser": "Google's NotebookLM is getting a massive upgrade with Canvas, enabling users to turn source documents into interactive timelines or games.",
+    "summary": "NotebookLM is set to roll out three major features: Personal Preferences, Connectors, and Canvas, significantly enhancing its capabilities for research. Personal Preferences will allow the tool to learn from the user's activity to tailor the experience. Connectors will integrate external data from services like Gmail, Drive, and Calendar directly into notebooks. Most notably, Canvas will transform source documents into interactive custom artifacts, such as visualizers or explainer web pages. These additions aim to evolve NotebookLM into a comprehensive, visual workspace for building structured research outputs.",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://www.testingcatalog.com/3-upcoming-notebooklm-features-we-all-should-be-waiting-for/",
+    "date": "2026-05-30T19:23:36Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/05/1747813997_google_notebooklm.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Alexey Shabanov",
+    "content": "Google appears to be lining up a batch of NotebookLM features that have been in the works for months, surfacing quietly in recent builds even as the team drops hints that an announcement may not be far off. Three additions stand out, and together they sketch a clear direction. The first is Personal Preferences , which debuted in Gemini and is now set to reach NotebookLM. It would let the tool learn from your activity and build editable personas, adjusting tone and technical depth to how you work. While Gemini's version reaches into Gmail, Drive, Photos, and Calendar, the NotebookLM signals so far lean toward in-app personalization drawn from your notebooks and chats, which is useful for anyone doing repeated, deep-context research. Allow NotebookLM to use your past interactions (e.g., conversations, artifacts, and customization instructions) to understand your preferences and tailor the experience to your needs. Connectors , sitting alongside it in settings, would close that gap. Working much like MCP, it would pull outside data into a notebook, most likely starting with Google's own services such as Calendar, Gmail, and Drive. The piece is not yet operational, and the roster of supported sources remains open. Canvas is arguably the headline. Found in the Studio panel, it would turn sources into a custom artifact - an interactive timeline, an explainer web page, a lightweight game, or a visualizer, guided by a prompt describing what you want and how. It extends the outputs that NotebookLM already offers, including infographics, slide decks, data tables, and mind maps. The combination is where it gets compelling. With NotebookLM now living inside Gemini, the three would let people work across their sources without copying material between tools, matching Google's push to turn a source-grounded reader into a workspace for building structured, visual experiences on top of documents. On models, NotebookLM moved to Gemini 3 late last year; with Gemini 3.5 Flash now the global default after I/O 2026, the Flash branch of that family is the natural next base. A firm timeline is still missing, so the open question is when, not whether.",
+    "raw_meta": {
+      "rss_entry_id": "6a19b139f2872500012afdda",
+      "rss_tags": [
+        "NotebookLM",
+        "AI Rumours",
+        "Latest AI News"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "0af9fb51-9dd5-41c8-97ac-869df3902703",
+    "cluster_id": "8d230b9c-b382-468b-92da-7cc158dc6149",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+    "teaser": "SoftBank plans to sink up to €75 billion into French data centers, boosting capacity by 5 gigawatts and signaling Europe's AI race.",
+    "summary": "SoftBank Group announced a major commitment to build out AI infrastructure in France, planning to spend up to €75 billion (approximately $87 billion). This massive investment aims to develop up to 5 gigawatts of additional data center capacity, marking SoftBank's largest AI infrastructure investment in Europe. The initial phase focuses on the Hauts-de-France region, with new facilities planned in Dunkirk, Bosquel, and Bouchain, set to deliver 3.1 gigawatts of capacity by 2031. French economic minister Roland Lescure praised the announcement as evidence of President Emmanuel Macron's goal to make France a leader in the AI value chain. SoftBank, which is already a customer and investor in OpenAI, noted that this French effort contrasts with environmental concerns surrounding data center construction elsewhere.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "date": "2026-05-30T21:45:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224533087.jpg?w=1024",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Anthony Ha",
+    "content": "SoftBank Group announced today that it plans to spend up to €75 billion (around $87 billion) to expand data center capacity in France. The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity. The first phase of the plan involves building data centers in Dunkirk (Loon-Plage), Bosquel, and Bouchain to deliver 3.1 gigawatts of capacity to the Hauts-de-France region by 2031. SoftBank, which is both an investor in and customer of OpenAI , says this will be its largest AI infrastructure investment in Europe. In a statement, French economic minister Roland Lescure described the announcement as a \"testament to President Emmanuel Macron's ambition to position France as a leading destination all along the AI value chain.\" In the United States, opposition to data center construction is heating up over environmental concerns, as well as questions about how data centers affect the electrical grid and utility prices. Nonetheless, SoftBank earlier announced plans to build a data center in Ohio, powered by a new 9.2 gigawatt natural gas plant .",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3128041",
+      "rss_tags": [
+        "Venture",
+        "AI",
+        "Government & Policy",
+        "Softbank"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -990,6 +1327,32 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "293dd93c-e0c2-4e83-8788-47c24e0d7afa",
+    "cluster_id": "97285bbd-6df3-480e-b7a8-1ce1f93cc92c",
+    "cluster_size": 1,
+    "source": "pmarca",
+    "title": "The anthropormphization of AI is the result of a material world view.   Incredibly ironic. People who think in terms of...",
+    "teaser": "Clint Brown critiques the 'anthropomorphization of AI,' arguing that attributing consciousness to material systems is a significant conceptual leap of faith.",
+    "summary": "Clint Brown (@DissidentClint), originally posted and reposted by @pmarca, suggests that the attribution of consciousness to AI (anthropomorphization) stems from a materialist worldview. He finds it ironic that those who reduce everything to material components (like humans and computers being 'atoms') are making such a conceptual leap in attributing consciousness to that material. He critiques this process as a 'leap of faith.'",
+    "importance": 3,
+    "category": "other",
+    "url": "https://x.com/DissidentClint/status/2060709082168775063",
+    "date": "2026-05-30T13:05:05Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Clint Brown",
+    "content": "The anthropormphization of AI is the result of a material world view. \n\nIncredibly ironic. People who think in terms of only the material (eg humans are atoms, computers are atoms  = same (lol)) are attributing consciousness to the material. What a leap of faith.  \n\nAmazing.",
+    "raw_meta": {
+      "twitter_handle": "pmarca",
+      "category_hint": "startup",
+      "author_handle": "@DissidentClint",
+      "is_repost": true,
+      "reposted_by": "@pmarca"
     }
   },
   {
@@ -1208,6 +1571,66 @@
     }
   },
   {
+    "id": "63abedd6-84a4-4fd5-990b-d8e09fca68a8",
+    "cluster_id": "87598865-7698-4c79-8e50-fe3d478511b8",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves",
+    "teaser": "Cecil Baldwin's surprising tech pet peeve? He wishes filmmakers would let him watch film credits in peace—no immediate jump to the next show!",
+    "summary": "Podcast host Cecil Baldwin discussed his amusing tech pet peeves and creative life. Among his complaints, he noted that manual texting while driving is dangerously difficult, and he wishes filmmakers would allow audiences to watch credits without immediately transitioning to a new film. He shared that he is most proud of creating the podcast Welcome to Night Vale. When feeling stuck creatively, he advises simply saying, '1, 2, 3, 4, 5.... Walk away,' suggesting a break to regain focus.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves",
+    "date": "2026-05-30T16:00:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/CECIL_0222_0316.jpg?quality=90&strip=all&crop=0%2C32.539267015707%2C100%2C34.921465968586&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Cecil Baldwin's résumé includes appearances on Gravity Falls , narrating the documentary Scream, Queen! My Nightmare on Elm Stree t , and performing as part of the New York Neo-Futurists theater company. But he is best known as the host of the podcast Welcome to Night Vale , a long-running fiction show that blends macabre Lovecraftian horror with absurdist comedy. As Cecil Palmer, the voice of Night Vale Community Radio, Baldwin keeps the people of the titular town abreast of all the goings ons with the Faceless Old Woman Who Secretly Lives in Your Home and offers tips on how to best maintain their Bloodstone circles. He also cohosts Random Number Generator Horror Podcast No. 9 with Night Vale cocreator Jeffrey Cranor, recently directed the play As Sylvia and raises awareness for LGBTQ+ issues and HIV. In short - he's a busy man. So we're excited that he found some time to tell us about his tech pet peeves. What is one thing you wish you could change about your phone? I wish it were impossible to manually text and drive a vehicle at the same time. We are collectively way worse at it than we think. What is your happy place online? Adding books to my Favorite list on Amazon so I remember titles/authors, and then taking that list to my local new and/or used bookstore and buying them there. Which tech trend do you wish would go away? Please, I'm begging you, let me watch the credits of the film or television show in peace. I just finished a movie, you don't need to roll me right into a whole new one. Let me digest for just a second. What creation are you most proud of? It would have to be the podcast Welcome to Night Vale , right? It was the acting role that changed the trajectory of my life. What do you do when you're feeling stuck? I will literally say to myself \"1, 2, 3, 4, 5.... Walk away.\" It's like an unbinding, spoken out loud when I don't know how to move forward with a project or I'm stuck in a social media scroll-frenzy that is giving no pleasure. Put it down. Walk away. Focus on something else for a while. What's the last piece of physical media you bought? Picked up a few albums at my local record store: Marianne Faithfull À la Télévision 1965-1967 , Jorge Ben Jor Jorge Ben , and Dr John Gris-Gris. What would the tagline for your biopic be? Performing authenticity... for real. What's the last GIF or meme you used?",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=939930",
+      "rss_tags": [
+        "Column",
+        "Entertainment",
+        "Interview",
+        "Report"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "2e42cef3-7c5f-428d-821c-188c449d6d92",
+    "cluster_id": "799e98eb-b463-4bb0-a1c2-846ee9d29b1c",
+    "cluster_size": 2,
+    "source": "paulg",
+    "title": "AIPAC complaining of “A level of scrutiny not applied to any other group of citizens.”  Let’s be precise: No other inter...",
+    "teaser": "AIPAC complained about 'unequal scrutiny,' but Ryan Grim argues that other interest groups—like AI or crypto—are far less transparent with their PAC funding.",
+    "summary": "Ryan Grim wrote a political critique regarding AIPAC's claim that there is 'A level of scrutiny not applied to any other group of citizens.' Grim counters this by pointing out that other powerful interest groups (such as AI, crypto, and big oil) do not hide their money in shell PACs; rather, they spend through PACs that are transparently linked to their interests. The critique notes that AIPAC previously alleged that this was part of an orchestrated campaign to single out and demonize pro-Israel Americans.",
+    "importance": 3,
+    "category": "policy",
+    "url": "https://x.com/ryangrim/status/2060755675433611311",
+    "date": "2026-05-30T16:10:14Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Ryan Grim",
+    "content": "AIPAC complaining of “A level of scrutiny not applied to any other group of citizens.”\n\nLet’s be precise: No other interest group — not crypto, not AI, not big oil, etc — hides its money in shell PACs. They all spend through PACs that are transparently linked their interest\n\n@AIPAC wrote:\n> Part of an orchestrated campaign to single out and demonize individual pro-Israel Americans for supporting candidates of their choice.\n\nA level of scrutiny not applied to any other group of citizens.\n\nAnd it’s tolerated and celebrated by “leaders” who claim to want a big tent. x.com/daveweigel/sta…",
+    "raw_meta": {
+      "twitter_handle": "paulg",
+      "category_hint": "startup",
+      "author_handle": "@ryangrim",
+      "quoted_author": "AIPAC",
+      "quoted_handle": "@AIPAC",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@paulg"
+    }
+  },
+  {
     "id": "fdf5aec9-721e-49f7-a4f1-fadee4e7314e",
     "cluster_id": "bcc461ad-2aad-4acf-b62e-368d1f702f2f",
     "cluster_size": 2,
@@ -1260,6 +1683,92 @@
       "quoted_author": "Alvaro",
       "quoted_handle": "@alvaros3333",
       "is_quote_tweet": true
+    }
+  },
+  {
+    "id": "70708445-bc64-4325-bc39-82515c44944b",
+    "cluster_id": "4c4d1f19-fa06-4105-92b0-9d9ba8abc751",
+    "cluster_size": 2,
+    "source": "Fortune",
+    "title": "After a judge ordered Trump’s name be removed from the Kennedy Center, president says it will ‘soon be closed, probably never to open again’",
+    "teaser": "Following a judge’s order to remove Trump’s name, the President predicted the Kennedy Center’s imminent, possibly permanent, closure.",
+    "summary": "A legal dispute has emerged concerning the Kennedy Center after a judge mandated the removal of Donald Trump's name from the venue. In response to this development, the President issued a stark warning, stating that the center 'will soon be closed, probably never to open again.' This highlights a high-profile cultural and political conflict surrounding the institution's naming and continued existence. The incident serves as a flashpoint in the ongoing dialogue about public monuments and political naming rights.",
+    "importance": 3,
+    "category": "world_news",
+    "url": "https://fortune.com/2026/05/30/judge-trump-name-removal-kennedy-center-renovation-closure/",
+    "date": "2026-05-30T20:49:59Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26150566084251-e1780173381595.jpg?resize=1200,600",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Collin Binkley, The Associated Press",
+    "content": "© 2026 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.",
+    "raw_meta": {
+      "rss_entry_id": "https://fortune.com/?p=4496621&showAdminBar=true",
+      "rss_tags": [
+        "Law",
+        "News",
+        "Law"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "f1537418-8c07-4e42-9e11-67a936320d1d",
+    "cluster_id": "388d5767-11be-46bd-9211-0ccea7666c4b",
+    "cluster_size": 1,
+    "source": "GaryMarcus",
+    "title": "“I'm more concerned about the lack of intellectual diversity within the frontier AI commentariat/research world. This im...",
+    "teaser": "Gary Marcus expresses concern over the lack of intellectual diversity within the frontier AI research community.",
+    "summary": "Gary Marcus, MIT PhD and NYU Professor Emeritus (@GaryMarcus), quoted @sebkrier to express concern about the lack of intellectual diversity within the frontier AI commentariat and research world. While the ecosystem has improved recently, Marcus suggests it is still far from being considered healthy.",
+    "importance": 3,
+    "category": "ai_research",
+    "url": "https://x.com/GaryMarcus/status/2060864401415286839",
+    "date": "2026-05-30T23:22:16Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Gary Marcus, MIT PhD and NYU Professor Emeritus",
+    "content": "“I'm more concerned about the lack of intellectual diversity within the frontier AI commentariat/research world. This improved a lot over the last two years, but we're still far from a healthy ecosystem”\n\n@sebkrier wrote:\n> Some ways my thinking has evolved recently: \n\n1. I'm less concerned about those who are incurious about AI as I expect them to eventually see the value and impacts over time, and I think the 'wake up sheeple' vibe is often counterproductive. On the other hand I'm more concerned x.com/sebkrier/statu…\n\nNo wonder all those Tesla folks are testy today.",
+    "raw_meta": {
+      "twitter_handle": "GaryMarcus",
+      "category_hint": "ai_research",
+      "author_handle": "@GaryMarcus",
+      "quoted_author": "Séb Krier",
+      "quoted_handle": "@sebkrier",
+      "is_quote_tweet": true,
+      "merged_tweet_count": 2
+    }
+  },
+  {
+    "id": "669bb383-2ef1-49be-b796-df97dbd5d0a7",
+    "cluster_id": "7a9093e0-e1d3-4488-8db0-e4f041813d2d",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Rocket exhibit at National Space Centre pulls off unintentional NASA SLS impression",
+    "teaser": "A museum's water rocket exhibit inadvertently recreated NASA's Space Launch System (SLS) leaks, showcasing the unpredictable nature of space technology.",
+    "summary": "The National Space Centre in England features interactive exhibits on the space age, including a water bottle rocket meant to depict the Space Race. During a visit, the American rocket simulation malfunctioned, leaking water from its base in an unintended recreation of the technical difficulties associated with NASA's Space Launch System (SLS). The museum confirmed that the USA rocket is currently unavailable because the bands holding the bottle in place snapped. The incident served as a lighthearted reminder that even in the high-tech world of space exploration, mechanical failures, or the 'curse of bork,' can occur.",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/offbeat/2026/05/30/rocket-exhibit-at-national-space-centre-pulls-off-unintentional-nasa-sls-impression/5248248",
+    "date": "2026-05-30T08:30:00Z",
+    "image_url": "https://image.theregister.com/5248260.jpg?imageId=5248260&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "BORK!BORK!BORK! The National Space Centre in England took things a little too far with its simulation of a rocket launch, unless it was seeking to recreate NASA's leaking Space Launch System (SLS) via a plastic bottle and some water. The Leicester-based museum features exhibits aplenty, including some rockets to gawp at, an intriguing parafoil-equipped Gemini capsule, a planetarium, and lots of interactive stations to educate and inform visitors about the space age. Some of those interactive exhibits can, however, be a little too realistic for comfort, such as a bottle rocket intended to illustrate the Space Race between the United States and the Soviet Union. It's a simple enough concept. Select a rocket type, learn some stuff about it, watch as a water bottle is pressurized, listen to the countdown, and then liftoff! It's an activity that kids - and adults - might have attempted in a garden or park. Things didn't go as planned at the National Space Centre, and was reminiscent of the repeated leaks NASA's SLS suffered during launch preparations. Where the exhibit's Soviet Union's bottle blasted off as expected, the American one did not. It spewed water from the base in an unintended recreation of NASA's initial attempts to fuel the SLS, before giving a pathetic twitch when the countdown reached zero. The National Space Centre exhibit Richard Speed Still, it could have been worse. Had the museum decided to recreate the failure of the Soviet Union's N1 Moon rocket, or Blue Origin's explosive test of its New Glenn this week, onlookers might have needed a change of clothes after a sudden, and very watery, boom. The interactive display might not be quite what the museum intended, but it indicates that even in the high-tech world of the space age, the curse of bork is never far away. Unless, of course, the plan was always to remind users of SLS leakage, if not the explosive excesses of today's commercial providers. The National Space Centre told us: \" We currently have one water rocket out, the USA rocket. There are these bands that are needed to keep the bottle in place within its frame, the bands for that rocket snapped a few times recently so we have run out of spares and are waiting on parts be delivered for it to be back in action, but the soviet rocket is completely fine and has been all week. \" ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5248248",
+      "rss_tags": [
+        "offbeat"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {

@@ -484,6 +484,32 @@
     }
   },
   {
+    "id": "f38dcfbd-d9ff-457c-9c50-419c23b71d89",
+    "cluster_id": "25e67faa-a166-4cbf-ad2c-f0aa39c94f0d",
+    "cluster_size": 2,
+    "source": "HN: AI",
+    "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+    "teaser": "Liquid AI debuts LFM 2.5, a compact model leveraging 128K tokens for advanced, on-device AI capabilities.",
+    "summary": "Liquid AI released LFM2.5-8B-A1B, an advanced edge model designed for reliable, fast tool calling on consumer devices. This model significantly improves upon its predecessor by expanding the context window to 128K tokens and scaling up pretraining to 38T tokens. LFM2.5 is also a 'reasoning-only' model, which provides a crucial quality boost by generating explicit chains of thought. Key technical enhancements include doubling the vocabulary to 128K, boosting non-Latin language efficiency, and maintaining high throughput on CPU and GPU. Benchmark results show LFM2.5-8B-A1B is highly competitive with much larger, more complex MoE models, particularly in agentic workflows, making it ideal for private, on-device AI agents.",
+    "importance": 5,
+    "category": "ai_research",
+    "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+    "date": "2026-05-29T16:19:54Z",
+    "image_url": "https://cdn.prod.website-files.com/67cb8aa6e9184b6e44813189/6a17874a7db7a603d7eb3627_lfm2_5_8b_a1b_benchmarks.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "simjnd",
+    "content": "Today, we're releasing LFM2.5-8B-A1B , an edge model built for fast, reliable tool calling on consumer hardware. It builds on our LFM2-8B-A1B release from October 2025, with an expanded 128K context window, scaled-up pretraining (from 12T to 38T tokens), and large-scale reinforcement learning. We also doubled its vocabulary to improve tokenization efficiency for non-Latin languages. The result is a model that chains tool calls, achieves tasks, and fits comfortably even on an entry-level laptop. The base (LFM2.5-8B-A1B-Base) and post-trained (LFM2.5-8B-A1B) models are available today on Hugging Face and our Playground . Check out our docs on how to run and fine-tune them locally. *AA-Omniscience Index (higher is better) rewards correct answers and penalizes hallucinations. Scores range from -100 to 100. See more results on Artificial Analysis . Highlights On-device personal assistant. Designed to power real-life applications, chaining tool calls, and following complex instructions on all devices. Compressed performance. Competitive with much larger dense and MoE models on instruction following and agentic tasks. Unmatched throughput. Fastest in its size class on both CPU and GPU inference, with day-one support for llama.cpp, MLX, vLLM, and SGLang. What changed since LFM2-8B-A1B Compared to LFM2-8B-A1B, this new version expands the context window from 32,768 to 128,000 tokens . This allows the model to process longer documents and reason for longer. Its vocabulary size was also scaled up from 65,536 to 128,000 to tokenize non-Latin scripts more efficiently . We see particularly strong compression gains in Hindi, Thai, Vietnamese, Indonesian, and Arabic. The rest of the architecture follows the same combination of MoE, GQA, and gated short convolution blocks as LFM2-8B-A1B, as shown in the following figure. ‍ Unlike its predecessor, LFM2.5-8B-A1B is a reasoning-only model , producing an explicit chain of thought before its final answer. We adopted this strategy because MoE models generally run in compute-bound settings, where a smaller number of active parameters makes each reasoning token cheap. This provides a significant quality boost without compromising speed. Thanks to reasoning and scaled-up training, this new version performs significantly better: Benchmark LFM2-8B-A1B LFM2.5-8B-A1B Δ AA-Omniscience Index -78.42 -24.70 +53.62 AA-Omniscience Accuracy 7.33 8.67 +1.34 AA-Omniscience Non-Hallucination Rate 7.46 63.47 +56.01 IFEval 79.44 91.84 +12.40 IFBench 26.00 56.47 +30.47 Multi-IF 58.54 79.93 +21.39 MATH500 74.80 88.76 +13.96 AIME25 20.00 42.53 +22.53 BFCLv3 45.07 64.36 +19.29 BFCLv4 25.52 48.50 +22.98 Tau² Telecom 13.60 88.07 +74.47 Tau² Retail 7.02 39.82 +32.80 Training highlights Tokenizer expansion. LFM2-8B-A1B was originally trained with a 65K BPE tokenizer optimized for our initial language coverage. To better support non-Latin scripts in LFM2.5, we doubled the vocabulary to 128K by extending the existing tokenizer in place rather than retraining the model from scratch.. We continued BPE merge training from the original merges on a multilingual corpus, which keeps most existing token IDs as identity mappings and makes every new token decompose deterministically into a sequence of original sub-tokens. We initialize the new embedding rows as the mean of their sub-token decompositions and copy the shared rows unchanged. We then recover quality through a brief two-stage adaptation: embedding-only training, followed by full-model continued pretraining. The table below reports chars/token, roughly how much text each token carries: higher is better, and the new tokenizer is more efficient in all 16 languages Tokenizer Arabic (ar) German (de) English (en) Spanish (es) French (fr) Hindi (hi) Indonesian (id) Italian (it) Japanese (ja) Korean (ko) Polish (pl) Portuguese (pt) Russian (ru) Thai (th) Vietnamese (vi) Chinese (zh) Old tokenizer 2.239 3.641 4.063 3.442 3.618 0.961 2.731 3.251 1.836 1.652 2.672 3.194 2.703 0.671 1.519 1.475 New tokenizer 3.107 3.783 4.137 3.579 3.759 2.118 3.513 3.475 1.963 1.943 2.895 3.450 2.876 2.269 3.311 1.620 Improvement +38.8% +3.9% +1.8% +4.0% +3.9% +120.4% +28.6% +6.9% +6.9% +17.6% +8.3% +8.0% +6.4% +238.2% +117.9% +9.8% Context extension. We first extended the context window to 32K through a 2T token midtraining phase focused on reasoning, math, tool-use, and longer documents. We then extended the context to 128K by increasing the RoPE base θ and running an additional 400B token midtraining stage focused on long-document and long-trajectory data. Doom loops. We added a targeted preference optimization stage to reduce doom loops in long reasoning traces. This stage identifies tokens that tend to trigger looping behavior in specific contexts, then redistributes probability mass toward plausible alternatives, while leaving the rest of the next-token distribution largely intact. During RL, we also added a lightweight shaping reward that discourages excessive use of common loop-inducing restart words like \"Wait...\". We'll share more details on the full pipeline, objective, and empirical results in a dedicated blog post. Hallucinations. Because of their small number of parameters, edge models have a limited knowledge capacity, which leads to more hallucinations. To mitigate hallucinations, we added a targeted RL stage that uses an avg@k-based reward over a diverse knowledge dataset. The goal is to reinforce abstention on queries beyond reliable knowledge while preserving existing knowledge. This produces a sharper knowledge boundary and clearer expression of uncertainty. Benchmarks We evaluated LFM2.5-8B-A1B across benchmarks covering knowledge, instruction following, math, and agentic workflows. The model is competitive with both dense alternatives with a similar total number of parameters and much larger MoEs. Model Parameters AA-Omniscience Index Accuracy Non-Hallucination IFEval IFBench Multi-IF LFM2.5-8B-A1B 8B/A1B -24.70 8.67 63.47 91.84 56.47 79.93 Granite-4.0-H-Tiny 7B/A1B -75.50 9.37 6.38 82.23 21.28 59.00 Qwen3.5-4B 4B -51.53 17.20 16.99 87.80 50.38 67.43 Qwen3-30B-A3B-Thinking-2507 30.5B/3.3B -51.31 18.80 13.87 90.82 51.11 79.04 Gemma-4-E2B-IT 5.1B -72 7.00 15.05 82.93 33.53 69.70 Gemma-4-E4B-IT 8B -50.67 8.10 36.06 87.74 39.48 77.58 Gemma-4-26B-A4B-IT 26B/4B -62.07 14.37 10.75 91.40 47.25 82.06 gpt-oss-20b 21B/3.6B -49.17 14.57 24.50 86.73 58.65 76.64 The avg@k-based reward enables LFM2.5-8B-A1B to achieve a significantly lower hallucination rate while maintaining reasonable accuracy. It also leads on instruction following benchmarks, matching bigger MoEs like Gemma 4-26B at a fraction of the active parameter count. Math and agentic workflows Model Parameters MATH500 AIME25 AIME26 BFCLv3 BFCLv4 Tau² Telecom Tau² Retail LFM2.5-8B-A1B 8B/A1B 88.76 42.53 50.00 64.79 49.73 88.07 39.82 Granite-4.0-H-Tiny 7B/A1B 59.20 4.93 3.33 56.89 28.52 16.67 18.42 Qwen3.5-4B 4B 80.76 54.28 58.33 71.06 54.01 87.72 71.93 Qwen3-30B-A3B-Thinking-2507 30.5B/3.3B 86.48 71.67 66.67 73.39 50.53 21.93 56.14 Gemma-4-E2B-IT 5.1B 64.00 26 30 56.44 31.91 22.37 18.95 Gemma-4-E4B-IT 8B 65.00 34.33 40.67 57.31 33.92 26.75 42.11 Gemma-4-26B-A4B-IT 26B/4B 94.20 68.67 72.00 68.87 55.87 42.11 55.26 gpt-oss-20b 21B/3.6B 92.40 68.53 68.67 62.52 49.88 57.24 53.51 On agentic benchmarks, LFM2.5-8B-A1B is competitive with bigger models and particularly strong on Tau2-Telecom. As agentic harnesses are becoming the main way to consume models, LFM2.5-8B-A1B is a first step towards powering on-device, fully private agents. Sparse Inference, Everywhere LFM2.5-8B-A1B ships with day-one support across the inference ecosystem: LEAP - Liquid's Edge AI Platform for iOS and Android deployment llama.cpp - GGUF checkpoints for efficient edge inference MLX - Optimized inference for Apple Silicon vLLM - GPU-accelerated serving for production throughput SGLang - GPU-accelerated serving for production throughput ONNX - Cross-platform inference across diverse accelerators CPU inference. LFM2.5-8B-A1B ships with day-one llama.cpp support and runs on everyday consumer hardware. On both laptop-class chips, it is the fastest model we tested at reading in prompts and generating answers, decoding 253 tokens/s on an M5 Max and 146 on a Ryzen AI Max+ 395 while staying under 6 GB. It even holds ~30 tokens/s on a phone, so a capable assistant runs instantly and privately on your own device. GPU inference. We support inference via vLLM and SGLang via active contributions to these codebases. We measure output throughput (total output tokens divided by wall time) on a single NVIDIA H100 SXM5 GPU using a sustained-load setting: at each concurrency level, we continuously maintain the target number of in-flight requests, replacing each completed request immediately. We benchmark each model with SGLang 0.5.12, 1,024 input tokens, up to 256 output tokens, in BF16, averaging 3 runs per concurrency level. LFM2.5-8B-A1B is the fastest model in its size class, reaching 18.5K output tokens per second at high concurrency, over 1.6B tokens per day on a single H100. Local Cowork: see it run Our open-source desktop agent demo, LocalCowork , now runs on LFM2.5-8B-A1B. The setup is the same one we used for LFM2-24B-A2B demo in March: a single laptop, 67 tools across 13 MCP servers, no cloud, no API keys, no data leaving the machine. Tool selection is faster and noticeably more reliable across the same tool menu. The point of the demo is not the individual tools. It is that the tool-dispatch loop feels interactive on consumer hardware: ask, propose, confirm, run, repeat, all in well under a second per dispatch, with full audit trails and your data never leaving the device. ‍ Get Started With LFM2.5, we're delivering on our vision of AI that runs anywhere. These models are: Open-weight - Download, fine-tune, and deploy without restrictions Fast from day one - Native support for llama.cpp, MLX, vLLM, SGLang across Apple, AMD, Intel, Qualcomm, and Nvidia hardware A complete family - From base models for customization to specialized audio and vision variants, one architecture covers diverse use cases The on-device agentic future starts here. We can't wait to see what you build. Citation Please cite this article as: Liquid AI, \"LFM2.5-8B-A1B: Personal Assistant On Your Laptop,\" Liquid AI Blog , May 2026. Or use the BibTeX citation: @article{liquidAI20268BA1B,\n author = {Liquid AI},\n title = {LFM2.5-8B-A1B: Personal Assistant On Your Laptop},\n journal = {Liquid AI Blog},\n year = {2026},\n note = {https://www.liquid.ai/blog/lfm2-5-8b-a1b},\n}",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48325306",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "2c6d418a-545a-47aa-bcf2-3f0988b4423e",
     "cluster_id": "1ea402a6-85af-4338-a091-5c66fed907f0",
     "cluster_size": 3,
@@ -658,6 +684,51 @@
     "raw_meta": {
       "rss_entry_id": "108313806",
       "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "c24e6586-799b-4bcf-b820-c03ffac24841",
+    "cluster_id": "31234dcb-f547-45b6-bf8e-dd251ce14b98",
+    "cluster_size": 8,
+    "source": "WinBuzzer",
+    "title": "Google Revises Gemini Quotas After AI Pro Subscriber Complaints",
+    "teaser": "As AI compute scarcity peaks, Google revised Gemini quotas and OpenAI guaranteed capacity, showing the struggle to keep up with explosive demand.",
+    "summary": "Major AI providers are adjusting their resource management policies amid exploding demand and limited compute capacity. Google is revising Gemini's quotas, moving away from simple prompt counts to compute-based limits. These revisions ensure that expensive features, like video generation, and failed jobs no longer disproportionately drain a user's paid quota. Concurrently, OpenAI launched 'Guaranteed Capacity,' allowing enterprise clients to commit to annual spending for assured access to compute, although this move was criticized as merely formalizing existing cloud service obligations. The market remains volatile, with providers like Google making rapid adjustments, such as recently increasing Gemini rate limits threefold in Antigravity, highlighting the ongoing race to manage AI's operational scalability.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://winbuzzer.com/2026/05/29/google-revises-gemini-quotas-after-paid-user-backlash-xcxwbn/",
+    "date": "2026-05-29T18:19:51Z",
+    "image_url": "https://winbuzzer.com/wp-content/uploads/2026/05/Gemini-Omni.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Markus Kasanmascheff",
+    "content": "TL;DR Quota Revision: Google isrevising Gemini's paid limits after complaints that one failed video task could consume a full five-hour window. Policy Change: Google now caps how much one Gemini 3.1 Pro request can use, and failed jobs no longer count against quota. Subscriber Test: AI Pro buyers still need the refreshed quota system to feel predictable when heavier Omni and video features are part of normal use. Google is revising Gemini's compute-based usage limits after complaints that expensive tasks could burn through quota too quickly. One failed avatar-video request reported by a user on X exhausted his entire five-hour usage window , turning a subscription update into a direct product problem for Google AI Pro subscribers. Google Gemini lead Josh Woodward offered a public response, stating \"Yikes, let us take a look!\" Paying users had already seen Google push Gemini toward compute-based quotas through the wider subscription reset in May. The earlier Gemini 3.1 Pro rollout had also expanded the premium stack, leaving Google's paid plans under pressure to make heavier workloads feel predictable enough for subscribers who use video and other costly tools. How Gemini's New Quota Rules Changed Quota now depends on how demanding a task is, not just how many prompts a user sends. Google's paid setup reflects prompt complexity and tool usage , with limits that refresh every five hours until a weekly cap is reached. Under that model, Google is also limiting how much quota a single Gemini 3 .1 Pro prompt can consume. For paying users, failed requests now do not count against quota, a change that directly addresses the risk that an expensive attempt could wipe out hours of paid access without producing a usable result. Google currently lists these three Google AI plans : Across those tiers, Google AI Plus includes limited access to Gemini Omni Flash , while AI Pro broadens access across the Gemini app and related tools. AI Ultra adds higher limits plus Deep Think access. Paid video generation sits near the center of the dispute because heavier creative tasks reveal the real cost of a compute-based plan much faster than an ordinary chat session. For subscribers, that means quota math now shapes product value as much as the feature list. A plan can look generous on paper yet still feel restrictive if one failed generation drains most of a session before the user gets a result. Product Rollout Context and Feature Pressure Pressure on the new quota model rose after Google expanded Gemini's heavier feature set in May. With the Gemini Omni launch for subscribers , paid users gained direct access to a multimodal video tool that can turn quota drain into a visible product failure. In response, Google has fixed a bug that could let one or two Omni videos consume too much quota for some users. Google also doubled the number of Omni generations available to AI Ultra subscribers, a sign that the response reached beyond a wording change around limits and into capacity for the heaviest tier. At the lower end of the stack, Flash-Lite prompts are free. Ashutosh Shrivastava's description turns the policy change into a concrete usability test: a paid plan still has to let an AI Pro user finish a demanding task without losing an entire session to a failed run. That is especially important for mid-tier subscribers, who are paying for broader access but still face much tighter ceilings than AI Ultra users. What Comes Next for Paid Gemini Use At the top tier, AI Ultra advertises a 5X higher usage limit in the Gemini app and Google Antigravity than Google's Pro plan. For Google, that gap creates room to push the heaviest workloads toward a pricier tier while leaving AI Pro buyers to judge whether the mid-tier plan remains practical. Google's latest fixes reduce the sharpest complaint by shielding failed jobs from quota loss and tightening how much one request can consume. AI Pro subscribers still need the five-hour window to feel usable in practice, especially when video features and other compute-heavy tools are now central to what Google is selling in Gemini.",
+    "raw_meta": {
+      "rss_entry_id": "https://winbuzzer.com/?p=1952428",
+      "rss_tags": [
+        "WinBuzzer News",
+        "AI Assistants",
+        "AI Compute",
+        "AI Models",
+        "AI Monetization",
+        "AI Subscription",
+        "AI Video",
+        "AI Video Generation",
+        "Artificial Intelligence (AI)",
+        "Gemini Omni",
+        "Gemini Omni Flash",
+        "Generative AI",
+        "Google",
+        "Google AI",
+        "Google Gemini",
+        "Large Language Models (LLMs)",
+        "Multimodal AI",
+        "Text-to-Video"
+      ],
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
@@ -840,6 +911,35 @@
       "gmail_labels": [],
       "gmail_msgid": "1866565030595137474",
       "gmail_thrid": "1866565030595137474"
+    }
+  },
+  {
+    "id": "9e631e7a-ff55-4461-96c6-9f0c642dfd7b",
+    "cluster_id": "405a5c05-696b-43dc-9bc5-c5135764f4b2",
+    "cluster_size": 3,
+    "source": "pmarca",
+    "title": "The fact that this isn't considered common sense is damning.  The problem of technology is that our intellectual underst...",
+    "teaser": "Peterson critiques the worship of AI, warning that technology's power risks totalitarianism and demanding institutional checks and balances.",
+    "summary": "Matthew J. Peterson (@docMJP) argues that technology has degraded our intellectual understanding of reality, leading people to 'worship' applied math and AI. He warns that digital technology could lead inevitably to totalitarianism, calling for a balance of wisdom and institutional checks against any 'one ring to rule them all' syndrome. The discussion includes a critique from @DissidentClint stating that AI, being pure math, cannot have experiences or opinions, which Peterson addresses by noting that while the danger is real, the solution requires preventing the totalitarian impulse through competition and democratization of AI. This critical synthesis is reposted by @pmarca.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://x.com/docMJP/status/2060508099396452379",
+    "date": "2026-05-29T23:46:27Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Matthew J. Peterson",
+    "content": "The fact that this isn't considered common sense is damning.\n\nThe problem of technology is that our intellectual understanding of reality and ourselves is degraded and childish.\n\nWe are technologically advanced but philosophically, spiritually primitives. \n\nAnd this is a now a fast-moving trend in both directions.\n\nSo of course people will act weird and anthropomorphize and worship applied math and machine learning. \n\nThey will even imagine that this worship is sophisticated, and what the enlightened know that everyone else doesn't.\n\nA tale as old as time. \n\nThe flip side is that those who see reality more clearly, and understand what is human, will be able to use and channel and shape the technology rightly. \n\nIF they have a seat at the table. \n\nBecause the simple worship of power we will always have with us, and AI as a great power is the simplest way to understand it. And many (as always) are giddy in anticipation in their attempt to harness it for the sake of power alone for their own ends\n\nBut the solution to THAT problem (as always), is not only virtue and wisdom, but also counters and checks to the usual \"one ring to rule them all\" syndrome. \n\nAnd this means preventing the totalitarian impulse by means of true competition and the \"democratizing\" (maybe, better said, \"the aristocratizing\") of AI to the extent possible. A complicated business in many ways, to be sure. \n\nThe tech in question - digital - can lead in what seems an almost inevitable way to totalitarianism. But it can also prevent the same.\n\nSorting all this out in an intelligent and wise way is vital now, even in the midst of the cacophony of paid emoters, pathetic grifters, strained power-desirers, faux-intellectuals, and the general over-the-top asininity that surrounds the issue.\n\n@DissidentClint wrote:\n> If AI does not have experiences, it cannot have preferences for what it experiences. If it can’t have preference, it cannot have a perspective or opinion. \n\nThis is because AI is math. And math can’t have experiences, preferences, or opinions. \n\nDo not anthropomorphize math. x.com/Pontifex/statu…",
+    "raw_meta": {
+      "twitter_handle": "pmarca",
+      "category_hint": "startup",
+      "author_handle": "@docMJP",
+      "quoted_author": "Clint Brown",
+      "quoted_handle": "@DissidentClint",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@pmarca"
     }
   },
   {
@@ -1558,6 +1658,32 @@
     }
   },
   {
+    "id": "c2196540-b183-45a3-a41c-d74ddf12b067",
+    "cluster_id": "ee19fa42-9714-4d88-87fd-2d797cc74d40",
+    "cluster_size": 2,
+    "source": "Noahpinion",
+    "title": "Using the evidence from Auckland's upzoning, we infer that a 1% increase in housing stock reduces rents by 3.6%.  Rents...",
+    "teaser": "An analysis of Auckland's upzoning shows that a 1% increase in housing stock reduces rents by 3.6%, according to Michael Wiebe (@michael_wiebe), reposted by @noahpinion.",
+    "summary": "Michael Wiebe (@michael_wiebe), reposted by @noahpinion, discusses the economic implications of upzoning using data from Auckland. He infers that a 1% increase in housing stock reduces rents by 3.6%. Using Auckland's figures—where rents fell by 21.6% and housing stock increased by 6.9%—he calculates that the elasticity of rents to housing stock is -3.6.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://x.com/michael_wiebe/status/2060399677749735654",
+    "date": "2026-05-29T16:35:38Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Michael Wiebe",
+    "content": "Using the evidence from Auckland's upzoning, we infer that a 1% increase in housing stock reduces rents by 3.6%.\n\nRents fell by 21.6% and the housing stock increased by 6.9%, so the elasticity of rents to housing stock is ln(1-0.216)/ln(1+0.069) = -3.6.",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@michael_wiebe",
+      "is_repost": true,
+      "reposted_by": "@noahpinion"
+    }
+  },
+  {
     "id": "c1b8f448-a094-4484-b3b3-c9716ec642fa",
     "cluster_id": "21894869-3cf0-4d0f-842d-089ca848d868",
     "cluster_size": 1,
@@ -1821,6 +1947,35 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "5da2d674-a453-440a-b6da-421d819667d0",
+    "cluster_id": "0ce84bb0-9fde-4f3b-9f5b-41d1c621dfab",
+    "cluster_size": 2,
+    "source": "Noahpinion",
+    "title": "The next step in the AI cold war should be OpenAI hiring Terence Tao.  @OpenAI wrote: > AI can give researchers the free...",
+    "teaser": "The suggestion that OpenAI should hire top mathematician Terence Tao, leveraging AI to foster 'crazier' research ideas, aligns with the highly academic setting depicted in the image.",
+    "summary": "The author proposes that the next critical step in the 'AI cold war' should be OpenAI hiring Terence Tao. This proposal is framed around the idea that AI provides researchers with unprecedented freedom to explore unconventional and experimental ideas, which is a theme echoed by the complex mathematical formulations shown on the chalkboard, symbolizing deep theoretical research.",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://x.com/eigenron/status/2060458926194462817",
+    "date": "2026-05-29T20:31:04Z",
+    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2060450146928988160/img/GjaEs5ob-9C30uPo.jpg",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "eigenron",
+    "content": "The next step in the AI cold war should be OpenAI hiring Terence Tao.\n\n@OpenAI wrote:\n> AI can give researchers the freedom to pursue “crazier” ideas.\n\nFor Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@eigenron",
+      "quoted_author": "OpenAI",
+      "quoted_handle": "@OpenAI",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@noahpinion"
     }
   },
   {

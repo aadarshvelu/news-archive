@@ -1,0 +1,59 @@
+[
+  {
+    "id": "427c83f3-6d81-47e3-b712-643412973655",
+    "cluster_id": "35419e62-41dd-4349-b2d5-f3f9d71da881",
+    "cluster_size": 1,
+    "source": "Noahpinion",
+    "title": "Texan cities have so much more aura than Philly, Baltimore, or Chicago  @StatisticUrban wrote: > US, top 5 largest metro...",
+    "teaser": "From urban decline predictions in Texas to massive advances in cancer care, Noah Smith delivers a series of major insights on American dynamism and global trends.",
+    "summary": "Noah Smith, via a burst-merged quote-tweet series, shares multiple insights ranging from urban planning and economics to medical breakthroughs. The tweets criticize urban decline, noting that the top 5 US metro areas in 2025 include Dallas-FW and Houston, and argue for American dynamism by 'building more, faster.' He also highlights a massive jump in cancer care, noting that lorlatinib dramatically improved survival rates for metastatic solid tumor patients, and touches on cultural notes about Japan's 'high-trust' society and the necessity of continuous building/innovation.",
+    "importance": 5,
+    "category": "world_news",
+    "url": "https://x.com/Noahpinion/status/2060947183994818928",
+    "date": "2026-05-31T04:51:13Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Noah Smith",
+    "content": "Texan cities have so much more aura than Philly, Baltimore, or Chicago\n\n@StatisticUrban wrote:\n> US, top 5 largest metro areas:\n\n1800: NYC, Philly, Baltimore, Boston, Charleston (aura)\n\n1900: NYC, Chicago, Philly, Boston, Pittsburgh (aura)\n\n2025: NYC, LA, Chicago, Dallas-FW, Houston (insane loss of aura, thanks Texas)\n\nThree decades of the Economic Complexity Index, which ranks economies by how diverse and sophisticated their exports are\n\nIronically Abundance is actually the same exact idea as American dynamism, but from a policy angle.\n\nAmerica wins by building more, faster. Housing, energy, transit, factories, chips, labs, schools, companies.\n\nWe need to stop blocking the future\n\nYes\n\n@AokiSakunosuke wrote:\n> What's funny about the arguments among foreigners over whether Japan is a high-trust society is that the concept of high/low-trust society doesn’t even exist in Japan. Maybe it can be translated as 高/低信頼社会 but no one actually uses those term here lol\n\nDear professors: AI is not going to take your job. The unfortunate reason for this is that most of the outside world generally thought your research was useless before AI came along, and viewed you as a glorified teacher. They will continue to think this, and continue to pay you.\n\nWe're winning the War on Cancer\n\n@cremieuxrecueil wrote:\n> This is actually insane.\n\n97% of people taking the standard of care for metastatic solid tumor got worse by seven years.\n\nBut with lorlatinib, that number was only 45% in the same time!\n\nThis is an ENORMOUS jump in the quality of cancer care.  x.com/lungoncdoc/sta…\n\nYOU MOTHER FUCKER\n\n@atrupar wrote:\n> Trump: \"We shouldn't have been in Iran\"\n\nThis is what most of urban China actually ended up looking like!\n\n@mattyglesias wrote:\n> Midcentury urban planning is so fascinating. \n\nPeople convinced themselves this was a good idea!",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@Noahpinion",
+      "quoted_author": "Hunter",
+      "quoted_handle": "@StatisticUrban",
+      "is_quote_tweet": true,
+      "merged_tweet_count": 8
+    }
+  },
+  {
+    "id": "d4908945-c24e-4b72-b31a-be00f6348981",
+    "cluster_id": "c081db7d-1ecf-4ae2-bff6-62b2e7068304",
+    "cluster_size": 2,
+    "source": "pmarca",
+    "title": "Food for thought.   Clay’s Revenge  Treasury Secretary Scott Bessent’s speech at the Reagan National Economic Forum was...",
+    "teaser": "Scott Bessent's speech advocates for reviving Henry Clay's American System, stressing national vigilance and protectionism.",
+    "summary": "James E. Thorne notes that Treasury Secretary Scott Bessent's address at the Reagan National Economic Forum amounted to a restoration of Henry Clay's American System. Bessent's remarks, quoted in the tweet, emphasized that America's vulnerabilities have grown, requiring a state of alert under 'President Trump’s leadership' to address risks that can no longer be ignored or deferred.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://x.com/DrJStrategy/status/2060898762130674012",
+    "date": "2026-05-31T01:38:49Z",
+    "image_url": "https://pbs.twimg.com/amplify_video_thumb/2060443952222765056/img/7tMsM9ffPKMgV5jF.jpg",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "James E. Thorne",
+    "content": "Food for thought. \n\nClay’s Revenge\n\nTreasury Secretary Scott Bessent’s speech at the Reagan National Economic Forum was more than a defense of tariffs or industrial policy. It was the clearest public restoration of Henry Clay’s American System in generations.\n\nClay understood\n\n@SecScottBessent wrote:\n> While America slept for decades, our vulnerabilities grew. But under President Trump’s leadership, we are alert to the risks we can no longer ignore—and attuned to the responsibilities we can no longer defer.\n\nUnder @POTUS, we have awoken to morning again in America. And as we",
+    "raw_meta": {
+      "twitter_handle": "pmarca",
+      "category_hint": "startup",
+      "author_handle": "@DrJStrategy",
+      "quoted_author": "Treasury Secretary Scott Bessent",
+      "quoted_handle": "@SecScottBessent",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@pmarca"
+    }
+  }
+]
