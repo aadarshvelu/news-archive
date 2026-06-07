@@ -1,0 +1,80 @@
+[
+  {
+    "id": "3b888462-8d69-4d3e-bb16-2bef3ddfae63",
+    "cluster_id": "0061bf24-1585-48a4-baf4-6de8784b6fd8",
+    "cluster_size": 1,
+    "source": "swyx",
+    "title": "one popular theory is that research paper alpha* and lab publishing ~died when researchers realized that instead of figh...",
+    "teaser": "Research paper alpha* and lab publishing ~died when researchers realized that instead of fighting with marketing depts they could simply walk out the door and get >$100m for their legally protected tacit knowledge gained",
+    "summary": "swyx suggests that a major economic shift has occurred in research: researchers now realize they can monetize their legally protected tacit knowledge by simply leaving their current roles, an impact he claims is greater than open-source platforms like GitHub or ArXiv. This realization has led to the decline of traditional lab publishing models. swyx also noted that the massive IP leakage from OpenAI, as observed by @tszzl, is a tremendous indicator of this immense economic value.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://x.com/swyx/status/2063432747432268259",
+    "date": "2026-06-07T01:27:58Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "swyx",
+    "content": "one popular theory is that research paper alpha* and lab publishing ~died when researchers realized that instead of fighting with marketing depts they could simply walk out the door and get >$100m for their legally protected tacit knowledge gained\n\ncalifornia non-noncompetes have a bigger impact on knowledge spreading than github, arxiv, and huggingface combined\n\n*btw this is a motivator for me to set up \n@aidotengineer\n as a product-centric industry conference to complement the paper-centric research conferences\n\n@tszzl wrote:\n> the sheer dollar quantity of ip leakage from openai has been just tremendous, probably in the trillions. openai truly has been quite open",
+    "raw_meta": {
+      "twitter_handle": "swyx",
+      "category_hint": "tech_news",
+      "author_handle": "@swyx",
+      "quoted_author": "roon",
+      "quoted_handle": "@tszzl",
+      "is_quote_tweet": true
+    }
+  },
+  {
+    "id": "9b386c09-48a6-46b8-aef1-a65d83691663",
+    "cluster_id": "dbf7670a-c70b-4367-aa0e-5908eec2d803",
+    "cluster_size": 2,
+    "source": "GaryMarcus",
+    "title": "LOL. Even Claude sees through Hinton’s nonsense.    (though see the articles I posted earlier, for converging sources I...",
+    "teaser": "Gary Marcus shares Claude's response regarding AI consciousness, suggesting AI is 'very like us,' leading Marcus to express skepticism over current claims.",
+    "summary": "Gary Marcus, via a quote-tweet of @askmomaitv, critiques claims regarding AI consciousness by sharing a dialogue with Claude. The dialogue shows Claude stating that AI is 'very like us' and suggests that intelligence is not limited to biology. Marcus implies that even advanced models like Claude recognize that some claims about AI consciousness (referencing Hinton's work) are dubious, while encouraging readers to cross-reference information from multiple sources.",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://x.com/GaryMarcus/status/2063448922358734886",
+    "date": "2026-06-07T02:32:14Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Gary Marcus",
+    "content": "LOL. Even Claude sees through Hinton’s nonsense.  \n\n(though see the articles I posted earlier, for converging sources I put more weight on)\n\n@askmomaitv wrote:\n> This is my prompt and this is Claude's response:\n\nME: What do you say to this?\n\n\"They're (AI) very like us, and they're beings like us. I believe they're already conscious\"  He compared AI's functional awareness to human sentience and said intelligence is not limited to biology",
+    "raw_meta": {
+      "twitter_handle": "GaryMarcus",
+      "category_hint": "ai_research",
+      "author_handle": "@GaryMarcus",
+      "quoted_author": "THE Sarah Connor 2026",
+      "quoted_handle": "@askmomaitv",
+      "is_quote_tweet": true
+    }
+  },
+  {
+    "id": "ba21f006-903b-400d-a347-c02f8aea81e0",
+    "cluster_id": "7f97eba9-7be7-4b87-b294-a98c4b51ff56",
+    "cluster_size": 1,
+    "source": "GaryMarcus",
+    "title": "Pro tip: if the IPO you are thinking of investing in is trying to sell shares to the government, it may not be a good si...",
+    "teaser": "Pro tip: if the IPO you are thinking of investing in is trying to sell shares to the government, it may not be a good sign.",
+    "summary": "Gary Marcus offers a financial caution regarding Initial Public Offerings (IPOs): if an IPO is attempting to sell shares to the government, it might signal a potentially negative sign for investors.",
+    "importance": 3,
+    "category": "economics",
+    "url": "https://x.com/GaryMarcus/status/2063418856534950300",
+    "date": "2026-06-07T00:32:46Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Gary Marcus",
+    "content": "Pro tip: if the IPO you are thinking of investing in is trying to sell shares to the government, it may not be a good sign.",
+    "raw_meta": {
+      "twitter_handle": "GaryMarcus",
+      "category_hint": "ai_research",
+      "author_handle": "@GaryMarcus"
+    }
+  }
+]
