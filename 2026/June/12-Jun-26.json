@@ -149,6 +149,34 @@
     }
   },
   {
+    "id": "e52ea0bc-b36f-41d5-b817-dd5128639c13",
+    "cluster_id": "7f7b8721-a0bd-4d56-b0cb-82703653ef8a",
+    "cluster_size": 3,
+    "source": "The Register",
+    "title": "UK digital ID gets brain trust to 'challenge' ministers on policy",
+    "teaser": "Experts are calling for the UK government to ditch the Palantir contract and ensure 'technology sovereignty' before rolling out controversial digital IDs or the Single Patient Record.",
+    "summary": "The UK's push for a digital future faces scrutiny across both policy and infrastructure. For its Digital ID project, the government established an advisory board, featuring figures like Mumsnet CEO Justine Roberts, to challenge ministerial plans. Separately, the Health Secretary is making the government the data controller for the Single Patient Record (SPR) in England, requiring NHS providers to share patient data, a move that has drawn concern from the British Medical Association (BMA) about control of records. Furthermore, the House of Commons committee warned against dangerous 'vendor lock-in,' specifically naming Palantir's lucrative contract. The committee urged the government to end the controversial US supplier's role and develop UK-owned alternatives, arguing that the foundations of the digital infrastructure must be secured and public trust gained before projects like Digital ID can succeed.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://www.theregister.com/public-sector/2026/06/12/uk-digital-id-gets-brain-trust-to-challenge-ministers-on-policy/5254650",
+    "date": "2026-06-12T10:13:24Z",
+    "image_url": "https://image.theregister.com/1683988.jpg?imageId=1683988&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "PUBLIC SECTOR UK digital ID gets brain trust to 'challenge' ministers on policy CEO of Mumsnet among the six-member team The UK government has set up an advisory board for its digital ID project, intended \"to challenge the government on emerging ideas or policy decisions to ensure the system works for everyone,\" says the Cabinet Office. The board includes David Rogers, an Internet of Things security expert and CEO of security consultancy Copper Horse. He is no stranger to government advisory panels, having previously sat on a group formed in 2020 to consider telecoms diversification . A year later, as chairman of the GSMA's fraud and security group, he backed the then-Conservative government's Product Security and Telecommunications Infrastructure Act 2022. Rogers has provided El Reg with comments over the years, and in 2014 discussed iPhone 6 biometric security , arguing that better usability would cut data loss overall because most people found PIN locks too cumbersome. Justine Roberts, founder and chief executive of UK parenting forum Mumsnet, is also on the board. The site experienced a data breach in 2019 due to a cloud migration affecting 46 user accounts, leading Roberts to apologize. More recently, some Mumsnet posters have been unimpressed by the government's digital ID plans , with one responding to the prime minister's October 2025 announcement with \"Honestly, who is he kidding?\" and \"Desperate stuff to justify this authoritative bs.\" During the public consultation, some posters promoted the Sex Matters campaign to let Brits include their sex in their digital IDs. Another board member, Victor Dominello, has relevant experience as the minister who launched New South Wales' digital driver's license in 2019, saying it was more secure than the physical equivalent. In 2022, a researcher at security company Dvuln found numerous security flaws in the Service NSW app that hosts the license and other government services, although the state government said these did not pose a risk to customer information. Other members include John Fallon, former chief executive of Pearson and the lead non-executive board member of the Cabinet Office; Anne-Marie Imafidon, who runs social enterprise Stemettes, which encourages people to consider jobs in tech and science; and digital regulation lawyer Emma Wright. The board will meet quarterly for as long as the digital ID program lasts. The government is also setting up engagement exercises with the digital verification and financial services sectors. It is currently running a People's Panel with around 100 to 120 participants meeting in Birmingham and on Zoom to hear from experts and ministers before producing recommendations, in return for £550 in cash or vouchers. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5254650",
+      "rss_tags": [
+        "public sector"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "e1b92938-5c81-45ca-9ba4-ca7ae937fce2",
     "cluster_id": "70dbd964-3ded-434f-a977-d7e8bb3107bb",
     "cluster_size": 2,
