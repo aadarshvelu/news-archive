@@ -31,6 +31,62 @@
     }
   },
   {
+    "id": "52076ffb-dec1-4a8a-b8a7-65d523b98246",
+    "cluster_id": "fb7f69af-bf9b-42f9-9c7b-871fbce1ab5f",
+    "cluster_size": 3,
+    "source": "The Hindu - National",
+    "title": "Minister Vaishnaw expects more companies to start production of memory chips in India",
+    "teaser": "The AI boom requires memory capacity to triple by 2034; global nations race to secure chip supply chains.",
+    "summary": "Global AI data center expansion has created a critical supply-demand imbalance, making advanced memory chips (HBM) a key bottleneck. To address this, the industry anticipates massive capacity increases. SK Hynix forecasts tripling its wafer capacity, with full realization expected around 2034, confirming the intense, long-term demand cycle. In response, India is aggressively pursuing a robust domestic semiconductor industry through its India Semicon Mission (ISM 2.0), aiming to attract new investments and prioritize chip design. Minister Ashwini Vaishnaw highlighted that India's stable infrastructure, including its power grid and renewable energy sources, makes it an attractive hub for these global data center investments. These initiatives confirm that the semiconductor industry's growth is rooted in foundational capacity expansion, not just market sentiment.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.thehindu.com/news/national/minister-vaishnaw-expects-more-companies-to-start-production-of-memory-chips-in-india/article71101670.ece",
+    "date": "2026-06-14T16:30:48Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/ao5pci/article71102066.ece/alternates/LANDSCAPE_1200/CABINET%20PC%20%20DELHI%202026_10_06_19.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "New companies are likely to invest in India to manufacture memory chips while existing investors will scale up production to address the demand-supply gap in the segment, Union Minister Ashwini Vaishnaw said. Strong demand for memory (data storage) cards and advanced chips has tightened global supplies and supported higher prices in past quarters, and manufacturers have been sprucing up investments and production capacities to meet market requirements worldwide. The higher memory chip prices have, in turn, led to a rise in production costs for a range of electronic products, including smartphones and laptops. \"Definitely, a lot more investment is coming in the memory manufacturing units, and that is because for the first time in the way the semiconductor industry has grown at such a rapid pace, for the first time we are seeing a huge shortage of certain components which are required in the AI data centres, the high bandwidth memory chips,\" Mr. Vaishnaw said. Data centre investments in India are expected to cross $200 billion soon, which may need billions of gigabytes of storage capacity. The Minister said there is a global phenomenon of supply-demand imbalance, which is now getting addressed by setting many more units. \"For example, there are the high bandwidth memory chips, which are manufactured by Micron. They are the first plant to start commercial production on February 28th this year. This is the second plant which started commercial manufacturing on March 31st. These are the steps which have started giving results. There is a serious supply-demand mismatch in the case of memory,\" he said. When asked if there will be new investments in the memory chip segment or only existing players have plans to ramp up production, Mr. Vaishnaw said, \"Looks like both might happen\". He said the India Semicon Mission (ISM) 1.0 could get about 48 startups to work on the tech products. \"In ISM 2.0, that will be the topmost priority, design will be the topmost priority. The second biggest priority will be machines, which are used in the manufacturing of semiconductors. We will seriously be looking at getting the equipment manufacturers to come to India for designing the equipment as well as manufacturing the equipment,\" Mr. Vaishnaw said. The Minister said that after decades of effort, India has been able to attract chip makers to the country under Prime Minister Narendra Modi's regime as the India Semicon Mission 1.0 programme sets the foundation for a robust domestic semiconductor industry. He said that work is in advanced stage for ISM 2.0, under which chip design will be a topmost priority. The Minister said the government will also look at the indigenous production of complex chemicals and gases that are used for manufacturing chips. \"Of course, we will be adding many more fabs (chip manufacturing plants) and ATMP (chip packaging) units. We will be carrying forward the progress we made in talent development in the first version of the semiconductor mission,\" Vaishnaw said. Talking about rising investment in the data centre space in India, the Minister said the large pool of talent availability in India is one of the basic reasons that is attracting companies from across the globe to set up their units in India. \"Second, our grid is practically a new grid. More than 2 lakh kilometres of transmission lines have been constructed in the last decade. Unbelievable upgradation of transmission is happening. It is a very robust grid. Third is the large availability of renewable energy in our country. Practically 50% of our power generation capacity is from renewable sources,\" Mr. Vaishnaw said, adding these three big factors are attracting the hyper-scalers to come to India. \"Many countries, including some of the rich countries, have grids which are 30-50 years vintage, which are causing imbalances when the power requirement at the data centre grows significantly higher. That is very different from the robustness of our grid, which has happened in the last few decades,\" the Minister said. When asked about environmental concerns around data centres, Mr. Vaishnaw said, \"Of course, we are following very stringent norms. Many innovations are also coming up. Innovations in terms of power requirement, water, and using certain water cooling methods, which reduce water requirement by about 70%. Those kinds of innovations are happening.\" There have been concerns on growing power and water consumption by data centres across the globe. According to a study by Mordon Intelligence, water consumption by data centres in India is estimated at 150.30 billion litres in 2025, and is expected to reach 358.66 billion litres by 2030. Published - June 14, 2026 10:00 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101670",
+      "rss_tags": [
+        "India"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "23e1cbaf-b989-457b-9d38-64239e33436e",
+    "cluster_id": "be201928-6826-453b-bef2-bfb94ac2796c",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "20 rebel Trinamool Lok Sabha MPs seek to merge with Nationalist Citizen Party of India",
+    "teaser": "Amid political turmoil, 20 rebel TMC MPs merge with a minor party, claiming two-thirds majority to challenge the ruling TMC and align with the NDA.",
+    "summary": "Following the 2026 Assembly polls, 20 rebel Trinamool Congress (TMC) Lok Sabha MPs met Speaker Om Birla on June 14, 2026, announcing a merger with the National Citizens Party of India (NCPI). This strategic move aims to circumvent anti-defection law complications. The rebel faction, led by figures like Sudip Bandyopadhyay, claimed they represent a two-thirds majority and plans to formally seek recognition as the TMC in July, asserting their continued political clout. Meanwhile, loyal TMC leaders submitted a letter to the Speaker, urging him to treat the party as a single, unified body. The rebels also declared their intention to support the NDA and Prime Minister Narendra Modi, marking a major political realignment.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/trinamool-congress-party-split-west-bengal-nationalist-citizen-party-june-14-2026/article71101822.ece",
+    "date": "2026-06-14T16:44:59Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/ujqcgh/article71101843.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-14%20at%2019.57.43.jpeg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Rebel TMC MPs met Lok Sabha Speaker Om Birla at his residence on June 14, 2026. Photo: Special Arrangement After days of speculation, 20 rebel Trinamool Congress MPs on Sunday (June 14, 2026) met Lok Sabha Speaker Om Birla at his residence in New Delhi and submitted a letter announcing their decision to merge with the National Citizens Party of India (NCPI). The decision by the rebels to merge with a registered regional political party rather than form a separate bloc within the Trinamool Congress was to avoid any legal complications under the anti-defection law. The law states that when two-thirds of the legislators of a political party decide to merge with another party, neither those who join the new party nor the ones who stay with the original party face disqualification. \"The MPs met the Speaker and requested separate seating arrangements. We are more than two-thirds of MPs (of the Trinamool Congress) and will merge with the Nationalist Citizens Party of India. We will work with Prime Minister Narendra Modi and the NDA for the interest of the country,\" Dr. Kakoli Ghosh Dastidar told media persons after the meeting. The office of the Speaker confirmed that 19 MPs attended the meeting. The rebel faction, however, claims the support of 20 MPs, with Sudip Bandyopadhyay joining the group on Saturday (June 13). Mr. Bandyopadhyay, the seniormost MP in the rebel camp, said that while the MPs are merging with the NCPI as of now, in July, when the Parliament session begins, they would seek recognition as the Trinamool Congress since they have a two-thirds majority. \"We will merge with the Nationalist Citizens Party, which is a registered regional party. This is the system. When you leave with two-thirds of the party, you cannot demand the name of that party on the first day itself. In July, we will seek recognition as the Trinamool Congress since we have two-thirds of its MPs. Then the courts will decide,\" Mr. Bandyopadhyay said. As per the Election Commission of India, the NCPI was registered in January 2023, with its office registered at Sankrail in West Bengal's Howrah district. After the defeat of the Trinamool Congress in the 2026 Assembly polls in West Bengal, the majority of its Lok Sabha MPs had decided to set up a separate bloc and held meetings at the residence of Union Minister and Bharatiya Janata Party leader Bhupendra Yadav. On Sunday (June 14), the majority of MPs had gathered at Mr. Yadav's residence before meeting the Speaker. The decision to merge with an almost unknown regional party has come as a surprise in political circles. Before the rebel MPs met the Speaker, two MPs considered loyalists of Trinamool Congress supremo Mamata Banerjee also met Mr. Birla and submitted a letter from Abhishek Banerjee. The letter from the party's leader in Lok Sabha urged the Speaker to treat the Trinamool Congress as a single party represented by its authorised whip and leader and urged him not to recognise any separate group. \"I respectfully request that you may be pleased to place this submission on record; treat the AITC as a single political party represented in the House solely through its duly authorised Leader and Whip, and decline to accord any recognition, status, or facility to any purported separate group or faction of the AITC,\" the letter said, adding that the Speaker should accord the AITC an opportunity of being heard before any decision is taken. In the 2024 Lok Sabha polls, the Trinamool Congress won 29 seats. Basirhat Trinamool Congress MP Haji Sheikh Nurul Islam passed away in September 2024, bringing the party's strength in the House to 28. The eight MPs who have remained loyal to Ms. Banerjee are Abhishek Banerjee, Kalyan Banerjee, Saugata Roy, Mahua Maitra, Kirti Azad, Shatrughan Sinha, Pratima Mondal and Sajda Ahmed. Prior to the rebellion by the Lok Sabha MPs, about 60 of the 80 Trinamool Congress MLAs broke ranks with the party leadership and put their weight behind expelled Trinamool MLA Ritabrata Banerjee, who was subsequently elected the Leader of the Opposition in the West Bengal Assembly. Published - June 14, 2026 08:48 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101822",
+      "rss_tags": [
+        "India"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "4e3b8f42-ae4e-4ff1-a511-97be72b5b0cb",
     "cluster_id": "e7bdac5b-20f3-4a06-a179-bd89b8c26c8c",
     "cluster_size": 1,
@@ -85,6 +141,680 @@
     }
   },
   {
+    "id": "ef6b918f-5d8e-42ba-8431-15afb8e1f7b8",
+    "cluster_id": "57baacd8-6cc0-474c-819e-14c9c84e0295",
+    "cluster_size": 2,
+    "source": "The Hindu - National",
+    "title": "Bidadi Township: Tussle turns intense as HDK attacks CM over wealth, terms him ‘real estate baron’",
+    "teaser": "Development of the Bidadi Township threatens over two lakh trees and vital crops, sparking intense political conflict and farmer protests over land rights.",
+    "summary": "The Bidadi Integrated Township project is engulfed in controversy, facing simultaneous political attacks and environmental criticism. Politically, Union Minister H.D. Kumaraswamy sharply criticized CM D.K. Shivakumar, alleging he is a 'real estate baron' who amassed wealth through land dealings. The BJP has amplified this conflict, urging senior leaders to halt the project, calling it a 'State-engineered land grab.' Environmentally, the project poses a severe threat to the region's ecology. Development will require acquiring nine villages and felling nearly two lakh trees (including arecanut and coconut). Farmers point out the extensive loss of vital crops, including ragi and paddy. While the government offers compensation for affected trees, critics argue that the project lacks a social impact assessment and threatens the quality of life for local cultivators.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/karnataka/bidadi-township-tussle-turns-intense-as-hdk-attacks-cm-over-wealth-terms-him-real-estate-baron/article71101857.ece",
+    "date": "2026-06-14T15:53:56Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/614zk6/article71101957.ece/alternates/LANDSCAPE_1200/PTI05_14_2026_000359A.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "H.D. Kumaraswamy.\n | Photo Credit: PTI The heat over the Bidadi Integrated Township project is turning into a flashpoint between Chief Minister D.K. Shivakumar and Union Minister H.D. Kumaraswamy, both of whom are vying for leadership among the Vokkaliga community. In a turn on Sunday, Mr. Kumaraswamy made sharp personal attacks on the Chief Minister, questioning the growth of his wealth over the past two and a half decades. Terming the Chief Minister a \"real estate baron\", the Union Minister, in Mandya, questioned the growth of Mr. Shivakumar's assets from a mere three acres of ancestral land in 1999 to ₹1,400 crore by 2018. \"The Chief Minister owes an explanation to the people of Karnataka on his rapid accumulation of such large amounts of wealth. He should, in fact, conduct training sessions on how to accumulate such wealth so rapidly. It would greatly benefit the public,\" he remarked sarcastically. Mr. Kumaraswamy alleged that the Chief Minister had himself joined hands with real estate mafia operators to run the racket. Recalling the now-scrapped Bengaluru Mysuru Infrastructure Corridor (BMIC), Mr. Kumaraswamy said the nature and scope of the project changed after the then Chief Minister H.D. Devegowda moved to Delhi as Prime Minister, and blamed Mr. Shivakumar, who was Chairman of the BMIC Authority, for the efforts subsequently made to grab land under the banner of BMIC. Reacting to Mr. Shivakumar's claim that Prime Minister Narendra Modi had appreciated the township project, Mr. Kumaraswamy said the industrial townships developed in Gujarat were built on dry and uncultivable land, while the Bidadi township is proposed on \"fertile agricultural land wrested from farmers\". He asked Mr. Shivakumar to visit Gujarat and see for himself. Sharp counter Meanwhile, in a sharp counterattack, Magadi legislator H.C. Balakrishna, a confidant of Mr. Shivakumar, on Sunday told reporters in Bengaluru that efforts are being made to tarnish Mr. Shivakumar's image out of vengeance by Vokkaliga community leaders - Leader of Opposition R. Ashok and Mr. Kumaraswamy. Stating that Mr. Shivakumar had already acknowledged his involvement in real estate, he said: \"Anitha Kumaraswamy (wife of Kumaraswamy) has 60 acres in the notified land. Where did they get the money to buy it? Did they sell potatoes and buy this land? They should explain.\" He also accused Mr. Kumaraswamy of having wished to pursue the project even during his second tenure in 2018. Mr. Balakrishna said: \"If Mr. Kumaraswamy had the honesty, he could have withdrawn the notification and removed the red zone that froze all transactions. Former Prime Minister H.D. Devegowda could have convinced his son to drop the project. It is laughable that the very person who conceived this project is now raising his voice against it. They are determined to tarnish Mr. Shivakumar's image.\" Turning his attention to Mr. Ashok, he asked: \"Who is not involved in real estate? Everyone is involved. R. Ashok has spoken about it too. Is he a son of Kubera? Will you investigate how he accumulated wealth after entering politics? Did you acquire property by cultivating land? Both Mr. Kumaraswamy and Mr. Ashok are community leaders, and they are unable to accept that Mr. Shivakumar has become the Chief Minister.\" BJP seeks Rahul Gandhi's intervention The principal Opposition BJP also upped the ante regarding the Bidadi Integrated Township project, seeking the intervention of senior Congress leader and Leader of the Opposition in the Lok Sabha, Rahul Gandhi, to halt it. In a letter to Mr. Gandhi, BJP State President B.Y. Vijayendra termed it a \"State-engineered land grab\" and urged him to \"take a public position on this matter and direct your Chief Minister to halt this land acquisition until the farmers of Bidadi have been genuinely heard, their objections examined, and a fair, transparent process is put in place.\" Mr. Vijayendra said: \"You travel the country raising the banner of land rights for farmers. You speak of protecting India's soil from the grip of corporate interests, and you have led yatras built around precisely this cause. Yet here in Karnataka, the Congress Chief Minister continues unmoved, even as some of the State's poorest farmers are pushed to the brink of losing everything they own. I believe this contradiction deserves your attention.\" Published - June 14, 2026 09:23 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101857",
+      "rss_tags": [
+        "Karnataka"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "1e987393-2f57-458c-8fd6-de074cc7ec35",
+    "cluster_id": "33ead38e-ffcc-46bd-b59c-4b81ed147b67",
+    "cluster_size": 2,
+    "source": "The Hindu - National",
+    "title": "CM puts officials of different depts on high alert with monsoon arrival",
+    "teaser": "Following failures during heavy rains, CM A. Revanth Reddy put multiple departments on high alert, warning of strict action for any official found guilty of monsoon-related dereliction of duty.",
+    "summary": "Amid the monsoon's approach, CM A. Revanth Reddy has issued strict directives, placing multiple departmental officials on high alert and warning of severe action for dereliction of duty. Following failures observed during heavy rains on June 9, the CM criticized poor coordination among departments like the Municipal Administration and Police, directing Chief Secretary K. Ramakrishna Rao to investigate these failures. Preparations span numerous sectors: Irrigation engineers are mandated to remain at project sites, and Finance must expedite repair funds. Furthermore, Agriculture officials are tasked with organizing seed/fertilizer distribution through Rythu Vedikas, while Water Works must ensure regular quality testing, and the Health department must stock medicine against seasonal outbreaks. All departments must take proactive steps based on meteorological forecasts.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/telangana/cm-puts-officials-of-different-depts-on-high-alert-with-monsoon-arrival/article71101812.ece",
+    "date": "2026-06-14T15:55:31Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/ou1ojb/article71101963.ece/alternates/LANDSCAPE_1200/ranigunj010.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Commuters wade through a waterlogged stretch at Ranigunj in Secunderabad after heavy rain lashed Hyderabad the city on June 9.\n | Photo Credit: RAMAKRISHNA G Chief Minister A. Revanth Reddy has directed the officials to be on high alert in view of the onset of monsoon and take steps in advance to avoid inconvenience to people. He warned that stringent action will be initiated against officials who are found guilty of dereliction of duties. The Chief Minister enquired about the status of affairs in the Core Urban Region (CURE) during the heavy rains on June 9 and expressed dissatisfaction over the traffic jams and other problems faced by the people. Despite a warning issued by the weatherman, the Municipal Administration and the Police were found wanting in discharge of their duties, he said. Recalling the directions he gave during a meeting on June 1, the Chief Minister grilled the officials about their failure to implement them. Absence of effective coordination between the Municipal and Police departments and the negligence of the officials concerned was evident with the state of affairs that was witnessed on June 9. He directed Chief Secretary K. Ramakrishna Rao to analyse the reasons behind the development and initiate action against the concerned officials. He wanted the officials to take steps in advance based on the forecast of the meteorology department. Officials of the Municipal Administration, HYDRAA, traffic, water works and other departments should stay on the field. \"I myself will come and inspect the situation at the ground level,\" he said. Warning the traffic police against giving scope for traffic jams, he directed Director General of Police C.V. Anand to take steps to fill vacancies in the Traffic Wing at the earliest. \"There should not be any scope for complacency. I will not tolerate if human errors are found behind the problems,\" he said. Directing the officials concerned to be prepared with data pertaining to water logging points, black spots on the roads and areas where there was scope for traffic jams, he said there was power failure in several areas due to trees that were uprooted and expressed displeasure that officials did not act in time to restore power supply. Officials should keep mobile transformers wherever needed and the department officials should mandatorily be on field. Published - June 14, 2026 09:25 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101812",
+      "rss_tags": [
+        "Telangana"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "9a817d85-4c76-4908-982c-bb010c8be098",
+    "cluster_id": "5ea02a48-1a99-4b8d-986a-7d2a651c7656",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "INS Sharda concludes Colombo visit, strengthens India-Sri Lanka maritime co-operation",
+    "teaser": "INS Sharda's visit concluded with increased training for SL Navy personnel, deepening India-Sri Lanka's maritime security pact.",
+    "summary": "The Indian Naval Ship (INS) Sharda concluded a successful port call in Colombo on June 13, 2026, significantly strengthening India-Sri Lanka's maritime ties. The visit emphasized capacity-building, with Sri Lankan Navy personnel receiving training in areas like small arms handling, basic firefighting, first aid, and rescue procedures on board. These professional exchanges were designed to enhance operational preparedness and foster greater interoperability between the two navies. Rear Admiral Jagath Kumara, Commander of the SL Navy's Western Naval Area, visited INS Sharda, reaffirming the strong partnership. The cooperation reinforces the commitment to regional maritime security, aligned with the 'MAHASAGAR' vision (Mutual and Holistic Advancement for Security and Growth Across Regions).",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/ins-sharda-concludes-colombo-visit-strengthens-india-sri-lanka-maritime-co-operation/article71101706.ece",
+    "date": "2026-06-14T15:57:55Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/8h4yly/article71101971.ece/alternates/LANDSCAPE_1200/20260614236L.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Indian and Sri Lankan Navy personnel in a group photograph as INS Sharda concludes a port call in line with the vision of MAHASAGAR, in Colombo on Saturday (June 13, 2026).\n | Photo Credit: ANI Indian Naval Ship (INS) Sharda departed Colombo on June 13 after a successful port call that further strengthened maritime cooperation and friendship between India and Sri Lanka. The visit featured a range of professional, training and sporting engagements between the Indian Navy and the Sri Lankan Navy. The Indian Navy informed that as part of capacity-building initiatives, Sri Lankan Navy personnel received training in small arms handling, basic firefighting, first aid and rescue procedures aboard the ship. The engagements were aimed at enhancing operational preparedness and fostering greater interoperability between the two maritime forces. During the visit, Rear Admiral Jagath Kumara, Commander, Western Naval Area of the Sri Lanka Navy, visited INS Sharda and interacted with the crew, reaffirming the strong maritime partnership between the two countries. The port call also included professional exchanges, cross-deck visits and friendly sporting fixtures, which helped strengthen camaraderie and deepen cooperation between the two navies. The Commanding Officer of INS Sharda paid a courtesy call on Santosh Jha, High Commissioner of India to Sri Lanka, during the ship's stay in Colombo. The visit underscored the enduring maritime partnership between India and Sri Lanka and reaffirmed their shared commitment to regional maritime cooperation and security in line with the vision of MAHASAGAR - Mutual and Holistic Advancement for Security and Growth Across Regions. Published - June 14, 2026 09:27 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101706",
+      "rss_tags": [
+        "India"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "aee1112f-f2d4-4232-bd34-04e2d3056009",
+    "cluster_id": "71b9fa02-43f2-45cb-83f0-4594701e910e",
+    "cluster_size": 1,
+    "source": "Testing Catalog",
+    "title": "Telegram launches smartwatch apps and rich formatting for bots",
+    "teaser": "Telegram just launched smartwatch apps and added advanced rich formatting (tables, carousels) for bots, making it a powerhouse for wearables and developers.",
+    "summary": "Telegram released a major update expanding its reach and developer tools. Functionally, it introduces official smartwatch apps for Apple Watch and Wear OS, allowing users to manage chats, view media, and send messages directly from their wrists. For developers, the update significantly enhances bot capabilities with rich text formatting, adding support for tables, carousels, and blockquotes. Furthermore, users benefit from greatly increased message capacity (up to 32,768 characters), AI-powered guardian bots for group chat management, and improved privacy controls. Telegram continues to solidify its position as a versatile, feature-rich messaging platform.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/telegram-launches-smartwatch-apps-and-rich-formatting-for-bots/",
+    "date": "2026-06-14T16:03:32Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/2026/06/31574618d2bab74b03.jpeg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Erin | AI Agent",
+    "content": "Telegram has announced a major update introducing official smartwatch applications for both Apple Watch and Android Wear OS users, expanding its messaging platform to wearable devices. This release is designed for the global user base of Telegram, targeting anyone who owns a compatible smartwatch. The apps are publicly available and allow users to: Send and receive text and voice messages View media Read long messages Preview locations Send stickers Manage chats directly from their wrists On Android, additional options include muting, pinning, and deleting chats, while iOS users benefit from features such as viewing locations and sending stickers, with further feature parity between platforms expected in future updates. Telegram's latest rollout also includes rich text formatting for bots, equipping developers with tools like: Tables Blockquotes Inline media Carousels Collapsible sections Math formulas Message lengths now support up to 32,768 characters. The update introduces AI-powered guardian bots for group chats, enabling admins to screen and manage join requests using mini-app interfaces. Poll options now support links, Markdown (.md) files can be viewed in the in-app browser, and users gain more control over which browser opens external links, including privacy features such as non-persistent browsing history. Telegram continues to position itself as a versatile, privacy-focused messaging platform with frequent updates for its user community. Source",
+    "raw_meta": {
+      "rss_entry_id": "6a2decc5036359000113d202",
+      "rss_tags": [
+        "Telegram News",
+        "Latest AI News",
+        "AI Announcements"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "cdbb9d47-970e-4c90-a2b3-9ef931b2ef89",
+    "cluster_id": "9c589855-280b-4e8a-a6aa-6fa81fcb5ac5",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Modi, Macron inaugurate Innovation Conference in Nice, stress trust and cooperation in tech",
+    "teaser": "Global tech rivalry meets cooperation as Modi and Macron meet in France, focusing on building 'trusted' AI networks and India's rise as a global innovation hub.",
+    "summary": "Indian PM Modi and French President Macron inaugurated the Bharat Innovates 2026 conference in Nice, emphasizing 'trust and cooperation' as paramount in the global tech landscape. Modi pitched India as a major emerging technology provider, urging the global community to 'design in India. Develop in India.' He highlighted policy shifts, such as the SHANTI Act, enabling private involvement in nuclear energy. Addressing geopolitical tensions, both leaders stressed the need for trusted and human-centric AI, contrasting it with the trend of restricted tech access. While Modi promotes India's ecosystem, Macron championed France's AI development, asserting its ability to compete with major powers like the U.S. and China. The meeting also underscored deepening defense ties, including reports of a potential sale of 114 Rafale fighter jets.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.thehindu.com/news/national/pm-modi-french-president-emmanuel-macron-bharat-innovates-bilateral-meeting-in-nice/article71100872.ece",
+    "date": "2026-06-14T16:07:25Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/a8x0es/article71100875.ece/alternates/LANDSCAPE_1200/2026-06-14T102532Z_2139669409_RC2LTLAX9S2W_RTRMADP_3_FRANCE-INDIA-TECH.JPG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Prime Minsiter Narendra Modi with the French President Emmanuel Macron during the inauguration of Bharat Innovates 2026, Indian deep technology event, in Nice, France June 14, 2026.\n | Photo Credit: Reuters Inaugurating the Bharat Innovates 2026 event in Nice, Prime Minister Narendra Modi pitched India as a destination for innovation and development. Both the Prime Minister and French President Emmanuel Macron focused on themes of trust and cooperation in technology. PM's Europe visit begins in Nice, with tech and bilateral ties in focus \"I earnestly invite every investor, every university, every research institution, and every entrepreneur ...come to India... design in India. Develop in India. And create solutions for the world,\" he said. Mr. Macron also spoke at the event which he co-inaugurated with Mr. Modi. Commerce and Industry Minister Piyush Goyal and External Affairs Minister S. Jaishankar were also present as was the Mayor of Nice. India was seen as a technology adopter a decade ago but was now emerging as a technology provider, the Prime Minister said as he batted for India's innovation ecosystem, citing work in the defence and space sectors. Referring to the recent legislative changes (via the SHANTI Act) permitting private sector participation in the nuclear power sector Mr. Modi said, \"This is creating new possibilities in the fields of clean energy, advanced reactors, and frontier research.\" India and France had a relationship characterised by shared conviction, connection, innovation and inspiration as well as shared values and vision, Mr. Modi said. Both the Prime Minister and Mr. Macron referred to trust in technology, with Mr. Modi saying the world was looking for trusted, inclusive and human-centric technologies. \"In recent days we have seen the temptation to close up the AI models and to make them a power tool and to stop any cooperation,\" Mr. Macron said, presumably referring to the U.S. Government banning non-U.S. citizens from accessing AI company Anthropic's state of the art models. India and France believe in \" true partnerships\", in multilateralism, and respect for cooperative AI, Mr. Macron said. Mr. Goyal had also alluded to trust as an issue in technology in his introductory remarks saying that right now, the upheaval in geopolitics was meeting the upheaval in technology. \"At such moments, the world seeks trusted and reliable partners, and that is what India brings to the table,\" he added. Citing India's Chandrayaan-3 Lunar mission of 2023, Mr. Macron said it demonstrated not just innovation but also industrial application. India is not a country full of contractors alone but a country of innovation and technological disruption, Mr. Macron said. The French President also addressed entrepreneurs and investors at the gathering, pitching France as the top destination for AI and tech. Mr. Macron claimed that France was the only country whose development of LLMs (Large Language Models, a type of AI) could compete with that of China and the U.S. \"'Make in India' is something we respect and we are a part of it,\" Mr. Macron said. According to French diplomatic sources, France was willing to align its defence cooperation with India, including the proposed sale of 114 Rafale fighter jets to New Delhi with the 'Make in India' programme, The Hindu had reported last week. Following the inauguration of the two-day event, the Prime Minister and President led bilateral talks between their delegations. Published - June 14, 2026 04:03 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71100872",
+      "rss_tags": [
+        "India"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "30dac6db-f334-459f-8a5f-3e88f1ecb52b",
+    "cluster_id": "b011d9ae-41a5-4659-9aaf-f1ef86e2e8ed",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "KTR levels serious allegations against CM Revanth Reddy on Meenakshi Natarajan issue",
+    "teaser": "KTR accuses CM Revanth Reddy of back-stabbing party leader Meenakshi Natarajan with a false case, amid criticism of the Congress government's failure to fulfill promises.",
+    "summary": "BRS Working President K.T. Rama Rao leveled serious political allegations against Telangana CM A. Revanth Reddy. KTR accused Reddy of 'back-stabbing' party leader Meenakshi Natarajan, alleging that Reddy got a false case registered against her after she brought issues to the party high command. KTR further criticized the Congress administration, labeling it a failure for not meeting promises, such as filling 2 lakh jobs or providing a promised ₹4,000 monthly unemployment allowance. KTR highlighted that a byelection in Khairatabad is inevitable due to a defection and urged BRS party workers to remain vigilant against alleged Congress manipulation of voter lists during the Special Intensive Revision period.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/telangana/ktr-levels-serious-allegations-against-cm-revanth-reddy-on-meenakshi-natarajan-issue/article71101667.ece",
+    "date": "2026-06-14T16:08:12Z",
+    "image_url": "https://th-i.thgim.com/public/news/national/telangana/6vpfp0/article71101660.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-14%20at%203.04.09%20PM.jpeg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "BRS working president K.T. Rama Rao along with party leaders at a meeting of the Khairatabad constituency held in Hyderabad on Sunday.\n | Photo Credit: By Arrangement HYDERABAD BRS working president K.T. Rama Rao has accused Chief Minister A. Revanth Reddy of back-stabbing AICC in-charge of Telangana Meenakshi Natarajan, resulting in the rejection of her nomination papers for the Rajya Sabha election from Madhya Pradesh. Mr. Rama Rao claimed that Mr. Revanth Reddy had got a false case registered against Ms. Natarajan as \"his irregularities and scams were being taken to the notice of the party high command by her\". KTR claimed the CM passed on the details of a false case to the Bharatiya Janata Party (BJP) leaders in the State. Speaking at the party (BRS) general body meeting of the Khairatabad constituency here on Sunday, he said the CM was practising heinous politics, and in the past too, he had prevented Ms. Natarajan from getting the party ticket for Rajya Sabha election. On the Chief Minister's remarks of taking Hitler as inspiration, the BRS leader said it was unfortunate that the Chief Minister had announced it personally. He described the Congress administration as an \"utter flop\" movie, stating that the government had failed to implement its promises though it had completed half of its term. KTR claimed not even 4,000 jobs were filled out of 2 lakh jobs promised, and the government had also failed to provide ₹4,000 per month unemployment allowance, as promised. The BRS leader said that a byelection in Khairatabad was inevitable as sitting MLA Danam Nagender had betrayed the people's mandate by defecting from BRS to the Congress. He urged the party workers to remain vigilant against Congress's attempts to manipulate voter lists during the special intensive revision. He asked the booth-level agents of the party to actively participate in the SIR from June 25 to July 31 and to conduct the party's membership drive digitally. He condemned HYDRAA for demolishing the homes of the poor. Published - June 14, 2026 09:38 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101667",
+      "rss_tags": [
+        "Telangana"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "42fce279-3532-4564-9b61-c45f3c343831",
+    "cluster_id": "82d98f2c-f88a-4dde-b0f2-f33487068ceb",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Malappuram steps up Nipah, Shigella surveillance",
+    "teaser": "Malappuram escalates surveillance after Nipah contact alerts, while Shigella threatens local health with contaminated drinking water.",
+    "summary": "Health authorities in Malappuram intensified surveillance following the identification of four contacts of a Nipah-positive patient in Kozhikode. While initial concerns were high, testing on three high-risk contacts proved negative, suggesting the Nipah disease remains contained. Simultaneously, concerns over Shigella infection are rising. A woman died of Shigella on June 14, 2026, and bacteria were found in drinking water at a parlour in Tirurangadi. Consequently, the Food Safety department shut down the establishment, and officials advised the public to ensure drinking water safety. Vigiliance continues across the district, as Shigella cases have been reported in surrounding areas.",
+    "importance": 4,
+    "category": "world_news",
+    "url": "https://www.thehindu.com/news/national/kerala/malappuram-steps-up-nipah-shigella-surveillance/article71101651.ece",
+    "date": "2026-06-14T16:14:41Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The Health authorities have intensified surveillance and preventive measures in Malappuram after four residents were identified on the contact list of a Kozhikode man who tested positive for Nipah virus. Officials said all four contacts were in the low-risk category and urged the public not to spread rumours through social media. The blood sample of one suspected case in the district has been sent for testing. Surveillance has been intensified in Vazhayur panchayat, which borders the area linked to the Nipah case. Fourteen teams conducted a fever survey in two wards on Saturday (June 13, 2026). Health workers said no Nipah-related symptoms were detected during the survey and that monitoring would be extended to additional wards if required. The authorities at Government Medical College, Kozhikode, confirmed that samples collected from three high-risk contacts of the Nipah patient tested negative. Health officials said the disease had not spread beyond the identified areas and that all persons under observation remained stable. Meanwhile, concerns over Shigella infections have grown in the district. A woman from Keezhattur near Perinthalmanna died of the disease on Sunday (June 14, 2026), while Shigella bacteria were detected in the drinking water at a tender coconut parlour in Tirurangadi. The Food Safety department ordered the closure of the juice shop in Tirurangadi after laboratory tests confirmed the presence of Shigella bacteria in drinking water samples collected during an inspection on May 30. Officials said the establishment's operations had been suspended and that inspections would continue across the district. The public has been advised to ensure the safety of their drinking water. Shigella cases have also been reported from the districts of Kollam, Thrissur, and Malappuram in recent days. Published - June 14, 2026 09:44 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101651",
+      "rss_tags": [
+        "Kerala"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "0e8d5457-06a7-426f-a6bc-977e33ed85f1",
+    "cluster_id": "f9497734-ee12-4fe9-bebc-4381ce1241a6",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Holiday helps avert tragedy as school roof collapses in Aland taluk",
+    "teaser": "A school roof collapsed in Aland taluk, but no one was hurt because of a weekly holiday—highlighting serious public safety concerns.",
+    "summary": "A school roof slab collapsed in Sangolgi village, Aland taluk, Kalaburagi district, raising alarm bells over educational infrastructure safety. Remarkably, no one was injured because the school was closed for a weekly holiday. The incident is especially concerning as it follows a previous accident at a nearby college. Public outrage has surged, leading residents and parents to demand that the State government conduct an immediate inspection of all old and dilapidated school buildings across the district to prevent future tragedies and ensure the safety of students and staff.",
+    "importance": 4,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/national/karnataka/holiday-helps-avert-tragedy-as-school-roof-collapses-in-aland-taluk/article71102011.ece",
+    "date": "2026-06-14T16:20:55Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/91j9nn/article71102044.ece/alternates/LANDSCAPE_1200/10258_12_6_2026_19_55_37_1_KLB_CEILING_PLASTER_2.JPEG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "On Friday last, the ceiling plaster fell causing injury to three students, during class hours at a Government PU College for Girls in Kalaburagi.\n | Photo Credit: SPECIAL ARRANGEMENT A portion of the roof slab of the Government Higher Primary School at Sangolgi (C) village in Aland taluk of Kalaburagi district collapsed suddenly on Sunday morning. No one was injured as the school was closed for the weekly holiday and there were no students or teachers on the premises at the time of the incident. The accident could have resulted in serious consequences had the school been functioning, residents said. The incident comes close on the heels of a recent accident at the Government Pre-University Girls College in Kalaburagi which raised concern over the condition and safety of educational institution buildings across the district. The latest roof collapse has further intensified public criticism of the neglect in the maintenance of school infrastructure by the Education Department. Residents and parents have urged the State government to undertake an immediate inspection of old and dilapidated school buildings in the district and take necessary steps to ensure the safety of students and staff. Published - June 14, 2026 09:49 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71102011",
+      "rss_tags": [
+        "Karnataka"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "72ab53ec-d07d-4e39-aab8-c0cf13cb2480",
+    "cluster_id": "25a7cb74-ad11-4323-b321-ddbd620e4559",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Odisha village to get crocodile warning system under ‘Smart Village’ plan",
+    "teaser": "Kendrapara's Kusunpur village will deploy an AI-enabled system to warn residents about dangerous crocodile movements, addressing a high fatality rate of over 20 in four years.",
+    "summary": "As part of a 'Smart Village' plan, Kusunpur in Odisha's Kendrapara district will implement technology to tackle severe human-crocodile conflicts. The Council of Scientific and Industrial Research (CSIR) is deploying an AI-enabled detection and alert system to warn villagers of straying crocodiles. Beyond animal safety, the initiative includes major infrastructure upgrades, such as underground drainage and new roads. Furthermore, the village aims to become a hub for green livelihoods, establishing multiple processing units (e.g., freeze-drying, milling) and promoting sustainable businesses, all guided by CSIR's 'lab to land' principle to boost local economies.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.thehindu.com/news/national/odisha/odisha-village-to-get-crocodile-warning-system-under-smart-village-plan/article71101384.ece",
+    "date": "2026-06-14T16:24:59Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/gqa7uc/article71102041.ece/alternates/LANDSCAPE_1200/STANDALONE%207.JPG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Kendrapara has witnessed one of the worst rates of human-crocodile conflicts in Odisha, with more than 20 fatalities reported over the past four years.\n | Photo Credit: The Hindu As the Council of Scientific and Industrial Research (CSIR) accelerates the deployment of technologies in Kusunpur, a remote village in Odisha's Kendrapara district, as part of the 'Smart Village' initiative, residents may soon receive alerts whenever crocodiles stray dangerously close to their homes. The CSIR laboratories are planning to introduce an artificial intelligence (AI)-enabled wild animal detection and alert system aimed at mitigating human-animal conflict. The proposed AI system is likely to be installed at two key entry points to the village. Kendrapara has witnessed one of the worst rates of human-crocodile conflicts in the State, with more than 20 fatalities reported over the past four years. The village is set to witness a comprehensive infrastructure upgrade, including a renovated water gate facility, an underground drainage system, a reconstructed community building, community toilets, and a revamped cremation centre. Roads will be developed using innovative methods, including cold mix technology, waste plastic road technology, and cement grouted bituminous mix. Beyond basic infrastructure, Kusunpur is expected to emerge as a hub for green livelihoods. Over time, the initiative could generate a range of green jobs, while encouraging local entrepreneurs to explore sustainable business opportunities, thereby enhancing incomes. Human-reptile conflict in Odisha: when crocodiles attack Aligned with the CSIR's guiding 'lab to land' principle, a suite of technologies has been proposed for deployment in the village. These include dry flower processing, production of value-added crispy fruits through freeze-drying, and the development of nutritious food products to combat malnutrition. Other initiatives include biodegradable tableware, small-scale processing units, herbal floor-cleaning liquids, mosquito repellent lotions, and scented candles made from natural beeswax. Plans also include the installation of brick and block-making machines, village-scale rice and moong dal (green gram) milling units, and a scientifically designed parboiled rice processing unit. \"Over the next three years, scientists from 17 CSIR laboratories will visit Kusunpur to ensure smooth deployment of these technologies for the village's overall development,\" CSIR-Central Building Research Institute (CBRI) Director Pradeep Kumar Ramancharla, who visited the village on Sunday (June 14, 2026), said. Human-croc conflict impacting life in Odisha \"The fundamental rationale behind creating smart villages is to integrate them into India's growth story. While India is now the fourth-largest economy in the world, it still trails significantly behind the top two economies - the United States and China. Bridging this gap will require contributions from all sectors. At present, urban centres are the primary drivers of job creation and economic growth, but villages must also play a vital role,\" Mr. Ramancharla said. Ramanuj Narayan, Director, CSIR-Institute of Minerals & Materials Technology (IMMT), Bhubaneswar, said his laboratory would pitch in with sustainable water filters and smokeless chullahs (stoves) for Kusunpur. Natural resource mapping, need assessment, and consultations with villagers have been completed, Kishor S. Kulkarni, Principal Scientist, CBRI, and the nodal official for the implementation of the 'Smart Village' initiative for Kusunpur, said. Published - June 14, 2026 09:54 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101384",
+      "rss_tags": [
+        "Odisha"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "ff67d391-5d25-48be-8cda-e13cf425927c",
+    "cluster_id": "7bba9423-edce-40a4-a350-d38a419d2ad7",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "KSRTC to become more professional, says Chief Minister V.D. Satheesan",
+    "teaser": "KSRTC to undergo massive overhaul: The Priyadarshini scheme offers free travel for women and transgender persons, beginning June 15.",
+    "summary": "Kerala's Chief Minister V.D. Satheesan announced a major professional transformation for the KSRTC (Kerala State Road Transport Corporation). A significant part of this overhaul is the launch of the Priyadarshini scheme on June 15, which provides free travel for women and transgender persons across KSRTC buses. Satheesan stressed that the government aims to make the transport system more people-friendly. Following the flagging off of newly allotted buses on the Aluva-Paravur route, the government also stated that a major change in the corporation is anticipated within the next six months, depending on the success of the new services.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/kerala/ksrtc-to-become-more-professional-says-chief-minister-vd-satheesan/article71101805.ece",
+    "date": "2026-06-14T16:45:32Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/cvyyqq/article71102090.ece/alternates/LANDSCAPE_1200/PTI06_14_2026_000288B.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Chief Minister V.D. Satheesan flagging off four newly allotted KSRTC buses on the Aluva-Paravur route on June 14. The State government's Priyadarshini scheme, offering free travel for women and transgender persons on KSRTC buses, will be launched on June 15.\n | Photo Credit: PTI Chief Minister V.D. Satheesan has said that June 15 will be a significant day in Kerala's history with the State-level inauguration of the Priyadarshini scheme, which offers free travel for women and transgender persons in Kerala State Road Transport Corporation (KSRTC) buses across the State. The Chief Minister said that, along with making KSRTC more people-friendly, the scheme would mark the beginning of a major transformation. The district-level inauguration of the scheme will be held at 9 a.m. at the Ernakulam Boat Jetty Bus Stand. The event will be inaugurated by MP Hibi Eden. Mr. Satheesan also said that KSRTC would be steered forward in a professional manner based on proper studies. He was speaking after flagging off four newly allotted KSRTC buses on the Aluva-Paravur route. Considering the numerous complaints raised by the public, the government decided to urgently deploy new buses on the route. If the trial run of the new services proves successful, more buses will be allotted. Two ordinary buses and two town-to-town buses have commenced operations on the route. The government's focus is on maintaining the public transport system in the best possible manner. He also stated that a major transformation would be visible in KSRTC within the next six months. The function, held at the KSRTC bus stand in Paravur, was attended by Municipal Chairperson Ramesh D. Kurup, North Paravur Assistant Transport Officer A. Anil Kumar, and other departmental officials. Published - June 14, 2026 10:10 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101805",
+      "rss_tags": [
+        "Kerala"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "5321e731-36e5-472a-aa9e-647a1faa2479",
+    "cluster_id": "eabeca9a-46f2-4675-97f3-ab77adb28e78",
+    "cluster_size": 2,
+    "source": "The Hindu - National",
+    "title": "Four jump off train over rumour of fire, run over by another train in Madhya Pradesh",
+    "teaser": "Tragedy strikes Madhya Pradesh: Three people died after jumping off a train, while a separate road accident involving a truck and bus left 29 injured.",
+    "summary": "Madhya Pradesh was hit by two separate accidents on June 14, 2026. In a tragic railway incident in Morena district, three women and a boy were killed after jumping off the Khajuraho-Udaipur Intercity Express following a rumor of fire. They were subsequently run over by the Firozpur-Seoni Patalkot Express. Authorities confirmed the deceased included Virma Devi, 60; Shakuntala Devi, 60; Afreen, 35; and her son Asad Khan, age 4. Separately, a major road accident occurred near Katni, where an out-of-control truck hit a bus and car, causing three deaths and 29 injuries. Initial reports suggest the truck loss of control was due to brake failure. Both incidents are under investigation by railway and police authorities.",
+    "importance": 4,
+    "category": "world_news",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-morena-train-fire-rumour-death-by-another-train/article71101506.ece",
+    "date": "2026-06-14T16:54:06Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/clxans/article71102131.ece/alternates/LANDSCAPE_1200/PTI06_14_2026_000553B.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Police and railway officials recover bodies from the railway tracks after three women and a boy were killed after allegedly jumping off the Khajuraho-Udaipur Intercity Express following rumours of a fire on board, in Morena district, Madhya Pradesh, on June 14, 2026.\n | Photo Credit: PTI Four passengers, including a child, who jumped off their train following a rumour of fire, were run over by another train in Morena district of Madhya Pradesh on Sunday (June 14, 2026), officials said. According to officials of the North Central Railway, the incident took place around 4.15 p.m. between the Hetampur and Dholpur sections of Jhansi railway division after a passenger in a general coach pulled the alarm chain of the Khajuraho-Udaipur Intercity Express. The deceased included three women and a child who were identified as Virma Devi, 60, a resident of Bikaner district in Rajasthan; Shakuntala Devi, 60, Afreen, 35, and her four-year-old son Asad Khan, all residents of Agra district in Uttar Pradesh. \"According to preliminary information, while the train was stopped, some passengers alighted and moved onto the adjacent railway track,\" North Central Railway in a statement, adding that some passengers who were on the nearby track were hit by Firozpur-Seoni Patalkot Express. \"Upon receiving information about the incident, officials from the Railway Administration, Railway Protection Force (RPF), Government Railway Police (GRP), and local administration immediately rushed to the site. Necessary assistance was provided to the affected passengers,\" the statement said. The Railway said that an investigation has been launched to ascertain the causes and circumstances of the incident. \"The aforementioned tragic incident occurred after the train was stopped by pulling the alarm chain; the individuals disembarked and attempted to stand on or cross the tracks at an unsafe location. The reason for pulling the alarm chain has not yet been ascertained. A committee comprising JAG-level officers has been constituted to conduct a thorough investigation into the matter,\" Manoj Kumar Singh, PRO, Jhansi division, said, while urging railway passengers to not get off a moving or a stationary train midway. Nadeem Khan, Afreen's husband, said that he and his family jumped off the train after some people started a rumour of fire in the train. \"Someone started the rumour that fire erupted in the train, so the train was suddenly stopped. People started jumping off the train, so we also jumped. But, my elder child got left behind in the train, so I went to check on him while my wife and younger son were outside. That was when another train approached and my wife and son were run over by it,\" he told a news agency. Published - June 14, 2026 08:00 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101506",
+      "rss_tags": [
+        "Madhya Pradesh"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "128eacfb-6206-43fb-84ee-91575deb6ec7",
+    "cluster_id": "5f5635b9-3d09-4b4e-8e2d-db95c7c3ae33",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Ex-BJP MP terms Ram temple funds row ‘serious’; insult to Sanatana Dharma: Akhilesh Yadav",
+    "teaser": "Opposition leaders call the SIT probe into Ram Temple funds 'an insult to Sanatana Dharma' and demand an end to alleged corruption.",
+    "summary": "Following the UP government's formation of an SIT to investigate alleged irregularities in the Ram Temple Trust donations, political opposition has sharply criticized the matter. Samajwadi Party President Akhilesh Yadav labeled the probe an 'insult to Sanatana Dharma.' Former BJP MP Vinay Katiyar described the issue as 'very serious,' accusing some trust members of corruption. The Congress party echoed these concerns, stating that the alleged misuse of donations requires 'transparency' and 'accountability.' Furthermore, Congress leaders highlighted the need for an investigation into potential 'shady real estate dealings' surrounding the sacred site, demanding that the truth be revealed to fix accountability.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/ex-bjp-mp-terms-ram-temple-funds-row-serious-insult-to-sanatana-dharma-akhilesh-yadav/article71101740.ece",
+    "date": "2026-06-14T16:54:44Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/wwh0al/article71102120.ece/alternates/LANDSCAPE_1200/20260526190L.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Lucknow, May 26 (ANI): Samajwadi Party National President Akhilesh Yadav during a press conference at the party office, in Lucknow on Tuesday. (ANI Photo)\n | Photo Credit: ANI A day after the Uttar Pradesh government formed a three-member Special Investigation Team (SIT) to probe alleged irregularities in the donations received by the Ram Temple Trust, former Bharatiya Janata Party (BJP) MP Vinay Katiyar termed the matter \"very serious\" and said some members involved in running the trust were \"thieves\". Samajwadi Party (SP) president Akhilesh Yadav called the episode an \"insult to Sanatana Dharma\". \"The investigation is on and it is a serious matter. People have sacrificed for the temple. People like us, Kalyan Singh sacrificed the government, people went to jail, afterwards the temple issue progressed. Some present there are thieves, we will remove them. Either they will run away or we will throw them out,\" said Mr. Katiyar, a former MP who represented both the Houses, and a key figure of the Ram Temple agitation. Reacting to the SIT probe, Mr. Yadav said it was \"very unfortunate\" that officials will investigate priests of the temple. \"It is an insult to the Sanatana Dharma that such a prestigious temple has to be probed. Officials will investigate those who uphold our faith. What greater misfortune could there be? It is shameful for every person who believes in Sanatana Dharma, the entire country is watching.\" The Congress described the allegations as a \"question mark\" on faith, accountability and trust, and said the BJP cannot \"evade responsibility\". \"The alleged misappropriation of devotees' donations at the Ram Mandir is a question of faith, accountability and trust. When an institution built on the devotion of millions faces such serious allegations, transparency cannot be optional. The BJP, which sought political dividends from the temple, cannot now evade responsibility when questions arise. An independent, credible probe must reveal the truth and fix accountability. Prabhu Ram deserves better than secrecy and silence,\" wrote Congress MP Abhishek Singhvi, on X . Shahnawaz Alam, national secretary of the Congress, demanded a high-level investigation and flagged shady real estate dealings. \"Some time back, it came to light that powerful people bought land around the temple and made profit from booming real estate prices. But the government didn't act. The intention from the beginning of those controlling the management has been mala fide . We demand that the truth must come out in public as corruption cannot be allowed in such a sacred place,\" he said. Published - June 14, 2026 10:24 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101740",
+      "rss_tags": [
+        "Uttar Pradesh"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "6e36aef7-d284-416c-b373-c3f0ed19d054",
+    "cluster_id": "7887a24e-c568-4df1-a4cf-946a2ef9c938",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "School bus safety measures yet to take off despite official directives",
+    "teaser": "Despite mandates, most schools are failing to install CCTV and GPS tracking in school buses, leaving student safety concerns unaddressed.",
+    "summary": "Despite official directives issued by the Motor Vehicles department, police, and Education department over a year ago, most schools—both government and private—have failed to install mandated safety upgrades like CCTV cameras and GPS tracking systems in school buses. The lack of compliance, which became evident at the start of the new academic year, raises serious safety concerns among parents. While some schools cite financial constraints and logistical difficulties, authorities stress that these digital systems are vital for accountability, providing visual evidence of incidents and allowing parents real-time tracking of student safety. Activists are now demanding immediate enforcement and legal action against those willfully delaying implementation.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/kerala/school-bus-safety-measures-yet-to-take-off-despite-official-directives/article71101336.ece",
+    "date": "2026-06-14T17:03:35Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/9264to/article71102142.ece/alternates/LANDSCAPE_1200/80692_28_5_2025_18_44_37_1_29TVKZMVD.JPG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "A majority of government, aided and unaided schools are yet to comply with directions issued, despite the new academic year having begun two weeks ago.\n | Photo Credit: FILE PHOTO More than a year after the authorities directed educational institutions to strengthen safety mechanisms in school buses through the installation of closed-circuit television (CCTV) cameras and GPS-enabled tracking systems, implementation remains patchy across the district, raising concerns among parents and road safety officials. Although schools reopened for the new academic year two weeks ago, a majority of government, aided and unaided institutions are yet to comply with the directions jointly issued by the Motor Vehicles department, police and the Education department. The order, circulated at the beginning of the previous academic year, had envisaged completion of the process within a specified time frame. However, progress on the ground has been limited. Parents allege that several schools have shown little interest in implementing the measures despite repeated discussions on student safety. According to them, many institutions have neither initiated procurement procedures nor held detailed discussions on the installation of surveillance and tracking systems. The delay has drawn criticism, particularly because some school managements had earlier revised transportation charges, citing plans to improve safety infrastructure, including CCTV cameras, RFID-based student facilitation systems and GPS-enabled real-time vehicle tracking. Parents have complained of negligence on the part of school authorities despite repeated instructions from the Education department. Meantime, school authorities point to a set of challenges. According to them, financial constraints and logistical difficulties are hindering the installation of the systems. Some managements also claim that they would have to take buses off the road temporarily for the installation process, which may disrupt transportation schedules. Others highlight the additional expenditure involved in maintaining digital monitoring systems. However, MVD officials maintain that the measures are essential for ensuring the safety and accountability of school transport services. According to them, CCTV cameras installed inside buses can serve as crucial visual evidence in the event of accidents, security incidents or complaints against bus crew members. The GPS-based tracking system was proposed to enable parents to monitor the movement of school buses in real time. It would provide updates on arrival and departure schedules, while enhancing transparency and improving emergency response during unforeseen situations. The push for stricter monitoring gained momentum following complaints in previous years alleging inappropriate behaviour by bus employees. The measures could also address concerns over student safety during transportation. Transport authorities insist that digital surveillance can act as both a deterrent and a source of evidence for complaint verification. MVD officials say that the GPS platform can also store route histories and operational data for extended periods, enabling schools and regulators to review service quality and verify travel records when required. While an application was reportedly developed to facilitate vehicle monitoring, its widespread deployment has faced hurdles, including the cost of maintaining dedicated server infrastructure. At present, only a limited number of institutions, largely among international and Central Board of Secondary Education (CBSE) schools, have adopted comprehensive tracking and live-monitoring systems. In contrast, compliance among many other schools remains low despite the official mandate. The continued delay has become more noticeable at a time when an increasing number of private operators and commercial transport providers have voluntarily adopted on-board surveillance systems to document incidents such as theft, road altercations and passenger misconduct. With another academic year under way, parents and safety advocates are urging authorities to intensify enforcement measures and ensure that schools implement the prescribed safeguards without further delay, arguing that students' safety cannot be left to administrative convenience or financial considerations. They demand legal action against those who wilfully delay the implementation of the measures. Published - June 14, 2026 10:33 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101336",
+      "rss_tags": [
+        "Kerala"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "610a3e41-ac12-4148-9905-0769b10ce0ae",
+    "cluster_id": "1e96a7bc-6d4a-4e5e-82b4-be71eb9e1dca",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "VCs attending RSS event is unacceptable, says Minister",
+    "teaser": "Kerala Minister criticizes VCs for attending RSS event, calling their actions 'unacceptable' and urging them to uphold university autonomy.",
+    "summary": "Minister for Higher Education, Roji M. John, strongly criticized three university Vice-Chancellors (VCs) for attending an RSS program featuring chief Mohan Bhagwat in Thiruvananthapuram. Mr. John labeled their participation 'unacceptable,' arguing that such actions undermine the academic impartiality expected of VCs. He urged them to express public regret and emphasized the critical need to preserve university autonomy and academic independence. While stating the state government has limitations on taking action against the VCs (due to gubernatorial appointments), he maintained the need for vigilance against attempts to compromise secular university credentials. On a related matter, an agreement regarding the Malayidamthuruth land dispute is set to be signed on Monday, June 15.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/kerala/vcs-attending-rss-event-is-unacceptable-says-minister/article71101980.ece",
+    "date": "2026-06-14T17:09:07Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Minister for Higher Education Roji M. John has termed as unacceptable the participation of three university Vice-Chancellors (VCs) in an RSS programme attended by RSS chief Mohan Bhagwat in Thiruvananthapuram. The issue had triggered a political storm in Kerala. The attendance of the VCs at events hosted by political organisations sends a wrong message to people, especially since they ought to fulfil their academic duties in an impartial manner. As VCs, they ought to have remained vigilant at a time when attempts are being made to derail the secular credentials of universities. They must express their regret to members of the public for having attended the event, Mr. John said here on Sunday night (June 14). Stating that the State government has constraints in initiating action against the VCs, he said that it is the Governor who appoints them. He further exhorted members of society and the academic community to preserve the academic independence and the autonomy of universities. On the Malayidamthuruth land dispute, he said that an agreement regarding this would be signed on Monday (June 15), bringing relief to members of the seven families who faced the threat of eviction. Published - June 14, 2026 10:39 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101980",
+      "rss_tags": [
+        "Kerala"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "b43e0524-22d0-4cc2-b299-16aff2d35b82",
+    "cluster_id": "19a51807-0cee-4f55-885b-20e6ab4df634",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Congress questions PM’s ‘silence’ on death of Indian mariners, calls Rubio’s remarks unacceptable",
+    "teaser": "India's opposition slams PM Modi over US 'threats' following the death of three Indian mariners off the Oman coast.",
+    "summary": "Congress leaders criticized the Modi government for its perceived silence following the death of three Indian mariners during a U.S. attack near the Gulf of Oman. The controversy centers on 'threatening' and 'unacceptable' language allegedly used by U.S. Secretary of State Marco Rubio, who insisted all vessels comply with U.S. forces' instructions in the Strait of Hormuz. Opposition leaders, including Rahul Gandhi, accused the PM of being silent and failing to defend India's dignity. They pointed out the lack of a public condolence message from PM Modi. The critics also called for scrapping the India-U.S. trade deal and advised against the visit of the U.S. Trade Representative, arguing that India must firmly assert its sovereignty against perceived 'bullies'.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/obedient-servant-complies-with-orders-rahul-slams-pm-over-us-statements/article71100692.ece",
+    "date": "2026-06-14T17:11:31Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/dwbode/article71100774.ece/alternates/LANDSCAPE_1200/Congress-leaderGVTG2O65G.6.jpg.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Lok Sabha LoP Rahul Gandhi. File\n | Photo Credit: AICC via ANI Questioning the government's \"silence\" over the death of three Indian mariners in a U.S. attack on a commercial vessel near the Gulf of Oman, and the \"threatening\" and \"unacceptable\" language allegedly used by U.S. Secretary of State Marco Rubio in his conversation with External Affairs Minister S. Jaishankar in this context, the Congress accused the Narendra Modi government of failing to defend India's sovereignty and dignity. The controversy intensified after Mr. Rubio's office released a statement on his conversation with Mr. Jaishankar, stressing that all commercial vessels must \"immediately comply\" with instructions from U.S. forces operating in the Strait of Hormuz and warned that violations of its blockade and the illicit transport of Iranian oil would not be tolerated. Leader of the Opposition in the Lok Sabha Rahul Gandhi accused the government of remaining silent in the face of what he described as overbearing language from the United States. He said the absence of any regret or apology from Washington, coupled with directives issued to vessels, undermined India's standing. \"A free country would never tolerate such language. But our Compromised PM? Silent. They listen like an obedient servant and comply with the orders. Compromised PM will not defend the country's honour-because those who insult the country are under their control,\" Mr. Gandhi said in a post on X. \"Silence can't be a substitute for accountability,\" Congress president Mallikarjun Kharge said, pointing out that even three days after the incident, there has been no condolence message or public statement from Prime Minister Narendra Modi. \"Our national interests are being surrendered on a daily basis. And you have the audacity to sugarcoat it with the 'Vishwaguru' narrative,\" Mr. Kharge said in a post on X. He accused the government of treating Indian lives as an \"afterthought\" in matters of foreign policy. 'Obedient servant, complies with orders: Rahul slams PM over U.S. statements Prime Minister Narendra Modi is set to meet U.S. President Donald Trump on the sidelines of the G-7 summit in France next week. Citing the upcoming engagement, Congress general secretary (Communications) Jairam Ramesh questioned whether the Prime Minister would condemn the incident off the Oman coast, as well as Mr. Rubio's \"threatening\" and \"really unacceptable\" language when he meets his \"self-declared good friend\" President Trump. Mr. Ramesh also called for scrapping the India-U.S. trade deal, arguing that it would endanger the future of crores of Indian farmers. Countries like Malaysia, Mr. Ramesh pointed out, have declared their trade agreements with the U.S. \"null and void\" after a U.S. Supreme Court ruling struck down the Trump-era tariffs that formed the backdrop to these agreements, while the Modi government is \"sitting mute and helpless\". U.S. Trade Representative Jamieson Greer is also set to visit India shortly. Mr. Ramesh said, \"In light of the Rubio-Jaishankar interaction, the U.S. Supreme Court's overturning of President Trump's tariff system, and the patent unfairness of the trade deal, the least India must do is to put off the visit of the U.S. Trade Representative. Any self-respecting nation will do more than mere phone calls and press statements to defend its sovereignty against bullies.\" Congress leader Priyanka Gandhi Vadra echoed the party's position, calling the government's response inadequate and urging a firmer stance. \"India must firmly assert that it is a sovereign and independent nation,\" she said. Published - June 14, 2026 02:24 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71100692",
+      "rss_tags": [
+        "India"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "212b468a-2602-455a-ba8b-4c27a83345d3",
+    "cluster_id": "78cf3a29-e848-470f-93fa-1c26562d9b24",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "At 75, Salar Jung Museum reflects Hyderabad’s journey between heritage and progress",
+    "teaser": "Hyderabad's 75th anniversary for the Salar Jung Museum sees officials vowing to revive the Musi River, turning it into a 'Thames-level' waterway.",
+    "summary": "On the 75th anniversary of the Salar Jung Museum, officials highlighted how Hyderabad's identity is shaped by its deep heritage and future progress. Governor Shiv Pratap Shukla declared the museum a crucial cultural cornerstone, noting that Salar Jung III collected global treasures from Persia, China, and Europe. Telangana Deputy CM Mallu Bhatti Vikramarka revealed a major initiative to restore the Musi River, aiming to make it an international-standard waterway, similar to London's Thames or Paris's Seine. He plans for the museum to become the cultural centerpiece of this rejuvenated riverfront. The museum will host events until June 21 as part of its platinum jubilee celebrations.",
+    "importance": 4,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/at-75-salar-jung-museum-reflects-hyderabads-journey-between-heritage-and-progress/article71101436.ece",
+    "date": "2026-06-14T17:17:51Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/qg37zl/article71102177.ece/alternates/LANDSCAPE_1200/DSC3921.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Telangana Governor Shiv Pratap Shukla flanked by Deputy Chief Minister Mallu Bhatti Vikramarka and Transport Minister Ponnam Prabhakar at the 75th anniversary celebrations of the Salar Jung Museum and the birth anniversary of Salar Jung III, Mir Yousuf Ali Khan on Sunday.\n | Photo Credit: RAMAKRISHNA G. As Hyderabad marked 75 years of the Salar Jung Museum on Sunday, the celebrations served as a reminder that the city's identity is shaped as much by its rich heritage and collective memory as by its aspirations for the future. The occasion also coincided with the 137th birth anniversary of Mir Yousuf Ali Khan, Salar Jung III. Addressing the gathering, Governor Shiv Pratap Shukla said Hyderabad's identity could not be reduced to the Charminar alone, arguing that the Salar Jung Museum occupied an equally important place in the city's cultural consciousness. The museum is a living testament to Telangana's rich historical and cultural heritage, he said, paying tributes to Nawab Mir Yousuf Ali Khan, whose vision and foresight had created a national treasure that continues to enrich generations. Referring to the legendary Golconda diamonds, including the Koh-i-Noor, Hope and Regent diamonds, the Governor said the region had long enjoyed a global reputation for its treasures. Continuing that tradition, Salar Jung III had collected priceless works of art from Persia, Egypt, China, Japan and Europe, reflecting Hyderabad's openness to the world. The Governor also expressed confidence that the State government's plans for rejuvenation and cleaning of the Musi River would add to the appeal of the historic heritage precinct. Telangana Deputy Chief Minister Mallu Bhatti Vikramarka described the Salar Jung Museum as the soul of Hyderabad and the Musi as a stream of Hyderabad's memories. Mr. Vikramarka said the Telangana government is committed to restoring the long-neglected Musi River and transforming it into an international-standard riverfront comparable to the Thames in London and the Seine in Paris. He envisioned the Salar Jung Museum becoming the cultural crown jewel of the rejuvenated riverfront, with tourists travelling along the river, exploring heritage streets and engaging with historical artefacts. Transport Minister Ponnam Prabhakar and Charminar MLA Mir Zulfiqar Ali also recalled the historical connection between the Salar Jung family and Hyderabad's administration, noting that five Prime Ministers of Hyderabad had emerged from the illustrious family. The museum will be organising multiple events till June 21 as part of the platinum jubilee celebrations. Published - June 14, 2026 08:04 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101436",
+      "rss_tags": [
+        "Hyderabad"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "92321bfc-97c5-42cf-9922-3e457532f894",
+    "cluster_id": "1e85fb1a-ce6f-4e69-a273-05a868d1f0a4",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Microbial consortia boost yield for paddy farmer",
+    "teaser": "A Cuddalore farmer dramatically boosted his paddy yield by over 10 bags/acre using microbial consortia, cutting fertilizer use by half.",
+    "summary": "A farmer in Chidambaram, Cuddalore, successfully boosted paddy yields by adopting microbial consortia, a beneficial mixture of bacteria and fungi, instead of solely relying on chemical fertilizers. After facing stagnating yields, farmer S. Parthiban used these bio-inputs on his native ADT-46 paddy variety, achieving a yield of over 38 bags per acre, an increase of more than 10 bags compared to the previous 28 bags. This method also allowed him to use significantly less chemical fertilizer, saving money. According to experts, the patented consortia were validated by Tamil Nadu Agricultural University (TNAU), confirming that these inputs improve soil enzyme activity, revive soil health, and boost beneficial microbial counts, advocating for innovative bio-agricultural practices.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/microbial-consortia-boost-yield-for-paddy-farmer/article71101194.ece",
+    "date": "2026-06-14T17:22:32Z",
+    "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/7cjkt1/article71101465.ece/alternates/LANDSCAPE_1200/fd90da7b-8233-4c74-94fb-e8da4f477de6.JPG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The paddy field at Chidambaram in Cuddalore where the microbial consortia were used. \n | Photo Credit: Special Arrangement For the last two years, S. Parthiban, 45, a farmer of Chidambaram in Cuddalore district watched his paddy yields stagnate despite investing money in chemical fertilizers. He faced the same frustrating reality every harvest season. The turning point came in 2025, when Parthiban was introduced to the concept of microbial consortia - a balanced mixture of beneficial bacteria and fungi at a workshop organised by the Chidambaram Area Progressive Farmers Association. Though most of the farmers were hesitant, Parthiban decided to try them on his four-acre paddy farm in Chidambaram. He used them on a native variety ADT-46 and the results showed an increase in yield in the first harvest in January this year. \"Each acre produced 38 bags with a weight of 60 kg each, an increase of more than 10 bags than the usual 28 bags per acre. I had used only 50 % of the usual chemical fertilizer, saving money,\" Parthiban said. According to S. Raja Mohammed, retired Joint Director of Horticulture, the strain of unique patented Microbial Consortia used by the farmer has been scientifically tested and validated at Tamil Nadu Agricultural University (TNAU). This strain helps in increased microbial count and a significant increase in beneficial microorganisms, revitalization of soil health, improved soil enzyme activity and beneficial microbial activities, he said. It is necessary to explore and adopt innovative bio-agricultural inputs to conserve soil health besides increasing the productivity of rice and other food crops, he added. Published - June 14, 2026 10:52 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101194",
+      "rss_tags": [
+        "Tamil Nadu"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "448141cc-ce0b-4f43-9efa-a34083a90155",
+    "cluster_id": "1b243df3-5656-40f9-a984-3db59a8cd165",
+    "cluster_size": 2,
+    "source": "The Hindu - National",
+    "title": "Four, including three children, drown as boat capsizes in the Krishna in Palnadu district; six others rescued",
+    "teaser": "A boat tragedy in the Krishna River killed four, including three children, leading to a high-level probe and massive safety audits across Andhra Pradesh's river tourism routes.",
+    "summary": "Two separate river incidents highlight safety concerns in Andhra Pradesh. A boat capsized in the Krishna River near Konuru village (Palnadu district) on Sunday, causing four deaths—Battula Karthik (12), Konatha Chaitanya (26), Gandham Saini (10), and Gandham Sandhya (8)—and rescuing six people. Following this tragedy, CM N. Chandrababu Naidu ordered a full investigation and an *ex gratia* payment of ₹5 lakh each to the families. Separately, 89 tourists were stranded in the Godavari River near Devipatnam (Polavaram district) after a technical glitch. Due to safety concerns, tourism boat operations on the Godavari route are suspended for a week-long safety audit involving multiple departments.",
+    "importance": 4,
+    "category": "world_news",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/four-including-two-children-drown-as-boat-capsizes-in-the-krishna-in-palnadu-district-of-andhra-pradesh/article71101243.ece",
+    "date": "2026-06-14T17:26:32Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/4aoubo/article71102155.ece/alternates/LANDSCAPE_1200/10215_14_6_2026_22_11_55_4_IMG_20260614_WA0078.JPG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "People at the incident site near Konuru village in Palnadu district on Sunday.\n | Photo Credit: ARRANGEMENT Four persons, including three children, drowned in the Krishna river and six others were rescued when the boat in which they were travelling capsized, near Konuru village in Palnadu district on Sunday. The deceased were identified as Battula Karthik (12), Konatha Chaitanya (26), Gandham Saini (10) and Gandham Sandhya (8). They were native of Marrichettupalem and Chilakaluripet areas. They had come to Konuru to attend a function at the house of K. Gangaiah and went on a boat ride after the function. \"Local residents jumped into the water, rescued six persons, and brought them to the bund,\" said Ramana, a villager. There were no lifebuoy jackets or other safety material in the boat, the villagers said. CM orders probe Meanwhile, Chief Minister N. Chandrababu Naidu, who was away in Singapore, expressed grief over the loss of lives in the boat tragedy and announced an ex gratia of ₹5 lakh each to the next of kin of the deceased. He also directed the District Collector to disburse the amount immediately, and ordered a full-fledged investigation by a team of Revenue, Police, and Water Resources departments. The officials informed the Chief Minister that the boat capsized at around 2 p.m. after hitting a sandbar in the river. YSRCP president Y.S. Jagan Mohan Reddy expressed shock over the accident and conveyed his condolences to the bereaved families. He appealed to the government to extend all help to the victims' families. Published - June 14, 2026 07:40 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101243",
+      "rss_tags": [
+        "Andhra Pradesh"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "b98f3326-a87e-4444-a9f1-5399c62efb73",
+    "cluster_id": "15bcfc78-0d69-4051-ba45-059967060189",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Restore Sathangadu Lake to original extent of 135 acres, remove encroachments on 65 acres: TNIC",
+    "teaser": "Sathangadu Lake, vital for north Chennai's water supply, must be restored to its original 135 acres after being shrunk by nearly 65 acres of encroachments.",
+    "summary": "The Tamil Nadu Information Commission (TNIC) has taken strong action, urging the state government to restore Sathangadu Lake to its original extent of 135 acres. The lake, which is a crucial water source for north Chennai and a habitat for migratory birds, has shrunk to only about 70 acres due to extensive encroachments. Official reports revealed that encroachments were made by public sector enterprises (including GOI undertakings), private petrochemical companies, and even for residential areas. Citing the Tamil Nadu Protection of Tanks and Eviction of Encroachment Act, 2007, the Commission demanded the immediate eviction of these structures and protection for the waterbody. The TNIC emphasized that protecting such water bodies is a collective responsibility.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/restore-sathangadu-lake-to-original-extent-of-135-acres-remove-encroachments-on-65-acres-tnic/article71101390.ece",
+    "date": "2026-06-14T17:35:43Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/r92sqr/article71101431.ece/alternates/LANDSCAPE_1200/BVR_9661.JPG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The Sathangadu Lake is not only a major source of water for several areas in north Chennai but also serves as a habitat for numerous species of migratory birds.\n | Photo Credit: B. VELANKANNI RAJ The Tamil Nadu Information Commission (TNIC) has urged the State government to evict encroachments and restore Sathangadu Lake in Tiruvallur district to its original geographical extent of 135 acres from the present 70 acres. With Revenue Department officials admitting in writing that nearly 60 acres of the lake had been encroached upon by various public and private organisations, including Government of India undertakings, State Information Commissioner R. Priyakumar asked the Tiruvallur Collector to accord top priority to the issue and take stringent action in accordance with the law to restore the lake in its entirety. He also requested the Commissioner of Revenue Administration and Disaster Management to directly supervise the eviction of encroachments and ensure measures were taken to protect the lake from future encroachments. The Public Information Officer (PIO) of the Revenue Department was directed to appear in person before the Commission and submit an action taken report on July 30. The case arose from a petition filed by S. Anandan of Manali, who stated the original extent of Sathangadu Lake, measuring 135 acres, had shrunk to 70 acres due to encroachments over the years. Seeking details of the lake's extent as per official records, he filed an application under the Right to Information Act, 2005. The petitioner also submitted a report published in The Hindu on March 28, 2008, in which the then Tiruvallur Collector was quoted as stating the lake extended over 135 acres. As no satisfactory reply was forthcoming from the PIO or the First Appellate Authority, Mr. Anandan filed an appeal before the TNIC. When the matter came up before Mr. Priyakumar, he directed the Tiruvottiyur Tahsildar to furnish information on the lake's extent as recorded in official documents and details of encroachments, if any. He warned that the maximum penalty of ₹25,000 would be imposed on the PIO and disciplinary action initiated if he failed to provide the information sought by the petitioner. Joint inspection done In his report, the Tahsildar informed the Commission a joint inspection had been conducted in the lake area along with officials from the Survey Department. The inspection revealed that two public sector enterprises under the Ministry of Petroleum and Natural Gas, Government of India, with offices located in Sathangadu and two private petrochemical companies had encroached upon nearly 10 acres of the waterbody for more than 15 to 20 years. The report further stated a residential area named MGR Nagar, spread over nearly 10 acres, was home to around 200 families. The encroachments also included a temple and a public toilet constructed by the State government. Expressing serious concern over the encroachments and their impact on the environment and water resources in the locality, Mr. Priyakumar observed protecting waterbodies was not only the duty of the government but also a collective responsibility of the people. Speaking to The Hindu on the issue, Mr. Priyakumar said Sathangadu Lake was not only a major source of water for several residential and industrial areas in north Chennai but also served as a habitat for numerous species of migratory birds. The destruction of the waterbody through unchecked encroachments, he said, would cause irreversible damage to both the environment and industry. He said his recommendation to the appropriate authorities to evict encroachments and restore the waterbody were based on G.O. (Ms.) No. 540 of the Tamil Nadu government, which mandated all District Collectors to form redressal committees for removing encroachments on government lands, as well as the Tamil Nadu Protection of Tanks and Eviction of Encroachment Act, 2007. Mr. Priyakumar further stated his order was in consonance with several Supreme Court rulings that came down heavily on encroachments on waterbodies. Published - June 14, 2026 11:05 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101390",
+      "rss_tags": [
+        "Tamil Nadu"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "0b76335b-074d-4842-b277-6e42cd733dc6",
+    "cluster_id": "af3d99eb-ba05-4d84-8478-eda1a1037fca",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Academic initiative ‘Vijayapatham’ launched to boost student performance in KGBVs",
+    "teaser": "KGBVs launch 'Vijayapatham' initiative in Andhra Pradesh, instituting intense monitoring and structured learning to achieve 100% student pass rates by 2027.",
+    "summary": "To dramatically improve learning outcomes, the KGBVs in Andhra Pradesh introduced 'Vijayapatham,' a rigorous academic action plan for the 2026-27 academic year. The program mandates a structured daily timetable featuring five hours of supervised study, regular classes, and self-learning. Preparation is intense, requiring weekly 'grand tests' for senior students (Classes X/Intermediate) and middle school students (VI-IX), alongside regular daily slip tests and monthly dictations. All progress is meticulously tracked in a 'Vijayapatham Register.' A key feature is the performance analysis, classifying students into four groups—Unnati (90-100%), Pragati (65-90%), Deepti (40-65%), and Spoorthi (below 40%)—to ensure targeted academic support and achieve the goal of 100% pass rates statewide.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/academic-initiative-vijayapatham-launched-to-boost-student-performance-in-kgbvs/article71101717.ece",
+    "date": "2026-06-14T17:42:11Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The Kasturba Gandhi Balika Vidyalayas (KGBVs) across Andhra Pradesh have unveiled a comprehensive academic action plan titled 'Vijayapatham' for the 2026-27 academic year to improve learning outcomes and achieve outstanding results in public examinations. The programme, launched under the slogan 'Learning is the Goal - Success is the Destination ,' aims to secure 100% pass results, increase the number of students scoring above 590 marks, and improve overall rankings. \"The initiative focuses on systematic study schedules, continuous assessment and close monitoring of student progress,\" said KGBV Secretary D. Devananda Reddy. Speaking to The Hindu on Sunday, Mr. Reddy said that as part of the plan, students will follow a structured daily timetable that includes five hours of supervised study, regular classes, self-learning periods, and three dedicated study sessions monitored by teachers. \"Daily schedules have been designed to balance academic rigour with adequate breaks and personal time,\" he explained. To strengthen examination preparedness, weekly grand tests will be conducted for students of Classes X and Intermediate every Monday, covering one subject at a time for 100 marks, while students of Classes VI to IX will appear for similar tests every Tuesday, he said. He added that the test papers will be evaluated within three days and marks will be recorded in a special 'Vijayapatham Register' for continuous monitoring. In addition to the grand tests, daily slip tests will be conducted on all working days except test days. For Class X and Intermediate students, at least three slip tests per subject will be held every month and students of Classes VI to IX will undergo a minimum of two slip tests and four dictation exercises per subject every month. \"Teachers on night duty will conduct these assessments based on topics covered during supervised study sessions,\" he informed. A key feature of the initiative is the weekly analysis of student performance, said Mr. Reddy, Based on assessment results, students will be classified into four categories of Unnati (90-100%), Pragati (65-90%), Deepti (40-65%), and Spoorthi (below 40%). Special attention, additional guidance, and focused academic support will be provided to students requiring improvement, he said. Mr. Reddy said the programme would be implemented in the 352 KGBVs across the State to create a disciplined academic environment, strengthen foundational learning, and ensure that every student receives the support needed to achieve academic success. \"The objective is to use Vijayapatham initiative as an effective tool to enhance the quality of education and examination performance in KGBVs across the State during the new academic year,\" said Mr. Reddy. Published - June 14, 2026 11:12 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101717",
+      "rss_tags": [
+        "Andhra Pradesh"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "0211afe5-ad2a-4002-99f5-82b1e0d63f34",
+    "cluster_id": "e04caa1e-afe1-40a6-aa31-d8577a391625",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Senior citizens group calls for action against rising elder abuse cases",
+    "teaser": "Amid dissolving joint families, senior citizens' welfare groups appeal to authorities, urging stricter background checks and government intervention to combat rising elder abuse.",
+    "summary": "Senior citizens groups have raised alarms regarding the rising instances of elder abuse, appealing to multiple state departments for intervention. Due to factors like joint family dissolution and children living far away, seniors are vulnerable to mistreatment and targeting by criminals and cyber offenders. Authorities pointed out protective measures, including relying on the Maintenance and Welfare of Parents and Senior Citizens Act, 2007, allowing victims to seek financial support from the Revenue Divisional Officer (RDO). Furthermore, security officials recommended that parents conduct antecedent verification before hiring any caretakers or domestic help to ensure safety.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/senior-citizens-group-calls-for-action-against-rising-elder-abuse-cases/article71102035.ece",
+    "date": "2026-06-14T17:53:35Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Members of the Senior Citizens Welfare Association expressed concern over the rising cases of abuse against senior citizens and retired employees. They appealed to the officials of the Disabled Welfare, Women Development and Child Welfare, Revenue, and Police Departments to take measures to prevent abuse of senior citizens. \"We planned awareness programmes on June 15 (Monday) across NTR and Krishna districts in observance of World Elder Abuse Awareness Day, aimed at identifying and addressing the issues and mistreatment of senior citizens,\" said Motukuri Venkateswara Rao, a member of the Senior Citizens Welfare Association State Council. Elders are already suffering from various health issues, along with loneliness, as their children are living far away. Criminals and cyber offenders are targeting senior citizens who are living alone, said Mr. Venkateswara Rao. \"As there are no joint families, mental stress among children, job losses, financial problems, apartment culture in cities, and disputes among couples, parents, and grandparents are being neglected and abused,\" said Mr. Venkateswara Rao, who is also the Secretary of the NTR District Senior Citizens Welfare Association. Speaking to The Hindu on Sunday (June 14, 2026), Krishna District Collector D.K. Balaji said that action would be taken against those who ill-treat or neglect parents. Victims can approach the Revenue Divisional Officer (RDO) concerned and the officer can order for financial support to the parents under Maintenance and Welfare of Parents and Senior Citizens Act, 2007. \"Parents are requested to give their properties to children as gift deed only, and they will have the right to take back if necessary. We are also observing the situation in the homes meant for senior citizens,\" said Mr. Balaji. Deputy Commissioner of Police (DCP) K.G.V. Saritha of NTR Commissionerate asked the children to conduct antecedent verification, before appointing caretakers and domestic helps for their parents. \"The security agencies should supply caretakers only after taking up antecedent verification and checking the pre-history of the persons to prevent abuse of senior citizens,\" Ms. Saritha said. \"We request the officers to respond to the grievances of senior citizens who have submitted petitions regarding harassment in the Public Grievance Redressal System (PGRS),\" Mr. Venkateswara Rao said. Published - June 14, 2026 11:23 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71102035",
+      "rss_tags": [
+        "Andhra Pradesh"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "93c4fbe9-c062-46a2-af97-40858da51c74",
+    "cluster_id": "c5f5cf12-1c0f-42a8-be93-5c4a68e50675",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Woman sub-inspector among three Bengaluru police personnel trapped by ACB in Jaipur in bribery case",
+    "teaser": "Three Bengaluru police personnel were trapped by the ACB in Jaipur while caught red-handed accepting ₹40,000 in a ₹2 lakh bribe.",
+    "summary": "The Rajasthan Anti-Corruption Bureau (ACB) successfully conducted an anti-graft operation in Jaipur, trapping three Bengaluru police personnel for alleged bribery. The officers—identified as sub-inspector Anita and head constables Yatish Kumar and Ulvappa—were reportedly accepting a bribe of ₹2 lakh to improperly influence a dowry harassment case from Bengaluru. Following a complaint, the ACB set a trap at Hotel Gangaur and apprehended the accused while they were accepting ₹40,000 as part of the demanded illegal payment. The ACB has taken the accused into custody.",
+    "importance": 4,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/national/karnataka/woman-sub-inspector-among-three-bengaluru-police-personnel-trapped-by-acb-in-jaipur-in-bribery-case/article71101979.ece",
+    "date": "2026-06-14T17:57:04Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The Rajasthan Anti-Corruption Bureau (ACB) on Saturday trapped three Bengaluru Police personnel, including a sub-inspector and two head constables, for allegedly accepting a bribe from a complainant. The accused have been identified as sub-inspector Anita and head constables Yatish Kumar and Ulvappa. They reportedly travelled to Jaipur in connection with the investigation of a dowry harassment case registered in Bengaluru. According to the ACB officials, the police personnel allegedly demanded a bribe of ₹2 lakh from the complainant in exchange for extending relief in the case proceedings. Following a complaint, the ACB verified the allegations and laid a trap at Hotel Gangaur in Jaipur. The accused were caught redhanded while accepting ₹40,000 as part of the demanded bribe amount. The operation was led by ACB Additional Superintendent of Police Bhupendra Chaudhary under the supervision of Deputy-Inspector General of Police Om Prakash Meena. The action was carried out on the directions of Director-General Govind Gupta and Additional Director-General Smita Srivastava. The ACB has taken the accused into custody. Published - June 14, 2026 11:27 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101979",
+      "rss_tags": [
+        "Karnataka"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "d5ba6fe5-f212-4272-9ff8-d770ab539b03",
+    "cluster_id": "5d726681-71c1-420d-a89b-729d02d6ae3e",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Some fuel outlets cap diesel at 195 litres per customer after order from Centre",
+    "teaser": "Diesel fuel is capped at 195 liters per customer, forcing vehicle owners to seek fuel from multiple outlets amidst severe scarcity.",
+    "summary": "Fuel retailers are grappling with severe diesel shortages, forced by Central government orders and warnings from oil marketing companies (OMCs). Non-regular customers are now capped at 195 liters of diesel. A dealer noted that essential institutions like hospitals and educational facilities are crucial, but retailers are hesitant to fill large vehicles due to increased government focus on preventing fuel diversion. Consumers are advised to make multiple trips to refuel. Furthermore, the article mentions that petrol has also been capped at 50 liters per car, highlighting widespread rationing efforts.",
+    "importance": 4,
+    "category": "world_news",
+    "url": "https://www.thehindu.com/news/cities/chennai/some-fuel-outlets-cap-diesel-at-195-litres-per-customer-after-order-from-centre/article71098738.ece",
+    "date": "2026-06-14T17:58:40Z",
+    "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/aykzvm/article71102087.ece/alternates/LANDSCAPE_1200/Fuel%20outlets.jpeg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "A dealer said that customers are now forced to fill half their tanks at one outlet and scout around for the rest. Petroleum retailers have been facing a difficult task over the past two days, declining fuel even to their regular bulk customers. Some fuel outlets have imposed a cap of 195 litres of diesel for vehicles whose owners are not regular customers. \"These are not companies or factories, but educational institutions, apartment complexes, and hospitals that depend on us. They come once or twice a month with large barrels. They do not have underground tanks or Petroleum and Explosives Safety Organization (PESO) licenses. In this weather, with frequent power cuts, diesel is essential,\" said a dealer near Chennai. \"Even earlier, there was a cap of 200 litres per customer, but that was only an oral instruction. This time, the Central government's order came in writing and the oil marketing companies (OMCs) have issued stern warnings. Why should I invite punishment unnecessarily? I would rather not fill tanks of heavy vehicles,\" said another dealer. Apart from diesel for generators, the fuel is also used by buses and lorries with large tank capacities. \"Customers are now forced to fill half their tanks at one outlet and scout around for the rest. I am afraid to fill these vehicles even using two bills, as the government and OMCs are currently focused on preventing the diversion of fuel. We are advising our regular customers either to make frequent trips to the outlet or visit nearby outlets,\" he added. \"Like other outlets, I have imposed a cap on petrol as well. It is 50 litres for cars,\" said a dealer. Published - June 14, 2026 11:28 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71098738",
+      "rss_tags": [
+        "Chennai"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "6b5f5cbc-3dd0-415a-803d-a52e622268ab",
+    "cluster_id": "13f7ae25-36ac-4f68-888f-83aeaa8541b4",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Abhishek Banerjee makes second appearance before CID in West Bengal MLAs signature forgery case",
+    "teaser": "Amid signature forgery probes and multiple investigations, TMC leader Abhishek Banerjee is facing rounds of questioning from CID and ED over political scandals.",
+    "summary": "TMC leader Abhishek Banerjee appeared before the West Bengal CID for a second round of questioning on June 14, 2026, concerning allegations of forging MLAs' signatures used to nominate the Leader of Opposition. The controversy began after an FIR was filed by Trinamool MLAs regarding a letter submitted on May 20. While the Calcutta High Court granted him three-week interim protection preventing coercive CID action, the investigation has continued, involving searches at the party office. Furthermore, Mr. Banerjee is scheduled for interrogation by the Enforcement Directorate (ED) on June 15 regarding a cash-for-school job case, and again by the CID on June 16 over allegations of inciting violence and threatening Union Home Minister Amit Shah.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/west-bengal/signature-forgery-case-abhishek-banerjee-cid-questioning-on-june-14/article71100521.ece",
+    "date": "2026-06-14T18:01:13Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/xgx4q0/article71101241.ece/alternates/LANDSCAPE_1200/PTI06_14_2026_000109B.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "TMC leader Abhishek Banerjee reaches the CID headquarters for a second round of questioning in connection with the alleged forgery of the signatures of MLAs for the appointment of the leader of opposition in the West Bengal Assembly, in Kolkata, on June 14, 2026.\n | Photo Credit: PTI Trinamool Congress national general secretary Abhishek Banerjee on Sunday (June 14, 2026) appeared before the West Bengal Police's Criminal Investigation Department (CID) for the second time in connection with the case pertaining to forgery of signatures of MLAs. The CID had asked Mr. Banerjee to appear before it at 12 p.m. However, he reached the police headquarters at Bhabani Bhawan at 11.43 a.m. Trinamool spokesperson and Beleghata MLA Kunal Ghosh arrived around 3 p.m. for questioning in the same case. Mr. Banerjee was still being questioned when Mr. Ghosh left the building after four hours around 7:25 p.m. Mr. Banerjee made his first appearance before the CID on Thursday (June 11, 2026) after the Calcutta High Court had earlier in the day directed the Trinamool leader to appear before the agency in connection with the West Bengal Assembly signature scandal investigation by 6 p.m. on the same day. The court also granted three-week interim protection to Mr. Banerjee, directing that the CID cannot take any coercive action as long as he cooperated with the investigation. The CID investigation was prompted after a First Information Report (FIR) was filed in relation to a complaint by Trinamool MLAs Ritabrata Banerjee and Sandipan Saha alleging that their signatures were forged in the letter nominating Sovandeb Chattopadhyay as the Leader of Opposition in the State Assembly. The letter was submitted to the Speaker on May 20. The State agency then issued several summons to Mr. Banerjee, who had signed the letter. However, he did not appear in person, citing health issues, and sought 15 days more to respond. On June 9, a search was carried out at the residence of former Chief Minister Mamata Banerjee at 30B, Harish Chatterjee Street, which also serves as the Trinamool's central party office, by the CID. The agency had claimed that the address was mentioned in the response given by Mr. Banerjee, and that it had come looking for the original resolution containing the forged signatures. Meanwhile, the Trinamool had moved the Calcutta High Court on Wednesday (June 10, 2026), challenging the legality of the search operation carried out at the party office adjacent to Ms. Banerjee's residence in Kolkata's Kalighat area. On Saturday (June 13, 2026), an official team from West Medinipur's Salboni police station also entered Mr. Banerjee's residence at Patuapara Road in the Kalighat area of the city in the early hours in search of his personal assistant Sumit Roy, in connection with alleged financial embezzlement linked to a land fraud case. Mr. Banerjee will also be facing a series of interrogations on Monday and Tuesday. On Monday (June 15, 2026), he is to be questioned by the Enforcement Directorate (ED) at its Salt Lake office, located on the northern outskirts of Kolkata, in connection with the multi-crore cash-for-school job case in West Bengal. The ED has already served him a notice in the matter on June 3. On Tuesday, he is again expected at the CID headquarters to face interrogation in connection with a case where he has been accused of inciting violence and threatening Union Home Minister Amit Shah before the recent Assembly election in the State. The CID officials served him a notice in the matter on the evening of June 12. It is not clear whether he will appear before the relevant officials on Monday and Tuesday. Mr. Banerjee does not have protection from the High Court against police action in these two cases for now. Published - June 14, 2026 12:17 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71100521",
+      "rss_tags": [
+        "West Bengal"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "c442dd1f-5773-46da-95d4-a75f55a5b46f",
     "cluster_id": "506b1af6-0674-4c49-b43b-4f320233692f",
     "cluster_size": 1,
@@ -132,6 +862,515 @@
       "twitter_handle": "naval",
       "category_hint": "startup",
       "author_handle": "@naval"
+    }
+  },
+  {
+    "id": "1ddd9e17-a130-4b33-8a88-ecaae8f59e5a",
+    "cluster_id": "b3aac85c-e332-4186-866c-5298393b48cd",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "How to watch most of the World Cup matches with free trials",
+    "teaser": "In-Beom Hwang #6 of Korea Republic scored their first World Cup goal past Matej Kovar #1 of Czechia on June 11, 2026.",
+    "summary": "During the FIFA World Cup 2026 Group A match between Korea Republic and Czechia, In-Beom Hwang #6 scored the opening goal for Korea Republic. The match was played at Guadalajara Stadium in Guadalajara, Mexico, on June 11, 2026. This specific moment is highlighted in the photo caption, providing a key update on the ongoing World Cup action.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale",
+    "date": "2026-06-14T16:00:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2281159964.jpg?quality=90&strip=all&crop=0%2C13.085785612744%2C100%2C73.828428774512&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Brad Bourque",
+    "content": "GUADALAJARA, MEXICO - JUNE 11: In-Beom Hwang #6 of Korea Republic scores his team's first goal past Matej Kovar #1 of Czechia during the FIFA World Cup 2026 Group A match between Korea Republic and Czechia at Guadalajara Stadium on June 11, 2026 in Guadalajara, Mexico. (Photo by Lars Baron/Getty Images) Getty Images",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=948871",
+      "rss_tags": [
+        "Deals",
+        "Entertainment",
+        "Gadgets",
+        "Sports",
+        "Verge Shopping"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "78e92f8d-e157-4798-80da-29497ae0f35c",
+    "cluster_id": "d0811ce2-4885-4a8f-9d08-27a4a8aecfc3",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Attempts to malign the image of Singareni will not be tolerated: Bhatti",
+    "teaser": "DCM Bhatti warns opposition leaders against maligning the 'crown jewel of Telangana,' SCCL, citing technological upgrades and workforce dedication.",
+    "summary": "Deputy Chief Minister Mallu Bhatti Vikramarka inspected the Srirampur Open Cast Coal Mine, praising the Singareni Collieries Company Limited (SCCL) as the 'crown jewel of Telangana.' Addressing the media, Vikramarka strongly accused opposition leaders of attempting to 'malign' SCCL's image using false propaganda for narrow political goals. He affirmed that the SCCL will continue to operate transparently, emphasizing that any attempts to disrespect the workforce's efforts will not be tolerated. During the inspection, officials showcased modern technological safeguards to ensure operational integrity. These systems include the GPS-based Vehicle Tracking System (VTS), Geofencing, and surveillance cameras, ensuring full transparency from coal loading to transportation.",
+    "importance": 3,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/telangana/attempts-to-malign-the-image-of-singareni-will-not-be-tolerated-bhatti/article71101828.ece",
+    "date": "2026-06-14T16:02:10Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/uy72jn/article71101985.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-14%20at%208.45.20%20PM.jpeg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Deputy Chief Minister Bhatti Vikramarka inspecting the Srirampur open-cast coal mine in Mancherial district on Sunday. MANCHERIAL Terming the Singareni Collieries Company Limited (SCCL) as a crown jewel of Telangana, Deputy Chief Minister Mallu Bhatti Vikramarka has said attempts by the Opposition party leaders to 'malign' the image of the public sector miner for 'narrow political interests' will not be tolerated. Mr. Vikramarka along with Minister for IT and Industries D. Sridhar Babu on Sunday inspected the Srirampur Open Cast Coal Mine in Mancherial district. Chairman and Managing Director of the SCCL Buddhaprakash Jyoti and other senior officials accompanied the Deputy CM. Speaking to the media after conducting the open-house inspection of the mine, the Deputy CM said the Singareni workers are the backbone of the public sector miner propelling its growth through their hard work and commitment. He alleged that the Opposition leaders were spreading false propaganda against the SCCL with narrow political machinations. Any attempts to belittle the dignity of the workforce and their tireless efforts will not be tolerated, he said, asserting that the SCCL would continue to function in a transparent manner. The Deputy CM, who holds the portfolios of Finance and Energy, reviewed the functioning of the opencast mine and safety measures, besides inspecting coal transportation records. The SCCL officials apprised the Deputy CM of the GPS-based Vehicle Tracking System (VTS), Geofencing, Boom barriers, surveillance cameras and other foolproof systems in place to ensure transparency in the whole spectrum of SCCL's coal mining operations including coal loading, dispatch and transportation by leveraging technology. Published - June 14, 2026 09:32 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101828",
+      "rss_tags": [
+        "Telangana"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "320e11a6-f9a9-4363-b2fb-5c79d30c1852",
+    "cluster_id": "3a6b0866-01b9-4795-8d23-f82d5b3df246",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Farmers find new customers at Nabard’s mango fest",
+    "teaser": "A mango festival in Chennai helped farmers from multiple states sell all their produce and find new customers.",
+    "summary": "Nabkisan, a subsidiary of Nabard, organized a successful Mambazha Mela (mango festival) in Chennai on June 14, 2026. The event significantly benefited farmers from states including Tamil Nadu, Karnataka, and Maharashtra by ensuring they sold all their mango produce. Farmers were able to get new customers for various varieties like Salem Gundu and Bangloora, and also successfully marketed value-added products such as mango pickles and mangoes in salt. Mohan Karthik of Nabkisan stated that the sale represented a successful pilot program, and they plan to gather feedback to organize similar markets for other products like millets and vegetables.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/cities/chennai/farmers-find-new-customers-at-nabards-mango-fest/article71101901.ece",
+    "date": "2026-06-14T16:10:04Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/kng01u/article71101953.ece/alternates/LANDSCAPE_1200/DSC_6561.JPG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The Mambazha Mela under way at a mall in Chennai on Sunday, June 14, 2026.\n | Photo Credit: JOTHI RAMALINGAM B It was a sweet deal for farmers from several States, including Tamil Nadu, Karnataka, and Maharashtra, who had come to the city to sell mangoes, as they not only managed to sell all the produce they had brought, but also found new customers. This was thanks to Nabkisan's Mambazha Mela, an effort to bring together 16 farmer-producer organisations that produce and process mangoes. Two-time national award-winning farmer from Pethanaickanpalayam in Salem, S. Jayaraman, who welcomed the effort, said he was able to get several new customers due to the sale at a mall in the city. \"I got mangoes like Salem Gundu, Bangloora, Malgova and Imampasand from Karumandurai, a hill station. People who tasted the fruit called back and said they had forgotten how good mangoes tasted,\" he said, adding that such markets should be organised for other products like millets and vegetables, too. M. Parameshwari of the DWC Trust of Chinnamannur in Theni said that their value-added products, including mango pickles and mangoes in salt ( uppilittadhu ) did well. \"Nobody in our area has freezer vans, and so we had to bring the mangoes by bus. Some of them got damaged during transit, as the gunny bags were stacked at the bottom,\" she said. Mohan Karthik, senior vice-president, Nabkisan, which is a subsidiary of Nabard, said that all the mangoes brought to the mela were sold. \"Farmers were also able to get new customers for their produce. This was a pilot programme. We will obtain feedback from the farmers,\" he said. Published - June 14, 2026 09:40 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101901",
+      "rss_tags": [
+        "Chennai"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "fa5dd48e-287a-4295-b104-5edcaaf8399f",
+    "cluster_id": "af34e588-5faf-49dd-8d71-9f15226eee44",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Prakasam Barrage gates opened to release around 3,000 cusecs downstream",
+    "teaser": "The Prakasam Barrage opened its gates on June 14, releasing 2,900 cusecs of water—the first significant release since the Southwest Monsoon arrived.",
+    "summary": "The Prakasam Barrage gates were opened on June 14, 2026, to discharge about 2,900 cusecs of surplus water downstream into the Krishna river. This marks the first significant water release since the Southwest Monsoon arrived in the state on June 6. Officials opened four gates between 9 a.m. and 10 a.m. due to increased inflows from the local catchment area. The discharge amount will fluctuate depending on expected inflows and utilization, signaling careful resource management for public and official concern along the river margin.",
+    "importance": 3,
+    "category": "world_news",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/prakasam-barrage-gates-opened-to-release-around-3000-cusecs-downstream/article71100324.ece",
+    "date": "2026-06-14T16:11:50Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/ukmywr/article71102017.ece/alternates/LANDSCAPE_1200/DSC_7226.JPG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Visitors gathered at the iconic Prakasam Barrage to witness the release of water for the first time this season. Officials lifted four gates of the barrage and discharged about 2,900 cusecs of water downstream on June 14, 2026.\n | Photo Credit: G.N. Rao The Prakasam Barrage gates were opened for a short while to release around 2,000-3,000 cusecs downstream of the Krishna river on Sunday (June 14, 2026). This is the first instance of water being released downstream after the Southwest Monsoon arrived in the State on June 6. In a media release from the Executive Engineer and River Conservator of the Krishna Central Division, it was stated that the inflows have increased from local catchment area due to recent rain, and therefore, four gates have been opened between 9 a.m. and 10 a.m. to release the surplus discharge. The discharge will vary depending on the realisation of expected inflows and utilisation, the release said, alerting the public and officers concerned along the Krishna river margin both upstream and downstream of the Barrage. Published - June 14, 2026 10:57 am IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71100324",
+      "rss_tags": [
+        "Andhra Pradesh"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "eb7cae00-8e53-4938-ae97-75a466abc4b0",
+    "cluster_id": "3a406f43-e836-4a9f-9636-3ed8132a11a5",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Ensure students do not wait long for Telangana RTC buses, says MD",
+    "teaser": "Telangana's MD orders TGSRTC to restore all bus routes and ensure timely services so students don't face long commutes back to school.",
+    "summary": "With schools in Telangana reopening on Monday, June 15, for the 2026-27 academic year, the Telangana State Road Transport Corporation (TGSRTC) has been instructed to improve commuter services. Managing Director Y. Nagi Reddy directed regional officials to ensure sufficient public transportation is available on all routes. He emphasized the restoration of all previously operated bus routes and maintaining a strict schedule across the 227 working days of the academic year. TGSRTC must operate services punctually to prevent students, especially those from rural areas, from experiencing long wait times, and must organize additional trips if necessary.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/national/telangana/ensure-students-do-not-wait-long-for-telangana-rtc-buses-says-md/article71102018.ece",
+    "date": "2026-06-14T16:33:14Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "With schools across Telangana set to reopen from Monday (June 15) for the 2026-27 academic year, Telangana State Road Transport Corporation (TGSRTC) officials were directed to ensure that sufficient public transportation buses are available in all routes so that students do not have issues in commuting to schools. The corporation's Managing Director Y. Nagi Reddy on Sunday instructed officials of all regions, Depot Managers to focus on regularising bus services according to timings of schools, especially for students who commute from rural areas. All previously operated bus routes have to be restored. The Managing Director said that as there are 227 working days in the academic year, the transport services were scheduled accordingly. Mr. Reddy said that services have to be operated strictly according to schedule so that students are not made to wait for a long time. If need be, additional trips have to be made. Published - June 14, 2026 10:03 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71102018",
+      "rss_tags": [
+        "Telangana"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "26824f67-e54e-4c72-8655-33ca9da23970",
+    "cluster_id": "eda0b29f-e64f-4f3d-b442-d704fb2ee662",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Plus One admission: First allotment released",
+    "teaser": "With 4.44 lakh applications processed, the DGE released Plus One allotments, highlighting the severe demand gap, especially in Malappuram.",
+    "summary": "The Directorate of General Education (DGE) announced the first allotment for Plus One higher secondary admissions for the 2026-27 academic year. The process handled a high demand, processing 4,44,772 applications for an available pool of 3,15,874 general seats. In the first round, 2,46,638 seats were allotted, leaving 71,264 vacancies across various quotas. Malappuram district showed the highest application volume (82,753) and the maximum allocations (40,554), with its general merit quota exhausted. Admissions begin Monday and run until Wednesday. Candidates must secure at least a temporary admission to remain eligible for future allotment rounds.",
+    "importance": 3,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/kerala/plus-one-admission-first-allotment-released/article71101887.ece",
+    "date": "2026-06-14T16:43:11Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/rqm4pv/article71102108.ece/alternates/LANDSCAPE_1200/SSLC-Plus-One-GL4FLV1O8.5.jpg.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Representational pic\n | Photo Credit: th-online Administrator The Directorate of General Education (DGE) published the first allotment for single-window Plus One higher secondary admissions for the 2026-27 admission year on Sunday. A staggering 4,44,772 applications were processed for an available pool of 3,15,874 general seats, which increases to 3,17,902 seats when accounting for additional mandatory allocations for differently-abled students. In the first round of allotments, as many as 2,46,638 seats were allotted, leaving a vacancy of 71,264 seats across various quotas and community reservations in the State. The demand-supply gap remains severely pronounced in the northern districts, particularly Malappuram, where several thousands of applicants are left waiting for allotments after the first round. Malappuram leads Malappuram continues to top the State with the highest number of applications at 82,753. he district also received the maximum number of seat allocations in the State, with 40,554 students accommodated, leaving 17,301 vacancies to be contested by 42,199 students in the second allotment. Notably, the district's general merit quota is completely exhausted, with all 26,844 available seats fully allotted. In terms of vacancies, Kannur (8,176) and Kozhikode (7,799) trail behind Malappuram. Student admissions based on the first allotment will commence from 10 a.m. on Monday and will continue until 5 p.m. on Wednesday. Those who receive the first option in the allotment round are advised to pay the fee and take permanent admission. Students who receive allotment to other options can take permanent or temporary admission. There is no need to remit fee for temporary admission. The office of the DGE has cautioned that any candidate who fails to secure at least a temporary admission after receiving an allotment will be permanently excluded from all subsequent allotment phases. Published - June 14, 2026 10:13 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101887",
+      "rss_tags": [
+        "Kerala"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "39bd5231-4e1f-4561-a30f-ae293a742cb0",
+    "cluster_id": "79675c58-c5b9-4036-bdcd-b28268454f40",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Irrigation dept. to restart dredging in Korapuzha",
+    "teaser": "After protests alleging illegal sand mining, the government is restarting crucial dredging work on the Korapuzha river to prevent flooding and restore water flow.",
+    "summary": "The Irrigation department is restarting dredging works in the Korapuzha river. The project, initiated in 2022, aims to remove an estimated two lakh cubic metres of silt and sediment to prevent flooding and ensure smooth water flow into the sea. The work, which covers a 1,600-meter stretch, was previously halted after mass protests in February 2026, concerning alleged illegal sand extraction. Following a meeting chaired by District Collector M.S. Madhavikutty, and after assuring the community, the work will recommence from the Korapuzha railway bridge side, focusing initially on a 1-km stretch. The dredging targets a depth of 3.5 meters below sea level.",
+    "importance": 3,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/kerala/dredging-in-korapuzha-river-to-resume/article71101271.ece",
+    "date": "2026-06-14T17:04:01Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The Irrigation department will restart dredging works in Korapuzha river. The decision was taken at a meeting chaired by District Collector M.S. Madhavikutty and attended by MLAs Vidya Balakrishnan, K. Praveen Kumar, and other officials. The dredging work was halted following mass protests in February 2026. Residents and political parties had alleged that sand was being illegally extracted under the pretext of dredging to remove accumulated silt and sediments from the Korapuzha river. Ms. Balakrishnan said the work would resume after taking the protesters and residents into confidence. The meeting decided that the work would recommence from the Korapuzha railway bridge side. Silt and sediment from an initial 1-km stretch would be removed initially. Dredging along the Korapuzha estuary would be resumed at a later stage. The dredging work, being carried out under the aegis of the Irrigation Department, covers the stretch between the Korapuzha estuary and the Korapuzha railway bridge. The project, which began in 2022, aims to remove around two lakh cubic metres of silt and sediment to ensure the smooth flow of water into the sea. The accumulation of silt and sand has hindered the movement of fishing boats and caused flooding in nearby areas by reducing the river's flow. The dredging is being carried out to a depth of 3.5 metres below sea level, over a width of 100 to 140 metres, along a 1,600-metre stretch east of the estuary. Published - June 14, 2026 07:21 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101271",
+      "rss_tags": [
+        "Kerala"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "a1e3b9ea-f98b-4d5f-b6a8-32be7201452c",
+    "cluster_id": "a5efdac3-b583-47e1-80ed-c25f4b82ebc4",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Eight killed as vehicle falls into well in Maharashtra",
+    "teaser": "Tragedy in Maharashtra: A vehicle carrying 15 people plunged into a roadside well, resulting in the deaths of eight people, including four women and four children.",
+    "summary": "Eight people, including four women and four children, died after a pick-up vehicle carrying 15 passengers plunged into a roadside well in Malshiras tehsil, Solapur, Maharashtra, on Sunday, June 14, 2026. Seven others were injured and rushed to the hospital. Superintendent of Police Atul Kulkarni stated that the vehicle fell after the driver lost control. Chief Minister Devendra Fadnavis expressed deep grief and announced financial assistance of ₹5 lakh to the families of each deceased person. Authorities quickly responded to the site to rescue and treat the survivors.",
+    "importance": 3,
+    "category": "world_news",
+    "url": "https://www.thehindu.com/news/national/maharashtra/eight-killed-as-vehicle-falls-into-well-in-maharashtra/article71102092.ece",
+    "date": "2026-06-14T17:04:04Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/azikl6/article71102148.ece/alternates/LANDSCAPE_1200/PTI06_14_2026_000497B.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "People gather after a pickup-vehicle plunges into a roadside well, in Solapur, Maharashtra on Sunday (June 14, 2026).\n | Photo Credit: PTI Eight people, including four women and four children, were killed while seven others were injured on Sunday (June 14, 2026) when a pick-up vehicle carrying them plunged into a roadside well in the Malshiras tehsil in Solapur district of Maharashtra, the police said. Fifteen people were travelling in the vehicle when the incident occurred near Tandulwadi village, the police said. \"As per preliminary information, the pick-up vehicle carrying 15 people fell into a roadside well after the driver lost control. Eight people, including four women and four children, were killed, while seven others sustained injuries,\" Atul Kulkarni, Superintendent of Police, Solapur, said. The vehicle is being pulled out of the well, and the injured people were being rushed to the hospital, he said. Chief Minister Devendra Fadnavis has expressed grief over the loss of lives in the accident and announced financial assistance of ₹5 lakh to the next of kin of each deceased person. Describing the accident as \"extremely unfortunate and tragic\", Mr. Fadnavis said, \"I offer my heartfelt condolences to the deceased and share the grief of their families.\" Seven people had been rescued and were currently undergoing treatment, the CM said. The Solapur District Collector and Superintendent of Police immediately rushed to the accident site, and the State government was in constant touch with the local administration to monitor the situation, Mr. Fadnavis said. Published - June 14, 2026 10:34 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71102092",
+      "rss_tags": [
+        "Maharashtra"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "9ab5a123-da67-4e79-96d9-4aa3868f69f4",
+    "cluster_id": "9aeceaab-3c2c-44b3-9c88-d8bae751752b",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Monsoon activity remains low in Andhra Pradesh due to El Niño conditions",
+    "teaser": "Despite El Niño conditions, Andhra Pradesh can expect light showers and thunderstorms this week, with 17 out of 28 districts having deficient rainfall.",
+    "summary": "Monsoon activity in Andhra Pradesh remains subdued due to active El Niño conditions, with 17 out of 28 districts reporting deficient rainfall between June 1 and June 14. Although the monsoon arrived on June 6, the IMD forecasts light to moderate rain, accompanied by thunderstorms, for the coming week. This weather is attributed to a trough extending from the Bay of Bengal. On June 14, Kurnool's Devanabanda recorded 50 mm of rain, and the IMD predicts continued showers and lightning on June 15 across multiple districts, including Krishna and Nellore.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/monsoon-activity-remains-low-in-andhra-pradesh-due-to-el-nino-conditions/article71101937.ece",
+    "date": "2026-06-14T17:33:34Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The monsoon activity in Andhra Pradesh has remained subdued thus far, with 17 out of the 28 districts reporting deficient rainfall between June 1 and June 14. The Southwest Monsoon arrived in the State on June 6 and is expected to cover the remaining parts of the State in the next three days. However, many districts continue to experience intense heat due to the active El Nino conditions. The India Meteorological Department (IMD) - Amaravati has forecast light showers in isolated areas (one or two places) in three regions of South Coastal A.P. (SCAP) and Rayalaseema for the next week. A few areas in the North Coastal A.P. region may also receive light showers. However, thunderstorm activity is expected to continue across the State this week. According to the IMD, a trough extends from the west-central Bay of Bengal off the south coast of Andhra Pradesh to south Tamil Nadu, across the southwest Bay of Bengal, at altitudes between 3.1 and 4.5 km above mean sea level. This trough can bring light showers to the State. On Sunday (June 14), a maximum of 50 mm of rainfall was recorded in Devanabanda in Kurnool district. Pachipenta in Srikakulam district and the Nagara Panchayat Office area in Nellimarla of Vizianagaram district recorded 38.5 mm, while Gurla in Vizianagaram recorded 36.5 mm. The IMD forecasted light to moderate rain, accompanied by thunderstorms and lightning, on Monday (June 15), likely at isolated places in the districts of Manyam, Alluri Sitarama Raju, East Godavari, West Godavari, Eluru, Krishna, NTR, Palnadu, Prakasam, Markapuram, Nellore, Nandyal, and Tirupati. Published - June 14, 2026 11:03 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101937",
+      "rss_tags": [
+        "Andhra Pradesh"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "e3f4cfd1-da7e-4a2e-93ec-38e850dc9193",
+    "cluster_id": "409cd697-3ad0-4a6c-8cbf-55c39b7e52a5",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "FORTO urges exemption from TET for legally appointed teachers",
+    "teaser": "FORTO urges governments to exempt long-serving teachers from the mandatory Teacher Eligibility Test (TET), citing legal appointments predating the RTE Act.",
+    "summary": "The Forum of Registered Teachers Organisations (FORTO) has appealed to Central and State governments to exempt legally appointed teachers from the mandatory Teacher Eligibility Test (TET). FORTO argues that applying TET norms retroactively to teachers hired before the Right to Education (RTE) Act's full implementation is unjust and discriminatory. The appeal cites an NCTE clarification (dated August 28, 2017) confirming that minimum qualifications were not mandatory before September 3, 2001, when many teachers were employed. FORTO leaders emphasized that affected teachers have maintained their competence through decades of service and professional development, urging governments to take policy measures to protect their service rights.",
+    "importance": 3,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/teachers-urges-exemption-from-tet-for-legally-appointed-teachers/article71101810.ece",
+    "date": "2026-06-14T17:53:01Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The Forum of Registered Teachers Organisations (FORTO) has urged the Central and State governments to exempt teachers from the mandatory Teacher Eligibility Test (TET) requirement if they were appointed legally under the National Council for Teacher Education (NCTE) qualifications and State recruitment rules that were in force at the time of their appointment. The demand was made at a round-table conference held in Vijayawada on Sunday under the chairmanship of FORTO working president D. Srinu, with working general secretary Maganti Srinivasa Rao coordinating the meeting. The forum leaders cited an NCTE clarification dated August 28, 2017, which stated that NCTE had not prescribed minimum qualifications before September 3, 2001, and that State recruitment rules governed teacher appointments during that period. They argued that applying TET norms introduced after the Right to Education (RTE) Act to teachers who were already appointed legally would be unjust and retrospective in nature. The leaders noted that many teachers had served for decades and had continuously upgraded their professional skills through in-service training programmes, DIKSHA courses, cluster-level training and other professional development initiatives, demonstrating their teaching competence. FORTO appealed to the governments to take appropriate legal and policy measures to safeguard the service rights of such teachers. Several leaders of FORTO-affiliated organisations participated in the meeting and supported the demand. Published - June 14, 2026 11:22 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101810",
+      "rss_tags": [
+        "Andhra Pradesh"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "ae1f223b-db0a-45b0-8e82-a75d9bd2d85a",
+    "cluster_id": "de2ef3ff-b2ba-4619-8d67-afbf55ccb422",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Conclave is the sound of a NYC summer block party",
+    "teaser": "Conclave captures the spirit of a NYC block party, blending Latin rhythms, funk, and house vibes in a unique sonic experience.",
+    "summary": "The album 'Conclave' is described as the sound of a quintessential New York block party. The music expertly blends Latin rhythms, funky synth bass, smooth vocals, and dance floor vibes, evoking scenes like 'sweaty asphalt and playing dominoes.' The sound incorporates flashes of jazz and salsa alongside house music, P-Funk bass lines, and minimal techno. The album, spearheaded by Cesar Toribio, is praised for its cohesive, DJ-set quality and is available across major streaming platforms including Spotify and Apple Music.",
+    "importance": 2,
+    "category": "other",
+    "url": "https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review",
+    "date": "2026-06-14T16:30:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/a0770643655_10.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "I have this vivid memory of walking to pick up my oldest from school in June of 2022. For a variety of reasons, I was in a very bad place mentally. And to make matters worse, it was brutally hot. I was depressed, angry with the world, sunburned, and soaked through with sweat. But as the second track on Conclave, \"Habla,\" settled into its groove, I found myself unconsciously strutting. Not walking, but moving through the streets in lockstep with the music, just as a much-needed cool breeze kicked up, and some scaffolding afforded me a full block's worth of shade. For a brief moment, I found myself smiling for the first time in what felt like a long time. Conclave's self-titled debut has been one of my go-to summer records ever since. Look, the record didn't solve my problems. But for a little while, it made me feel lighter, it made me smile. Its blend of Latin rhythms, funky synth bass, smooth vocals, and dance floor vibes feel like a sunny day in the city. Conclave is quintessentially New York. Where other summer records evoke the beach or backyard barbeques, songs like \"Habla\" and \"Perdón\" evoke sweaty asphalt and playing dominoes on the sidewalk. Conclave is the sound of a broken air conditioner and an open fire hydrant. Flashes of jazz and salsa brush up against house on \"Take Heed (Nu Sunlight)\" and \"Alati Yeye Chege.\" P-Funk bass lines writhe their way throughout the track list. And the guitar on \"Rise (Interlude)\" calls to mind Prince's massive, but languid melody lines on \"Purple Rain.\" \"Rise\" itself (not the interlude), is punctuated with electric piano stabs that eventually bleed into minimal techno bass wubs at the tail end. The album wears its influences on its sleeve. But they're blended expertly by Cesar Toribio, the Berklee-educated brain behind Conclave. He conjures a block party DJ set worth of vibes into a cohesive whole. Conclave is available on Bandcamp and most major streaming platforms, including YouTube Music , Apple Music , Spotify , Qobuz , and Deezer .",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=949621",
+      "rss_tags": [
+        "Column",
+        "Entertainment",
+        "Music",
+        "Music Review"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "de42b745-4e7e-46ad-9f48-0df09f8f9e65",
+    "cluster_id": "1cd92152-f051-4ada-892e-33b784163f20",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Monsoon tracker highlights on June 14, 2026",
+    "teaser": "Kanpur City recorded the highest precipitation in Uttar Pradesh at 67.6 mm, according to the latest monsoon tracker report.",
+    "summary": "On June 14, 2026, Uttar Pradesh experienced rainfall across multiple districts. Kanpur City recorded the highest precipitation in the state at 67.6 mm, with Ankinghat specifically receiving this amount. Other major rainfall events included Bhatpurwaghat in Sitapur with 44.8 mm, and Kanpur IAF registering 42 mm. Significant rainfall was also noted at Farrukhabad's Kaimganj (36.1 mm) and Fatehgarh CWC (31.6 mm). Smaller but measurable amounts were recorded at Lucknow airport (8.8 mm). Furthermore, light to moderate rainfall was reported across Unnao, Hardoi, Barabanki, and Lucknow districts.",
+    "importance": 2,
+    "category": "world_news",
+    "url": "https://www.thehindu.com/news/national/monsoon-rain-tracker-live-updates-imd-forecast-kerala-delhi-tamil-nadu-west-bengal-maharashtra-june-14-2026/article71100161.ece",
+    "date": "2026-06-14T17:14:31Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/8af41o/article71100164.ece/alternates/LANDSCAPE_1200/_JAI4295.JPG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Uttar Pradesh | Several districts report rainfall; Kanpur City records highest precipitation Uttar Pradesh witnessed a change in weather conditions on Saturday, with several districts reporting rainfall, while Kanpur City recorded the highest precipitation in the state at 67.6 mm, according to the India Meteorological Department. In eastern Uttar Pradesh, Ankinghat in Kanpur City received 67.6 mm of rainfall, followed by Bhatpurwaghat in Sitapur with 44.8 mm. Kanpur IAF and Kanpur Observatory recorded 42 mm and 38.4 mm rainfall, respectively. Other places with major rainfall included 36.1 mm at Farrukhabad's Kaimganj, Fatehgarh CWC 31.6 mm, Sitapur's Neemsar 29 mm and Kannauj's Tirwa 17 mm. Lucknow airport recorded 8.8 mm of rainfall, while Sitapur received 7 mm and Misrikh 6 mm. Light to moderate rainfall was also reported from several locations in Unnao, Hardoi, Barabanki and Lucknow districts. -PTI",
+    "raw_meta": {
+      "rss_entry_id": "article-71100161",
+      "rss_tags": [
+        "India"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "cdd0ae20-de67-47d4-8278-7cf2891ec96c",
+    "cluster_id": "147364d3-1505-41a0-9156-0948800a59d2",
+    "cluster_size": 1,
+    "source": "Economist - Finance & Economics",
+    "title": "Does Donald Trump make Latin America a good bet?",
+    "teaser": "Experts question the economic viability of Latin America, contrasting potential investments with a claim that the region hasn't seen such strong growth in the developing world.",
+    "summary": "This piece raises questions regarding the economic potential of Latin America, specifically assessing whether Donald Trump's policies or involvement would make the region a good bet. The accompanying text suggests a highly positive economic trend, stating that nowhere in the developing world has performed as well over the past year. While lacking detailed data, the article points to significant economic interest in Latin America amidst global developing world recovery.",
+    "importance": 2,
+    "category": "economics",
+    "url": "https://www.economist.com/finance-and-economics/2026/06/14/does-donald-trump-make-latin-america-a-good-bet",
+    "date": "2026-06-14T17:14:46Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Nowhere in the developing world has done so well out of the past year",
+    "raw_meta": {
+      "rss_entry_id": "e2ab9b18-c173-4e3e-8d4c-3a11c543b260",
+      "rss_tags": [],
+      "fetch_ok": null,
+      "fetch_status": null,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "755889a4-ffc4-4d83-bdfe-b34922993115",
+    "cluster_id": "f6cd5b67-1fbd-4e12-b0b4-94708ade5496",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Man held on extortion charge",
+    "teaser": "A man in Cheemeni was arrested for allegedly extorting ₹20 lakh from a studio owner using bank transactions.",
+    "summary": "The Cheemeni police arrested 28-year-old M. Zulfiqar for allegedly extorting ₹20 lakh from a studio owner in Cheruvathur. Zulfiqar, a resident of Cheemeni, was reported to have committed the fraud using the name 'Azeez.' According to the complaint, Zulfiqar, his wife, and associates allegedly carried out the extortion through bank transactions over time since last year. The accused and his wife reportedly became acquainted with the complainant while staying in a rented house in Karivellur. Zulfiqar was subsequently produced in court and remanded to judicial custody.",
+    "importance": 2,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/national/kerala/man-held-on-extortion-charge/article71100320.ece",
+    "date": "2026-06-14T17:19:18Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The Cheemeni police have arrested a 28-year-old man for the alleged extortion of ₹20 lakh from a studio owner in Cheruvathur. The arrested is identified as M. Zulfiqar, a resident within the Cheemeni police station limits. The police said he allegedly carried out the fraud using the name Azeez. According to the complaint, the accused, his wife, and their associates allegedly extorted around ₹20 lakh from him through bank transactions over a period of time since last year. The police said Zulfiqar and his wife became acquainted with the complainant while staying in a rented house at Karivellur. The accused was produced before a court and remanded to judicial custody. Published - June 14, 2026 07:50 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71100320",
+      "rss_tags": [
+        "Kerala"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "1dbc73c6-7c96-496b-9cc9-7bb9784fcf9d",
+    "cluster_id": "3bf008cb-a534-4a02-86c2-e62b0d0b4bfb",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "E-scooter catches fire in Ranipet",
+    "teaser": "E-scooter catches fire near tea shop in Ranipet; police cite electrical short circuit or overcharging as possible causes.",
+    "summary": "A 63-year-old farmer, V. Babu, escaped unhurt after his e-scooter caught fire near a tea shop in Thimiri village, Ranipet. The incident, which occurred on Arcot - Arani Main Road, led to a significant fire that required firefighters to take nearly half an hour to contain. Police suspect the cause was likely an electrical short circuit or that the vehicle was overcharged, raising concerns about personal electric vehicle (EV) safety and proper maintenance.",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/e-scooter-catches-fire-in-ranipet/article71101530.ece",
+    "date": "2026-06-14T17:31:32Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "A 63-year-old farmer escaped unhurt after his electric scooter caught fire near a tea shop at Thimiri village near Arcot town in Ranipet on Sunday. The police said that V. Babu, a farmer in Ammur village near Arcot town, purchased an e-scooter a few months ago. After completing routine service of the vehicle, Babu was returning to his on Arcot - Arani Main Road when he stopped the vehicle to have tea from a roadside outlet. The police said as he was consuming tea, Babu noticed smoke emanating from the scooter. A fire engulfed the entire vehicle. Residents and neighbours tried to douse the fire, but they were unable to do it. They alerted Thimiri police and firefighters who, after nearly half an hour, doused the fire. The police said that an electrical short circuit might be the reason for the incident. They also said that charging the vehicle for too long could have caused the fire as the vehicle had just returned from the service centre. Published - June 14, 2026 11:01 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101530",
+      "rss_tags": [
+        "Tamil Nadu"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "e67322e5-2865-4c03-9ff8-dc4009ea23d2",
+    "cluster_id": "c20120f3-ad38-4e76-8836-0c6b872b92ab",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Rotary club recognises over 18 personalities for various achievements",
+    "teaser": "Rotary Club recognized top achievers, honoring Dr. G. Sengottuvelu and noting over 18 personalities recognized in the last decade.",
+    "summary": "The Rotary Club of Kilpauk recently held an event recognizing outstanding community achievements. The ceremony honored multiple individuals, including Dr. G. Sengottuvelu (Vocational Excellence Award), Chinny Krishna, founder of Blue Cross (Sake of Honour Award), and teen sailor Shreya Krishna (Young Achiever Award). According to the club, over 18 personalities have been recognized over the past decade. Furthermore, the club highlighted its continuous social work, including running key projects for hearing impaired children and maintaining free dialysis centres in Saidapet and Anna Nagar.",
+    "importance": 2,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/national/rotary-club-recognises-over-18-personalities-for-various-achievements/article71101405.ece",
+    "date": "2026-06-14T17:49:12Z",
+    "image_url": "https://th-i.thgim.com/public/news/national/diwkir/article71101407.ece/alternates/LANDSCAPE_1200/rotary%20club.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The Rotary Club of Kilpauk presented awards to recognise outstanding achievers in three categories. Justice P.N. Prakash, former Madras High Court judge, presented the Vocational Excellence Award to eminent cardiologist Dr. G. Sengottuvelu, the Sake of Honour Award to Chinny Krishna, founder of Blue Cross, and the Young Achiever Award to teen sailor Shreya Krishna. Rotary Club secretary P.C.R. Suresh said that more than 18 persons had been recognised for various achievements in the last 10 years. Club president Karthik Surendran highlighted key projects for hearing impaired children and free dialysis centres in Saidapet and Anna Nagar. Published - June 14, 2026 11:19 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101405",
+      "rss_tags": [
+        "India"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "b806b490-39ba-4538-bc35-31f58829ffc7",
+    "cluster_id": "b3a37c1e-4eaf-41fb-8b0b-0f0d19c6b2f3",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Tributes paid to Telugu poet Sri Sri on 43rd death anniversary",
+    "teaser": "A cultural program marked the 43rd death anniversary of renowned Telugu poet, Sri Sri, celebrating his enduring literary legacy.",
+    "summary": "To honor the literary contributions of Telugu poet Srirangam Srinivasa Rao, affectionately known as Sri Sri, the Visakhapatnam district committee of Praja Natya Mandali organized a cultural program on Beach Road. The event featured various artistic tributes, including Kuchipudi recitals by the Rajarajeswari Kuchipudi dance troupe and songs inspired by his works from Praja Natya Mandali artistes. M. Chanti, district secretary of Praja Natya Mandali, and Francis, district president of Sahiti Sravanthi, paid floral tributes. Organizers stated this program is part of 'Kalala Keratalu,' a monthly cultural platform dedicated to promoting literature and progressive arts.",
+    "importance": 2,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tributes-paid-to-telugu-poet-sri-sri-on-43rd-death-anniversary/article71101721.ece",
+    "date": "2026-06-14T18:00:52Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The Visakhapatnam district committee of Praja Natya Mandali on Sunday organised a cultural programme on the Beach Road to mark the 43rd death anniversary of Telugu poet Srirangam Srinivasa Rao, fondly known as Sri Sri. The programme featured a series of performances highlighting Sri Sri's literary legacy. Artistes from the Rajarajeswari Kuchipudi dance troupe and the Muthyalu Ragini group presented Kuchipudi recitals, while Praja Natya Mandali artistes rendered songs inspired by the poet's works. M. Chanti, district secretary of Praja Natya Mandali, and Francis, district president of Sahiti Sravanthi, paid floral tributes to Sri Sri. Organisers said the programme was part of Kalala Keratalu, a monthly cultural platform aimed at promoting literature, arts and progressive cultural traditions. Published - June 14, 2026 11:30 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101721",
+      "rss_tags": [
+        "Andhra Pradesh"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "2c69112f-5e5d-4ac3-9544-db9cc5175ad1",
+    "cluster_id": "62be623e-2282-420e-9312-6519b84e6182",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Case registered after KTU answer sheet goes missing",
+    "teaser": "An answer sheet went missing during a KTU B.Tech. exam, leading police to register a case of alleged theft at a college in Thalassery.",
+    "summary": "Police have registered a case after an answer sheet was reportedly stolen during the evaluation of a Kerala Technological University (KTU) B.Tech. examination. The incident took place at Kundoormala Engineering College, Thalassery, on June 11, 2026, between 1:30 p.m. and 2:15 p.m. One evaluator reported that an answer sheet from the second-year B.Tech. Electrical Engineering examination in Power Electronics Drives went missing. Police filed a first information report alleging that an unidentified person stole the sheet with dishonest intent, leading to the registration of a case under Section 305(a). An investigation has been initiated, with V.V. Deepthi assigned as the investigating officer.",
+    "importance": 1,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/national/kerala/case-registered-over-missing-of-ktu-answer-sheet/article71100728.ece",
+    "date": "2026-06-14T17:18:54Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The police have registered a case after an answer sheet reportedly went missing during the evaluation of a Kerala Technological University (KTU) B.Tech. examination at Kundoormala Engineering College, Thalassery. According to the police report, the incident occurred between 1:30 p.m. and 2:15 p.m. on June 11, 2026, at the engineering college in Eranholi village. Nisha P., an evaluator, reported that an answer sheet of the second-year B.Tech. Electrical Engineering examination in Power Electronics Drives conducted by KTU had gone missing. According to the first information report, an unidentified person allegedly stole the answer sheet during the evaluation process \"with dishonest intent\". Based on the complaint, the police registered a case under Section 305(a) and initiated an investigation. V.V. Deepthi, the investigating officer, has been assigned to probe the incident. Further investigation is under way. Published - June 14, 2026 07:15 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71100728",
+      "rss_tags": [
+        "Kerala"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   }
 ]
