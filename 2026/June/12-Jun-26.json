@@ -738,6 +738,35 @@
     }
   },
   {
+    "id": "b503447d-4c0c-4d3b-ac08-517475f2641f",
+    "cluster_id": "61b92985-59bd-4be0-814c-a105ca19463f",
+    "cluster_size": 2,
+    "source": "pmarca",
+    "title": "History's first trillionaire is a guy who catches rockets out of the sky with chopsticks and beams internet to every dea...",
+    "teaser": "The tweet critiques tech billionaire Elon Musk's immense wealth and power, linking his technological success to a wider crisis of economic and democratic inequality.",
+    "summary": "The tweet, based on a quote from Bernie Sanders, criticizes the extreme concentration of wealth and power held by tech billionaires like Elon Musk. While detailing Musk's pioneering achievements (rockets, self-driving cars, robots, brain chips), the post's main focus is the resulting economic inequality and the alleged threat to American democracy and the social fabric.",
+    "importance": 5,
+    "category": "economics",
+    "url": "https://x.com/tetsuoai/status/2065572649670176885",
+    "date": "2026-06-12T23:11:10Z",
+    "image_url": "https://pbs.twimg.com/media/HKpZdTVWsAAHpg1?format=jpg&name=small",
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "tetsuo",
+    "content": "History's first trillionaire is a guy who catches rockets out of the sky with chopsticks and beams internet to every dead zone on the planet.\n\nSame guy ships cars that drive themselves, humanoid robots for the factory floor, brain chips that let paralyzed people move a cursor\n\n@BernieSanders posted [media]",
+    "raw_meta": {
+      "twitter_handle": "pmarca",
+      "category_hint": "startup",
+      "author_handle": "@tetsuoai",
+      "quoted_author": "Bernie Sanders",
+      "quoted_handle": "@BernieSanders",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@pmarca"
+    }
+  },
+  {
     "id": "d2a99d5c-4b75-4492-ac56-adee031907ef",
     "cluster_id": "713d8f2b-a91c-455a-94e8-4915302223ea",
     "cluster_size": 1,
@@ -1315,6 +1344,32 @@
     }
   },
   {
+    "id": "e851673e-158d-4c0c-82d4-0cbbaefdc417",
+    "cluster_id": "24e39a2f-323b-4052-86a5-8034a785c41d",
+    "cluster_size": 1,
+    "source": "Noahpinion",
+    "title": "New from me for  @TheAtlantic : the consequences of rising national debt and high deficits feel far away, but actually t...",
+    "teaser": "The consequences of rising national debt and high deficits are already affecting American families through higher costs from rising interest rates.",
+    "summary": "Martha Gimbel, reposted by @noahpinion, warns that the consequences of high national debt and government deficits are no longer far away but are already affecting American families. She points out that government deficits have saddled many households with higher costs, largely driven by rising interest rates.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://x.com/marthagimbel/status/2065430776217321795",
+    "date": "2026-06-12T13:47:25Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Martha Gimbel",
+    "content": "New from me for \n@TheAtlantic\n: the consequences of rising national debt and high deficits feel far away, but actually they're already here. The government’s deficits have saddled many American families with higher costs, largely from rising interest rates. 1/",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@marthagimbel",
+      "is_repost": true,
+      "reposted_by": "@noahpinion"
+    }
+  },
+  {
     "id": "97d96a86-f490-4417-9287-337c68b16ad9",
     "cluster_id": "9d22c8ef-aab4-425e-b071-7755fd53a089",
     "cluster_size": 2,
@@ -1861,6 +1916,35 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "ea6af054-f84d-4e78-b41b-d852563007b6",
+    "cluster_id": "fa424f75-2031-4aaf-88e1-bee32d823772",
+    "cluster_size": 1,
+    "source": "Noahpinion",
+    "title": "What happened to the Rockefeller, Carnegie and Astor by the way?  According to the “law of capitalism” (r>g) their wealt...",
+    "teaser": "Questioning the fate of the Rockefeller, Carnegie, and Astor fortunes: Should their historical wealth represent 200% of modern GDP, suggesting a possible need for a wealth tax?",
+    "summary": "Sylvain Catherine questions the historical wealth of families like the Rockefellers, Carnegies, and Astors. They hypothesize that, under the 'law of capitalism' (where capital growth 'r' exceeds economic growth 'g'), these fortunes should vastly exceed modern GDP unless heavily taxed. The user notes that if the 4% spread (r-g) held true, these fortunes might represent 200% of GDP today. This thought is contextualized via a quote-tweet from @gabriel_zucman, who confirms that during the Gilded Age, the four largest fortunes were indeed Rockefeller, Carnegie, and Astor (along with others). @sc_cath notes that at their peak, their collective wealth was enough to purchase 4% of all goods and services produced in the US in a given year. This analysis suggests a fundamental re-examination of wealth preservation and economic systems.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://x.com/sc_cath/status/2065558578682110438",
+    "date": "2026-06-12T22:15:16Z",
+    "image_url": null,
+    "source_channel": "twitter",
+    "relation": "standalone",
+    "parent_cluster_id": null,
+    "author": "Sylvain Catherine",
+    "content": "What happened to the Rockefeller, Carnegie and Astor by the way?\n\nAccording to the “law of capitalism” (r>g) their wealth should have grown ineluctably faster than GDP unless there is a wealth tax.\n\nBy now, assuming a 4% spread between r and g, these families fortunes should represent roughly 200% of GDP. Is that actually true?\n\nOr maybe somehow the wealth of these families got ultimately diluted in other ways? Maybe we should wonder in what ways\n\n@gabriel_zucman wrote:\n> At the peak of the Gilded Age, the 4 largest fortunes were Rockefeller, Carnegie, Astor (+ Baker/Frick/Field depending on the year).\n\nIf they had spent their wealth, they could have bought 4% of all the goods and services produced in a given year in the US at that time.",
+    "raw_meta": {
+      "twitter_handle": "noahpinion",
+      "category_hint": "economics",
+      "author_handle": "@sc_cath",
+      "quoted_author": "Gabriel Zucman",
+      "quoted_handle": "@gabriel_zucman",
+      "is_quote_tweet": true,
+      "is_repost": true,
+      "reposted_by": "@noahpinion"
     }
   },
   {
