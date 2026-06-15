@@ -31,6 +31,34 @@
     }
   },
   {
+    "id": "9167bfc4-d4c5-4b52-9211-c58add0ca1f9",
+    "cluster_id": "3b95a20d-935b-4995-a2c8-313a856aaf67",
+    "cluster_size": 4,
+    "source": "The Hindu - National",
+    "title": "Rally to protest against SIR in Belagavi today",
+    "teaser": "Protests flare across Karnataka demanding an end to the ECI's SIR drive, which opposition leaders claim is a political conspiracy to delete voters' rights.",
+    "summary": "Large-scale protests are gripping Karnataka and surrounding states, opposing the Election Commission of India's (ECI) Special Intensive Revision (SIR) of electoral rolls. Opposing parties, including members of the anti-SIR federation, accuse the ECI and the ruling BJP of using the SIR drive—a process meant to verify voter details—as a political tool to suppress votes. Protestors demand the immediate suspension of SIR, arguing it is being misused to disenfranchise the poor, minorities, and opposition voters. Key demands include reverting to open Gram Sabhas for public scrutiny of voter lists and providing a minimum of six months for filing appeals. Major parties are warning that the process, which involves voter mapping and family grouping, represents a severe threat to the democratic spirit and foundational voter rights.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/karnataka/rally-to-protest-against-sir-in-belagavi-today/article71101614.ece",
+    "date": "2026-06-14T15:35:36Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/r4farv/article71101888.ece/alternates/LANDSCAPE_1200/9727_14_6_2026_19_43_56_1_15BGMSIRBAGALKOT1.JPEG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Members of various organisations are organising rallies to protest against Election Commission of India's Special Intensive Revision drive in some North Karnataka towns. A rally began at Ambedkar Circle in Vijayapura on Saturday. Another rally was held in Bagalkot on Sunday. In fact, the campaign began on Saturday from Bidar. A rally will be held in Belagavi on Monday. Rallies will be held in Dharwad on Tuesday and Gadag on Wednesday. They will conclude in Haveri on Thursday. The campaign will culminate in a mega rally at the Freedom Park in Bengaluru on Saturday. Jagruta Karnataka, Eddelu Karnataka and the anti-SIR federation are part of the group that is organising the rallies. Their demands are immediate suspension of SIR in Karnataka. If the ECI is to go ahead with SIR, then it should not use the logical discrepancy detection software. Instead, it should hold Gram Sabhas in every village and the voter list should be finalized openly after public scrutiny, they said. The voter list should be published in machine readable format and complete transparency should be maintained. The public should be given at least six months to provide the necessary documents to file appeals and objections. Members of an anti-SIR federation staging a protest against ECI's SIR in Vijayapura on Saturday.\n | Photo Credit: \n SPECIAL ARRANGEMENT AHINDA leader S.M. Patil Ganihar said that a large section of the population did not have a clear idea about SIR and hoped the march will create awareness about it. General secretary of Jamaat-e-Islami Hind Yusuf Kanni said that there is wide-spread confusion about the exercise among electors who wanted to know more about it. The rallies are aimed at creating awareness about this, he said. He said that the anti-SIR coalition has managed to include about 150 organizations and secular parties. Meetings and rallies are being held in 100 taluks in all districts of the State till Thursday. \"Despite wide-spread agitation, the ECI is going ahead with SIR in 13 States in the second phase. In the first phase, over 6.5 crore people were excluded from voter lists. SIR is being used to snatch the fundamental right of voters in a democracy. Officers are using SIR as a means to deprive the poor, women, minorities and members of the deprived communities, the right to vote,\" he said. \"Election officers are forcing the people to produce such documents that are extremely difficult to obtain. A survey says that an estimated 36.5% of the people have such documents. The rest do not have them. Most of them are the poor, women, deprived communities and daily wage earners. From where should get such documents?\" he said. \"The first round of mapping has indicated that over 50 lakh people in Karnataka are facing the threat of losing the right to vote. We need to fight against this. All of us should realise that we have a responsibility to protect the spirit of the Constitution,\" he said. Akhand Rajya Raitha Sangh secretary Arvind Kulkarni said that the ruling BJP is behind the conspiracy to take away the right to vote from the people through SIR. \"It is trying to subvert the democratic system through this. This cannot be accepted,\" he said. SUCI district secretary B. Bhagwan Reddy said that the country's economy is collapsing under massive debt, unregulated privatization, misuse of agencies like ED, IT and CBI and inefficient management of examinations like NEET, but the Central government is focussed on issues like SIR. \"It is unfortunate that even the Supreme Court is in favor of SIR,\" he said. \"The intentions behind SIR are suspect. It seems we are moving towards a dictatorship through a carefully curated election. We should all realise that SIR is not only a problem of minorities but also a problem faced by all the less fortunate ones like the poor, landless labour, factory workers, women, Dalits, and tribals,\" he said. Congress leader Suresh Bijapur warned that the ECI, a constitutional body, should not become politically motivated. \"We are not saying that the names of illegal immigrants should not be removed. We are saying that the names of Indians should not be removed. The Union government should not test the patience of the people,\" he said. Published - June 14, 2026 09:02 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101614",
+      "rss_tags": [
+        "Karnataka"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "52076ffb-dec1-4a8a-b8a7-65d523b98246",
     "cluster_id": "fb7f69af-bf9b-42f9-9c7b-871fbce1ab5f",
     "cluster_size": 3,
@@ -80,6 +108,96 @@
       "rss_entry_id": "article-71101822",
       "rss_tags": [
         "India"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "b1a64e5a-aac8-4c03-bf45-de78767cce37",
+    "cluster_id": "2f10c484-5858-4f84-a3b2-1bc8d69f5e53",
+    "cluster_size": 2,
+    "source": "The Hindu - National",
+    "title": "India, France adopt Innovation Roadmap 2030, Economic Security Dialogue",
+    "teaser": "India and France launched an 'Innovation Roadmap 2030' and dedicated 'Dialogue on Economic Security' to future-proof their strategic partnership.",
+    "summary": "During his visit, Indian PM Narendra Modi and French President Emmanuel Macron formalized India-France cooperation by adopting an 'Innovation Roadmap 2030' and launching a Dialogue on Economic Security. The leaders pledged to create a Joint India-France AI Working Group, acknowledging technology's key role in the partnership. The talks also led to the signing of 19 agreements and the establishment of a High-Level Mechanism aiming to double trade within five years, with a focus on the India-EU Free Trade Agreement. Furthermore, they committed to strengthening supply chain resilience, especially regarding critical minerals. The discussions highlighted strategic cooperation across sectors like SME, rail, and aviation, reinforcing the 'Special Global Strategic Partnership' between the two nations.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.thehindu.com/news/national/india-france-adopt-innovation-roadmap-2030-economic-security-dialogue/article71102259.ece",
+    "date": "2026-06-14T19:27:20Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/myi67c/article71102353.ece/alternates/LANDSCAPE_1200/20260614346L.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Prime Minister Narendra Modi meets French President Emmanuel Macron, in Nice on Sunday (June 14, 2026). Photo: X@narendramodi via ANI India and France adopted an 'Innovation Roadmap 2030' and established a Dialogue on Economic Security during bilateral talks between Prime Minister Narendra Modi and French President Emmanuel Macron held in Nice on Sunday (June 14, 2026) afternoon during Mr. Modi's visit to the Bharat Innovates technology conference. A press release from the government outlined a number of themes - including calling for the fast adoption of the India-EU Free Trade Agreement (FTA). Earlier this year, the two countries had renamed their partnership a 'Special Global Strategic Partnership' to reflect an enhanced level of cooperation. No traditional 'joint statement' had emerged from the meeting as of this writing. \"Recognising the key role of innovation and technology in the bilateral relationship, both sides adopted an 'Innovation Roadmap 2030' to give the partnership a long-term direction,\" the press release said, with the two leaders agreeing to create a Joint India-France AI Working Group to expand cooperation in AI. They also noted the signing of 19 agreements between entities in the innovation ecosystems of the two countries. Calling for the early implementation of the India-EU FTA, which was signed in February this year, the two sides agreed to set up a High-Level Mechanism to double trade in five years. The discussion also focused on cooperation in the SME, rail, and aviation sectors. Mr. Modi and Mr. Macron agreed to strengthen supply chain resilience, particularly in critical minerals, as part of the 'Dialogue on Economic Security', as per the press release. On the major crises in the world - in West Asia, including Iran and Gaza, as well as on Ukraine - the press release remained circumspect relative to the February 17, 2026 joint statement from the two countries, saying only that leaders exchanged views \"on matters of global importance, including the situation in West Asia and Ukraine\". The Prime Minister thanked Mr. Macron for the speedy implementation of visa-free transit for Indians in French airports and invited French universities to open campuses in India under the New Education Policy, as per the government statement. The two leaders discussed private sector collaboration in the space sector and the SHANTI Act's ( legislation governing the nuclear sector) implications in India. \"I think the field is open for French nuclear companies in this case to start looking at direct participation in the Indian nuclear sector, or do so with in participation with Indian private sector companies, whether in conventional nuclear power reactors or in the more advanced small modular reactors,\" Foreign Secretary Vikram Misri said at a press briefing in Nice. Mr. Misri also confirmed that discussions between French power giant EDF and the Nuclear Power Cooperation of India Limited for the Jaitapur nuclear power plant - with six reactor units - were still on-going. The project has been under discussion for more than 15 years. Following the bilateral discussions, Mr. Modi departed France for Vienna from where he travelled to Bratislava, Slovakia, for the second leg of his Europe visit. Published - June 15, 2026 12:48 am IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71102259",
+      "rss_tags": [
+        "India"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "75e9ad12-5551-4d7e-b957-9eaf970a0be5",
+    "cluster_id": "f9e2b9f0-431e-4451-b3dd-cc47f71ee43d",
+    "cluster_size": 4,
+    "source": "TechCrunch",
+    "title": "UK may ban social media for children under 16",
+    "teaser": "UK PM Keir Starmer may ban social media for those under 16, raising concerns about censorship, privacy, and the right to information.",
+    "summary": "PM Keir Starmer is preparing to announce a comprehensive ban on social media usage for children under 16 in the U.K. The proposed policy, which mirrors Australia's approach, would ban major platforms like TikTok, Instagram, and X, and require gaming apps to remove features like chatting with strangers. The rules also prohibit users under 18 from accessing specific chatbots and aim to curtail late-night scrolling. While the government can use existing powers, new legislation might be necessary. This policy has drawn criticism for potentially violating user privacy and isolating minors, drawing parallels to concerns raised over existing age verification laws. Complicating the debate, some observers have highlighted the political timing, noting the potential move to lower the voting age to 16 alongside such internet restrictions.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
+    "date": "2026-06-14T20:17:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2270785056.jpg?resize=1200,686",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Anthony Ha",
+    "content": "U.K. Prime Minister Keir Starmer is about to announce a ban on social media usage for children under the age of 16, according to multiple reports. While the government had previously revealed that it was studying options around a ban , both the Guardian and the Financial Times said that Starmer is now ready to unveil the policy in a speech on Monday. Government sources told the Guardian that the U.K. ban will cover a similar range of social platforms as Australia , where TikTok, YouTube, Instagram, Reddit, Facebook, X, Threads, Snapchat, Twitch, and Kick are all banned for users under 16. Other products, such as gaming apps, would not be banned outright, but for their younger users, they'd need to remove features like the ability to chat with strangers. The policy would also prohibit users under 18 from accessing romantic and sexual chatbots and seek to prevent late-night scrolling. The government can use its existing regulatory powers to enforce some aspects of a ban, but new legislation may also be required, the Guardian said. The U.K. is one of a number of countries following Australia's lead by considering bans on social media use by children. The U.K. already passed an age verification law that was similarly touted as protecting the safety of children online. These bans come amidst growing discussion around the effect of social media usage on teens and children - for example, the mother of murdered teen Brianna Ghey has called for a teen social media ban in the U.K. and said her daughter's eating order and self-harming behavior were \"significantly exacerbated by the harmful content she was consuming online.\" At the same time, these bans have been criticized for potentially violating user privacy and isolating children, while offering unproven benefits to their mental health. Age verification laws - which, unlike outright bans, have taken effect in multiple U.S. states - have also been criticized as threats to online privacy and anonymity. And the verification methods aren't exactly foolproof .",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3132750",
+      "rss_tags": [
+        "Government & Policy",
+        "Social",
+        "keir starmer",
+        "UK"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "9386bc15-8242-4bad-9086-13108317c26a",
+    "cluster_id": "2237d9b2-346e-4529-9343-1560998dd751",
+    "cluster_size": 1,
+    "source": "The Deep Dive",
+    "title": "UK Commandos Board Russian Shadow Fleet Tanker in First British-Led Seizure",
+    "teaser": "In a major escalation, UK Commandos boarded and detained the 'Smyrtos,' a sanctioned Russian oil tanker in the English Channel, in the first UK-led seizure of its kind.",
+    "summary": "Royal Marine Commandos and National Crime Agency officials successfully boarded and detained the Smyrtos, a sanctioned Russian oil tanker sailing under a Cameroonian flag, in the English Channel. This operation, dubbed the 'first UK-led' seizure, marks a significant escalation in Britain's effort to target Russia's so-called 'shadow fleet' of vessels. Backed by military assets including Chinook helicopters and a frigate, the raid was coordinated with France. The UK has already sanctioned nearly 600 such vessels. The detained Smyrtos remains under monitoring off the south coast of England while investigations continue, signaling a major shift in the UK's international posture toward Russia.",
+    "importance": 5,
+    "category": "world_news",
+    "url": "https://thedeepdive.ca/uk-commandos-board-russian-shadow-fleet-tanker-in-first-british-led-seizure/?utm_source=rss&utm_medium=rss&utm_campaign=uk-commandos-board-russian-shadow-fleet-tanker-in-first-british-led-seizure",
+    "date": "2026-06-14T20:52:27Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/06/featured-45.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Johnathan Wall",
+    "content": "Royal Marine Commandos and National Crime Agency officials boarded and detained the Smyrtos, a sanctioned Russian oil tanker sailing under a Cameroonian flag, in the English Channel on Sunday in what the UK Defence Ministry called \"the first UK-led operation of its kind.\" The pre-dawn raid was backed by Chinook helicopters, additional aircraft, a frigate, and a minehunter. Lieutenant Colonel Tom Quinn told reporters the crew offered no resistance. \"Once we boarded the vessel and moved to the bridge, the dialogue that we had with them was professional, safe, and indeed the crew enabled us to conduct the actions that we needed to complete to safely take control of that vessel,\" he said. Government-released video showed commandos abseiling onto the deck while NCA officials combed through documentation. Sunday's operation marks a significant shift in Britain's posture toward Russia's so-called shadow fleet. Previously, the UK had played only a supporting role in French and US-led interceptions. Prime Minister Keir Starmer had authorized the military to board and detain such vessels back in March, though a subsequent Reuters analysis found the policy change produced no measurable reduction in the number of sanctioned ships transiting UK waters. The Smyrtos will remain detained and monitored off the south coast of England while investigations continue. The operation was coordinated closely with France. The UK has sanctioned nearly 600 Russian shadow fleet vessels to date. Information for this story was found via the sources and companies mentioned. The author has no securities or affiliations related to the organizations discussed. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security. The author holds no licenses.",
+    "raw_meta": {
+      "rss_entry_id": "https://thedeepdive.ca/?p=291937",
+      "rss_tags": [
+        "Energy",
+        "Latest",
+        "Russian sanctions",
+        "shadow fleet"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -138,6 +256,116 @@
       "quoted_handle": "@tbpn",
       "is_quote_tweet": true,
       "merged_tweet_count": 4
+    }
+  },
+  {
+    "id": "a3bfec1e-e5c4-4d5a-a657-483681cfd17b",
+    "cluster_id": "e6831128-0f48-46b1-a794-e8352ad48687",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "UK and Japan agree £18bn investment deal",
+    "teaser": "Japan and the UK seal a massive £18 billion investment deal, focusing billions on vital UK infrastructure and offshore wind projects.",
+    "summary": "UK and Japan have reached a substantial £18 billion investment deal, according to Downing Street. This agreement signifies a major boost to the UK economy, as Japanese firms are set to invest billions into critical sectors like infrastructure and offshore wind power. The commitment underscores deepening economic ties and aims to modernize the UK's physical and energy foundations through international capital.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-14T15:25:33Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/articles/cx2kjwgwxwlo#0",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
+    }
+  },
+  {
+    "id": "a37965e3-1dcc-470d-b3ed-a45ce407e2f6",
+    "cluster_id": "92509b18-35e1-4a42-a189-5ca4ed4708b3",
+    "cluster_size": 2,
+    "source": "The Hindu - National",
+    "title": "Rainfall disrupts life in Kurnool, Nandyal districts",
+    "teaser": "From Kurnool to Bengaluru: Heavy rains triggered massive flooding, exposing critical infrastructural failures and disrupting life across multiple districts.",
+    "summary": "Heavy rainfall has caused significant disruption and infrastructural issues in multiple regions, including parts of Andhra Pradesh and Bengaluru. In Kurnool and Nandyal districts, excessive rainfall—with Kosigi mandal recording 100.60 mm—led to severe waterlogging, inundating homes and disrupting traffic. Residents complained of property damage due to inadequate drainage systems. Simultaneously, Bengaluru experienced severe flooding, leading to city-wide congestion and power cuts on Sunday, highlighting persistent infrastructural shortcomings in major roads like ITPL and Varthur Road.",
+    "importance": 4,
+    "category": "world_news",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/rainfall-disrupts-life-in-kurnool-nandyal-districts/article71101694.ece",
+    "date": "2026-06-14T15:38:57Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Parts of Kurnool and Nandyal districts received significant amounts of rainfall on Saturday night, disrupting vehicle movement between villages, causing waterlogging in residential areas, and leading to inundation at some places. Officials said that Kosigi mandal in Kurnool district recorded the highest rainfall at 100.60 mm, followed by Aluru mandal at 95.20 mm. Bethamcherla in Nandyal district received highest at 77.20 mm, while Dhone recorded 57 mm. According to sources, rainwater entered houses in several colonies of Pedakaduburu village due to lack of proper drainage systems and CC roads. Locals, who alleged that this kind of situation arises every time it rains despite repeated complaints to the officials, complained that rice stocks, food grains, clothes, and household articles were damaged. Meanwhile, the traffic between Halaharvi and Gulyam villages came to a halt as rainwater flowed over the road at Cheruvanka. Similarly in Yemmiganur mandal, Kappala Vanka stream overflowed at Kadivella village, causing disruption to traffic between Yemmiganur and Pathikonda. In Gonegandla mandal, Mallela Vagu stream near Ganjahalli village overflowed as it received inflows from upstream areas. In Anantapur district, nine mandals received moderate to heavy showers. Tanks, canals, streams and local water bodies received inflows while roads were inundated in some urban areas. Anantapur, Hindupur, Puttaparthi, Tadipatri and Dharmavaram towns also received good rainfall, affecting traffic movement. Published - June 14, 2026 09:08 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101694",
+      "rss_tags": [
+        "Andhra Pradesh"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "ef4d72a1-54e4-4e11-a483-86416d6ddae8",
+    "cluster_id": "f3b1c51e-b30c-4296-803c-49bf3743ad07",
+    "cluster_size": 2,
+    "source": "The Hindu - National",
+    "title": "High quality uniforms, shoes, bags for school students from this year",
+    "teaser": "Telangana is transforming education with welfare kits for 27 lakh students and a ₹720 crore breakfast scheme providing nutritious meals and milk to 22 lakh students.",
+    "summary": "Telangana is rolling out two massive educational welfare initiatives for students in government schools. First, the government is providing high-quality uniforms, shoes, and comprehensive kits to nearly 27 lakh students. This centralized procurement, spending ₹687.78 crore, sources fabric from manufacturers like Mafatlal and ensures uniforms are stitched by women Self-Help Groups (SHGs), boosting local income by over ₹40 crore. Second, a major breakfast program has begun, providing nutritious morning meals and milk to nearly 22 lakh students. The scheme allocates ₹720 crore annually, aiming to significantly improve student nutrition and learning environment across the state's educational institutions.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/telangana/high-quality-uniforms-shoes-bags-for-school-students-from-this-year/article71101854.ece",
+    "date": "2026-06-14T15:44:56Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "In a major initiative aimed at improving educational infrastructure and students' welfare, the government is set to provide high quality uniforms, shoes, school bags and other essential items to students of government schools, Kasturba Gandhi Balika Vidyalayas (KGBVs), BC, SC, ST and Minority residential schools, across Telangana. Acting on the directions of Chief Minister A. Revanth Reddy, for the first time, uniform fabric is being sourced from reputed manufacturers like Mafatlal, ensuring durability and better standards comparable to those available in corporate schools. A total of 2.97 crore metres of fabric has been procured to provide two sets of uniforms to nearly 27 lakh students. Of this, Mafatlal will supply 2.41 crore metres, while the Telangana State Cooperative Society (TGSCO) will provide 55.32 lakh metres with the total spending touching ₹687.78 crore on uniforms and student kits. Students will receive uniforms in light blue, dark blue, white, plain maroon and maroon-check patterns. Day scholars will wear light blue tops with dark blue bottoms, while residential school students will receive maroon-check tops and maroon bottoms. The responsibility for stitching uniforms has been entrusted to women Self-Help Groups (SHGs). With a daily stitching capacity of 75,000 to one lakh uniforms, these groups will be paid ₹75 per uniform. The initiative is expected to generate more than ₹40 crore in income for women SHGs across the State. For the first time in the State's history, students in government schools will receive comprehensive kits that include uniforms, white shoes and socks. Earlier, footwear was provided only to students in BC residential schools. Students of BC, SC, ST and Minority residential schools, KGBVs and Urban Residential Schools will receive complete kits comprising belts, ID cards, ties, school bags, shoes with socks, bedding material, trunk boxes, PT dress, night dress and tracksuits. To support the handloom sector, the government has allocated 25 to 30% of uniform and bedding orders to TGSCO. These include approximately 56 lakh metres of uniform cloth, 6.49 lakh blankets, three lakh bedsheets and 2.29 lakh carpets. Similarly, the order for ties, belts and ID cards has been entrusted to the Telangana Leather Industries Promotion Corporation (TGLIPC) generating income to them. Officials said the new centralised procurement system has been introduced to eliminate irregularities. Earlier, individual departments and residential institutions procured supplies separately. Published - June 14, 2026 09:14 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101854",
+      "rss_tags": [
+        "Telangana"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "7978acc3-da26-4480-842c-1feaf17eaa94",
+    "cluster_id": "9e899f35-eed9-4098-a8f6-97f8b1335e16",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Disclose tender process for Board exam answer sheet procurement under RTI Act: CIC to CBSE",
+    "teaser": "CIC orders CBSE to reveal sensitive tender details on board exam answer sheet procurement, boosting transparency in public exams.",
+    "summary": "The Central Information Commission (CIC) has intervened, ordering the Central Board of Secondary Education (CBSE) to disclose comprehensive, point-wise details regarding the procurement and expenditure of answer sheets for Class 10 and 12 board exams. An RTI application sought crucial data, including the tender process, total expenditure, and purchase costs. While the CBSE partially disclosed specifications (e.g., paper GSM, page count), it denied financial and tender details, citing them as 'confidential' or 'sensitive' under various RTI sections. The CIC, however, struck down these denials, emphasizing that transparency in public procurement outweighs secrecy. The Commission mandated that CBSE provide a revised, fully detailed report, ensuring proper redaction only for truly exempt data.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/education/disclose-tender-process-for-board-exam-answer-sheet-procurement-under-rti-act-cic-to-cbse/article71101652.ece",
+    "date": "2026-06-14T15:48:43Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/rb1dhv/article71101938.ece/alternates/LANDSCAPE_1200/PTI02_25_2025_000147B.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The Central Information Commission has directed the Central Board of Secondary Education to disclose \"point-wise categorical\" information, permissible under the Right to Information Act, related to expenditure on exams and details of answer books, including the tendering and procurement process, for Class 10 and 12 board examinations. After setting aside the CBSE's earlier denial of information under the RTI, the transparency panel asked it to furnish revised replies and said that the information exempt from disclosure may be redacted or masked under Section 10 of the RTI Act, while any denial under Section 8(1)(d) should be properly justified. The case arose from an RTI application seeking details of answer books used in Class 10 and 12 board examinations during the 2023-24 and 2024-25 sessions, including paper quality, number of pages, size, purchase cost, total expenditure, GST payments and details of the tender process for procurement of answer sheets. In its response, the CBSE disclosed certain specifications of the answer books, stating that the paper used ranged from 60 GSM to 120 GSM, answer books contained 8, 20, 32, 40 or 48 pages and were available in sizes of 22 x 28 cm and 37.5 x 54.5 cm. The board also said records regarding the weight of individual answer books were not maintained. However, information relating to the purchase cost of answer books, the number purchased and total expenditure incurred on procurement was denied under Section 8(1)(e) of the RTI Act. On queries regarding the tender process, names of participating firms, rates quoted and vendor selection, the CBSE said the matter was related to \"confidential\" and \"sensitive\" activities of board examinations and claimed exemption under sections 8(1)(d), 8(1)(e) and 8(1)(g) of the Act. Also read | When students audit the system The board also stated that expenditure data for examination fees was maintained on a financial year basis instead of academic sessions and declined to provide specific expenditure details. It also informed the applicant that expenditure on practical examinations was booked under a broader expenditure head and could not be segregated separately. The appellant challenged the response before the CIC, arguing that larger public interest and transparency warranted disclosure of information relating to procurement and expenditure. Information Commissioner Sudha Rani Relangi observed that the core issue in the appeal was the denial of information related to the \"tender process for purchase of answer sheet and other related stationary materials\" despite the appellant's contention that larger public interest justified disclosure. The Commission found that the Central Public Information Officer (CPIO) had denied information under multiple exemption clauses \"without giving any proper justification in this regard\". It also noted that the CPIO neither appeared during the hearing nor filed any written statement to justify the denial of information. \"Accordingly, the impugned reply of the CPIO dated 18.03.2025 in the absence of any justification for denial of the information sought, is hereby set aside,\" the CIC said. Referring to transparency in public procurement, the Commission observed that \"time and again\" the Supreme Court and the CIC had emphasised that such exemptions must be construed strictly to ensure accountability in public procurement and contracts by public authorities. \"Now, considering the averments of the Appellant during hearing regarding irregularity on such tenders, the Commission, deems it fit, to direct, CPIO to revisit the contents of the RTI application in question and provide a revised point-wise categorical replies along with relevant permissible information that can be provided as per the provisions of the RTI Act, 2005,\" the CIC said. The CIC further said the CPIO ought to have disclosed permissible information while redacting only those portions exempt from disclosure under the RTI Act. \"Information which are exempted from disclosure be redacted/masked under Section 10 of the RTI Act, 2005. In case the information sought is covered under Section 8 (1)(d) of the RTI Act, 2005, the CPIO may justify such denial by giving justification under Section 19 (5) of the RTI Act, 2005,\" the order said. Section 8 (1) (d) deals information such as commercial confidence, trade secrets or intellectual property, the disclosure of which would harm the competitive position of a third party, unless the competent authority is satisfied that larger public interest warrants the disclosure of such information. Published - June 14, 2026 09:18 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101652",
+      "rss_tags": [
+        "Education"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {
@@ -815,6 +1043,144 @@
     }
   },
   {
+    "id": "1fba0ea3-bad0-4171-88ef-621d403de156",
+    "cluster_id": "7197dd79-a922-4207-94ec-c5c751401818",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Rohit Pawar on third day of hunger strike in Pandharpur",
+    "teaser": "Hunger strike leader Rohit Pawar demands an unconditional loan waiver of up to ₹2 lakh for farmers, leading to a major political standoff with the state government.",
+    "summary": "NCP (SP) MLA Rohit Pawar is holding a hunger strike in Pandharpur, demanding two main policy changes: an unconditional loan waiver of up to ₹2 lakh for farmers, and the removal of all conditions attached to the Punyashlok Ahilyadevi Holkar Loan Waiver Scheme. Pawar has fasted for three days and reportedly refused medical aid like ORS and an IV drip, though he consumed water.\nDespite efforts from officials, including Minister Girish Mahajan, Agriculture Minister Dattatray Bharne, and Cooperation Minister Balasaheb Patil, the state government and Chief Minister have not accepted his core demands. The protest highlights a major policy standoff between the opposition MLA and the ruling state administration, with Pawar's family's presence solidifying the sustained agitation.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/maharashtra/rohit-pawar-on-third-day-of-hunger-strike-in-pandharpur/article71101634.ece",
+    "date": "2026-06-14T18:32:23Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/3nvnkx/article71102307.ece/alternates/LANDSCAPE_1200/PTI02_23_2026_000108B.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "NCP (SP) party MLA Rohit Pawar.\n | Photo Credit: PTI NCP (Sharadchandra Pawar faction) MLA Rohit Pawar is on a hunger strike at Chhatrapati Shivaji Maharaj Chowk in Pandharpur, demanding an unconditional loan waiver of up to ₹2 lakh for all farmers and removal of conditions attached to the government's Punyashlok Ahilyadevi Holkar Loan Waiver Scheme. On the third day of the protest, his blood pressure and sugar levels have dropped. He has refused ORS and an IV drip, though he has consumed water. According to the document detailing the protest, Mr. Pawar has not eaten food for three days and did not drink water for the first two days. On the second night, his health showed decline. Doctors advised water and ORS. He drank water but declined ORS. Later, doctors suggested an IV drip, which he also refused. Mr. Pawar has stated that he will accept the IV drip only after meeting Maharashtra's Minister Girish Mahajan. Minister Mahajan, described in the document as the 'crisis-solver' of the Fadnavis government, has left for Pandharpur to persuade Mr. Pawar to end the protest. Agriculture Minister Dattatray Bharne and Cooperation Minister Balasaheb Patil have been in contact with the MLA, but the government and the Chief Minister have not agreed to his primary demands. The NCP MLA has alleged that the State government and administration are ignoring the situation. Party workers have held protests in multiple locations. A 'rasta roko' was staged on Sunday in Jalgaon Jamod taluka in support of the agitation. On the third day, Mr. Pawar's family arrived at the site. His mother, sister, wife, and both children reached the protest location. Family members showed distress. His father, Rajendra Pawar, has been present for two days. Mr. Rajendra Pawar said, \"Even though I am Rohit's father, I have dedicated him to the cause of the farmers.\" He added that the government will not respond until farmers raise their voices. Maratha activist Manoj Jarange Patil is expected to visit the protest site in Pandharpur. Leaders from various political parties are also likely to meet Mr. Pawar. The protest continues, and all eyes are on whether the government and the MLA reach a resolution or the agitation intensifies. Published - June 15, 2026 04:20 am IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101634",
+      "rss_tags": [
+        "Maharashtra"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "cacbb026-dbfc-49c9-916b-ee4927fceaf6",
+    "cluster_id": "6b071306-b6b8-41c4-bdb4-cf371619524b",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Nirmala Sitharaman inspects Bengaluru–Chennai Expressway works near Devanahalli",
+    "teaser": "The Bengaluru-Chennai Expressway is a strategic greenfield project set to redefine logistics and industrial connectivity for South India.",
+    "summary": "Finance Minister Nirmala Sitharaman inspected the ongoing construction of the Bengaluru-Chennai Expressway, a vital infrastructure project under the Bharatmala Pariyojana Phase-I scheme. This high-speed expressway aims to boost economic growth and improve connectivity between Bengaluru and Chennai by linking major industrial hubs like Hoskote, Malur, and Bangarpet. The project is identified as a priority corridor, enhancing access to logistics parks and the Bengaluru Ring Road network.\n\nThe expressway’s ambitious plan includes a 71 km Karnataka stretch, comprised of three packages: Hoskote-Malur (26.4 km), Malur-Bangarpet (27.1 km), and Bangarpet-Bethamangala (17.5 km). While the Karnataka portion was largely completed by December 2024, sections in Tamil Nadu and Andhra Pradesh are still under construction.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.thehindu.com/news/national/karnataka/nirmala-sitharaman-inspects-bengaluruchennai-expressway-works-near-devanahalli/article71101637.ece",
+    "date": "2026-06-14T19:20:30Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/bm3ycz/article71102355.ece/alternates/LANDSCAPE_1200/PTI06_14_2026_000197B.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Union Finance Minister Nirmala Sitharaman greets a gathering during the 'Viksit Bharat Sankalp Samavesh', in Bengaluru, Karnataka, Sunday.\n | Photo Credit: PTI Union Finance Minister Nirmala Sitharaman on Sunday inspected the ongoing construction and development works of the Bengaluru-Chennai Expressway at Devanahalli as part of the 'Pragati Path Yatre Darshan' programme. During the visit, Ms. Sitharaman reviewed the progress of road construction, traffic management measures, and infrastructure development associated with the Greenfield expressway project, which is being developed under the Bharatmala Pariyojana Phase-I scheme to provide high-speed and seamless connectivity between Bengaluru and Chennai. The Union Minister said that projects such as the Bengaluru-Chennai Expressway reflected the commitment of the Prime Minister Narendra Modi-led NDA government to building quality infrastructure that accelerates economic growth and improves the ease of living for citizens. She noted that the expressway would strengthen connectivity to major industrial and logistics hubs, including Hoskote, Malur, Bangarpet, the Narasapura Industrial Area, and the Aerospace and Defence Parks. \"The project is also expected to improve access to the proposed Multimodal Logistics Park at Dobbspet through the Bengaluru Ring Road network,\" she added. The Bengaluru-Chennai Expressway has been identified as a priority corridor under the Chennai-Bengaluru Industrial Corridor. The project originates at Hoskote near the junction of NH-4 and NH-207 in Karnataka. The Karnataka stretch of the expressway spans 71 km and comprises three packages - Hoskote-Malur (26.4 km), Malur-Bangarpet (27.1 km) and Bangarpet-Bethamangala (17.5 km). While the Karnataka portion was completed and became informally accessible to motorists in December 2024, sections in Andhra Pradesh and Tamil Nadu remain under construction. Published - June 15, 2026 12:50 am IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101637",
+      "rss_tags": [
+        "Karnataka"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "1654cf5d-9f4b-4591-bf8d-29359ebf9b03",
+    "cluster_id": "8c1dfbcf-b360-4aa1-a065-2c4bae1c129f",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "PM Modi arrives in Slovakia for second leg of his two-nation visit",
+    "teaser": "PM Modi is the first Indian PM to visit Slovakia since 1993, aiming to deepen India-Slovakia ties in a strategic diplomatic visit.",
+    "summary": "Prime Minister Narendra Modi has arrived in Slovakia for the second leg of an official two-nation visit. During this trip, he is scheduled to hold talks with Slovak President Peter Pellegrini and Prime Minister Robert Fico. This visit marks a historical milestone, as Mr. Modi is the first Indian Prime Minister to visit Slovakia since its independence in 1993. The objective of the visit is to deepen India-Slovakia relations and explore new avenues of cooperation. Modi arrived after holding bilateral talks with French President Emmanuel Macron in Nice.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/pm-modi-arrives-in-slovakia-for-second-leg-of-his-two-nation-visit/article71102393.ece",
+    "date": "2026-06-14T21:17:44Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/b4plfi/article71102399.ece/alternates/LANDSCAPE_1200/20260614388L.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Prime Minister Narendra Modi waves as he departs from Nice for an official visit to Slovakia.\n | Photo Credit: ANI Prime Minister Narendra Modi arrived in Slovakia for the second leg of his two-nation visit, where he will hold talks with President Peter Pellegrini and Prime Minister Robert Fico and interact with business leaders. Mr. Modi is the first Indian Prime Minister to visit Slovakia since its independence in 1993. In a post on X after reaching the Slovakian capital, Mr. Modi said, \"This visit provides an opportunity to deepen India-Slovakia relations and explore new avenues of cooperation. Looking forward to productive meetings with President Pellegrini and Prime Minister Fico.\" The Prime Minister arrived in Bratislava on a two-day visit from France where he held bilateral talks with French President Emmanuel Macron in Nice. Published - June 15, 2026 02:47 am IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71102393",
+      "rss_tags": [
+        "India"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "04ed9f73-f5f5-4bfd-a5d7-2444fb716845",
+    "cluster_id": "3483a637-6726-4105-be10-c231fbaf0bb8",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Fire burns Google Cloud India’s network, which remains slow a week later",
+    "teaser": "Google Cloud India remains slow a week after a fire caused a network shutdown, while JAXA successfully relaunched its H3 rocket.",
+    "summary": "Google Cloud customers in India face sustained network disruptions following a fire at a third-party data center facility in Delhi, causing elevated latency and packet loss. Google is implementing 'traffic mitigations' and working to restore full capacity in Delhi and improving regional peering in Chennai by June 17th. Separately, Japan's JAXA achieved a major success by launching its H3 rocket on June 12th. On the economic front, South Korea posted a record of $47.8 billion in IT product exports for May, fueled by semiconductor exports that surged 162.9% year-over-year amid the AI boom. Meanwhile, Indian SaaS giant Zoho is developing its proprietary server architecture, 'Nathu La,' to reduce operating costs.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/off-prem/2026/06/14/fire-burns-google-cloud-indias-network-which-remains-slow-a-week-later/5255246",
+    "date": "2026-06-14T21:36:30Z",
+    "image_url": "https://image.theregister.com/254908.jpg?imageId=254908&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Off-PREM Fire burns Google Cloud India's network, which remains slow a week later PLUS: Japan's space truck is back in business; Zoho's DIY servers; Record tech exports for Korea, and more! Google Cloud customers with resources in India have had to deal with elevated latency for several days - and there's no end in sight. Per a Google status page, on June 9th \"A fire at a third-party data center facility required an emergency power shutdown of networking equipment, isolating a non-compute local Point of Presence (POP) in Delhi and reducing available network capacity in the metro area.\" That shutdown caused \"intermittent periods of elevated latency and possible packet loss\" for network traffic headed to Google Cloud from Delhi, Chennai, Mumbai and surrounding areas. \"Customers may experience slightly elevated latency and non-optimal network routing into Google Cloud until the affected facility is fully restored,\" Google warned. Google has implemented \"traffic mitigations\" that it says have improved performance \"for some Cloud customers,\" and is trying to arrange extra peering capacity. That work is ongoing, with the ads-and-cloud giant promising it is \"further augmenting our Delhi backbone capacity\" and hopes to have better news on Monday. The web giant is also working to improve regional peering capacity in the city of Chennai, to assist large ISPs in India and hopes that work will be complete on Wednesday, June 17th. Japan's space truck is back in business Japan's Aerospace Exploration Agency (JAXA) last week successfully launched its H3 rocket, a welcome return to form after its previous two missions failed. This success will be doubly sweet for JAXA, because the H3 used for this mission employed a pair of outboard boosters - the first time the agency has used the launcher in this configuration. The rocket launched on June 12th and placed six satellites in orbit. South Korean tech exports boom, not just because of AI South Korea's Ministry of Science and IT on Sunday announced exports of IT products reached $47.8 billion in May, a new record and a sum 128 percent higher than tech exports in May 2025. Semiconductor exports surged by 162.9 percent year over year, due to the AI boom. Mobile phone exports also grew by 15.9 percent, while a category the Ministry calls \"computers and peripherals\" saw 259.6 percent year-on-year growth. \"Displays rebounded due to increased demand for OLEDs for new mobile phones and strong sales of new laptops,\" the Ministry said. \"Overall exports of mobile phones increased due to a rise in the average selling price of high-spec finished products and robust demand for high-value components such as camera modules.\" South Korea imported over $15.7 billion worth of tech in the month, up 36 percent year-over-year, but still achieved a record trade surplus of over $32 billion. Zoho builds its own servers Indian SaaS giant Zoho has cooked up a custom server called \"Nathu La\" that it says will reduce the cost of operating its platform. \"The design philosophy behind Nathu La is rooted in the Open Compute Project (OCP), emphasizing modularity, thermal efficiency, and ease of maintenance, and enabling Zoho's data centers to significantly reduce total cost of ownership and power consumption,\" according to a company statement. The machines run Intel Xeon 6 processors and Chipzilla helped to design them, but Zoho says \"all intellectual property [is] owned in India.\" Zoho says the servers will also help to lower inferencing costs. The company didn't say how it calculated its performance numbers. The Reg fancies Zoho has compared its own boxes to whatever machines it currently buys off the shelf, and believes that servers tuned to its own needs will deliver better performance. That's a conclusion many hyperscalers reached years ago. NTT Data's new boss Japanese tech giant NTT Data has a new president and CEO: Kazuhiko Nakayama scored the twin roles last week, capping a career with the company that started in 1989 and most recently saw him serve as chief financial officer. Previous CEO and president Yutaka Sasaki will become senior executive vice president. \"Over the past three years I have had the honour of working closely with Mr Sasaki and the leadership team on a strategic course that has established NTT DATA among the top five IT services businesses globally,\" Nakayama said, according to NTT Data's announcement of its new leadership. \"That experience has reinforced my conviction in the strength of our offering, the quality of our people and the size of the opportunity ahead. As I take on the responsibilities of CEO and lead the growth of the NTT DATA Group going forward, I feel a deep sense of dedication, possibility and excitement.\" ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5255246",
+      "rss_tags": [
+        "off-prem"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "3dd13478-3186-49f9-9bf8-f4a9c6bcdc78",
+    "cluster_id": "a501e57e-296a-423f-aaf0-1b40c2e5bb94",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "As more US business owners retire many are selling up to their staff",
+    "teaser": "A massive wave of six million American business owners are set to retire by 2035, creating a significant management and labor succession challenge for the U.S. economy.",
+    "summary": "A significant demographic shift is looming in the US business landscape. Estimates indicate that roughly six million bosses of American firms will retire between now and 2035. This massive outflow of experienced business owners signals an impending labor succession challenge for the American economy. These transitions will necessitate major shifts in business ownership, management, and talent retention strategies across various industries.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-14T23:26:01Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Some six million bosses of American firms will be entering retirement between now and 2035.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/articles/c0ey87z1ggjo#2",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
+    }
+  },
+  {
     "id": "c442dd1f-5773-46da-95d4-a75f55a5b46f",
     "cluster_id": "506b1af6-0674-4c49-b43b-4f320233692f",
     "cluster_size": 1,
@@ -862,6 +1228,90 @@
       "twitter_handle": "naval",
       "category_hint": "startup",
       "author_handle": "@naval"
+    }
+  },
+  {
+    "id": "846306a5-8b77-4105-b51b-56cc516ebb91",
+    "cluster_id": "89a4ee13-63e7-487b-a99f-dcced9b7a2e0",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Eight killed in lightning strikes in Jharkhand",
+    "teaser": "Lightning strikes killed at least eight people across six districts of Jharkhand on June 14, 2026, tragically demonstrating the power of nature.",
+    "summary": "Jharkhand was struck by lightning, resulting in the deaths of at least eight individuals across six districts, according to police on June 14, 2026. Victims were killed under various circumstances, including while working in fields, taking shelter, or in public areas. Key casualties included Jitu Mahli and Nirasho Devi in Ranchi, and Reena Devi in Garhwa, who was struck while under a tree. In Giridih, a 10-year-old boy died from burn injuries, and in Chatra, a laboring woman was killed at an Eco Park. The incidents highlight the severe danger posed by lightning, affecting individuals, families, and children alike.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/national/jharkhand/eight-killed-in-lightning-strikes-in-jharkhand/article71101684.ece",
+    "date": "2026-06-14T15:31:37Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/2ohe0e/article71101884.ece/alternates/LANDSCAPE_1200/1693_30-6-2020_21-14-5_1_LIGHTNING.JPG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "At least eight people, including three women and two boys, were killed in lightning strikes across six districts of Jharkhand, the police said on Sunday (June 14, 2026). Two people each were killed in Ranchi and Garhwa districts, while the remaining deaths were reported in Chatra, Giridih, Seraikela-Kharsawan, and Jamtara districts. \"At least eight people were killed in lightning strikes across Jharkhand in the last 24 hours,\" a police officer told PTI on Sunday (June 14) morning. \"Among the deceased are two persons from Ranchi district. They were identified as Jitu Mahli (55) of Badhu village and Nirasho Devi (33) of Katamkuli village. Both were struck by lightning while working in their fields,\" Sub Inspector (SI) Sataydeo Prasad of Pithoria police station said. The bodies have been sent for post-mortem examination. In Garhwa, two persons, identified as Reena Devi (30), a resident of Sundi village in Kharaundhi police station area, and Ram Avtar Pal (65), a resident of Mukundpur village under Ketar police station limits, were killed, another police officer said. \"Reena Devi was struck by lightning when she took shelter under a tree,\" Kharaundhi police station in-charge Gulshan Kumar Gautam said. Ram Avtar Pal, a shepherd, was killed while he was grazing his sheep, SI Arun Kumar of Ketar police station said. In another such incident in Giridih, a 10-year-old boy died from burn injuries sustained from a lightning strike. \"The victim was a resident of Ghoskedih village in Raj Dhanwar block. He was rushed to Koderma Sadar Hospital, where he died during treatment,\" Raj Dhanwar police station in-charge Barjesh Kumar said. In Chatra district, a 35-year-old woman labourer was killed after she was struck by lightning while working at the Eco Park, located behind the DC office in Sadar police station area. \"The victim, Geeta Devi, a resident of Bario village within the same police station area, died en route to hospital,\" Sadar police station officer-in-charge Awdhesh Kumar Singh said. In Seraikela-Kharsawan district, a 35-year-old man was killed and his father and minor daughter suffered injuries in a lightning strike in Rajnagar police station area, a police officer said. The incident occurred when the victim, Sanjay Deogam, his nine-year-old daughter, and his father (60) took shelter in a hut in Sandirdih village. All three were rushed to Rajnagar Community Health Centre, where doctors declared Sanjay dead, the officer said. In Jamtara, a 10-year-old boy was killed in a lightning strike in Bithara village in Karmatar police station area. \"The incident occurred when a man, identified as Mohril Miyan, along with his three children, was going to his field when a bolt of lightning struck the area, killing his 10-year-old son on the spot. The man and his other two children sustained minor injuries and are out of danger,\" Karmatar police station officer-in-charge Alakh Choubey said. Published - June 14, 2026 09:01 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101684",
+      "rss_tags": [
+        "Jharkhand"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "f416a575-4c20-4a8f-b989-5cf8e6c0579f",
+    "cluster_id": "72b368b5-a111-4b9d-ba5f-5c37d0dc02eb",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Mobile phones, SIM cards seized during inspections at Parappana Agrahara Central Prison",
+    "teaser": "Prison officials seized 4 mobile phones & 2 SIM cards, alleging illegal smuggling into Parappana Agrahara Central Prison.",
+    "summary": "Prison officials at Parappana Agrahara Central Prison seized multiple prohibited electronic devices during recent inspections, leading to legal action. Over two days (June 11 and June 12), authorities recovered four mobile phones, two SIM cards, and one memory card. The devices were found during searches prompted by suspicious activity observed near different sections of the prison. Given that such items are banned, authorities suspect the phones were smuggled in with external assistance. Consequently, the prison authorities have initiated legal proceedings under the Karnataka Prisons (Amendment) Act, 2022, to investigate the involvement of inmates and any external facilitators.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/national/karnataka/mobile-phones-sim-cards-seized-during-inspections-at-parappana-agrahara-central-prison/article71100893.ece",
+    "date": "2026-06-14T15:32:58Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/henqh9/article71101891.ece/alternates/LANDSCAPE_1200/IMG_TH_-_PARAPPANA_AGRAH_2_1_D0D8H66I.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "A view of Parappana Agrahara Central Prison.\n | Photo Credit: File Photo Prison officials at Parappana Agrahara Central Prison recently recovered four mobile phones, two SIM cards, and a memory card during separate inspections conducted over two days, prompting legal action under the Karnataka Prisons (Amendment) Act. According to a complaint submitted by Prison Superintendent B.R. Kotesh, the first recovery was made on the night of June 11 between 9.15 p.m. and 9.20 p.m. During surveillance near Barrack No. 4 of Tower-1 Division, prison staff allegedly noticed undertrial prisoner Keshavaraju behaving suspiciously. When officials approached him, he allegedly attempted to flee. A search of the area led to the recovery of a mobile phone without a SIM card and an 8 GB memory card. In a second operation conducted on June 12 between 11.30 a.m. and 11.55 a.m., prison officials observed undertrial prisoner Vijaykumar acting suspiciously near the barracks. A search conducted by members of the Special Inspection Team resulted in the seizure of two mobile phones from a toilet area where the devices had allegedly been concealed. Later the same day, between 2.15 p.m. and 2.25 p.m., officials conducting routine patrols in Security Section-2 discovered another mobile phone abandoned in an open area near Room No. 5. In total, authorities seized four mobile phones, two SIM cards, and one memory card. As mobile phones and related communication devices are prohibited on prison premises, officials suspect the items were smuggled into the jail with the assistance of unidentified individuals. Prison authorities have sought the registration of a case under Section 42 of the Karnataka Prisons (Amendment) Act, 2022, along with other relevant provisions. Investigators will also examine the role of inmates and any external persons who may have facilitated the entry and use of the prohibited items within the prison. Published - June 14, 2026 09:02 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71100893",
+      "rss_tags": [
+        "Karnataka"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "5e91e120-6618-4e10-8567-c47593987736",
+    "cluster_id": "d362d61f-58d7-4996-b821-698eda51582f",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Kapu community needs more political empowerment , says Botcha",
+    "teaser": "Political leaders are demanding greater political empowerment and more reserved seats for the Kapu community in North Andhra, alleging they are being systematically sidelined.",
+    "summary": "YSRCP MLC Botcha Satyanarayana, and TDP MLC Vepada Chiranjeevi Rao, called for enhanced political empowerment for the Kapu community in Andhra Pradesh. They alleged that the community is severely underrepresented in the state's assembly, Parliament, and local governing bodies. The leaders voiced concern that political parties are ignoring the community's significance in the state's development. They specifically highlighted that the Kapu community in North Andhra, particularly Srikakulam district, is being sidelined. They claimed that reserved seats are being unfairly allocated to other communities in areas like Etcherla, Rajam, and Palakonda, even though the Kapu population in those regions is higher.",
+    "importance": 3,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/kapu-community-needs-more-political-empowerment-says-botcha/article71101746.ece",
+    "date": "2026-06-14T15:34:09Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/17f8fp/article71101885.ece/alternates/LANDSCAPE_1200/VSP14_YSRCP%201.JPG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "YSRCP MLC Botcha Satyanaraya addressing a press conference at the camp office in Visakhapatnam. Former Minister Gudivada Amarnath is also seen in the picture.\n | Photo Credit: V RAJU Leader of Opposition in the Andhra Pradesh Legislative Council and YSRCP senior leader Botcha Satyanarayana called for greater political empowerment of the Kapu community, saying it was not receiving proper representation in the assembly, Parliament and local bodies in accordance to the population. He was speaking at the Turpu Kapu Atma Gowrava Sammelana Sabha held in Srikakulam on Sunday, which was attended by leaders of the community and public representatives irrespective of party affiliation. Speaking on the occasion, Mr. Botcha alleged that political parties have been ignoring the importance of the community in the development of the State. TDP MLC Vepada Chiranjeevi Rao, MARKFED Director Anepu Ramakrishna Naidu (TDP) urged allocation of more seats for the Kapu community which is being sidelined in the North Andhra region including Srikakulam district. They said that seats were being allocated to other communities in Etcherla, Rajam, Palakonda and other places although the Kapu' population was higher than other communities there. Srikakulam Zilla Grandhalaya Samstha chairman Peerukatla Vithal, Kapu Welfare Association senior leaders Surangi Mohana Rao, Sasanapu Joginaidu and others attended. Published - June 14, 2026 09:04 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101746",
+      "rss_tags": [
+        "Andhra Pradesh"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {
@@ -1149,6 +1599,144 @@
     }
   },
   {
+    "id": "65138320-30f8-4160-954d-e898eda2a81c",
+    "cluster_id": "ce556ddd-295f-444d-9077-06547dccab97",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Tripura CM proposes new international flight destinations from Agartala airport",
+    "teaser": "Amid connectivity challenges, Tripura CM proposes linking Agartala airport to international destinations like Singapore and Thailand.",
+    "summary": "Tripura Chief Minister Dr. Manik Saha proposed exploring alternative international flight destinations, such as Singapore and Thailand, to boost connectivity from Agartala's MBB Airport. This plan aims to upgrade the airport's status by capitalizing on the new terminal building's facilities. While Sonowal highlighted the Act East Policy's efforts to link countries via waterways, the article notes that river trade on the Gomati river remains hampered by lack of sufficient water flow. The proposals, driven by motives of tourism and business promotion, were announced during the inauguration of the Jana Kalyan Sibir on June 14, 2026.",
+    "importance": 3,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/tripura/tripura-cm-proposes-new-international-flight-destinations-from-agartala-airport/article71102275.ece",
+    "date": "2026-06-14T18:06:38Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/95x9r/article71010075.ece/alternates/LANDSCAPE_1200/20260227062L.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Tripura Chief Minister Manik Saha. File\n | Photo Credit: ANI Tripura Chief Minister Dr. Manik Saha has proposed alternative international destinations if the connectivity between the State and Chittagong in south-east Bangladesh cannot be initiated now. He named Singapore and cities in Thailand for air connectivity where people of the State would have the opportunity to fly from the MBB Airport in Agartala. The Chief Minister was speaking at the inauguration of the Jana Kalyan Sibir (Public Welfare Camp) to mark the completion of 12 years of the NDA government here on Sunday (June 14, 2026). Union Minister for Waterways and Shipping Sarbanadna Sonowal was present at the occasion. Mr. Sonowal, who spoke to the journalists, said that schemes and plans under the Act East Policy were being implemented to connect countries through waterways. He said infrastructure has been created on the Gomati river in Sonamura in Tripura for establishing a river-based trade with Bangladesh. The trade activities, however, remained suspended due to difficulties running even small ships for lack of water flow and depth. The Chief Minister also acknowledged the problem and said work will be done to improve the designated waterways. On the question of connecting flight services between Agartala and the MBB Airport, Dr. Saha said he has submitted a proposal to make an alternative selection of destinations like Singapore and Thailand to allow people from the State to travel to destinations abroad. The proposal is aimed at tagging the MBB Airport as the international airport, citing that the new terminal building has adequate facilities to be an international airport. Officials said promotion of tourism and business are the key motives. On the opening of the welfare camp, the Chief Minister said people would be able to take advantage of various schemes of the Central and State Governments such as Ayshman Bharat, PM Surya Ghar, PM SVANidhi Scheme, VB-G Ram and more. Apart from this, this camp will have registration facilities for PRTC, birth and death certificates, and various assistance to the differently-abled people. Published - June 15, 2026 03:40 am IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71102275",
+      "rss_tags": [
+        "Tripura"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "e143e2fd-4f1b-47bf-a95b-a03e5e9d4a57",
+    "cluster_id": "d87e312e-6415-4b9a-8093-5b22905265ef",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Work on modern bus terminus in Ambur begins",
+    "teaser": "Ambur town is upgrading its bus terminus with a ₹7.85 crore facility, featuring modern amenities and lodging to serve growing commuter traffic.",
+    "summary": "Work has begun on a modern bus terminus in Ambur town, set to cost ₹7.85 crore and replace the dilapidated facility built in 1988. The new complex, situated on a 0.97-acre plot, will significantly improve connectivity for local commuters and visiting pilgrims. Amenities will include a waiting hall, commercial complex, parking, public announcement systems, and dedicated facilities for persons with disabilities. Furthermore, the civic body plans to connect arterial roads to boost commercial activity, and to increase revenue, it aims to double the shops to 80, adding lodging facilities for tourists.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/work-on-modern-bus-terminus-in-ambur-begins/article71101565.ece",
+    "date": "2026-06-14T18:39:39Z",
+    "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/548qk3/article71101741.ece/alternates/LANDSCAPE_1200/bus-35.jpeg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Collector G. Ravikumar inspecting the works on Sunday.\n | Photo Credit: SPECIAL ARRANGEMENT : Work to construct a modern bus terminus at a cost of ₹7.85 crore in Ambur town near Tirupattur on Chennai-Bengaluru National Highway (NH-48) commenced, bringing an end to a long-standing demand of commuters for such a facility in the region. Officials of the Ambur Municipality, which maintains the existing dilapidated bus terminus built in 1988, said that the steady increase in visitors, especially pilgrims from neighbouring States like Andhra Pradesh and Karnataka, has necessitated the civic body to rebuild the cramped terminus. Along with civic officials, Collector G. Ravikumar inspected the work for the new bus terminus. Work on the terminus is the first major project taken up by the civic body after the State Assembly election. \"The new bus terminus will have basic amenities for commuters and the bus crew. It will also help commuters from at least 20 surrounding villages to commute easily to various places,\" A. Muthusamy, commissioner, Ambur municipality, told The Hindu. As per the plan, the new terminus will be built on a 0.97-acre plot. The facility will have a waiting hall for commuters, bus bays, a commercial complex, parking lots, a public announcement system, digital time display boards, a time-keeper's office, water taps, toilets and ramps for persons with disabilities. It will also have CCTV cameras and solar-powered LED lights. At present, 120 buses, including 35 private buses, operate on the Ambur-Pernambut Main Road, linking major towns such as Tirupattur, Jolarpet, Vaniyambadi, Gudiyatham, and Katpadi, with over 160 trips every day. \"The existing bus terminus does not have basic amenities for commuters. The new facility should end our ordeal especially with better facilities for women and senior citizens,\" said Mohammed Wasim, a commuter. As the town is a major hub for leather manufacturing, the civic body plans to connect arterial roads with the new terminus to help travellers easily commute to other big towns and industrial centres like Vaniyambadi, Ranipet and Walajah. To increase revenue generation, the civic body also plans to double the number of shops in the old terminus to 80 shops with lodging facilities on the first floor of the commercial complex in the new terminus. The lodging facility will help tourists looking for affordable accomodation and make travel easy, municipal officials said. An industrial town, Ambur consists of 36 wards covering 17.97 sq.km. with a population of 1.50 lakh persons, who are mostly dependent on farming and small business, officials said. Published - June 15, 2026 12:09 am IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101565",
+      "rss_tags": [
+        "Tamil Nadu"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "a7f772dc-8a4b-4721-98a4-0f5cd3f204f2",
+    "cluster_id": "75a66071-8bd7-4914-8ae4-5a61ec430820",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Man arrested for killing elderly woman in Tiruvannamalai",
+    "teaser": "A shocking incident in Tiruvannamalai: A 30-year-old man was arrested for allegedly killing an elderly woman who stopped providing him free food.",
+    "summary": "A 30-year-old construction worker, R. Murthy, was arrested by Polur police in Tiruvannamalai after allegedly killing 62-year-old B. Yasoda. The incident took place in Ezhuvambadi village. According to police reports, the conflict arose when Yasoda, who had been providing free food to Murthy for years, allegedly stopped doing so. Following arguments, Murthy reportedly stabbed Yasoda when she was returning home on Sunday. Murthy, a daily wage labourer, was arrested and lodged at Central Prison in Vellore. Further investigation is currently underway.",
+    "importance": 3,
+    "category": "world_news",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/man-arrested-for-killing-elderly-woman-in-tiruvannamalai/article71101541.ece",
+    "date": "2026-06-14T18:45:54Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "A 30-year-old construction worker was arrested by the Polur police in Tiruvannamalai on Sunday for allegedly killing an elderly woman who allegedly stopped providing free food to him. Police said the arrested person was identified as R. Murthy, a daily wage labourer. The victim, B. Yasoda, 62, and Murthy belong to Ezhuvambadi village near Polur town in the district. Initial inquiry revealed that Yasoda was living with her son, Venu, a mechanic, in the village after her husband died many years ago. Murthy was a neighbour who lived alone after his family abandoned him. Yasoda has been providing free food to Murthy for the past few years. Of late, Murthy was addicted to alcohol and often got into arguments with Venu, Yasoda's son, over petty issues. Police said Venu asked her mother not to provide food to Murthy anymore. Agitated Murthy quarrelled with Yasoda for not giving him food. In a fit of rage, Murthy allegedly stabbed her when she was returning home on Sunday. Police said residents and neighbours raised the alarm and alerted the Polur police. A case was registered. Murthy was arrested and lodged at Central Prison in Vellore. Further probe is under way. Published - June 15, 2026 12:15 am IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101541",
+      "rss_tags": [
+        "Tamil Nadu"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "f2bfe258-85e8-4ba4-8f9a-2b3d4408d0e8",
+    "cluster_id": "5054f7d2-8b06-4160-9a92-4380e2b86b01",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "KWA signs pact for 27-km sewage pipeline project",
+    "teaser": "Kochi is set for a sanitation overhaul! A massive ₹185 crore project will deploy a 44-km sewage network and a 5-MLD Sewage Treatment Plant.",
+    "summary": "The Kerala Water Authority (KWA) is implementing a major infrastructure overhaul in Kochi's sanitation system, costing ₹185 crore. The project comprises a 27-km sewage pipeline, a 17-km collection network, and a 5-MLD Sewage Treatment Plant (STP). Under the AMRUT 2.0 Mission, the network will span 44 km, providing crucial sanitation facilities to multiple divisions. The STP will treat 4.5 MLD of sewage through three stages, ensuring the treated water meets National Green Tribunal standards. Preliminary work, including topographical and social surveys, is scheduled to start next week, with pipeline installation planned for August.",
+    "importance": 3,
+    "category": "policy",
+    "url": "https://www.thehindu.com/news/national/kerala/kwa-signs-pact-for-27-km-sewage-pipeline-project/article71101527.ece",
+    "date": "2026-06-14T19:18:11Z",
+    "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "As part of its efforts to overhaul Kochi's sewerage system, the Kerala Water Authority (KWA) has signed an agreement with the lowest bidder to construct a 27-km sewage pipeline to carry sewage from select wards of the city. The pipeline is one of three components of the project, which also includes a 5-MLD Sewage Treatment Plant (STP) and a 17-km collection network. The bidder for the STP has also been selected, and the contract will be finalised after technical issues are resolved. \"Preliminary work on the 27-km network will begin next week. A topographical and social survey will be conducted, followed by the installation of the pipeline in August,\" said a KWA source. The total length of the sewerage network, which will cater to three divisions in the city, is 44 km. The tendering process for the remaining 17 km of the sewage network has also begun. \"The STP will be able to handle the 4.5 MLD of sewage generated in the three divisions. The sewage reaching the STP will undergo three stages of treatment, along with ultra-filtration, and the treated water will comply with the standards prescribed by the National Green Tribunal and the Pollution Control Board. There are divisions within the city corporation limits that lack proper sanitation facilities, and the project will address those requirements,\" the source said. The projects are being executed under the AMRUT 2.0 Mission, and the total cost of the three components is ₹185 crore. The 5-MLD STP, along with a co-treatment facility, will come up at Elamkulam. \"We need to wait for the monsoon to subside before starting construction work. This is a multidisciplinary activity that requires coordination among several government departments. The project also requires an extensive social survey to identify apartments and other establishments that need to be connected to the network. We are in discussions with the civic authorities,\" the source said. Published - June 15, 2026 12:48 am IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101527",
+      "rss_tags": [
+        "Kerala"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "7ac43b2f-4d53-45b9-a831-996198d47e37",
+    "cluster_id": "ed3bf230-a5e6-41ac-a491-e37f9b8cd9eb",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "Protesters clash with police ahead of G7 summit in Geneva",
+    "teaser": "Swiss police used water cannons and tear gas to disperse anti-G7 protesters who clashed ahead of the G7 summit in Geneva.",
+    "summary": "Clashes erupted between police and anti-G7 protesters in Geneva as the G7 summit approached. Swiss authorities responded by deploying a water cannon and firing tear gas to disperse the demonstrators. The confrontation highlights the tension and political tensions surrounding major international gatherings, impacting local security and generating civil unrest.",
+    "importance": 3,
+    "category": "world_news",
+    "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-14T19:46:36Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/videos/crkvek3dnrgo#3",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
+    }
+  },
+  {
     "id": "ae1f223b-db0a-45b0-8e82-a75d9bd2d85a",
     "cluster_id": "de2ef3ff-b2ba-4619-8d67-afbf55ccb422",
     "cluster_size": 1,
@@ -1343,6 +1931,114 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "4af7ce80-d4d2-446d-a9e1-ea5d7192bc69",
+    "cluster_id": "0d4d1130-fade-4d35-8e72-853f25d683b4",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Cash stolen from car of former Sholingur AIADMK MLA",
+    "teaser": "₹1.5 lakh was stolen in a brazen burglary from the SUV of a former MLA in Vellore, caught on CCTV.",
+    "summary": "Cash worth ₹1.5 lakh was stolen from the SUV of N.G. Parthiban, a former AIADMK MLA, in Katpadi, Vellore. The burglars broke the vehicle's glass panels to facilitate the theft. The incident occurred after Parthiban and his driver left the SUV to attend a community function. Upon noticing the damage, the police were alerted. Investigators reviewed CCTV footage, which captured four unidentified persons on two motorcycles following the vehicle. Police have registered a case and established special teams to apprehend the suspects, with further investigation ongoing.",
+    "importance": 2,
+    "category": "world_news",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cash-stolen-from-car-of-former-sholingur-aiadmk-mla/article71101553.ece",
+    "date": "2026-06-14T18:25:14Z",
+    "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/v8loox/article71101926.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-14%20at%209.08.40%20PM.jpeg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "CCTV footage shows the burglars stealing cash from the vehicle by breaking its glass windows.\n | Photo Credit: SPECIAL ARRANGEMENT Burglars decamped with ₹1.5 lakh in cash after breaking the glass panels of an SUV belonging to a former AIADMK MLA at Katpadi in Vellore on Sunday. Police said that the vehicle belonged to N.G. Parthiban, former AIADMK MLA for Sholingur Assembly constituency. He won the 2016 Legislative Assembly election from the constituency for the party. Initial inquiry revealed that Parthiban went to attend a party functionary's family function at Vadukankuttai village near Katpadi in Vellore in his SUV. After parking the vehicle, Parthiban and his car driver, B. Kumaresan, 33, went to attend the function, which was held at a community hall in the village. Police said that after the event had ended, driver Kumaresan came to take the vehicle when he noticed glass panels on the rear side of the SUV were damaged, and cash had been stolen. Kumaresan informed Parthiban, who alerted the Katpadi police immediately. A police team rushed to the spot and a case was registered. Police said CCTV footage on the route showed that four unidentified persons on two motorcycles had followed the SUV from Ranipet to the community hall. Special teams have been formed to nab the suspects. Further probe is under way. Published - June 14, 2026 11:55 pm IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101553",
+      "rss_tags": [
+        "Tamil Nadu"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "5a444954-0bdc-4286-86aa-8f53db2d6ee1",
+    "cluster_id": "bf990649-58cc-4da7-8416-cf546e485439",
+    "cluster_size": 1,
+    "source": "The Hindu - National",
+    "title": "Monsoon to advance after June 18 in Maharashtra, says Met department",
+    "teaser": "Maharashtra's delayed monsoon is finally expected to advance between June 18 and July 2, offering much-needed relief from the heat.",
+    "summary": "After a five-day delay, the monsoon in Maharashtra is predicted to advance significantly between June 18 and July 2. Although the monsoon had entered the lower Konkan on June 6, its progress stalled due to unfavorable weather conditions and winds. The forecast indicates that initial influence will be felt most strongly on the south Konkan coast. Vidarbha is expected to see reduced influence until June 25, after which the monsoon's presence is projected to increase, eventually covering the entire Konkan coast and providing relief from the heat.",
+    "importance": 2,
+    "category": "other",
+    "url": "https://www.thehindu.com/news/national/maharashtra/monsoon-to-advance-after-june-18-in-maharashtra-says-met-department/article71101747.ece",
+    "date": "2026-06-14T18:39:26Z",
+    "image_url": "https://th-i.thgim.com/public/incoming/nf4n2n/article71102311.ece/alternates/LANDSCAPE_1200/2026-06-11T092017Z_1896436887_RC2LRLACVSD4_RTRMADP_3_INDIA-MONSOON.JPG",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Some parts of the State are recording rains with thunder, even as other areas await the monsoon's arrival.\n | Photo Credit: Reuters The monsoon has not moved from Harne in Konkan and Solapur in Madhya Maharashtra for five days. The Meteorological Department forecast a change in this situation after June 18, with the monsoon expected to become active in parts of the State between June 18 and July 2. According to a document from the Meteorological Department, the monsoon entered lower Konkan on June 6 and reached Harne and Solapur within a short period. Predictions of a rapid advance across the state followed. However, the progress has since been delayed. Officials attribute this to a change in weather conditions and winds from the north that carry heat and lack moisture. These factors have affected the monsoon winds. On Saturday (June 13, 2026), the monsoon moved toward Hyderabad, coastal Odisha, parts of West Bengal, Jharkhand and Bihar. In Maharashtra, the monsoon has not advanced. Some parts of the State are recording rains with thunder, even as other areas await the monsoon's arrival. The Meteorological Department's forecast for the period from June 18 to July 2 indicates that the monsoon may become active in parts of the state. If this happens, citizens will receive relief from the heat. During the initial days of this phase, the south Konkan coast is expected to see more influence. Vidarbha may see less influence until June 25, after which the influence is estimated to increase. The monsoon is then expected to gradually become active over the entire Konkan coast. Weather experts State that during this period, the monsoon may become active in most parts of the rest of the state as well. Published - June 15, 2026 04:04 am IST",
+    "raw_meta": {
+      "rss_entry_id": "article-71101747",
+      "rss_tags": [
+        "Maharashtra"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "022a2383-363f-471e-813b-f2f71e6a729e",
+    "cluster_id": "931e75a6-cc87-4f57-a7f3-17edfb61294a",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "Olé, olé, olé, olé - What makes a memorable World Cup song?",
+    "teaser": "Northern Ireland's World Cup song contributions span major tournaments in Mexico, Spain, and Italy.",
+    "summary": "While the article poses the question of what makes a memorable World Cup song, the only specific information provided is that Northern Ireland has contributed to the creation of World Cup anthems. Historically, the nation's musical contributions spanned several major tournaments, notably those held in Mexico, Spain, and Italy.",
+    "importance": 2,
+    "category": "other",
+    "url": "https://www.bbc.com/news/articles/c5yz434v7nro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-14T23:03:55Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Northern Ireland's contribution to the World Cup song includes tournaments in Mexico, Spain and Italy.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/articles/c5yz434v7nro#2",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
+    }
+  },
+  {
+    "id": "78acf75a-5a69-4840-ab2b-189902a37982",
+    "cluster_id": "de62dcf0-a202-4af5-a83c-55c287351cbc",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "Is the convertible heading into the sunset?",
+    "teaser": "Is the convertible hitting its decline? UK drivers are increasingly preferring the utility and size of SUVs, potentially reshaping the automotive landscape.",
+    "summary": "This piece explores the current automotive trend in the UK, questioning whether the convertible car's popularity is waning. While there is a noted increased enthusiasm among UK drivers for SUVs, the article suggests a possible reversal of the convertible's market fate. It highlights the competitive market forces driving consumer choice toward utility and size over open-air driving experiences.",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-14T23:25:00Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "UK drivers have taken a shine to the SUV but could the fate of the convertible be reversed?",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/articles/cx212yy4er0o#2",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
     }
   },
   {
