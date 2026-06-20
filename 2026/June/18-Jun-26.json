@@ -1396,6 +1396,37 @@
     }
   },
   {
+    "id": "3bfc67ee-bc98-49a9-ac77-3da576269bbf",
+    "cluster_id": "4833cdc9-7fa0-4a07-8247-90f41379b436",
+    "cluster_size": 2,
+    "source": "The Deep Dive",
+    "title": "Apple’s Next Chips Could Be Built by Intel",
+    "teaser": "Apple may revive a partnership with Intel for chip manufacturing in the U.S., citing a need to de-risk its supply chain after TSMC became overstretched.",
+    "summary": "Apple is reportedly partnering with Intel to design and manufacture chips in the United States. This marks a major shift, as Apple had previously moved away from Intel in 2020 to its in-house M-series chips made by TSMC. While political figures frame the deal as a push to reshore American semiconductor production, Apple's motivation is practical: adding Intel capacity reduces supply chain risk, as TSMC is currently stretched by high demand from AI companies like Nvidia and AMD. Intel, meanwhile, is validating its path after years of difficulty, having secured major commitments from companies like Tesla and Nvidia for its advanced manufacturing processes.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://thedeepdive.ca/apples-next-chips-could-be-built-by-intel/?utm_source=rss&utm_medium=rss&utm_campaign=apples-next-chips-could-be-built-by-intel",
+    "date": "2026-06-18T16:54:15Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/06/featured-62.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Johnathan Wall",
+    "content": "Apple (NASDAQ: AAPL) is returning to Intel (NASDAQ: INTC) as a chip partner, with President Donald Trump announcing Thursday that the two companies have agreed to design and manufacture chips together in the United States. The deal marks a significant shift for Apple, which abandoned Intel processors in 2020 in favour of its in-house M-series chips built by Taiwan's TSMC. Trump framed the agreement as part of a broader effort to reshore semiconductor production, posting on Truth Social that \"stupid presidents\" had allowed Taiwan and others to \"steal\" American chip factories. The administration holds a 10% stake in Intel, making the U.S. government a direct beneficiary of any business Intel wins. The announcement is a meaningful validation for Intel, a company that spent years on the sidelines of the AI boom, hampered by manufacturing delays and a lack of major foundry customers. CEO Lip-Bu Tan, who took over early last year, has been working to reverse that trajectory. Tesla signed on in April as the first major customer for Intel's next-generation 14A manufacturing process, which is slated for mass production in 2029, and Nvidia has also committed to building chips with Intel. Apple's motivation is more practical than political. TSMC, which currently manufactures Apple's M-series chips, has been stretched by surging demand from AI hardware companies including Nvidia and AMD. Adding Intel as a manufacturing partner gives Apple more capacity and reduces concentration risk in its supply chain. The specific chips Intel would produce for Apple were not addressed in Trump's announcement or in earlier Wall Street Journal reporting, which described a preliminary agreement reached after more than a year of talks. Whether TSMC's role in Apple's supply chain would shrink as a result also went unaddressed. Information for this story was found via the sources and companies mentioned. The author has no securities or affiliations related to the organizations discussed. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security. The author holds no licenses.",
+    "raw_meta": {
+      "rss_entry_id": "https://thedeepdive.ca/?p=292198",
+      "rss_tags": [
+        "Latest",
+        "Technology",
+        "Apple",
+        "Intel"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "a2f26584-34c3-4c55-9705-2ba99b90111b",
     "cluster_id": "2ee522a4-fcf9-4beb-9c62-5dd65209d5cd",
     "cluster_size": 1,

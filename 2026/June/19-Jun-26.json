@@ -369,6 +369,32 @@
     }
   },
   {
+    "id": "0bf5f4a6-7e89-43a3-93d6-b3230dea1e7e",
+    "cluster_id": "8ec25cd7-c2d5-42e4-bb63-fd2d2ab2a8c7",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "AI Engineer Claims to Have Cracked Linear A",
+    "teaser": "AI-enabled analysis leads an engineer to claim deciphering Linear A, a lost Bronze-age script with ties to Biblical Hebrew, promising a linguistic earthquake.",
+    "summary": "AI engineer Tom Di Mino claims a groundbreaking decipherment of Linear A, a Bronze-age Minoan script that has stumped experts for centuries. This alleged breakthrough posits that Linear A belongs to an extinct Semitic language, linking it potentially to Biblical Hebrew, Arabic, and Aramaic. Using advanced methods involving AI tools and systematic cross-referencing of digitized corpora (GORILA and SigLA), Di Mino analyzed key prayer inscriptions. His method identified a crucial Linear A-only sign ('na') that unlocked a word root meaning 'to dwell.' If validated, this discovery would be a major event in linguistics, potentially resolving issues in both Linear A and the already deciphered Linear B. The claims, which are under review by experts at Rutgers and Cambridge, include proposed readings for 40 signs and a draft manuscript detailing the grammar.",
+    "importance": 5,
+    "category": "ai_research",
+    "url": "https://aiclambake.com/clamtakes/linear-a/",
+    "date": "2026-06-19T16:04:42Z",
+    "image_url": "https://aiclambake.com/images/og-default.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Kosturdistan",
+    "content": "Tom Di Mino, a self-taught AI engineer and an amateur linguist, claims to have accomplished a feat that has eluded linguistics experts for over a century: deciphering a Bronze-age Minoan writing system known as Linear A. His claims are currently being reviewed by linguistics experts at Rutgers and Cambridge. While I'm caveating, I will also mention that I know Tom socially. Di Mino, who is based in the Hudson Valley, has studied classical history, linguistics, and languages since he was 18. He has varying degrees of proficiency in 8 languages, including Attic Greek, classical Latin, Sanskrit, Arabic, and Ugaritic. He has been reading up on Linear A for 7 years, and has visited Crete twice. He began to work on deciphering Linear A in January this year, and says the major insight came to him on May 22. If Tom Di Mino has deciphered Linear A, it would be an earthquake in the field of linguistics. When a related Minoan script, Linear B, was deciphered in 1952, it made the front page of the New York Times. Linear A maps to an extinct Semitic language Di Mino believes that Linear A belongs to an extinct Semitic language that was a precursor to Biblical Hebrew, Arabic, and Aramaic, the way that Latin is a precursor to Italian. Di Mino is not the first to argue that Linear A was Semitic. Prior attempts to prove it, however, including a 1957 article published by Cyrus Gordon in the journal Antiquity , did not unlock translations the way that Di Mino's solution appears to, and Gordon's work did not gain widespread acceptance in the field. Some background on Linear A and Linear B Linear A is a Minoan script that appeared sometime around 1800 BC and was used until 1450 BC, when Crete was conquered by Mycenaean Greeks. The Mycenaeans adopted the Minoan symbols as their own, with some minor revisions. The Mycenaean-Greek version of the symbols are known as Linear B. Both scripts were found on various tablets, vases, and other artifacts from the era. Both scripts use syllables, not letters, as their core elements. The syllables are generally consonant-vowel pairs. The two systems have 60 core syllables in common, and they both also use logograms - symbols that represent a whole word (\"cow\"), not just a syllable. Linear B was deciphered and identified as Greek in 1952 by Michael Ventris, a British architect, cryptographer, and amateur linguist, like Di Mino. Ventris's breakthrough may not have happened without prior work on Linear B by Alice Kober, a professor at Brooklyn College. Kober and Ventris used grammatical and statistical analyses to look for patterns in the location of the symbols (e.g. the first syllable was more likely to be a vowel) and how the symbols shifted. There are many more inscriptions associated with Linear B than Linear A, however, which made it easier to decipher. Also, many Linear A inscriptions are inventories cataloging the trade of different commodities, so they don't tell us much about the language. Because Linear A and Linear B have 60 symbols in common, and because Linear B has been deciphered, experts could guess what the overlapping Linear A symbols sounded like but didn't know what the sounds meant. And there were 13 additional symbols in Linear A that did not appear in Linear B. For those, no sound values have been accepted. The key that unlocked Linear A On May 22, Di Mino was analyzing a series of Linear A prayer inscriptions that adhered to a formula. (Don't worry, you don't have to understand the formula, but I'm including it for the nerds.) IOZa2 (Iouktas): A-TA-I-*301-WA-JA · JA-DI-KI-TU · JA-SA-SA-RA-ME · U-NA-KA-NA-SI · I-PI-NA-MA · SI-RU-TE · TA-NA-RA-TE-U-TI-NU · I (Also see Figure 1 below.) In the formula all of the words in each line of the inscription were known (based on their overlap with Linear B syllables) except for the first word. The first word was the same verb root, appearing in different regional forms across five sanctuary sites on the island. The verb contained 5 known Linear B signs and \"*301\", which appeared to be a Linear A-only sign, \"na,\" which Di Mino used to unlock the root \"nawaya,\" which means \"to dwell.\" In Hebrew, Akkadian and other Semitic languages there is a 3 syllable consonant system. N-W-Y is used for verbs and nouns meaning \"to dwell or inhabit\". Once deciphered, Di Mino saw that the prayer was similar to subsequent Hebrew prayers but was addressed to a Goddess. While Cyrus Gordon had previously proposed links between dedication tablets in Linear A and similar tablets in Akkadian and Phoenician that he had translated, Di Mino claims to be the first person to identify the links between the Linear A inscriptions and Hebrew prayers. This insight not only unlocked the verb in the prayer inscriptions, but it may also shed a broader light on the use of logograms in Linear A. Di Mino claims that his insights into logograms in Linear A additionally help to resolve problems with some translations of Linear B, which validates his findings. Di Mino used Claude Code to build a suite of Python scripts that query, cross-reference, and organize the digitized Linear A corpus (drawn from the GORILA and SigLA databases), enabling systematic hypothesis testing at a scale that would have been impractical to do manually. Artifacts Di Mino's research has led to: Proposed readings for 40 of the script's signs, including 13 signs whose phonetic values were previously unknown. He also resolved the sound values for 5 Linear B signs which were unknown to this day. A lexicon of 408 Linear A terms translated into English A 9-page draft of a manuscript titled Ya Diktu: Grammar of the Minoan Peak Sanctuary Libation Formula , which may form the foundation for a submission to a peer-reviewed scientific journal Figure 1. A summary of the symbols in line 1 of the Minoan prayer inscription. Credit: Tom Di Mino, Ya Diktu: Grammar of the Minoan Peak Sanctuary, June 2026. (This article has been edited for accuracy since it was originally posted.)",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48600107",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "1c161233-99a7-4090-b17c-1ff727dfbf7d",
     "cluster_id": "860168a2-63c6-4fbe-b9f8-8b27e11982b3",
     "cluster_size": 2,
@@ -456,6 +482,32 @@
       "gmail_labels": [],
       "gmail_msgid": "1868453592480025813",
       "gmail_thrid": "1868453592480025813"
+    }
+  },
+  {
+    "id": "51550f6a-0ec4-4f96-8527-6d73c55674da",
+    "cluster_id": "7bd35b55-0234-43c7-ab1c-49479937efe4",
+    "cluster_size": 7,
+    "source": "HN: AI",
+    "title": "Companies rein in AI usage as costs strain budgets",
+    "teaser": "Faced with ballooning costs and geopolitical demands, production AI workloads are shifting from the public cloud to private cloud for better governance and data control.",
+    "summary": "Enterprises are fundamentally redesigning their AI infrastructure, moving from scattered experiments to governed, production-scale systems. This requires building a unified enterprise data platform to centralize data and create measurable business value. Furthermore, production AI workloads are increasingly shifting from public cloud to private cloud due to cost overruns, data sovereignty concerns, and the demand for absolute control. Highlighting the 'AI tipping point,' industry experts emphasize that governance, cost predictability, and geopolitical compliance are now critical, making private cloud a preferred operational choice. The focus of AI is shifting from mere automation to enhancing decision-making processes, while addressing operational gaps requires platform standardization and robust security measures.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+    "date": "2026-06-19T19:57:18Z",
+    "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbd6a743d-6c72-47ea-b390-86662a74bfed.jpg?source=next-barrier-page",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "fandorin",
+    "content": "Then Rs4499 per month. Complete digital access to quality FT journalism on any device. Cancel or change your plan anytime during your trial.",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48602571",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {
@@ -1219,6 +1271,32 @@
     }
   },
   {
+    "id": "bc900e3a-c512-47ca-a583-28909ee8a5a9",
+    "cluster_id": "fa24bcd7-2969-445a-943e-e1ac51d5486e",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "Norway imposes near ban on AI in elementary school",
+    "teaser": "Alarming policy move: Norway is set to impose near-total bans on AI use in elementary schools, citing deep concerns over academic integrity and child development.",
+    "summary": "Norway is imposing strict limitations, nearing a ban, on the use of AI tools in elementary schools. This policy move reflects growing parental and educational concerns about the ethical use of AI, academic integrity, and the developmental impact on young students. Officials are worried about potential over-reliance on AI, which could hinder fundamental learning skills and create issues with plagiarism. The restrictions are part of a careful technological evaluation to ensure that AI integration supports, rather than compromises, the foundational learning process for the youngest students.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "date": "2026-06-19T16:03:15Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "ilreb",
+    "content": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/\nComments URL: https://news.ycombinator.com/item?id=48600093\nPoints: 767\n# Comments: 542",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48600093",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 401,
+      "fetch_error": "HTTP 401"
+    }
+  },
+  {
     "id": "1fe06089-5eba-4440-bc60-b20b8793f596",
     "cluster_id": "c01ffb32-75af-4191-aba3-176d67e4c4e8",
     "cluster_size": 1,
@@ -1325,6 +1403,32 @@
         "Macro",
         "Retail Sales"
       ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "57da0b92-b5cf-42a7-aedf-2e2458407d85",
+    "cluster_id": "9a1d802d-0f3b-45fd-8d5e-6f508e2b3b92",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "Is AI ruining our skills? Early results are in – and they're not good",
+    "teaser": "A study reveals that relying on AI can cause highly skilled doctors to lose crucial abilities, showing reduced adenoma detection rates.",
+    "summary": "Concerns are growing among professionals that over-reliance on AI tools may lead to 'deskilling' across various fields, particularly medicine. Evidence suggests that AI-driven skill degradation is observable, as shown in a study of Polish physicians. These specialists' adenoma detection rate during colonoscopies dropped when the AI system was removed, suggesting they became overly dependent. Similarly, the article notes that using AI assistants for coding tasks in computer science raises similar concerns. Experts caution that while the risk of losing key skills is real, there is currently no established solution, highlighting the urgent need for continued research into maintaining human expertise in the age of AI.",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://www.nature.com/articles/d41586-026-01947-1",
+    "date": "2026-06-19T18:00:48Z",
+    "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01947-1/d41586-026-01947-1_52722978.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Michelangelo11",
+    "content": "Physicians' own ability to spot pre-cancerous growths during colonoscopies declined after they had grown accustomed to using an artificial-intelligence tool to help with the task. Credit: Gabrielle Voinot/Look at Sciences/Science Photo Library As more professionals begin to rely on artificial-intelligence tools in their work, could their hard-earned skills atrophy? That possibility is a growing concern for medical specialists, computer scientists and other workers. Seventy per cent of nurses and 77% of physicians, for example, are worried about losing their skills because of over-reliance on AI systems , according to a survey of US health-care workers published earlier this month 1 . Their fear might be justified. Evidence suggests that AI-driven 'deskilling' is starting to happen in medicine, computer science and other fields. Researchers are now discussing how to preserve important human expertise in the age of AI. \"Just being aware that this phenomenon exists hopefully provokes some self-reflection about which skills people want to maintain and which they're willing to outsource\" to AI tools, says Kevin Crowston, an information scientist at Syracuse University in New York. Spoiled by AI? A study 2 of physicians in Poland who specialize in endoscopy - the use of flexible probes to examine the inside of the human body - shows how quickly AI tools can erode human abilities. The physicians, who had all performed at least 2,000 colonoscopies during their careers, were given access to an AI system that analyses colonoscopy images in real time and flags a type of precancerous intestinal lesion called an adenoma. The tool was available to the specialists on some days but not on others. Once physicians began using it, their performance dropped significantly whenever the system was unavailable. During the three-month period before the AI tool was introduced, the specialists found at least one adenoma during 28.4% of colonoscopies. During the three-month period after the tool was introduced, the adenoma detection rate for colonoscopies performed without AI assistance decreased to 22.4%. Google AI better than human doctors at diagnosing rashes from pictures The findings, published last October in The Lancet Gastroenterology and Hepatology , suggest that even highly skilled professionals might get worse at tasks that their job requires as they become more dependent on AI tools, says Robert Wachter, a physician at the University of California, San Francisco, who is the author of a book on how AI tools are transforming health care. The study authors say that continuous exposure to such tools can cause clinicians to become \"less motivated, less focused, and less responsible when making cognitive decisions without AI assistance\". Co-author Yuichi Mori, a physician-researcher at the University of Oslo, says that more studies are needed to confirm the phenomenon. But people who use AI tools should be aware that they risk losing some of their skills, he adds. \"There is no established solution against deskilling right now. It should be a very hot research topic in the next decade.\" No lesson learnt To investigate whether skills are being lost in the field of computer science, researchers at the AI firm Anthropic in San Francisco, California, designed a randomized controlled trial in which 52 software engineers were asked to perform a basic coding task 3 . During the exercise, all 52 participants could search the web and access instructions on how to do the task. Half of the participants were prompted to use an AI assistant as well.",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48601286",
+      "rss_tags": [],
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
@@ -1710,6 +1814,32 @@
     "content": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
     "raw_meta": {
       "rss_entry_id": "https://www.bbc.com/news/articles/cr7xzg3dmj8o#0",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
+    }
+  },
+  {
+    "id": "9c9c25de-d395-4db3-83d2-7a7ee54e9ce5",
+    "cluster_id": "bc04422c-b82b-4b82-ac6a-ddc1f1f24c4a",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "Japanese pop group XG went from brutal five year training to global pop stars",
+    "teaser": "From brutal five-year training to global pop stardom: Japanese group XG's journey highlights the intense path to international success.",
+    "summary": "Japanese pop groups, such as XG, have successfully transitioned into global pop stars. The journey is highly structured, involving intense, multi-year training that begins when the members are still teenagers. This process allows them to develop the skills necessary to achieve worldwide recognition, marking a notable success in modern Asian pop culture.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://www.bbc.com/news/articles/cly8gj8pqz7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-19T23:40:59Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The Japanese pop group have become global stars, after being recruited before they were teenagers.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/articles/cly8gj8pqz7o#2",
       "rss_tags": [],
       "fetch_ok": false,
       "fetch_status": 403,
