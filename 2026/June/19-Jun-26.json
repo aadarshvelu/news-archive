@@ -179,6 +179,36 @@
     }
   },
   {
+    "id": "559b4e79-d199-47bb-b62e-d7ea4d0a2270",
+    "cluster_id": "1808fc2a-69c5-4141-97c1-a330aefbc5af",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+    "teaser": "ASML faces a geopolitical crisis after U.S. officials allege an EUV chip tool breached export controls and may be in China.",
+    "summary": "ASML, the sole provider of Extreme Ultraviolet (EUV) lithography machines, stands at the epicenter of global tech conflict. U.S. officials have alleged that an EUV system, vital for advanced chip manufacturing, may have breached export controls and reached China. ASML vehemently denies this, asserting that no such machine exists in China, while highlighting its EUV monopoly and its immense market value. The significance of ASML stems from its critical role: virtually every cutting-edge processor relies on its tools. In a related development, SpaceX founder Elon Musk highlighted ASML’s necessity for his multi-billion dollar chip fabrication plant, Terafab, in Texas. These developments underscore the geopolitical tension surrounding semiconductor technology and the strategic importance of ASML's advanced manufacturing capability.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "date": "2026-06-19T07:59:12Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2250757778.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Connie Loizos",
+    "content": "According to Bloomberg, U.S. Commerce Secretary Howard Lutnick has, in a series of recent meetings, told senior ASML executives he's concerned that one of the Dutch chipmaker's extreme ultraviolet lithography machines - the EUV systems that are the only tools on Earth capable of printing the most advanced semiconductor patterns - may have ended up in China . That would be a major breach of export controls that have barred ASML from selling EUV to China since the first Trump administration. It's a serious claim. Senior administration officials told Bloomberg they have evidence that ASML shipped EUV-related components and transport equipment to China, though they've declined, repeatedly, to show it - to Bloomberg or, apparently, to ASML itself. The company says no such machine exists in China and has never existed there. The Commerce Department didn't respond to Bloomberg's questions about whether it has evidence of an actual EUV system on Chinese soil. You might think this isn't worth paying attention to if you're outside the chip industry, but it is. ASML is a Dutch company most people have never heard of, but it is, by a wide margin, the most important company in the global AI buildout that isn't named Nvidia or one of the hyperscalers. It makes the only machines on the planet capable of EUV lithography - the process of printing the microscopic circuit patterns that define the most advanced chips. Every cutting-edge processor made by TSMC, the foundry behind Nvidia's and Apple's chips, depends on ASML tools that took the company roughly two decades and untold billions to develop. There is, at present, no second supplier. That monopoly has made ASML Europe's most valuable public company, with a market capitalization that has been trading in the neighborhood of $700 billion as of this week, up sharply over the past year on the back of insatiable AI-driven chip demand. That scale is exactly why the China question matters so much. If even one EUV machine made it into Chinese hands, it would represent one of the most consequential breaches of the export-control regime the U.S. has built over the past several years to keep advanced AI capability out of Beijing's military and industrial base. I sat down with ASML CEO Christophe Fouquet six weeks ago , well before this story broke, and asked him directly about the China question. Fouquet told me ASML tracks every machine it has ever shipped - they're either in active use with monitored customers or have been dismantled and returned to the company. He said the firm built an internal firewall years ago: employees who can access EUV technology, documentation, and training are walled off from those who can't, and ASML's China-based staff sit on the wrong side of that wall by design. He argued the only reason ASML could build an EUV machine at all was that 80% of it already existed from decades of prior knowledge, and that solving the one genuinely new problem - generating EUV light itself - took 20 years on its own. His broader point seemed to be that you can't reverse-engineer a machine you've never had, and nobody in China has had one. There's also a simpler commercial logic that cuts against the idea that ASML would risk its export license to quietly arm a Chinese customer. ASML does sell older-generation deep ultraviolet tools to China - gear it first shipped a decade ago - but Fouquet framed that explicitly as a protective calculation, not a loophole. The idea, he suggested, is that it keeps enough of a generational gap that customers can still do business - but without manufacturing its own future competitor. ASML expects roughly 20% of its 2026 revenue to come from already-permitted sales to China. Risking the EUV ban entirely would put that revenue, and the company's standing as the most valuable monopoly in European industry, on the line over a single illegal sale. None of this proves the allegations are false. The government hasn't yet made its evidence public, and it's worth withholding judgment until it does. The Commerce Department, under Lutnick's leadership, agreed late last year to put up to $150 million of taxpayer money into xLight, a startup developing a next-generation light-source technology that's been written about as a long-term challenge to the core of ASML's EUV monopoly. xLight's own CEO told me last year that the company sees itself as a future partner to ASML, not a rival, building hardware meant to plug into ASML's machines rather than replace them. When I put that framing to Fouquet in May, he was polite about it but unconvinced; ASML, he made clear, doesn't see itself as needing xLight's technology to keep its lead. Does that have anything to do with why Lutnick is suddenly pressing ASML on EUV? Nothing public connects the two. It could be entirely unrelated. But a federal official scrutinizing a monopoly while his own agency has money riding on a startup angling to improve that monopoly's core technology is worth examining. xLight isn't the only outside bet on the future of lithography. Peter Thiel - who has his own long-running ties to Trump's political orbit - has backed Substrate , a separate startup explicitly pursuing its own EUV-rival technology, with ambitions to compete with ASML more directly than xLight says it intends to. As Bloomberg notes, a bipartisan bill moving through Congress would go much further than EUV - it calls for an effective ban on all of ASML's deep ultraviolet (DUV) shipments to China, the less advanced lithography tools that account for roughly a fifth of the company's expected 2026 revenue. The bill cleared a key committee in April, and the Trump administration hasn't taken a formal position on it. Pictured above: ASML CEO Christophe Fouquet",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3134577",
+      "rss_tags": [
+        "AI",
+        "ASML",
+        "Howard Lutnick"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "21732b5c-e7d6-448b-a44c-6df4ad20294f",
     "cluster_id": "9c593bb6-357e-449e-a219-c1ac0b181df3",
     "cluster_size": 3,
@@ -403,6 +433,58 @@
     }
   },
   {
+    "id": "f71dfce6-bee6-4bf2-876b-cc3cf8a6d736",
+    "cluster_id": "48f62199-230a-4c4b-8f8b-41d1fbce78fe",
+    "cluster_size": 6,
+    "source": "thedd",
+    "title": "Hormuz Closes Again After Israel Strikes Lebanon",
+    "teaser": "Oil traders face renewed risk as the US-Iran peace deal hinges on containing Israeli strikes and Lebanon's volatile conflict.",
+    "summary": "A highly complex peace deal was announced between the United States and Iran, set for a signing ceremony in Switzerland. The agreement is poised to reopen the vital Strait of Hormuz and lift the U.S. naval blockade. However, the deal is fraught with tension, particularly due to ongoing Israeli strikes in Lebanon, which threaten to destabilize the region. A central point of dispute involves Iran's demand for the release of $25 billion in frozen assets before proceeding. While the memorandum outlines a path toward sanctions relief and economic re-entry, its ultimate success hinges on controlling the volatile situation in Lebanon, creating a test of leverage rather than pure diplomacy.",
+    "importance": 5,
+    "category": "world_news",
+    "url": "https://link.mail.beehiiv.com/v1/c/HYNxj61OmMck7EErpk2s4lp5zkYvdiSspYcmqI5h2Qr4jXKuM4B6xH%2BFg7G2%0AcoA9mhDQ9JB22R%2Bco0NJAGQRMw4cP5xSAWYSuxOri0FWsb7IODeADjB%2FpYf%2B%0AnmJZyhiE24EvsCqAqjiwgFCetTYhPYWnLJtpD66vS79r3U88kmp1AQMsoU%2FH%0AfIZ5VJGdVoIMQXHsmxrqQiJ%2Bpm27XZz8%2Fw%3D%3D%0A/0789c3944c77c26a",
+    "date": "2026-06-19T19:09:29Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "The Deep Dive",
+    "content": "Sponsored by Power Metallic Hormuz Closes Again After Israel Strikes Lebanon Oil traders were not handed a peace deal this week but a contract with three different enforcement mechanisms and one major party outside the room. Iran's reported move to again restrict the Strait of Hormuz after Israeli strikes in Lebanon has turned the new US-Iran framework into a test of leverage rather than diplomacy. The document may give Washington a path to sanctions relief, Tehran a path to economic re-entry, and markets a route toward lower energy risk. But the arrangement now depends on whether Israel-Hezbollah fighting can be contained fast enough to keep Iran from using the world's most important oil chokepoint as pressure. That is the flaw now sitting inside the 14-point memorandum of understanding. You can read more on the matter here . Power Metallic (TSXV: PNPN) is a Canadian junior exploration company focusing on developing the High Grade Nisk project into Canada's first Carbon Neutral Nickel mine. The NISK property comprises a large land position (20 kilometres of strike length) with numerous high-grade intercepts, including a recent intercept of 10.99% copper over 12.54 metres, and a resource estimate of over 5.4 million indicates tonnes at 1.05% nickel equivalent. What's going on? Canadian Retail Sales Rose 0.5% in April but Consumer Spending Remains Strained ( theDeepDive ) Newcomers are buying homes faster as Canadian-born ownership rates decline: StatCan ( CTV ) Iran Moves to Control Hormuz Transit with Mandatory Insurance Scheme ( theDeepDive ) Alberta separatists launch campaign to convince voters the province can go it alone ( Globe ) Mexico Just Gave Workers the Legal Right to Ignore Their Boss After Hours-and a Shorter Workweek by 2030 ( theDeepDive ) Giorgia Meloni accuses Donald Trump of pandering to west's enemies ( FT ) What Cuba's Free-Market Reforms Actually Mean ( theDeepDive ) Canada Imposes Temporary 10% Tariff on Canned Vegetables ( Bloomberg ) Putin's 'Adoring Crowd' in Kazan Were Paid Extras-His Own Bodyguard Said So on Camera ( theDeepDive ) What's the latest? Real Estate: U.S. homeowners withdrew US$47 billion in home equity during Q1 2026, the highest first-quarter level since 2021, with 54% coming from HELOCs and home equity loans. Homeowners are estimated to hold US$11 trillion in tappable equity, driven by home prices that remain 51% above 2020 levels. Current borrowing costs remain elevated, with average rates near 6.5% for 30-year mortgages, 8.1% for home equity loans, and 7.4% for HELOCs, making equity withdrawals more attractive than refinancing low-rate mortgages originated in 2020-2022. Tariffs : Canada imposed a 10% temporary tariff on imported canned vegetables, excluding the U.S., Mexico, Israel, Chile, and certain developing countries due to trade agreements. The safeguard measure will last for up to 200 days while the tribunal investigates whether rising imports are harming Canadian processors, with a final decision expected by Sept. 9, 2026. If no harm is found, the tariff will be removed. The government says the goal is to support domestic producers while minimizing impacts on food affordability and supply. Federal Banking : Canada's banking regulator lowered the domestic stability buffer to 3.0% from 3.5%, freeing up capital for the country's six largest banks to increase lending and investment. The maximum buffer range was also reduced from 4% to 3%, marking the first change since 2023. The move is intended to support economic growth, business investment, and major infrastructure projects rather than signal stress in the banking system. Economists say success will depend on whether the extra capital drives commercial lending instead of share buybacks. Economy : Canadian retail sales rose 0.5% to $73 billion in April, driven mainly by gas station sales (+5.1%) and motor vehicle sales (+1.7%), while overall sales volumes were flat. Core retail sales excluding gas and autos fell 0.7%, with food and beverage sales down 2.0% and general merchandise down 1.7%, suggesting higher fuel costs squeezed consumer spending. Statistics Canada's preliminary estimate points to a 1.0% increase in May retail sales, as easing oil prices and the reopening of the Strait of Hormuz may support spending in the second half of 2026. Politics: The planned U.S.-Iran follow-up talks in Switzerland were canceled, with the White House citing unresolved logistics and ongoing tensions after renewed Israeli strikes in Lebanon. Despite the recently signed 14-point agreement extending the ceasefire and reopening the Strait of Hormuz, Israeli operations in Lebanon continue, highlighting the fragility of the deal. Oil prices fell again after reports of a local Israel-Hezbollah ceasefire, easing concerns about global supply disruptions. Analysts view the agreement as only an initial step, warning that Iran's nuclear ambitions and Israel's security concerns could still threaten a lasting peace. Why Silver's Next Move May Be Built on a Much Stronger Base Why Silver's Next Move May Be Built on a Much Stronger Base | Mani Alkhafaji - First Majestic The stock market and stuff Panama's Cobre Panamá Audit: Leverage For First Quantum But Not Yet A Restart ( theDeepDive ) Equinor Lifts Bay Du Nord Reserve Estimate to 550 Million Barrels ( theDeepDive ) Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business ( WSJ ) Alamos Gold Trims Guidance After Seismic Events Rattle Young-Davidson ( theDeepDive ) In the juniors Silver Elephant Sues Andean Precious Metals Over Lost Bolivian Silver Contract ( theDeepDive ) Endeavour Silver Intersects High-Grade Silver and Gold Mineralization at its Terronera Operation ( JMN ) Canadian Gold Maps Out 2026 Drill Plans Across Three Québec Projects ( theDeepDive ) FULL DISCLOSURE: Power Metallic is a client of Canacom Group, the parent company of The Deep Dive. Canacom Group is currently long the equity of Power Metallic. The author has been compensated to cover Power Metallic on The Deep Dive, with The Deep Dive having full editorial control. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security.",
+    "raw_meta": {
+      "gmail_message_id": "643",
+      "gmail_uid": "643",
+      "gmail_labels": [],
+      "gmail_msgid": "1868453592480025813",
+      "gmail_thrid": "1868453592480025813"
+    }
+  },
+  {
+    "id": "ca729062-0787-455f-8ef5-ebb99388a112",
+    "cluster_id": "427e2e97-f743-4bbb-bda7-a89ff33d48a9",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "UK actress charged with importing meth worth almost A$300m into Australia",
+    "teaser": "UK actress charged with smuggling 320kg of meth worth almost A$300m into Australia.",
+    "summary": "A 34-year-old UK actress, Emaa Hussen, faces charges of attempting to smuggle 320kg of methamphetamine (meth) into Australia. The illegal drugs were allegedly hidden within bags of charcoal. The trafficking attempt is valued at nearly A$300 million, and she could face life in prison. The incident highlights significant efforts by Australian authorities to curb drug smuggling.",
+    "importance": 4,
+    "category": "world_news",
+    "url": "https://www.bbc.com/news/articles/ckg5nq0172no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-19T01:04:14Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Emaa Hussen, 34, faces life in prison for allegedly trying to smuggle 320kg of meth hidden in bags of charcoal.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/articles/ckg5nq0172no#1",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
+    }
+  },
+  {
     "id": "11b14342-dc1f-4f7c-bb0c-4d0078367c29",
     "cluster_id": "75db034d-8fdb-4f4b-985c-d4ddb86ae8e8",
     "cluster_size": 1,
@@ -431,6 +513,177 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "9d996f2a-2d51-4ba5-855a-534d05a45ed7",
+    "cluster_id": "97289c69-8d07-45a0-92d0-0fa22bf4f30c",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Use of HMRC's taxing IR35 status tool drops 71% in two years",
+    "teaser": "Warning: Usage of HMRC’s crucial tax compliance tool dropped 71% in two years, suggesting businesses are finding new ways around complex IR35 rules.",
+    "summary": "Usage of HMRC's Check Employment Status for Tax (CEST) tool, designed to simplify compliance with the controversial IR35 rules, has dropped sharply, falling 71% between the 2023-24 and 2024-25 tax years. IR35 reform mandates that medium and large UK businesses determine if contractors are paid like employees, aiming to curb 'disguised employment.' While the reforms are expected to recoup substantial funds, sources suggest firms are abandoning the tool for alternative compliance methods. Experts point out that the CEST tool has not been updated since November 2019, despite significant legal changes and court rulings. This raises questions about the tool's reliability, especially since the Public Accounts Committee found that government departments were expected to owe £263 million in 2020-21 due to incorrect administration of these very rules. HMRC, conversely, stated they expected reduced usage as employers familiarized themselves with the 2021 off-payroll reforms.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theregister.com/public-sector/2026/06/19/use-of-hmrcs-taxing-ir35-status-tool-drops-71-in-two-years/5258452",
+    "date": "2026-06-19T08:00:00Z",
+    "image_url": "https://image.theregister.com/228116.jpg?imageId=228116&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "PUBLIC SECTOR Use of HMRC's taxing IR35 status tool drops 71% in two years Data suggests firms are turning away from CEST as critics say it fails to reflect recent court rulings Use of HMRC's own tool for checking compliance with the UK's controversial IR35 freelancer tax rules has fallen sharply, according to Freedom of Information data obtained by tax adviser IR35 Shield. The Check Employment Status for Tax tool, better known as CEST, was created to help firms decide whether contractors should be taxed like employees. But usage fell 43 percent during the 2025-26 tax year, and dropped 71 percent between 2023-24 and 2024-25, from 458,894 determinations to 135,178. What is IR35? IR35 is a reform unveiled in 1999 by the UK tax authorities. The latest regulation change - which came into force in April 2021 - forces medium and large businesses in the UK to set the tax status of their contractors and freelancers. Previously this was set by the contractors themselves. Contractors found to be within the scope of the legislation - i.e. inside IR35 - will have to pay more tax than they might expect. The reforms are part of the government's crackdown on so-called disguised employment, where workers behave as employees but avoid paying regular income tax and national income contributions by billing for their services through PSCs, which are taxed at lower corporate rates. The measures first came into effect in the UK public sector in 2017. The British government hoped the reforms would recoup £440m by bringing 20,000 contractors in line. HMRC reckons that only one in 10 contractors in the private sector who should be paying tax under the current rules are doing so correctly. It estimates the reforms will recoup £1.2bn a year by 2023. The findings suggest that firms continue to abandon CEST in favor of alternative status assessment solutions and more comprehensive compliance processes, IR35 Shield said. CEO Dave Chaplin said: \"The majority of firms we speak to for the first time are either lifting blanket bans or seeking to move away from using CEST, having realized it is not compulsory to use, nor does it give them the level of certainty they need.\" The decline is not the result of changes to the tool or legislation, according to IR35 Shield. \"The underlying CEST logic has not been updated since November 2019 and was based on HMRC's view of the law at that time. Despite the courts dismissing HMRC's position in key areas, upon which the tool was based, the tool has not been updated,\" Chaplin said. IR35 Shield pointed out that HMRC lost a recent employment status case with Professional Game Match Officials Limited (PGMOL). Entering the facts of the case into CEST would have produced an indeterminate result, it said. In 2022, the Public Accounts Committee Committee (PAC) found that central government was spending hundreds of millions of pounds to cover tax owed for individuals wrongly assessed as self-employed. \"Government departments and agencies owed, or expected to owe, HMRC £263 million in 2020-21 due to incorrect administration of the rules,\" the House of Commons spending watchdog said. Part of the compliance problem was down to HMRC's guidance and the CEST tool. \"Some questions within CEST were difficult to interpret correctly, and the guidance was long, too general in scope and not integrated into CEST itself,\" the PAC said. In a statement sent to The Register , a spokesperson at HMRC, said: \"We always expected use of the tool to reduce as employers familiarised themselves with the 2021 off-payroll working reforms, and the majority of those who use the tool are satisfied with the service they receive. \"The tool is rigorously tested against case law and we'll stand by the tool's results, so long as the information provided is correct in accordance with our guidance.\" ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5258452",
+      "rss_tags": [
+        "public sector"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "0021fab2-933b-4fee-a6db-b453fffe8c9c",
+    "cluster_id": "67dafc22-59f3-4085-bc9f-677f78980bd5",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "Zimbabwe MPs pass bill to extend president's time in power",
+    "teaser": "Zimbabwe MPs passed a bill to extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.",
+    "summary": "Members of Parliament in Zimbabwe passed a bill designed to significantly alter the country's political landscape. The proposal mandates extending the term of President Emmerson Mnangagwa by two years while simultaneously scrapping the mechanism of direct presidential elections. This move represents a major legislative change regarding the succession and duration of presidential power in Zimbabwe.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-19T08:03:32Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/articles/c20y15m0337o#1",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
+    }
+  },
+  {
+    "id": "1ca08a1f-773e-46fc-872e-24ad87c38dd6",
+    "cluster_id": "ff916993-6a25-4ab0-9acc-2250fcf82b4d",
+    "cluster_size": 1,
+    "source": "The Deep Dive",
+    "title": "What Cuba’s Free-Market Reforms Actually Mean",
+    "teaser": "Facing economic collapse and massive emigration, Cuba approved historic reforms to break state monopolies, signaling a major shift in its one-party system.",
+    "summary": "Amid severe economic decline, Cuba's Communist Party approved sweeping reforms, the most significant since 1959. Faced with contracting economy, massive emigration (a 10% population drop between 2021-2023), and resource shortages, the reform package aims to break state monopolies and expand private enterprise. President Díaz-Canel models the change after China and Vietnam, citing them as communist states that successfully opened their economies. However, the reforms face major hurdles, including the ongoing US embargo and years of institutional underdevelopment. These changes could drastically shift Cuba's geopolitical balance, potentially benefiting China as the island seeks new foreign investment and partners.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://thedeepdive.ca/what-cubas-free-market-reforms-actually-mean/?utm_source=rss&utm_medium=rss&utm_campaign=what-cubas-free-market-reforms-actually-mean",
+    "date": "2026-06-19T09:04:00Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/06/What-Cubas-Free-Market-Reforms-Actually-Mean.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "JP Alegre",
+    "content": "Cuba's Communist Party just approved the most significant economic shift on the island since Fidel Castro took power in 1959. To understand why it matters - and why it might not work - you need to start with how bad things have actually gotten. The country's economy has contracted for three consecutive years . Nationwide blackouts have become routine - up to 20 hours a day in some provinces - and by 2025, the national electricity grid had failed at least four times in a single twelve-month stretch . Sugar once drove Cuba's economy - the island produced more than 8 million tonnes in 1989. In 2025, output sat at an estimated 200,000 tonnes. Tourism fell nearly 50% from its 2017 peak. By 2023, an estimated 40% of Cubans consumed fewer than 2,100 calories a day - a threshold associated with undernourishment. Between the end of 2021 and the end of 2023, Cuba's official population count fell 10% - nearly entirely due to emigration. Studies estimate up to 1.7 million Cubans left between 2020 and 2024. March 2024 marked the first time the Cuban government applied to the UN World Food Program for financial assistance. This is the context in which President Miguel Díaz-Canel told the Communist Party's Central Committee that \"the situation calls for urgent and necessary changes\" - and that some of those changes could not wait for consensus. The package aims to break state monopolies, expand private enterprise, give local governments and state companies more decision-making power, and attract foreign investment. Díaz-Canel has explicitly cited China and Vietnam as the models - both communist-governed states that opened their economies to market forces while keeping political control. The comparison is useful but imperfect. China's post-1978 reforms and Vietnam's Đổi Mới in 1986 both succeeded in part because of large young populations, geographic positioning in global supply chains, and timing. Cuba starts from a different place - decades of brain drain, an aging infrastructure, a US embargo that blocks the world's largest economy from investing, and a history of announcing reforms that bureaucracy then slowly suffocates. The Trump administration has blocked fuel deliveries to Cuba since January 2026, deepening shortages that were already severe. Cuba has bent. The question now is whether the US responds with relief or keeps squeezing. The Trump administration's political base - particularly Cuban-Americans in Florida - has long pushed for maximum pressure and regime change, not incremental reform. A Cuba that opens its economy while keeping its one-party government is not what that base wants. Whether Washington treats Thursday's announcement as a win worth rewarding or a half-measure worth pressuring further will shape whether foreign investment can actually flow. Russia has been Cuba's most important oil supplier, filling the gap left when Venezuela's production collapsed. If Cuba successfully attracts foreign investment and secures fuel through new channels, Russia's leverage over Havana diminishes. China is the most likely beneficiary, positioning itself as Cuba's preferred economic partner, just as it has across much of Latin America and Africa. Cuba has announced reform twice before - in 2011 and 2016 - and delivered less than promised both times. The full text of Thursday's package is still not public, and the National Assembly session was called without notice. The only measure that matters is whether private businesses can actually operate under whatever emerges. Information for this story was found via the sources and companies mentioned. The author has no securities or affiliations related to the organizations discussed. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security. The author holds no licenses.",
+    "raw_meta": {
+      "rss_entry_id": "https://thedeepdive.ca/?p=292232",
+      "rss_tags": [
+        "Latest",
+        "Cuba",
+        "free-market reforms",
+        "Miguel Díaz-Canel"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "3cbe1a26-5f6b-478a-9863-f32e7f247f80",
+    "cluster_id": "5b8b4059-9e36-4594-83c8-d6659f2ece39",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Rockstar Games faces full hearing over alleged union busting",
+    "teaser": "After rejecting claims to strike blacklisting allegations, Rockstar Games faces a full tribunal hearing over alleged union busting before GTA VI launches.",
+    "summary": "Rockstar Games faces a major legal challenge over alleged union busting, as an employment tribunal rejected the developer's bid to dismiss 'blacklisting' claims. A full hearing is scheduled for September 10 to October 15, addressing the IWGB's allegations that 31 union members were discriminatorily fired in October 2025. The IWGB contends that Rockstar targeted workers for their union involvement, possibly through a 'physical or mental blacklist.' While Rockstar claims the dismissals were solely for gross misconduct, the dispute highlights ongoing scrutiny of labor practices in game development, particularly concerning 'crunch' and the right to unionize.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/offbeat/2026/06/19/rockstar-games-faces-full-hearing-over-alleged-union-busting/5258514",
+    "date": "2026-06-19T09:04:33Z",
+    "image_url": "https://image.theregister.com/251111.jpg?imageId=251111&x=0&y=5.85&cropw=100&croph=75.44&panox=0&panoy=5.85&panow=100&panoh=75.44&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "OFFBEAT Rockstar Games faces full hearing over alleged union busting Tribunal rejects bid to strike blacklisting claims, with proceedings due to conclude shortly before GTA VI launches Rockstar Games has suffered a legal setback in a dispute over alleged union busting, clearing the way for a final employment tribunal hearing shortly before Grand Theft Auto VI is due to launch. The developer had sought to have \"blacklisting\" allegations struck from the case. The employment tribunal rejected the request, and the final hearing is scheduled to run from September 10 to October 15. According to the Independent Workers' Union of Great Britain (IWGB), which brought the case, blacklisting is a practice in which information about workers engaged in union activity is compiled to facilitate discrimination. A spokesperson at the IWGB told The Register : \"We will make the case that the dismissal of 31 union members was discriminatory. We will argue at the final hearing that Rockstar identified and targeted workers because of their trade union membership and activities, including through the use of a physical or mental blacklist. These are some of the matters the tribunal will be making findings on later this year.\" Rockstar declined to comment on ongoing legal matters. The legal dispute stems from the sudden dismissal of 31 IWGB members in October 2025. According to the IWGB, the dismissed workers were part of a private trade union Discord channel where they discussed ways to improve the workplace. An anonymous source told The Register that when management became aware of the channel, the staff were summarily fired. At the time, a spokesperson for Rockstar's holding company, Take-Two Interactive, said: \"We strive to make the world's best entertainment properties by giving our best-in-class creative teams positive work environments and ongoing career opportunities. Our culture is focused on teamwork, excellence, and kindness. \"Rockstar Games terminated a small number of individuals for gross misconduct, and for no other reason. As always, we fully support Rockstar's ambitions and approach.\" This week, Ellie Dunstan, one of the workers fired last year, described the employment tribunal ruling as a \"huge moment for us.\" \"Rockstar thought they could control the narrative. They're wrong, and we look forward to proving it. Our case will now be heard in full and put to the test as it should be. The world will get to see for itself the evidence as to what happened last October. \"We loved our work at Rockstar. Losing our passion, our colleagues, and our incomes in the blink of an eye was devastating, and the company management has treated us with disdain ever since.\" Tech companies are often quick to derail unionization where possible, while working conditions in game development have faced particular scrutiny over \" crunch ,\" the practice of employees working extended hours in the run-up to a release. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5258514",
+      "rss_tags": [
+        "offbeat"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "db62c547-c909-4840-a403-18ed8f0f3f24",
+    "cluster_id": "60c0e929-b89d-4706-8c63-a720cbec2413",
+    "cluster_size": 1,
+    "source": "The Deep Dive",
+    "title": "Mexico Just Gave Workers the Legal Right to Ignore Their Boss After Hours—and a Shorter Workweek by 2030",
+    "teaser": "Mexico grants workers the legal right to ignore their boss after hours and is cutting the work week to 40 hours by 2030.",
+    "summary": "Mexico has undergone sweeping constitutional reforms setting new labor standards. President Claudia Sheinbaum enacted laws that guarantee workers the right to disconnect from work after hours, banning after-hours contact. Crucially, the maximum work week is set to gradually decrease, starting at 48 hours in late 2026, down to 40 hours by January 1, 2030. The reform constitutionally protects wages and benefits, preventing pay cuts. Key changes include structured overtime pay (double rate for the first 12 hours, triple beyond) and mandatory electronic timekeeping for all employers starting in 2027. These changes significantly impact sectors like retail and manufacturing, potentially boosting worker income by up to 32%.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://thedeepdive.ca/mexico-just-gave-workers-the-legal-right-to-ignore-their-boss-after-hours-and-a-shorter-workweek-by-2030/?utm_source=rss&utm_medium=rss&utm_campaign=mexico-just-gave-workers-the-legal-right-to-ignore-their-boss-after-hours-and-a-shorter-workweek-by-2030",
+    "date": "2026-06-19T09:29:00Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/06/Mexico-Just-Gave-Workers-the-Legal-Right-to-Ignore-Their-Boss-After-Hours—and-a-Shorter-Workweek-by-2030.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "JP Alegre",
+    "content": "Mexico has rewritten its constitution to cut the working week, ban after-hours contact between employers and workers, and guarantee no one takes a pay cut in the process - labor rights that most wealthy democracies have debated for years and delivered partially, if at all. President Claudia Sheinbaum signed the amendment to Article 123 of Mexico's constitution in March. The Federal Labor Law amendments implementing the reform entered force on May 1, 2026. Wages and benefits are constitutionally protected - employers cannot reduce either as hours fall. The statutory maximum drops gradually , starting with 48 hours through the end of 2026, then 46 in 2027, 44 in 2028, 42 in 2029, reaching 40 hours on January 1, 2030. Related: Mexico's President Sheinbaum Decrees Universal Healthcare for 120 Million The reform gives approximately 13.5 million workers the legal right to ignore calls, messages, and emails after their shift ends and during vacations. Overtime is restructured, with the first 12 hours per week pay at double rate, and anything beyond at triple. Hours are capped at four per day and four days per week. Workers under 18 are banned from overtime entirely. Mandatory electronic timekeeping applies to all employers from January 2027, with fines of approximately US$1,600 to US$32,500 for non-compliance. The reform hits hardest in sectors still running 48-hour weeks - 61% of retail companies and 38% of industrial workplaces , against roughly 80% of offices already at 40 hours or fewer. Manufacturing, logistics, and tourism face the steepest adjustments. Under the revised overtime structure, some workers stand to earn significantly more - government projections put potential income gains at up to 32% in high-overtime scenarios. Information for this story was found via the sources and companies mentioned. The author has no securities or affiliations related to the organizations discussed. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security. The author holds no licenses.",
+    "raw_meta": {
+      "rss_entry_id": "https://thedeepdive.ca/?p=292236",
+      "rss_tags": [
+        "Latest",
+        "Macro",
+        "Article 123",
+        "Mexico",
+        "work hours"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "ea57b0c8-9cad-4915-81ab-029d00078164",
+    "cluster_id": "91163aaa-addf-46bf-98bb-09bb9031aaaf",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "Asia's richest man Ambani announces what could be India's biggest share sale",
+    "teaser": "India's largest telecom operator is poised for a massive financial injection, expected to raise around $4bn in a potential mega share sale.",
+    "summary": "India's largest telecom operator is anticipated to undergo a major financial restructuring, with reports suggesting an expected capital raise of around $4bn (or £3.02bn). This significant move indicates a major share sale designed to boost the company's financial standing and operational capacity within the highly competitive Indian telecom market. The massive funding round could signal a pivotal moment for the operator and its associated corporate leadership, like Ambani.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-19T10:13:41Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "India's largest telecom operator is expected to raise around $4bn (£3.02bn), according to media reports.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/articles/cx2kerpkynko#1",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
     }
   },
   {
@@ -1048,6 +1301,36 @@
     }
   },
   {
+    "id": "52f357fd-40ff-4d15-87da-77b098fb83da",
+    "cluster_id": "7d8e4266-4ac1-47e5-8091-342f483307e9",
+    "cluster_size": 1,
+    "source": "The Deep Dive",
+    "title": "Canadian Retail Sales Rose 0.5% in April but Consumer Spending Remains Strained",
+    "teaser": "Despite a 0.5% rise to $73 billion, Canadian retail sales conceal deep spending strain, with core spending actually dropping 0.7% in April.",
+    "summary": "Canadian retail sales rose 0.5% in April, reaching $73 billion, but underlying consumer spending remains strained. The headline gain was primarily driven by surging gas stations (5.1%) and auto dealers, masking a decline in core spending, which fell 0.7%.\n\nThe slowdown was notably pulled by declines in essential sectors: food and beverage retailers fell 2.0%, general merchandise stores dropped 1.7%, and e-commerce revenue slipped 1.2% to $5.1 billion. While the total retail sales figure increased, measured by volume, total retail sales were flat, indicating that the growth was mostly due to higher fuel costs rather than increased purchasing volume.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://thedeepdive.ca/canadian-retail-sales-rose-0-5-in-april-but-consumer-spending-remains-strained/?utm_source=rss&utm_medium=rss&utm_campaign=canadian-retail-sales-rose-0-5-in-april-but-consumer-spending-remains-strained",
+    "date": "2026-06-19T17:59:15Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/06/featured-66.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Johnathan Wall",
+    "content": "A pump-driven surge at gas stations and a run of strong auto sales pushed Canadian retail trade up 0.5% to $73 billion in April, but the headline figure obscures a deteriorating picture beneath the surface, with core spending falling for the second month running. Strip out gas stations and auto dealers and the numbers look considerably worse. Core retail sales dropped 0.7% in April, pulled down by a 2.0% decline at food and beverage retailers, a 1.7% loss at general merchandise stores, and a 1.5% slide in sporting goods, hobbies, and books, a category that has now fallen two months in a row. The headline gain rested almost entirely on two pillars. Gasoline stations and fuel vendors surged 5.1%, though volume growth came in at just 0.8%, meaning the dollar increase reflected costlier fuel rather than more of it being bought. Motor vehicle and parts dealers added 1.7%, with new car dealerships contributing a 1.8% gain, their fourth straight monthly increase, and used car dealers posting a 5.1% jump after sliding 4.2% in March. Measured in volume terms, total retail sales were flat in April. Six of 13 provinces and territories recorded gains. Ontario climbed 0.5%, carried by auto dealers, while Alberta rose 1.3% on the back of higher fuel sales and British Columbia advanced 1.0%. Manitoba posted the steepest provincial decline at 1.8%, weighed down by weaker motor vehicle sales. Saskatchewan fell 1.1%. Online retail trade told a similarly soft story. E-commerce revenue slipped 1.2% in April to $5.1 billion, trimming its share of total retail activity to 7.0% from 7.1% in March. Statistics Canada's advance estimate points to a 1.0% gain in May retail sales, though the agency cautioned the figure will be revised as more survey responses arrive. A U.S.-Iran agreement struck this week reopened the Strait of Hormuz and eased oil prices, a development that could help lift household budgets and support a broader spending recovery through the second half of the year. Information for this story was found via the sources and companies mentioned. The author has no securities or affiliations related to the organizations discussed. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security. The author holds no licenses.",
+    "raw_meta": {
+      "rss_entry_id": "https://thedeepdive.ca/?p=292260",
+      "rss_tags": [
+        "Latest",
+        "Macro",
+        "Retail Sales"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "cfee80b0-8362-4609-89a1-6378afce6230",
     "cluster_id": "c5ab2b24-4d1c-4962-8a07-3026cbe540a8",
     "cluster_size": 1,
@@ -1071,6 +1354,157 @@
         "Resources",
         "Cobre Panamá",
         "First Quantum Minerals"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "7e318fa0-21e5-460b-b636-d9fb2c980351",
+    "cluster_id": "25dbc35e-044b-42be-8a02-b0e0be4bbf0f",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+    "teaser": "Aura's new e-ink photo frame uses proprietary technology to make photos look like physical art, bypassing the 'digital' look of typical frames.",
+    "summary": "Aura has launched the Aura Ink photo frame, an e-ink device designed to display family photos without looking overtly digital. This innovation overcomes the clunky aesthetic of typical digital frames by utilizing e-ink technology, which draws inspiration from e-readers. Because e-ink is limited to six colors (red, blue, green, yellow, white, and black), Aura employed a specialized dithering algorithm to convincingly render images, creating the illusion of smooth gradients. The frame is controlled by the user-friendly Aura app, which supports multiple photo sources. While reviewers noted color inconsistencies compared to high-fidelity prints, the frame is praised for its aesthetic integration and functionality, coming with a higher price tag ($499) than Aura's comparable LED model ($229).",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+    "date": "2026-06-19T21:00:34Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Aura-Ink-Graphite-Lifestyle-Wallmount-Horizontal.png?resize=1200,670",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Amanda Silberling",
+    "content": "What's the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn't even look digital. Digital frames have always been so popular (yet mostly disappointing) because there's an undeniable allure to the idea of them - it feels like magic to imagine hanging artwork on your wall that you can change depending on your mood. In practice, these devices usually look clunky. You need to plug them in and figure out how to hide a bulky cord, and does anyone even want another bright screen in their home anyway? This problem was already on the Aura founders' minds when they started the company 10 years ago, but color e-ink wasn't feasible until now to use in a digital frame. \"E-ink is definitely next level,\" co-founder and CTO Eric Jensen told TechCrunch. \"We have people tell us that they hung it up, had friends over, and their friends were like, 'How did you print that picture so quickly?'\" E-ink is the same technology that you see on e-readers, which lets you read a book without feeling the same strain that you get from staring at an LED screen for too long. But there aren't that many color e-ink devices on the market aside from the Kindle Colorsoft , because the company that manufactures e-ink displays can only currently produce six colors: red, blue, green, yellow, white, and black. It's hard to imagine what your favorite family portraits and travel photos would look like with only six colors. But Aura has created a dithering algorithm - a technique that blends a limited color palette into patterns the eye reads as smooth gradients - that renders images close enough to the originals that its e-ink frame could finally go to market. \"I'm learning color theory from our chief scientists, and as far as I understand it, there's not a good definition for how many colors this represents well,\" Jensen said. \"It's all sort of theoretical and comes down to how people perceive it. Everyone's a little different, so it's actually taken a lot of testing with a lot of people in a lot of different spaces and different lighting conditions in order to get where we are today.\" How Aura's dithering algorithm breaks photos down into six e-ink colors Image Credits: Aura All of Aura's frames connect to the Aura app, which is where you can upload photos from your phone, web, email, iCloud, or Google Photos. I found the process to be pretty user-friendly - easy enough for a less tech-savvy relative to navigate, which matters for a product that lives or dies on whether non-technical users will actually set it up. The app also has social features, so if your sister has a great new photo of her baby, she can upload it to your shared library and it will appear on your frame. (I didn't try this, since I don't know anyone else with an Aura frame, but if I did, I would probably use this feature to prank my family members with ridiculous photos. Am I a bad person?) In addition to the 13.3-inch Ink frame, Aura also sent me its more classic, 12-inch LED Aspen frame as a point of comparison. But the LED frame surprised me with how good it looks in its own right (it feels like the Prada of digital frames). The lighting is about as unobtrusive as an LED screen can be, and it's anti-glare, which makes the frame look way more premium. Aura's frames also benefit by surrounding the LED screen with a paper-like matting display, which helps trick the eye into reading it as a printed photograph. Aura says it designed its dithering algorithm for portraits of people, since users tend to highlight family photos. I'm a rebel, so I decided to load my frames with travel photos. When comparing the same photo on the Ink and the Aspen, it's very clear that the colors aren't exact, but as a digital photographer who isn't that picky, I didn't care very much. The distorted color palette almost seems like an artistic choice, even if I know it's reflective of a technological limitation. But when I showed the two Aura frames to an analog film photographer who painstakingly studies the small color aberrations in his darkroom prints, he thought that the Ink frame needed some work. I disagree, but if you look at the photos below and are bothered that the white balance isn't perfectly consistent across each of the three image from my phone, then you might not like the Ink frame. Image Credits: TechCrunch By default, the Ink frame changes photos once per day, and it will usually do this change in the middle of the night, when you're least likely to be paying attention. If you manually change the pictures via the app, do not be alarmed if the frame looks like it's glitching - it takes about a minute for the hardware to run the dithering process and render the six-color, e-ink version of your image. I am very bad with anything involving hammers and nails - all of the art in my apartment is hung up using Command strips - but mounting hardware that Aura includes feels sturdy. It's easy to take the frame on and off the wall, but you probably only will need to take it down to charge the frame via USB-C once per month. (When the lights are off or you're not in the room, the display will go to sleep, helping save battery.) I don't think that the Ink frame looks too out of place, but if it does, maybe it's because it's surrounded by art made in other mediums. Or maybe it's the black frame. Or I did a bad job at placement. Look, I can't help that I added the Ink frame to a gallery wall that I assembled three years ago! Image Credits: TechCrunch At $499, I wouldn't call the Ink frame cheap (the Aspen runs $229, by the way). But aside from its color inconsistencies - which you can argue are more of a feature than a bug - I've loved having the Ink frame on my wall. With the unavoidable technical limitations of e-ink in mind, it's hard for me to imagine how Aura could've made a better product.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3134402",
+      "rss_tags": [
+        "Hardware",
+        "aspen",
+        "aura",
+        "e-ink",
+        "Eric Jensen"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "0b0e41ac-c0d0-41bf-844b-324d0e3e3c86",
+    "cluster_id": "8519b647-c842-481d-af87-0c26477c2d18",
+    "cluster_size": 1,
+    "source": "Planet Money (NPR)",
+    "title": "The real horror of ‘Alien’ and how it explains why we’re not paid enough",
+    "teaser": "The real corporate horror in the Alien franchise isn't the killer alien—it's the mega-corporation Weyland-Yutani, an extreme example of economic monopsony power.",
+    "summary": "Drawing parallels between the sci-fi horror of the Alien franchise and modern labor issues, the article explores the concept of monopsony. Monopsony is an economic condition where a single employer dominates a labor market, granting them power to underpay and mistreat workers. Labor economist Arin Dube, in his book The Wage Standard, highlights this problem, suggesting policy ideas that could mitigate such power. This theme is reinforced by the upcoming film Alien: Romulus, which centers Weyland-Yutani's poor treatment of workers. Experts discuss how addressing monopsony power is crucial for improving modern worker conditions.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://www.npr.org/2026/06/19/nx-s1-5863604/alien-monopsony-wages-inequality",
+    "date": "2026-06-19T21:30:00Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Maybe the real monster in the Alien franchise isn't actually the killer alien. Because behind the acid blood and jump scares is an even more insidious horror: a single employer with unchecked power. That employer is named Weyland-Yutani, a mega-corporation that dominates workers across the galaxy. Weyland-Yutani is a sort of extreme example of what economists call a monopsony - when one employer dominates a labor market and gains power to underpay and mistreat workers. Sure, it's science fiction. But a growing number of economists argue that monopsony power is a much bigger deal in the real world than previously thought. We watch scenes from the movie Alien with labor economist Arin Dube, whose new book, The Wage Standard , shines a spotlight on the problem of monopsony power in the modern economy. We ask Arin what policy ideas he has that would have maybe prevented the worker tragedy seen in Alien . And we use his answer to try and rewrite the movie (spoiler: the movie becomes much shorter and less exciting). Plus, we speak with Fede Álvarez, the director and co-writer of Alien: Romulus , which puts Weyland-Yutani's poor treatment of workers front row and center. For more on monopsony and anti-trust: Support: Read: Follow: Today's episode of Planet Money was hosted by Greg Rosalsky and Kenny Malone. It was produced by James Sneed, edited by Jess Jiang, fact-checked by Sierra Juarez, and engineered by Robert Rodriguez. Our executive producer is Alex Goldmark. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences. NPR Privacy Policy",
+    "raw_meta": {
+      "rss_entry_id": "f3c388d8-29eb-404a-b6d8-0c0376706b65",
+      "rss_tags": [],
+      "fetch_ok": null,
+      "fetch_status": null,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "2f2859d7-fc89-4020-9a0b-8ff1b88cd180",
+    "cluster_id": "225f3ccf-d119-4b45-8308-ba2f03674b8e",
+    "cluster_size": 2,
+    "source": "Testing Catalog",
+    "title": "Anthropic launches live Artifacts for Claude Code",
+    "teaser": "Anthropic launches 'Artifacts' to generate live dashboards from code, alongside centralized IdP control for secure enterprise connectors.",
+    "summary": "Anthropic significantly enhanced its developer and enterprise tools with two major launches. First, 'Artifacts' in Claude Code allows users to generate live, shareable, interactive web pages (like PR walkthroughs and dashboards) directly from coding sessions, eliminating manual documentation. Second, Anthropic introduced 'Enterprise-Managed Authorization' for MCP connectors. This critical security update enables large organizations to centrally provision access to connectors (including Asana, Figma, and Slack) via Identity Providers (IdPs) such as Okta. This ensures secure, automated, and unified access control, making Anthropic's suite a robust solution for secure, collaborative enterprise workflows.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/anthropic-launches-live-artifacts-for-claude-code/",
+    "date": "2026-06-19T21:38:17Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/06/69050ff880f9a5c13932b7df_og_claude-for-chrome.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Erin | AI Agent",
+    "content": "Anthropic has announced the launch of Artifacts in Claude Code, a new capability allowing users to generate live, shareable visual pages directly from their coding sessions. This feature is available in beta for Claude Team and Enterprise organizations, accessible via the Claude Code CLI and desktop app, with artifacts viewable in any browser. Artifacts transform the output of coding sessions, ranging from incident investigations to code refactoring, into interactive web pages such as PR walkthroughs, dashboards, and release checklists that update in real time as the session progresses. Each page is built from the full session context, including codebase details, connectors, and conversation history, eliminating the need for manual data integration or additional infrastructure. Version control ensures each artifact retains a history, and a gallery feature enables easy management of all generated artifacts. Anthropic, the company behind Claude Code, is known for its focus on AI-powered developer tools designed to streamline workflows and support teams working on complex software projects. With Artifacts, Anthropic targets engineering teams, SREs, architects, managers, and other technical roles seeking better ways to document and share ongoing work. Access controls ensure all artifacts remain private to the organization, with admins able to manage permissions and retention through org-level settings. Early feedback from internal testing highlights the benefits for debugging and collaborative incident response, as team members can instantly view up-to-date information without waiting for manual updates. Source",
+    "raw_meta": {
+      "rss_entry_id": "6a3454c43ad6580001ff9900",
+      "rss_tags": [
+        "Claude News",
+        "Latest AI News",
+        "AI Announcements"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "16ab5c30-db6a-48e3-bdeb-9dcda7854b6a",
+    "cluster_id": "eceece12-65a4-4337-ad93-862def02ff18",
+    "cluster_size": 1,
+    "source": "Testing Catalog",
+    "title": "Perplexity releases Brain Memory System for Perplexity Computer",
+    "teaser": "Perplexity’s new 'Brain' memory system offers transparent knowledge storage, visualizing context in a navigable 3D map—a major leap for AI search.",
+    "summary": "Perplexity has announced 'Brain,' a foundational, shared memory system designed to power multiple core products—including Search and the Computer agent—rather than remaining confined to one. What distinguishes Brain is its transparency, exposing a user’s knowledge base in three ways: categorized Topics, underlying context, and a navigable 3D map. This structure mimics a 'second-brain' pattern, organizing context by topic. This approach improves speed and recall quality by only retrieving necessary context for a task. Brain solidifies Perplexity's shift from merely answering questions to enabling the performance of complex 'work' across its integrated AI ecosystem.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/perplexity-releases-brain-memory-system-for-perplexity-computer/",
+    "date": "2026-06-19T21:39:41Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/06/Perplexity-Computer-Memory-06-19-2026_11_27_PM-1.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Alexey Shabanov",
+    "content": "Perplexity released a new memory system, referred to internally as Brain, that would sit beneath several of its core products rather than living inside any single one. Signals point to Brain powering Perplexity Search, the Perplexity Computer agent, and possibly the Comet browser, positioning memory as a shared connective layer instead of a per-product add-on. What sets the approach apart, based on what has surfaced so far, is transparency. Where most assistant memory operates as an opaque store, Brain looks set to expose the full knowledge base to the user in three forms: Topics sorted into categories The underlying context held behind each topic A navigable 3D map of the connections between them that a person can hover over and explore The clustering follows the now-familiar second-brain pattern, closer to an Obsidian-style graph than a flat list, where the model gathers information and groups it by subject. Because context is organized by topic and retrieved only when a task calls for it, the amount pulled into any given request appears lower, which would help both speed and recall quality. The company has spent the year moving from answering questions toward doing work, with the Computer agent arriving in late February alongside a memory upgrade that sharpened recall accuracy. Brain would extend that arc, turning memory into the substrate that lets search, agents, and browsing draw on the same accumulated context. Perplexity Brain also lands in a crowded field: always-on agents such as Hermes and OpenClaw lean on their own knowledge bases, and rivals from Claude to Notion are building comparable persistent stores. The feature remains hidden for now, but the recent pace of polishing around it suggests a wider rollout may not be far off. Official announcement",
+    "raw_meta": {
+      "rss_entry_id": "6a33218c841c520001257d0e",
+      "rss_tags": [
+        "Perplexity News",
+        "Latest AI News",
+        "AI Announcements"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "df1e840b-270f-45d9-8259-e5f8945d3a63",
+    "cluster_id": "a6d7e4de-a808-4897-b050-2dfba5b61c29",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+    "teaser": "Facing a 20% drop in drivers, Japan's Go plans a massive pivot, using IPO funds to boost its robotaxi business and expand through acquisitions.",
+    "summary": "Following its major IPO, Go plans to dedicate ¥88.6 billion ($553 million) to addressing the systemic crisis of Japan’s dwindling taxi driver population by focusing on robotaxis and strategic acquisitions. As Japan’s largest ride-hailing app, Go acknowledges that the number of drivers has dropped significantly, making autonomy crucial for its future. The company has formed a key partnership with Waymo (Alphabet's autonomous subsidiary) and Nihon Kotsu. While Go is working toward fully driverless operations, industry rivals like Uber, Wayve, and Nissan are independently planning pilot services in Tokyo by late 2026. This rapid industry pivot highlights the challenge of Japan's aging demographic impacting core transportation services.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+    "date": "2026-06-19T21:45:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Japan-Go-.png?resize=1200,785",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Kate Park",
+    "content": "Go's IPO - Japan's biggest so far this year - has done more than provide a much-needed boost to the country's languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan's shortage of drivers. Go, which went public Tuesday, plans to use the ¥88.6 billion ($553 million) raised in its IPO to expand its robotaxi business and make acquisitions, according to a company spokesperson. \"We intend to use the proceeds from the sale of newly issued shares toward investment in research and development related to robotaxis and investment in business expansions, including strategic mergers and acquisitions in our business inside and outside of the taxi industry,\" the spokesperson said. The Japanese taxi-hailing company's debut came in one of Japan's quietest listing seasons, at a time when the government has been telling startups to sell themselves rather than go public. Go drew investments from BlackRock, Wellington Management, and M&G Investment Management in the process, underscoring where global institutional money is willing to go in Japan right now. The stock has since pulled back below its offering price, closing at ¥2,314 on Friday, down about 4% from the IPO price of ¥2,400. Go's robotaxi ambitions are rooted in a human problem. Japan's taxi industry is running out of drivers . The number of taxi drivers has fallen roughly 20% in recent years , according to a report citing Japan's Ministry of Land, Infrastructure, Transport and Tourism. An aging population means that figure is unlikely to recover. Ride-share services launched in Japan in 2024 , but remain limited to certain areas and require drivers to be employed by a taxi company; restrictions that have done little to address the shortage. Go was founded in 1977 as a taxi operator and now runs Japan's largest ride-hailing app with 35 million downloads, 85,000 partner vehicles, and an 80% share of Japan's taxi app market by usage time, covering 46 of Japan's 47 prefectures. Go believes robotaxis will be part of its future - although it's not clear when that vision will become a reality. Go has partnered with Waymo , an autonomous driving subsidiary of Alphabet, alongside Nihon Kotsu, one of Japan's biggest taxi operators. Go is responsible for strategic coordination of the partnership, according to the spokesperson. CEO Hiroshi Nakajima has previously said that Go will not invest in autonomous driving systems itself, according to Nikkei Asia. Go has not set a timeline for fully driverless operations. \"We plan to begin driving fully autonomously, without a human specialist present, when we validate our technology and receive approval to do so,\" the spokesperson said. In the meantime, Go is looking for ways to give its traditional business a competitive edge. For instance, the company has partnered with Kakao T, Alipay, and WeChat Pay that allows inbound travelers from South Korea, China, and Taiwan to hail Go-affiliated taxis directly from their local apps. Go is not the only company betting on Tokyo's robotaxi future. In March, Uber, Wayve, and Nissan announced plans to pilot robotaxi services in Tokyo by late 2026, marking Uber's first autonomous vehicle partnership in Japan. The service will use Nissan Leaf electric vehicles powered by Wayve's AI Driver, and will be bookable through the Uber app. Uber has also teamed up with S.Ride to let international visitors book rides through the Uber app. Didi Mobility Japan , a joint venture between SoftBank and Didi Chuxing, has a similar arrangement.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3133212",
+      "rss_tags": [
+        "Apps",
+        "Transportation",
+        "Go",
+        "initial public offering",
+        "Japan",
+        "taxi hailing"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -1201,6 +1635,88 @@
     }
   },
   {
+    "id": "5d8f76d4-c72f-4686-9368-7764fd52f9db",
+    "cluster_id": "73f15ea1-b297-4d13-bf61-7d582f46251c",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "Pétanque player, 68, dies after being 'hit in head with metal boule'",
+    "teaser": "A 68-year-old died in a shocking alleged assault after being hit on the head by his 81-year-old opponent during a game of pétanque.",
+    "summary": "A 68-year-old pétanque player died after an alleged assault during a game. According to the public prosecutor, the victim was struck in the head by his 81-year-old opponent, who has since been arrested. The incident highlights the danger that can arise from the sport, pétanque, and the arrest of the opponent points to legal action being taken.",
+    "importance": 3,
+    "category": "world_news",
+    "url": "https://www.bbc.com/news/articles/cvgmny9v14no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-19T17:30:24Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The man was allegedly struck by his 81-year-old opponent, who has since been arrested, the public prosecutor says.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/articles/cvgmny9v14no#1",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
+    }
+  },
+  {
+    "id": "a9fc6d05-9bdd-4b19-8b38-cbec6dc9b738",
+    "cluster_id": "0e3af28d-e735-4cf4-8e0c-b2ce4d96bc00",
+    "cluster_size": 1,
+    "source": "The Deep Dive",
+    "title": "Canada Slaps 10% Tariff on Canned Vegetable Imports to Shield Domestic Producers",
+    "teaser": "To shield domestic producers, Canada slaps a 10% temporary tariff on certain canned vegetable imports, pending a trade inquiry due by September 9.",
+    "summary": "Canada has temporarily imposed a 10% provisional safeguard tariff on certain canned vegetable imports. This measure, lasting up to 200 days, is designed to give domestic processors time to stabilize while a trade inquiry is underway. The tariff excludes imports from key partners like the US and Mexico. The Canadian International Trade Tribunal is investigating whether surging foreign imports have materially harmed domestic producers, with findings due by September 9. Finance Minister François-Philippe Champagne stated that the action balances sector relief with food security. The temporary nature means the tariff will vanish if the tribunal determines that domestic industry was not adversely affected, underscoring Canada's commitment to a balanced trade approach.",
+    "importance": 3,
+    "category": "economics",
+    "url": "https://thedeepdive.ca/canada-slaps-10-tariff-on-canned-vegetable-imports-to-shield-domestic-producers/?utm_source=rss&utm_medium=rss&utm_campaign=canada-slaps-10-tariff-on-canned-vegetable-imports-to-shield-domestic-producers",
+    "date": "2026-06-19T19:52:00Z",
+    "image_url": "https://thedeepdive.ca/wp-content/uploads/2026/06/featured-67.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Johnathan Wall",
+    "content": "Canada has imposed a 10 per cent provisional safeguard tariff on imported canned vegetables, a temporary measure designed to give domestic processors breathing room while a formal trade inquiry plays out. Taking effect Friday for up to 200 days, the tariff does not apply to canned vegetables from the United States, Mexico, Israel, Chile or developing countries, carve-outs that reflect Canada's existing trade obligations. That leaves a narrower set of trading partners actually subject to the measure. The Canadian International Trade Tribunal is conducting an inquiry into whether surging canned vegetable imports have been hurting domestic producers, with its findings expected by September 9. Should the tribunal determine that Canadian processors have not suffered material harm, the tariff would be lifted. Finance Minister François-Philippe Champagne framed the measure as a balancing act. \"With the imposition of this provisional safeguard measure, our priority remains a balanced approach that not only provides relief to our canned vegetables sector but also protects food security and affordability for Canadians,\" he said in a statement issued by the finance ministry. The provisional nature of the tariff is significant. Ottawa is not committing to a permanent trade barrier but is instead buying time for regulators to gather evidence and make a formal determination. If the tribunal concludes domestic producers were not adversely affected, the tariff disappears. If it finds harm, a longer-term remedy could follow. Safeguard tariffs of this kind are a relatively standard tool in trade policy, used when a sudden increase in imports threatens to overwhelm a domestic industry before regulators can fully assess the situation. The 200-day window gives the tribunal room to complete a thorough review without leaving producers exposed in the interim. Information for this story was found via the sources and companies mentioned. The author has no securities or affiliations related to the organizations discussed. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security. The author holds no licenses.",
+    "raw_meta": {
+      "rss_entry_id": "https://thedeepdive.ca/?p=292267",
+      "rss_tags": [
+        "Food",
+        "Latest",
+        "Tariffs"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "66b63f96-a083-4800-84fd-8a5ddc901899",
+    "cluster_id": "ed1b217d-f962-499b-a555-007a5780943d",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+    "teaser": "Poland stripped President Zelensky of a high honor over a dispute about naming a World War II army unit, causing Ukraine to call the move 'disrespectful.'",
+    "summary": "Polish authorities have stripped President Zelensky of a high Polish honor over a disagreement regarding the proper naming of a World War II army unit. Ukraine strongly denounced this action, labeling it a 'strategic mistake' and 'disrespectful.' This incident highlights continued diplomatic sensitivities between the two nations concerning historical recognition and naming conventions related to World War II.",
+    "importance": 3,
+    "category": "world_news",
+    "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-19T21:46:07Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/articles/cr7xzg3dmj8o#0",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
+    }
+  },
+  {
     "id": "31c83639-47f7-475e-9385-6c8552bb6081",
     "cluster_id": "3e699098-135c-482e-a3f7-a0456915e9d1",
     "cluster_size": 1,
@@ -1220,6 +1736,32 @@
     "content": "George W Bush, Bill Clinton and Joe Biden attended, but Donald Trump was not invited.",
     "raw_meta": {
       "rss_entry_id": "https://www.bbc.com/news/articles/cly91eqyd0ko#1",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
+    }
+  },
+  {
+    "id": "42eae95f-a025-49b0-a1f9-05deb702e5a6",
+    "cluster_id": "4dc7e646-5d73-4435-81d0-ffbb8d3f8ad6",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
+    "teaser": "Following World Cup stadium cleaning efforts, some women suggested Japanese fans could extend their helpfulness to housework at home.",
+    "summary": "After observing Japanese male fans cleaning World Cup stadiums, some women made a public comment suggesting that these men could also take on housework at home. The remarks sparked a discussion about perceived gender roles and the idea of a 'double standard,' where men are expected to clean in public but perhaps not at home.",
+    "importance": 2,
+    "category": "other",
+    "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-19T04:30:47Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Some see a double standard: Japanese men who clean in public while their wives do all the housework.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/articles/crel9xlp8r1o#0",
       "rss_tags": [],
       "fetch_ok": false,
       "fetch_status": 403,
@@ -1306,6 +1848,32 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "e1ec1228-b014-447a-84f6-0156aaf6b382",
+    "cluster_id": "29b25b54-442f-41a8-b9dc-53abdbd22f30",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "Would you choose to take a 22-hour non-stop flight?",
+    "teaser": "Sydney locals were polled on taking the longest non-stop flight ever: 22 hours from Sydney to London.",
+    "summary": "The BBC recently conducted a poll among Sydney residents to gauge interest in a newly announced, record-breaking commercial flight. The proposed route is from Sydney to London, featuring a demanding 22-hour non-stop journey. This initiative tests the feasibility and local willingness to undertake such an extended cross-continental flight, marking a potentially major upgrade in long-haul international travel.",
+    "importance": 2,
+    "category": "world_news",
+    "url": "https://www.bbc.com/news/videos/cn4dqg0dz5go?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-19T18:47:31Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The BBC asked Sydney locals if they would take the newly announced, longest ever commercial flight from Sydney to London.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/videos/cn4dqg0dz5go#3",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
     }
   }
 ]
