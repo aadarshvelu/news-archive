@@ -320,6 +320,36 @@
     }
   },
   {
+    "id": "73b425a4-d38d-4290-acc0-e828796e8002",
+    "cluster_id": "3c6d4b79-3fb7-4f2f-87ed-e007ff0cad31",
+    "cluster_size": 4,
+    "source": "The Verge",
+    "title": "No more lightbulbs, much more sports: Five predictions for Roku’s future",
+    "teaser": "Fox's $22B acquisition of Roku will reshape streaming, predicting a shift to sports-centric content and a focus on free, ad-supported viewing.",
+    "summary": "Fox Corporation is set to acquire Roku in a massive $22 billion deal, combining Fox's vast sports and news content with Roku's connected TV platform, serving over 100 million households. While both CEOs promised an open platform, analysis suggests significant shifts. Predictions include making The Roku Channel an exclusive Roku property and phasing out low-margin IoT products in favor of the Matter standard. Fox will heavily integrate its live sports content, like Fox One, into Roku's homescreen, using its massive content catalog and data insights to maximize revenue. This merger strengthens Fox's position in the streaming market and gives it strong access to connected TV advertising revenue.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/column/951850/fox-roku-predictions",
+    "date": "2026-06-18T15:30:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Janko Roettgers",
+    "content": "This is Lowpass by Janko Roettgers , a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When Fox announced its acquisition of Roku earlier this week, executives of both companies were quick to promise that not much would change in the near future. Sure, getting its hands on Roku will help Fox become a major force in streaming, and surpass the viewership of Netflix in the United States when you include Fox's TV networks. But Roku will remain open to all streaming services, and Fox will keep selling its programming to anyone, they pledged. Of course, that doesn't mean everything will stay the same. I expect that the deal will have a significant impact on both companies, and that Roku owners will see major changes once it closes. Here's what I believe is in store for Roku's future: The Roku Channel will become a Roku exclusive One of the questions analysts had on a joint Fox and Roku investor call earlier this week was: What does this deal mean for the future of Tubi and The Roku Channel, the ad-supported streaming services operated by the two companies? The diplomatic answer: The services are complementary, with Tubi mostly serving up movies and TV shows on demand while The Roku Channel has a lot more eyeballs on free, ad-supported streaming channels (also known among industry insiders as FAST channels). That's true, to a degree. Tubi's leadership initially didn't believe in the potential of linear channels and instead put a greater emphasis on being a free Netflix alternative. Roku, on the other hand, had its software deeply embedded in smart TVs and knew that it could build a replacement for the cable guide if it went all in on linear streaming channels. At the same time, Tubi and The Roku Channel do squarely compete with each other on third-party platforms like Fire TV, Google TV, and Samsung, where consumers can download either app to access free programming. Roku expanded onto those platforms a few years ago, but that expansion has been an ongoing cause of confusion for consumers. Many simply can't understand why the Roku app they downloaded onto their Samsung TV or Fire TV doesn't offer them the exact same experience as a Roku device. Another cause of frustration: Roku offers owners of its devices the ability to subscribe to third-party services like HBO Max and Paramount Plus through The Roku Channel. But if they fire up The Roku Channel's app on the Samsung TV in their bedroom, those paid subscriptions are MIA . To simplify all that, I predict that Fox will opt to make The Roku Channel a Roku exclusive, and bet on Tubi as the sole app for ad-supported viewing on third-party devices. Roku will abandon its IoT efforts Over the years, Roku has tried many things to launch an ecosystem of devices around its platform. There was that streaming-optimized mesh router that never launched, and the smart speakers that have been sidelined in recent years. More recently, Roku has bet aggressively on low-cost cameras, lightbulbs, and alarm systems. All of that made sense when the company was trying to go it alone and compete with the likes of Google and Amazon. The fear was that consumers may choose competing products if they couldn't access their security camera feed on their Roku TV. For Fox, IoT is little more than a distraction. The margins of these products are just too low, and there's easier ways to get people to watch more Fox programming than launching yet another smart plug. That's why I predict that Roku will phase out its IoT products and instead embrace the Matter standard to more easily work with third-party hardware. Howdy will become an unexpected hit Fox has been a bit of an outlier in the streaming wars. Companies like Disney and Warner Bros. Discovery spent tens of billions of dollars to build paid streaming services to catch up with Netflix. The Murdoch empire instead waited on the sidelines and bet on Tubi as a free streaming alternative. Fox Nation aside, the company's first real paid streaming service has been Fox One, the sports streamer that launched less than a year ago. That wait-and-see approach is very similar to Roku, which long emphasized ad-supported streaming over paid subscriptions. The first paid service Roku built in-house is Howdy, a low-cost streamer catering to budget-conscious consumers. At $2.99 per month, Howdy is unlikely to become a major moneymaker for Fox. However, I predict that Fox may treat Howdy as a bit of a wild card bet: one more way to monetize its content and a good opportunity to needle and undercut the competition. With that strategy, and with access to Fox's massive back catalog of popular TV shows, I predict Howdy may turn into an unexpected hit with consumers wary of too many ads. Roku will double down on international expansion Fox gave up on some of its international ambitions when it sold its stake in Sky to Comcast in 2018 and shed more assets abroad when Disney bought 21st Century Fox the following year. Since then, Fox has made some efforts to expand abroad again with Tubi, which is now available in Canada, Australia, and Latin America. Those happen to be the very markets that Roku has also been targeting for its own international expansion, with some success: Roku claims to be the number one streaming platform in Canada and Mexico, and its hardware partners are now selling Roku-branded TVs in over 15 countries. However, at its core, Roku, like Fox, is still a US-centric business. In its 2025 annual report , the company disclosed that over 90 percent of its devices revenue still comes from the United States. The same is true for advertising and services revenue, with the report stating that \"we currently generate the vast majority of our revenue in the United States.\" Roku has been cautious to ramp up international expansion, especially in Europe, where Amazon has a much stronger foothold with Fire TV, to keep costs in check. With Fox's support, I expect more aggressive moves into foreign markets along with Tubi. Both Roku and Tubi can help build scale for Fox's streaming efforts. Fox can cash in on those efforts once it has millions of consumers hooked on free programming and affordable TVs. Sports will be front and center on Roku It's hard to ignore the Fox One sports streaming service these days, especially if you're trying to keep up with the World Cup. I expect Fox to double down on that momentum and tightly integrate Fox One with Roku. This doesn't mean that Fox One will become a Roku exclusive. Instead, you'll find sports programming, and deep links to the sports streaming service, everywhere, including Roku's newly redesigned homescreen and its Sports Zones . In other words: Don't be surprised to see Fox build a stadium in Roku City. Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Janko Roettgers Column Lowpass Streaming",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=951850",
+      "rss_tags": [
+        "Column",
+        "Lowpass",
+        "Streaming"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "21fe27f2-be9e-4d51-be21-db7dd7ae497a",
     "cluster_id": "393438be-0de9-47fa-8354-c353957aba11",
     "cluster_size": 3,
@@ -546,6 +576,36 @@
     }
   },
   {
+    "id": "778da30a-b54b-4505-8a14-671c73e7120f",
+    "cluster_id": "590c69ef-c482-4985-9b76-3c40bcae4cba",
+    "cluster_size": 3,
+    "source": "TechCrunch",
+    "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
+    "teaser": "Rivian faces a major lawsuit, accused of falsely promising Level 3 autonomous driving on its flagship R1T and R1S vehicles.",
+    "summary": "Rivian is facing a class-action lawsuit alleging the EV maker misled consumers by promising Level 3 autonomous driving capabilities on its initial R1T and R1S models. Plaintiffs claim Rivian marketed a hands-free system (Driver+) while knowing the first-generation vehicles lacked the advertised 'true hands-free driving' abilities. This legal challenge is compounded by recent operational news: Rivian has implemented layoffs affecting less than 2% of its staff to boost efficiency, and has pushed its profitability goal to 2027 due to intensive autonomous technology development. While the overhauled second-generation R1 models feature a 'Rivian Autonomy Platform' with advanced sensors and functions like 'Universal Hands-Free' driving, the company's struggles with hype, legal scrutiny (paralleling Tesla's issues), and cost control remain central to its narrative.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
+    "date": "2026-06-18T19:31:45Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/rivian-yellow-truck.jpg?resize=1200,900",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Kirsten Korosec",
+    "content": "Rivian has been sued over allegations that the EV maker made false claims about the autonomous driving capabilities of its R1T truck and R1S SUV models. The class-action complaint, which was filed Wednesday in the U.S. District Court for the Central District of California, focuses on the first-generation models of the R1T and R1S and claims that Rivian represented that these flagship vehicles would be capable of hands-free, eyes-off driving. This kind of capability is also called Level 3 autonomy, a designation by the Society of Automotive Engineers (SAE) that means the vehicle can automatically handle steering, acceleration, and braking without the driver's hands on the wheel or eyes on the road in certain conditions such as highways or at low speeds. This doesn't mean these vehicles are fully autonomous; the human driver is still expected to stay attentive and take over when necessary. The lawsuit alleges Rivian falsely promised, over a five-year period and through a coordinated nationwide marketing campaign, that it would make its hands-free driver-assistance system - known as Driver+ - standard in every vehicle it builds. Among the appearances cited in the suit: Rivian CEO RJ Scaringe's appearance at TechCrunch Disrupt 2022, where he reportedly made representations about the company's autonomous driving ambitions. \"No software update - no matter how sophisticated - will enable its Gen 1 Vehicles to perform as advertised,\" the complaint reads. \"Rivian unquestionably knew that its Gen 1 Vehicles would never be capable of Level 3 autonomy or 'true hands-free driving' yet continued to tout the supposed capabilities of its vehicles to induce consumers to purchase them.\" Rivian declined to comment on the lawsuit, citing pending litigation. The lawsuit, which includes three named plaintiffs, makes claims against Rivian for fraud, negligent misrepresentation, and unjust enrichment. Coleman Law and Tycko & Zavareei, the law firms representing the plaintiffs, have requested a jury trial. It wouldn't be the first time Rivian has faced a successful legal challenge. Last year, the company agreed to pay $250 million to settle a class-action shareholder lawsuit filed after it suddenly hiked prices on its R1 pickup truck and SUV in 2022. Rivian's first-generation R1T and R1S vehicles do not offer hands-free driving. Its second-generation vehicles, which were overhauled in 2024 , do. The second-generation vehicles look materially the same, but Rivian revamped their internals, including the battery pack and suspension system, and the electrical architecture, interior seats, and sensor stack. As part of the revamp, the second-gen R1 vehicles were equipped with the \"Rivian Autonomy Platform,\" which comes standard and includes 11 cameras, five radar sensors, and a computer that is 10x more powerful than the previous system, the company told TechCrunch at the time. The advanced driver-assistance system in the second-gen models initially included adaptive cruise control, which maintains speed and distance behind vehicles on the highway, and a highway assist feature that automatically steers, brakes, and accelerates on select highways. Last year, Rivian rolled out \"Universal Hands-Free\" driving via a software update pushed out to second-gen R1 vehicles. The feature allows drivers to take their hands off the wheel on more than 3.5 million miles of roads in the United States and Canada, including a mix of highways and surface streets, as long as there are visible lane lines. Rivian isn't the only automaker to face legal challenges over promises to deliver self-driving features. Tesla and its CEO Elon Musk have spent a decade claiming that its vehicles would be fully autonomous via its Full Self-Driving software. Some owners have sued Tesla for failing to deliver unsupervised Full Self-Driving. Tesla has also come under regulatory scrutiny for claims about the capabilities of its FSD and Autopilot advanced driver-assistance systems. The California Department of Motor Vehicles filed accusations alleging Tesla violated state law by deceptively marketing Autopilot, its basic advanced driver-assistance system, as well as its more capable Full Self-Driving software. A judge ruled in the DMV's favor, but the agency decided in February not to suspend Tesla's sales and manufacturing licenses, a 30-day penalty it opted to forgo because the EV maker has stopped using the term \"Autopilot\" in its California marketing. This article originally published at 11 a.m. PT.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3134189",
+      "rss_tags": [
+        "Transportation",
+        "Exclusive",
+        "Rivian"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "0f53617b-ef6e-4c36-b3d6-ea24368f7f29",
     "cluster_id": "dc195743-7b72-4459-afad-a993467de7c8",
     "cluster_size": 2,
@@ -612,6 +672,32 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "d3b28019-37d1-44cd-b47f-82bb0870e612",
+    "cluster_id": "098b8499-8ff5-403a-8574-63c5ed13c51f",
+    "cluster_size": 3,
+    "source": "thehill",
+    "title": "Technology — GOP embraces speculation about China’s role in data center backlash",
+    "teaser": "Foreign actors are employing sophisticated botnets, AI manipulation, and fake job offers to interfere with US debates over data centers and AI infrastructure.",
+    "summary": "Amid escalating concerns over data centers' environmental impact and electricity costs, both Congress and tech firms are increasingly focused on foreign interference. OpenAI detected Chinese operatives attempting to use AI to manipulate public opinion regarding the energy demands of data centers. Simultaneously, sophisticated cyber threats persist: the JDY cluster linked to Volt Typhoon remains active, targeting vulnerable US infrastructure. Compounding these digital threats, the DOJ reported on suspected PRC operatives using fake consulting sites and job offers to bribe and recruit security clearance holders for sensitive data. These incidents underline a complex challenge where technical vulnerabilities and geopolitical competition intersect, requiring a heightened focus on policy and national security.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://nxslink.thehill.com/click/46225896.27617/aHR0cHM6Ly93d3cuZm94LmNvbS93YXRjaC9jbGlwL2ZtYy15bzBpdjM3MnJ3ZHBsdm10L2ludGVyaW9yLXNlY3JldGFyeS1idXJndW0tZGF0YS1jZW50ZXJzLWNydWNpYWwtZm9yLXVzLWNvbXBldGl0aXZlbmVzcz9lbWFpbD1mMDk0MThhMDEwYjdkYWYyMWM3NDljNDlhOGVmZTMzOTk1ZGQ2OWFlJmVtYWlsYT0wZjlkN2JmN2Y2NTY4Mzg0NDNkZjA1ZTFkY2UzMDIwMSZlbWFpbGI9OGFhYmU2NTc0NTkyNTNjMGJkYTYzNTFhMWZiMGU2MWZmZjZiNjg2OTBkYmFhYjZkNWU0OGMwYzkwNTgxM2ZmOCZ1dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPVRlY2glMjBuZXdzbGV0dGVyJTIwNi4xOA/6a089f55f92dbeadcb034eabBf44fbb2c",
+    "date": "2026-06-18T23:21:36Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "The Hill",
+    "content": "Reports, including from OpenAI, recently emerged suggesting China and other countries are carrying out influence campaigns to fan the flames of Americans' frustration with the data center buildout. Data centers, the server warehouses powering the AI boom, once enjoyed support from politicians on both sides of the aisle. But public opinion has rapidly deteriorated in the face of concerns about the infrastructure's impact on electricity bills and the environment. Democrats have seized on this backlash, especially around energy costs, while Republicans have struggled to coalesce around a message addressing voters' worries ahead of the midterms. \"It makes sense for Republicans to point out China's genuine efforts to influence American politics,\" Ryan Fedasiuk, a fellow at the American Enterprise Institute, told The Hill. \"I'm glad we're doing so. But on some level, it's cope ... it's not going to make the problem go away.\" President Trump largely supports industry development, arguing tech companies need to be able to build without obstacles to effectively compete with China in the so-called AI race. He has sought to speed up the approval of data center projects, curtailing environmental reviews, and pushing for faster grid connections. As the president and his fellow Republicans try to balance a pro-tech agenda with constituents' concerns, at least one key administration official and several GOP lawmakers are latching onto the reports of foreign influence campaigns. \"Any place that's trying to build data centers is getting bombarded with foreign-directed propaganda to try to block these from being built,\" Interior Secretary Doug Burgum told Fox Business Network late last month. House Energy and Commerce Committee Chair Brett Guthrie (R-Ky.) along with Reps. John Joyce (R-Pa.) and Bob Latta (R-Ohio) sent a letter in early June to the FBI and the co-chairs of the President's Council of Advisors on Science and Technology, requesting information about evidence that \"strongly suggests\" foreign influence campaigns. Read more in a full report on Monday at TheHill.com",
+    "raw_meta": {
+      "gmail_message_id": "626",
+      "gmail_uid": "626",
+      "gmail_labels": [],
+      "gmail_msgid": "1868378826696506934",
+      "gmail_thrid": "1868378826696506934"
     }
   },
   {
@@ -737,6 +823,34 @@
       "rss_entry_id": "https://techcrunch.com/?p=3134098",
       "rss_tags": [
         "Space"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "59bbf74b-1dcb-414f-a721-7ff725070ab7",
+    "cluster_id": "1174f51b-a0f9-4eee-a559-3c3eb413dc1e",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "Welcome to your new telco job – here's sudo access to a database with full customer info stored in the clear",
+    "teaser": "A major US telco stored names, SSNs, and credit cards in the clear—all accessible to a new employee on day one.",
+    "summary": "In a severe security lapse at a major US telco in the early 2000s, a new employee, Joker, found that the master customer database stored sensitive PII, including SSNs and full credit card numbers, in the clear. She was granted excessive 'sudo'-level access on her first day, highlighting a major security flaw. The data lacked critical safeguards like encryption or tokenization, meaning sensitive info was easily accessible. Industry best practice requires implementing 'Zero Trust' principles—granting only minimum necessary access—and using tokenization to replace raw data with secure placeholders. Following the discovery, management corrected the issue, forcing a return to proper data protocols.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/security/2026/06/18/welcome-to-your-new-telco-job-heres-sudo-access-to-a-database-with-full-customer-info-stored-in-the-clear/5257932",
+    "date": "2026-06-18T07:00:00Z",
+    "image_url": "https://image.theregister.com/5257971.jpg?imageId=5257971&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "SECURITY Welcome to your new telco job - here's sudo access to a database with full customer info stored in the clear It happened at a major US telco in the early 2000s PWNED Welcome back to PWNED, the weekly column where we register some of the worst tech security mistakes our readers have ever seen. Our goal: to help you not do the same. Have a story about someone leaving a gaping hole in their network? Share it with us at pwned@sitpub.com . Anonymity is available upon request. This week's tale of code carelessness comes courtesy of a database administrator we'll Regomize as Joker. Back in the first decade of the 21st century, she went for a job interview at one of the USA's leading national cellular carriers. What she saw would make you want to swap your SIM. After a successful meeting with a hiring manager, Joker was hired on the spot. Within hours the company granted her sudo-level access to a database server, then instructed her to \"take a look\" at some of the databases. Joker soon realized the carrier's security was no laughing matter as she found herself accessing the main production server for the company's data services division, overseeing all services for the mobile web. This story took place in a time before the iPhone, so she was looking at nasty little versions of websites comressed for viewing on their BlackBerries or flip phones. After peeking around some more, Joker discovered that she had access to the master customer table. It contained nightmarish quantities of personally identifiable information: names, addresses, Social Security numbers, billing info, and even full 16-digit credit card numbers. All of this info was stored in the clear, with no encryption or obfuscation. The CVVs were missing from some credit card info, but many were present. \"There was a central billing system upstream on Amdocs servers, but this database also had billing details so they didn't have to reach back upstream to Amdocs if users asked to provision new services,\" Joker said. After Joker informed management about the mess, they deleted the offending info and forced the developers to go upstream again for billing information, just like they should have been doing in the first place. Joker, like any reasonable DBA, assumed access to this information would be tightly controlled - not made available to new staff with full access rights on their first day. She also assumed her new employer would tokenize key pieces of data because that technique means certain info - say credit card and Social Security numbers - would not be visible in the same table as a customer's name and address. Instead, there would be tokens linking back to the actual numbers stored in a secure token vault. This is common in payment systems. If Joker were less ethical or someone else had gained admin access, they could have exfiltrated large amounts of sensitive data. Permissions should start from a zero-trust assumption and provide only what someone needs to do their job. Joker said that when she later moved on to work for a major online retailer, security was front and center, proving that some people did get it, even back in the George W. Bush era. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5257932",
+      "rss_tags": [
+        "security"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -1018,6 +1132,32 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "71c16523-89b5-41af-9cc1-a6aa4494a896",
+    "cluster_id": "7ba317bf-84ed-418a-8df7-da1210249b23",
+    "cluster_size": 2,
+    "source": "TLDR AI",
+    "title": "KFC Rebrand  🍗, Foldable iPhone Plans📱, Figma Expands MCP 🎨",
+    "teaser": "Apple’s AI-powered Siri arrives in September, while Figma expands its platform with agent capabilities, proving AI is reshaping both consumer tech and design workflows.",
+    "summary": "The technology landscape is defined by AI integration across major consumer brands and creative tools. Apple is emphasizing AI in iOS 27, introducing enhanced photo tools (Cleanup, Extend, Reframe) and confirming the dedicated launch of its AI-powered Siri in September. Furthermore, Apple highlighted its refined 'Liquid Glass' design language. In the corporate space, KFC announced a comprehensive global rebrand developed with JKR. For creatives, Figma is advancing its AI capabilities with an expanded MCP server that allows users to generate and update presentations directly from prompts, greatly enhancing workflow efficiency. Industry advice also stresses that designers must now blend traditional skills with AI expertise. Meanwhile, Apple's foldable iPhone is anticipated for 2027, showing a commitment to this long-term product category.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.designweek.co.uk%2Fkfc-partner-with-jkr-for-major-global-brand-identity-overhaul%2F%3Futm_source=tldrdesign/1/0100019edab00cc9-37c034a9-dce9-42cb-a7aa-85ddc0fa6846-000000/5tnsVqflkHWEmd5lLXIg4CSpluD6oR7-_froTkcjSfQ=452",
+    "date": "2026-06-18T12:23:51Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "TLDR Design",
+    "content": "KFC partner with JKR for major global brand identity overhaul (4 minute read) KFC has unveiled a major global rebrand developed with JKR, refreshing everything from its logo, typography, packaging, and digital presence to restaurant interiors and staff uniforms. Built around a standardized version of its iconic bucket and a more expressive visual system, the redesign aims to strengthen global consistency, celebrate the brand's heritage, and transform KFC from a traditional quick-service chain into a more immersive, experience-driven destination through redesigned restaurants, cultural activations, and new customer touchpoints. The foldable iPhone hasn't launched, but Apple is already planning its successor (3 minute read) Apple is reportedly already developing a second-generation foldable iPhone for 2027, suggesting the company views foldables as a long-term product category rather than an experiment. Expected to feature a wider, iPad-like design with a 7.8-inch inner display, the foldable iPhone reflects lessons learned from years of Android manufacturers refining the form factor and could become a permanent premium tier in Apple's lineup. Four Ways We're Using Our MCP Server at Figma (6 minute read) Figma's MCP server now spans Slides, FigJam, Make, and the new Figma Agent, enabling users to create or update presentations, boards, and prototypes directly from prompts. Teams are using it to refresh branded decks with live content pulled from tools like Slack and Google Drive, generate pre-populated FigJam workshops from data across Asana, Notion, and Hex, and move designs fluidly between canvas and production code without leaving Figma. A new download_assets tool also lets users export SVGs, PDFs, JPGs, or PNGs straight from design files, while write capabilities remain in open beta. What is AX? (5 minute read) AX (agent experience) shifts the design paradigm from teaching users to operate software toward letting them simply state their intent. As AI agents collapse the \"Gulf of Execution\" - the struggle to figure out how to do something - the \"Gulf of Evaluation\" widens: the screen's new job is helping users judge whether agents did what was actually meant. Counterintuitively, blind users who have long navigated computing through language and memory may be best equipped for this shift. What Figma Made Visible (4 minute read) Figma bridged front-end engineering logic and design thinking for one practitioner, making structural relationships - components, styles, and tokens - tangible and learnable through hands-on friction. AI tooling now risks smoothing away exactly that friction, producing designers who generate plausible-looking work without deeply understanding the decisions behind it. Whether today's practitioners will develop equivalent structural intuition through different feedback loops remains an open question the industry has yet to answer. The irritating words and phrases I wish I could mute on Designer LinkedIn (5 minute read) LinkedIn's design community is increasingly criticized for favoring exaggerated claims, recycled AI commentary, and dramatic storytelling over clear, concise communication. Many common phrases and formatting habits create a false sense of urgency or insight, turning straightforward observations into attention-seeking content that often adds more noise than value. Moodboard 3000 (Figma plugin) Moodboard 3000 is an image layout engine for Figma. Select images on canvas, choose a layout, and generate a composed moodboard. Design Canvas that Writes Code (Website) Lunagraph lets you design and create UI using real HTML, CSS, and React code. Stay consistent with zero handoff and work between teams, designers, product, developers, and agents. Designing with Uncertainty: How AI Supercharges Probabilistic Thinking (19 minute read) Designing with AI requires embracing probabilistic thinking - treating model outputs as weighted signals rather than definitive answers, since AI systems predict based on historical patterns that may embed biases and miss future shifts. Practical applications range from calibrating design effort to confidence levels to keeping humans in the loop for review, correction, and model improvement. Ultimately, the mindset shift is less about tools and more about framing: instead of asking, \"Will this work?\", designers should ask, \"How likely is this to work, and what happens when it doesn't?\" AI is Not a New Marketing Problem. It is a New Brand Interface (5 minute read) Most AI marketing challenges - search visibility, recommendations, consistency, attention - are reframings of long-standing problems marketers have navigated before. As consumers delegate purchasing decisions to AI agents, algorithms rather than humans will become the target audience. Until that AI-to-AI marketplace materializes, today's challenges remain identical in nature to those marketers have already solved.",
+    "raw_meta": {
+      "gmail_message_id": "620",
+      "gmail_uid": "620",
+      "gmail_labels": [],
+      "gmail_msgid": "1868337440940289594",
+      "gmail_thrid": "1868337440940289594"
     }
   },
   {

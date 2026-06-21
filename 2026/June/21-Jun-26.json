@@ -1,0 +1,54 @@
+[
+  {
+    "id": "d2467ab7-d9fd-4aef-8bf3-dc989b54c5b9",
+    "cluster_id": "71a5c2f3-fa9e-4943-99b1-24901b4da1ff",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "France bans alcohol at music festival events under red heatwave alert",
+    "teaser": "⚠️ France bans alcohol at music festivals during red heatwave alerts to protect healthcare services during extreme heat.",
+    "summary": "Due to extreme heatwave conditions, France has issued a directive banning alcohol at public music festivals. This policy change, enforced during periods of a 'red heatwave alert,' is a public health measure designed to help preserve critical healthcare services. The ban affects millions of annual street parties, prioritizing public safety over celebratory consumption during dangerously hot weather.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-21T00:29:51Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Annual street parties attended by millions ordered to help \"preserve\" healthcare services in 40C (104F) heat.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/articles/cgmdw4vn7y2o#1",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
+    }
+  },
+  {
+    "id": "00e4200b-c7f6-4f2d-9345-2b8fba84d4e0",
+    "cluster_id": "07c76891-919a-41ff-9bd3-03046cd45605",
+    "cluster_size": 1,
+    "source": "BBC World",
+    "title": "Backstage at Gorillaz' epic, one-off stadium show: 'The vibe is ridiculous'",
+    "teaser": "From the chaos of a one-off stadium spectacle: Damon Albarn, De La Soul, and Moonchild Sannelly talk about the 'ridiculous' vibe backstage at Gorillaz' epic show.",
+    "summary": "Damon Albarn, De La Soul, and Moonchild Sannelly shared insights backstage after Gorillaz' massive, one-off stadium performance. The discussion highlighted the overwhelming and 'ridiculous' vibe of the event. The show marked a major concert moment for the band, capturing the immense energy and collaborative atmosphere of the rock spectacle.",
+    "importance": 2,
+    "category": "other",
+    "url": "https://www.bbc.com/news/articles/cm203gndx0lo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-06-21T01:14:49Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Damon Albarn, De La Soul and Moonchild Sannelly talk backstage as Gorillaz play their biggest show.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bbc.com/news/articles/cm203gndx0lo#2",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
+    }
+  }
+]

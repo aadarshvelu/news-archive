@@ -511,6 +511,45 @@
     }
   },
   {
+    "id": "56997b7e-a511-445a-83f3-17e85e1eebdc",
+    "cluster_id": "c08c0d8d-efaf-4a0e-b302-cebc478326a7",
+    "cluster_size": 6,
+    "source": "SiliconANGLE",
+    "title": "US energy regulator moves to speed up data center projects",
+    "teaser": "By 2030, data centers could require 1,200 TWh of power, straining grids. FERC issues urgent orders to speed up construction and manage the AI energy crisis.",
+    "summary": "The booming AI sector is creating an unprecedented strain on power grids, with energy consumption forecasted to potentially surpass 1,200 TWh by 2030, according to Gartner. To manage this, the U.S. Federal Energy Regulatory Commission (FERC) has issued directives to speed up data center construction and clarify regulations for the six largest interstate power grid operators. These orders push grid operators to improve processing requests for power transmission capacity. Key focus areas include promoting 'flexible large loads' (like AI data centers that adjust power use) and encouraging 'behind-the-meter projects,' which co-locate data centers with local power generation to bypass strained interstate grids. These measures aim to secure the power necessary to fuel the AI revolution.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/06/19/us-energy-regulator-moves-speed-data-center-projects/",
+    "date": "2026-06-19T20:51:27Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/FERC1.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "The U.S. Federal Energy Regulatory Commission has issued a set of orders designed to expedite data center projects. The agency's five commissioners unanimously approved the directives on Thursday. The orders are part of an initiative that U.S. Energy Secretary Chris Wright launched last year to streamline data center construction. According to the Associated Press today, it's believed that additional measures could follow suit down the line. The Federal Energy Regulatory Commission, or FERC, supervises interstate energy transmission infrastructure. The directives it issued on Thursday apply to the six largest interstate power grid operators in the US. Those organizations provide electricity to about 200 million Americans. Data center operators rely on interstate power infrastructure to transmit electricity to their facilities from distant power plants. Such partnerships are governed by a set of rules that are defined by grid operators. According to FERC, its new directives will require interstate grid operators to justify or revise several of their data center rules. The move is intended to increase regulatory clarity and thereby reduce the amount of time needed to power on new data centers. FERC is asking grid operators to improve how they process requests for power transmission capacity. That capacity comprises overhead power lines, transformers and related equipment. Additionally, the agency is pushing for changes to the processes through which grid operators review new power transmission technologies. In February, Microsoft Corp. revealed that it's testing power transmission lines made of superconducting materials. Usually, some of the electricity that flows through power cables turns into heat, which leads to energy loss. Superconducting materials are not susceptible to that issue. Microsoft believes that the technology could help it develop cleaner, more compact power equipment for its data centers. The new FERC directives also prioritize flexible large loads. The term encompasses, among others, artificial intelligence data centers that can adjust their power usage to reduce grid stress. For example, a cloud provider might perform AI training runs at nighttime to avoid hours when residential power consumption is high. Another major focus of the FERC orders is behind-the-meter projects. Those are data centers that are co-located with power generation infrastructure, which removes the need to use interstate grid infrastructure. The behind-the-meter model is becoming increasingly popular among cloud operators. Earlier this month, Google LLC announced plans to co-locate an upcoming data center with more than one gigawatt worth of power generation and storage capacity. It's pursuing the project in collaboration with Intersect Power, a clean energy provider that Alphabet Inc. bought for $4.75 billion last year. FERC has given the six interstate grid operators affected by its directives 60 days to justify or revise their data center rules. Additionally, the agency inviting regional utilities that operate their own power transmission equipment to participate. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=772897",
+      "rss_tags": [
+        "Infra",
+        "NEWS",
+        "The-Latest",
+        "Top Story 3",
+        "AI",
+        "CLOUD",
+        "data center",
+        "Federal Energy Regulatory Commission",
+        "FERC",
+        "google",
+        "Microsoft",
+        "power grid"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "ca729062-0787-455f-8ef5-ebb99388a112",
     "cluster_id": "427e2e97-f743-4bbb-bda7-a89ff33d48a9",
     "cluster_size": 1,
