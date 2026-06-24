@@ -1164,6 +1164,38 @@
     }
   },
   {
+    "id": "5a434b0d-fef8-4d3b-949c-0ec166a87eba",
+    "cluster_id": "a595ed70-ddf5-444b-ab3d-fbc472e5d608",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "Google invests in A24 to build AI movie tools",
+    "teaser": "Google is investing $75 million in A24 to build AI film tools, but experts warn that human artists are still essential for making compelling cinema.",
+    "summary": "Google's DeepMind AI lab is partnering with A24 in a major, $75 million investment to develop new movie production and distribution technologies. The goal is to equip filmmakers to expand their creative scope. While the tech giant aims to bridge the gap between AI and entertainment, industry analysis confirms that current generative AI models are best used as bespoke tools guided by human vision. For example, the film 'Dear Upstairs Neighbors' succeeded because DeepMind customized its models using artist-created concept art to maintain visual consistency. This underscores the consensus that, for compelling cinema, human ingenuity and detailed creative workflows remain critical, regardless of how advanced the AI becomes.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
+    "date": "2026-06-22T17:18:13Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-DeepMind-A24-partnership.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Jess Weatherbed",
+    "content": "Google's DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers \"expand their storytelling possibilities.\" As part of this new research and development collaboration, The Wall Street Journal reports that Google is investing \"around $75 million\" into A24, marking the first time the search giant has taken a stake in a film studio. \"The collaboration pairs a world-leading research lab with the industry's most filmmaker-forward studio to help artists develop new workflows and techniques,\" Google said in its announcement blog . \"This ensures the tools of the future are shaped by the creators who use them.\" The partnership is expected to span across \"multiple projects over time\" according to Google, though the announcement doesn't mention any specific movies that Google will be involved with. WSJ reports that Google and A24 are aiming to create new tools for movie production and distribution, something that Google alluded to in its own announcement, saying the \"initial focus is on bridging the gap between cutting-edge technology and next generation entertainment.\" The multiyear deal is non-exclusive, according to WSJ , and doesn't allow Google to access A24's film and television library data. Still, the partnership is likely to raise some eyebrows in the film industry, given that Google's AI models are trained on publicly available internet data, and how ferociously other movie studios like Disney, Universal , and Warner Bros have fought AI companies for alleged copyright violations . WSJ also reports that Google and A24 are hoping to include the movie studio's existing roster of artists in the deal, such as YouTube creator and Backrooms director, Kane Parsons. In an interview with The Australian earlier this month, Parsons said that \"generative AI feels less like innovation than a symptom of a broader cultural and economic rot,\" and that he gets \" no enjoyment \" out of using the technology on any project. According to Scott Belsky - an A24 partner who was previously Adobe's chief strategy officer - the tools that Google and A24 are developing \"won't look anything like the prompted generation type of AI that people feel uncomfortable with.\" In his statement to WSJ , Belsky said \"there are better uses that preserve creative control and support risk-taking.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=953596",
+      "rss_tags": [
+        "Entertainment",
+        "Film",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "da2e82bb-c455-42ee-8e1d-44f76a238827",
     "cluster_id": "281a343a-4fe4-4857-8aec-b2be4129fd39",
     "cluster_size": 1,
@@ -1414,6 +1446,32 @@
       "rss_tags": [
         "on-prem"
       ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "4eedc544-263f-4080-aa93-3f46a1cdf611",
+    "cluster_id": "19678658-39f4-4598-879d-50071caac31b",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
+    "teaser": "Meta halts mandatory AI training after a major leak exposed private employee conversations and performance data, sparking internal outrage.",
+    "summary": "Meta has paused its Model Capability Initiative (MCI), a mandatory AI training program, following a major internal data leak. The breach exposed highly sensitive employee information, including private conversations, performance data, and transcriptions. Classified as a SEV 2 incident, the leak has sparked employee frustration over the fact that the data was not 'locked down as originally promised,' despite the company emphasizing privacy safeguards. The MCI was designed to improve Meta’s AI models by recording staff keystrokes and mouse movements. This security issue highlights Meta's recurring struggle with data governance, adding to a string of recent security incidents.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+    "date": "2026-06-22T21:43:22Z",
+    "image_url": "https://i.insider.com/6a39921e36d7e6f260b7815c?width=1200&format=jpeg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "petethomas",
+    "content": "Meta is pausing an internal AI training program after sensitive data was accessible across the entire company, according to screenshots obtained by Business Insider. A screenshot showed that the leak exposed employees' private conversations, performance data, and transcriptions. The incident was classified as a SEV 2 on a scale of 0 to 5, with 0 being the most severe. A Meta spokesperson confirmed the incident and said the company is investigating. \"We have carefully designed this program with privacy safeguards, and while we have no indication at this time that any data was improperly accessed by Meta employees, we're pausing it while we investigate,\" the spokesperson said. In April, Meta announced the AI training program, called the Model Capability Initiative (MCI), which was intended to improve the company's AI models by using its staff's keystrokes and mouse movements as training data. The program, which is mandatory for most staff, sparked a backlash from employees who felt uncomfortable with their data being recorded, Business Insider previously reported. This leak is causing frustration within Meta, according to screenshots seen by Business Insider, with employees critical that data wasn't locked down from the start. \"I am incensed,\" one employee wrote on Monday about the recent leak in an internal group, according to a screenshot obtained by Business Insider. \"I don't see any evidence of malicious access, but the fact that this data wasn't locked down as originally promised is super frustrating,\" the employee continued. The leak is the latest in a string of recent security incidents for Meta . Last month, a flaw in its AI chatbot allowed people to hijack multiple Instagram accounts. A rogue AI agent also caused a severe incident in March, the Information reported . Correction: June 22, 2026 - An earlier version of this story misstated Meta's severity scale. 0 is the most severe on its scale. Have a tip? Contact Charles via email at crollet@businessinsider.com or on Signal and WhatsApp at 628-282-2811 . Contact Pranav via encrypted messaging app Signal at +1-408-905-9124 , or email him at pdixit@businessinsider.com or pranavdixit@protonmail.com . Use a personal email address, a nonwork WiFi network, and a nonwork device; here's our guide to sharing information securely .",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48636632",
+      "rss_tags": [],
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
