@@ -296,6 +296,41 @@
     }
   },
   {
+    "id": "36b18fd3-fa4d-4564-8df4-9fca7177c510",
+    "cluster_id": "fd7bdd54-e5ac-4463-9351-d48d775b5f26",
+    "cluster_size": 3,
+    "source": "SiliconANGLE",
+    "title": "Runpod raises $100M to build the leading cloud platform for AI developers",
+    "teaser": "AI compute is booming: Startups are raising $100M+ to build cloud platforms, while new open-source tools let LLMs run 96x faster on standard CPUs.",
+    "summary": "The AI infrastructure space is undergoing massive scaling, attracting significant capital and innovation across three complementary fronts. Runpod secured $100M to build a comprehensive developer-centric cloud platform, allowing users to progress from initial experiment to production easily. Simultaneously, Mindbeam AI launched Litespark-Inference, an open-source solution that drastically increases LLM efficiency by running models on less expensive CPUs rather than exclusively relying on expensive GPUs, achieving up to 96-fold performance gains. Furthermore, Hydra Host raised $100M to manage a global marketplace, pooling high-performance GPUs from multiple data centers to combat the critical compute capacity crunch. Together, these developments illustrate a market trend focused on democratizing and optimizing AI access, offering platforms, efficiency tools, and shared hardware resources to support global AI advancement.",
+    "importance": 5,
+    "category": "ai_research",
+    "url": "https://siliconangle.com/2026/06/25/runpod-raises-100m-build-leading-cloud-platform-ai-developers/",
+    "date": "2026-06-25T17:15:11Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/10/Designer-4.jpeg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Kyt Dotson",
+    "content": "Artificial intelligence developer-centric cloud provider Runpod Inc. announced Wednesday that it has raised $100 million in early-stage funding, pushing the valuation of the company to $1 billion. The Series A funding, led by Summit Partners, brings the company's total funding to $122 million across multiple rounds, including a seed round in May 2024 co-led by Intel Capital and Dell Technologies Capital. The company markets itself as \"the AI developer cloud.\" It provides more than just hosted AI inference - what runs artificial intelligence deployed in the cloud. It gives developers the tools to experiment, train, fine-tune, deploy and scale multi-session model runs, all on one dashboard. The objective of the platform is to provide developers with everything they need to transform projects into working objectives from day one. \"The market spent the last two years narrowing to inference, but builders need more than that,\" Chief Executive Zhen Lu said. \"They need one place to take an idea from first experiment to production traffic, without stitching together multiple tools or waiting on a procurement cycle.\" As of today, the company has attracted more than 1 million developers to its platform. Runpod's serverless platform has also served more than 20 billion inference requests since launch and the median time from sign up to activating a running workload is under an hour, more than 90% of deployments succeed on the first try and 80% of developers who deploy come back to build more. Runpod said its growth reveals the need for deeper developer-centric infrastructure in an industry that continues to grow. The company serves a wide variety of customers, including AI researchers and teams building frontier models. Deep Cogito Inc. used Runpod to iterate and scaffold its family of Cogito v1 open large language models. \"We trained Cogito v1, a family of models that outperforms size equivalent models from Llama and DeepSeek, in 75 days with a small team, entirely on Runpod,\" said Drishan Arora, co-founder and CEO at Deep Cogito. \"The ability to iterate fast on world-class GPU infrastructure without building our own cluster is a genuine competitive advantage.\" With the funding, the company said it intends to continue investing in the platform and developer experience, expand its team across engineering and developer relations and broaden global access for developers worldwide. Image: SiliconANGLE/Microsoft Designer A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=773740",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "AI inference",
+        "artificial intelligence",
+        "Drishan Arora",
+        "RunPod Inc.",
+        "Zhen Lu"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "11f5e13c-921f-4d40-9f19-48ee031cfc96",
     "cluster_id": "5722addd-ed44-4586-bf66-1bfb23433479",
     "cluster_size": 5,
