@@ -1,5 +1,33 @@
 [
   {
+    "id": "bf0b2112-9ce5-4c89-aef7-8bfe6baf0d7f",
+    "cluster_id": "1ce69ec8-6041-4bed-9fa2-8a85dda6161b",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Nation-state actors cracked critical Australian infrastructure to ‘cripple it at a time of their choosing’",
+    "teaser": "Nation-state actors compromised Australian critical infrastructure, acquiring active user credentials to 'cripple it at a time of their choosing.'",
+    "summary": "Australia’s ASIO revealed major security breaches from nation-state actors. Dedicated ASIO teams are now countering sophisticated cyber attacks, as foreign hackers successfully compromised a critical infrastructure provider and acquired active user credentials, preparing for potential sabotage. ASIO also thwarted an espionage plot targeting information on the AUKUS defense pact. During the incident, ASIO publicly confronted the foreign intelligence service, demonstrating its superior knowledge and capability. Furthermore, ASIO stressed that the threat includes radicalization via online spaces and is now adopting AI and advanced techniques to combat these evolving national security threats.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/security/2026/06/25/nation-state-actors-cracked-critical-australian-infrastructure-to-cripple-it-at-a-time-of-their-choosing/5261877",
+    "date": "2026-06-25T04:31:01Z",
+    "image_url": "https://image.theregister.com/259316.jpg?imageId=259316&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "security Nation-state actors cracked critical Australian infrastructure to 'cripple it at a time of their choosing' To defuse another attack, Oz spies called foreign counterparts to tell them an op was a bust Australia's Security and Intelligence Organisation (ASIO) has established dedicated teams to counter nation-state attacks on critical infrastructure, the org's director general Mike Burgess revealed yesterday. \"We discovered nation-state hackers had compromised the network of an Australian critical infrastructure provider,\" Burgess said yesterday in remarks accompanying the release of ASIO's annual threat assessment , a task it performs in its role as Australia's equivalent to the FBI and MI5. \"ASIO assessed the hackers were preparing for sabotage. They weren't planting 'digital dynamite' as such; they were mapping out the network and maintaining access so they could cripple it at a time of their choosing.\" \"In this case, a state-sponsored group didn't just achieve access to the Australian critical infrastructure provider, it successfully acquired credentials - login details and passwords - for active users of the networks, including the IT professionals guarding it,\" he added. Burgess said ASIO \"identified, tracked and attributed the hack, and worked with the victim company and our security partners to remediate the compromise - work which is ongoing.\" \"The scale of this activity - led by one nation-state in particular - is difficult to overstate,\" he added, before saying Australia is not alone in facing such attacks. \"We struggle to find a single country in our region that has not been compromised by this state's cyber apparatus.\" He described cyber sabotage as \"an evolving threat. I have established dedicated teams to counter it.\" Burgess also shared an example of espionage targeting Australia's military to gain information about the AUKUS pact - the US/UK/Australia defense collaboration that will see The Land Down Under acquire nuclear submarines, and which also includes collaborations around information technology capability, and intelligence activities. \"A spy from a foreign intelligence service approached an Australian security clearance holder online, pretending to be from a consulting company,\" Burgess revealed. \"The spy paid the official to write two reports on Australia's relationship with our Pacific neighbours, and then, thinking he'd been hooked, offered money for inside information on AUKUS.\" The Australian official became suspicious, reported the incident and conducted interviews with ASIO during which Burgess said the spy agency \"gained valuable insights into the foreign service's information gaps and tradecraft.\" The Australian official even handed the money they were paid by the foreign spy to ASIO. \"In effect, ASIO disrupted the foreign intelligence service's operation and made them pay for it,\" Burgess crowed. ASIO then scored another win. \"My officers borrowed the phone from the official and rang the so-called consultant in her home country. Thinking it was her target, the spy picked up and got a very unwelcome surprise when she realised she was speaking to ASIO,\" Burgess said. \"We demonstrated we knew exactly who she was, demanded she cease targeting Australian citizens, stated we have zero tolerance for spying on AUKUS, provided a quick overview of Australia's espionage laws and pointed out the Director-General reserves the right to speak publicly about these matters. At that point the spy hung up.\" ASIO officers later mentioned this incident to members of the foreign intelligence service that ran the op. Burgess seems to think that officers at that foreign agency may not have told their superiors about the op failing. \"In case they did not report it up - I'm confirming it now,\" he said. Burgess also pointed to abuse of online spaces continuing to represent a threat to Australia. \"Instead of being radicalised by associates in the real world, individuals are often being radicalised by strangers online,\" he said. \"Instead of being radicalised over months and years, individuals are increasingly being radicalised in weeks. Instead of being radicalised as adults, individuals are all too often being radicalised as minors. Instead of gathering in prayer halls or backyards, radicalised individuals are frequently gathering in encrypted chat rooms.\" \"And, instead of spending time and resources planning sophisticated attacks, radicalised individuals are moving to low-capability attacks with little or no warning,\" he said. \"Traditional groups such as Islamic State and al-Qa'ida and their affiliates are growing their capability to conduct and inspire attacks, enabled both by permissive geographic and online spaces.\" Burgess revealed ASIO has \"resolved\" 14 \"significant-terror related cases\" since the December 2025 terror attack at Sydney's Bondi beach, and 31 \"major terrorism plots\" since 2014. He said ASIO is now \"aggressively adopting new tools and techniques - including artificial intelligence - to navigate our security environment,\" and invited Australians to work for the agency, perhaps as offensive hackers. \"All ASIO's teams contribute to our mission and every ASIO officer makes a difference, whether you collect the dots or connect the dots, run cables or run sources, code networks or penetrate networks,\" he said. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5261877",
+      "rss_tags": [
+        "security"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "0328cdf5-68fb-4635-9a13-b08d733d297a",
     "cluster_id": "56642384-a533-4c04-85ba-8f373cc7a081",
     "cluster_size": 2,
@@ -62,6 +90,32 @@
       "gmail_labels": [],
       "gmail_msgid": "1868970927406539442",
       "gmail_thrid": "1868970927406539442"
+    }
+  },
+  {
+    "id": "6153e69a-3fce-4897-9aae-abf850747cc4",
+    "cluster_id": "6ed1943a-3005-49a6-a263-a3ec8afe9f22",
+    "cluster_size": 5,
+    "source": "TLDR AI",
+    "title": "Warner Bros. Animation 🐥, Foldable iPhone Nears 📱, Adobe AI Workflows🔥",
+    "teaser": "Adobe's AI Assistant is revolutionizing creative workflows by automating multi-step production tasks across Photoshop, Premiere, and Illustrator, shifting AI's focus from single generation to process.",
+    "summary": "Adobe has launched the AI Assistant in public beta across Creative Cloud apps (Photoshop, Premiere, Illustrator, etc.). This tool is designed not merely to generate images but to automate complex, multi-step creative workflows. It allows users to organize source media, clean layers, and prepare projects using natural language prompts, streamlining processes like project setup and media organization. For instance, in Premiere, it can batch rename clips or identify interview questions, taking over the preparatory work previously done manually. Adobe emphasizes that while the AI assists with production steps, users retain ultimate creative control and judgment. The beta is a powerful step towards integrating AI deeply into professional production pipelines.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.creativebloq.com%2Fart%2Fanimation%2Fnew-warner-bros-animation-logo-reveal-is-the-perfect-antidote-to-cgi-saturation%3Futm_source=tldrdesign/1/0100019efebb5750-a990a914-a8da-4a5b-b8ab-8a8ac2515bed-000000/ibHtamy-slyQeYAVW_uiqqwihxEtSRw3vTXP9tMR5Dw=452",
+    "date": "2026-06-25T12:22:30Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "TLDR Design",
+    "content": "Delightful new Warner Bros Animation logo reveal is the perfect antidote to CGI saturation (2 minute read) Warner Bros. unveiled a new flat-design Animation logo at Annecy, featuring a simplified WB shield and Tweety flying alongside it, inspired by traditional hand-drawn animation rather than CGI aesthetics. The logo, which debuted in an animated reveal celebrating the animation process, has been well-received by fans. It accompanies Warner Bros. Animation's upcoming 2026-2028 slate that includes projects such as Tom & Jerry, ThunderCats, Meerkats, and The Cat in the Hat. iPhone Ultra 3D-printed hinge problems reportedly solved, ready for September launch (2 minute read) Reports suggest Apple's foldable iPhone Ultra is back on track for a September unveiling after engineers resolved durability and manufacturing issues with its 3D-printed hinge, including noise during stress testing and assembly tolerance problems. The device has now entered test production. Recent supply-chain sources indicate Apple remains on schedule to launch its first foldable iPhone shortly after its expected September announcement. Adobe: New Firefly Graph Can Turn Creative Workflows Into Reusable Assets (4 minute read) Adobe has launched Firefly Graph for Creative Cloud customers, a node-based workflow tool that lets users chain AI-powered tasks - such as image generation, background removal, and upscaling - into reusable, shareable processes. With access to over 300 node types spanning Adobe and third-party tools from Google and OpenAI, it aims to solve the problem of complex creative workflows that are hard to replicate. Unlike standalone tools such as ComfyUI, Adobe's advantage lies in deep integration across its product suite, from Creative Cloud apps to Firefly Boards and Firefly Creative Production. My Beef with Agentic Design Systems (5 minute read) \"Agentic design systems\" promise autonomous AI loops that self-heal and generate components - but the real danger isn't the agents, it's removing human ownership from the judgment layer. Design systems are fundamentally governance technologies encoding collective decisions that organizations remain accountable for, meaning no agent loop can replace the human who owns what \"pass\" means. Agents belong between the gates, handling generation and conformance checking, while humans must own every gate - otherwise the result is just confident, unowned drift dressed in system authority. Your Documentation is Still in Your Mum's Filing Cabinet (4 minute read) Traditional folder-based documentation systems - inherited from physical filing cabinets and unchanged for 50 years - force knowledge into single locations, making it hard to find. People naturally forage for information through search, links, and colleagues rather than navigating hierarchies, while AI retrieves content by meaning and context, not file location. The solution isn't better-labeled folders, but interconnected, multi-path knowledge systems discoverable through search, tagging, metadata, and semantic relationships. How accepting \"just build this thing\" can hurt your design career (6 minute read) As AI tools make it easier for stakeholders to arrive with polished solutions already in hand, designers risk being reduced to executors unless they actively challenge assumptions, clarify business goals, and help define the problem before designing the solution. Long-term career success increasingly depends on demonstrating strategic thinking-understanding outcomes, questioning briefs, and bringing independent judgment, rather than simply producing high-quality design outputs. Consistency, but in Excellence Not Appearance (2 minute read) Modern design systems have made visual consistency an end in itself, sacrificing the individual excellence that makes icons truly iconic. Rules about shapes, gradients, and lighting are easy to enforce but cap each element's potential, while genuine excellence demands judgment, taste, and sensitivity to context. Flipping the priority - pursuing excellence for each individual element - produces a richer, more meaningful consistency of quality and intention. Designing with AI: Why Claude Design is Not the Future of Enterprise Design (10 minute read) Claude Design accelerates early-stage UI generation but lacks the depth enterprise teams need for governance, scalability, and design system consistency. Its data living in Anthropic's proprietary ecosystem raises serious compliance concerns for industries like health and finance, while limited interoperability complicates handoffs between designers and developers. Enterprise AI design tools should instead prioritize open standards, data ownership, self-hosting, and MCP integration to maintain control and avoid vendor lock-in. Studio Gruhl's identity for Rerun is hard and human at the same time (4 minute read) Studio Gruhl created a new identity for Rerun by rejecting the polished, futuristic aesthetic typically associated with robotics and instead embracing the hands-on, workshop-like reality of building robots, reflected in a bolt-inspired wordmark and tactile visual details. The brand balances technical precision with human creativity through expressive data-driven gradients, restrained typography, and a design system intended to feel both systematic and playful, resonating with developers while remaining approachable.",
+    "raw_meta": {
+      "gmail_message_id": "707",
+      "gmail_uid": "707",
+      "gmail_labels": [],
+      "gmail_msgid": "1868971535292843971",
+      "gmail_thrid": "1868971535292843971"
     }
   },
   {
@@ -274,6 +328,125 @@
     }
   },
   {
+    "id": "4e2192cf-0139-43f5-ad84-54e675b46f7f",
+    "cluster_id": "7c019d4d-81ab-46ad-b429-5bceddf50b09",
+    "cluster_size": 3,
+    "source": "thehill",
+    "title": "Technology — Kids safety legislation faces new hurdles",
+    "teaser": "Lawmakers reached a kids safety deal, but the absence of a 'duty of care' provision is fueling fierce criticism, especially as Congress grapples with complex AI preemption rules.",
+    "summary": "Legislative efforts to regulate Big Tech and safeguard minors are bogged down by conflicting versions of proposed laws. House lawmakers achieved a bipartisan deal on the KIDS Act, incorporating the Kids Online Safety Act (KOSA), but this version lacks a critical 'duty of care' provision. This absence is heavily criticized by advocates, who argue it leaves companies unaccountable for potential harms like suicide and sexual exploitation. The situation is further complicated by the push for 'preemption'—a single federal law meant to set AI rules nationwide. The Senate continues to advocate for a stricter KOSA with a 'duty of care.' With conflicting bills and a difficult political landscape, passing comprehensive child safety and AI legislation remains highly uncertain.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://nxslink.thehill.com/click/46321696.25702/aHR0cHM6Ly90aGVoaWxsLmNvbS9wb2xpY3kvdGVjaG5vbG9neS81OTM4OTM1LWhvdXNlLWJyZWFrdGhyb3VnaC1vbi1raWRzLW9ubGluZS1zYWZldHktZmFjZXMtbG9uZy1vZGRzLWluLXNlbmF0ZS8_ZW1haWw9ZjA5NDE4YTAxMGI3ZGFmMjFjNzQ5YzQ5YThlZmUzMzk5NWRkNjlhZSZlbWFpbGE9MGY5ZDdiZjdmNjU2ODM4NDQzZGYwNWUxZGNlMzAyMDEmZW1haWxiPThhYWJlNjU3NDU5MjUzYzBiZGE2MzUxYTFmYjBlNjFmZmY2YjY4NjkwZGJhYWI2ZDVlNDhjMGM5MDU4MTNmZjgmdXRtX3NvdXJjZT1TYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1UZWNoJTIwNi8yNS8yNg/6a089f55f92dbeadcb034eabB6566161c",
+    "date": "2026-06-25T21:18:07Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "The Hill",
+    "content": "In a rare breakthrough this week, lawmakers in the House reached a bipartisan deal on a package of kids safety bills, but it quickly met pushback from their Senate counterparts who are doubling down on their own versions, including one that could have the backing of the White House. Facing pressure for years from kids safety groups, lawmakers have introduced dozens of bills to regulate social media and AI chatbots, but long-standing disagreements have stopped nearly everything from passing in time. House Energy and Commerce Committee Chair Brett Guthrie (R-Ky.) and ranking member Frank Pallone Jr. (D-N.J.) announced on Monday they reached a deal on a sprawling kids safety package, called the Kids Internet and Digital Safety (KIDS) Act . The package, which initially did not have Democratic support, includes the landmark social media bill, the Kids Online Safety Act (KOSA) , along with portions of 13 other bills related to age verification, AI chatbots, data protections and raising awareness about drug sales on social media. The controversial bill aims to hold social media companies accountable for the alleged harm their platforms cause to minors. It notably differs from the Senate version by not including a \"duty of care\" provision, which would legally require platforms to \"exercise reasonable care\" to prevent harms to minors. These harms include suicide, substance use disorders, sexual exploitation and suicide. \"A lot of folks are concerned because we're close to the finish line, and so we're getting to a point where this is the most real it's been,\" said Jon Schweppe, a senior adviser at Americans Principles Project, a conservative nonprofit group. \"They are doing what they have to do with House politics,\" added Schweppe, who was a senior adviser at the Federal Trade Commission until earlier this year. \"You get something out of chamber there, Senate politics are going to be what they are.\" Check out the full report at TheHill.com .",
+    "raw_meta": {
+      "gmail_message_id": "713",
+      "gmail_uid": "713",
+      "gmail_labels": [],
+      "gmail_msgid": "1869005239729607921",
+      "gmail_thrid": "1869005239729607921"
+    }
+  },
+  {
+    "id": "aa6a6a04-75cb-424e-ba7a-686f113bbf6a",
+    "cluster_id": "bbee19ac-4899-4bcd-8358-29ad754fcd2e",
+    "cluster_size": 3,
+    "source": "SiliconANGLE",
+    "title": "OpenAI staggers GPT-5.6 rollout for government vetting, eyes 2027 IPO",
+    "teaser": "OpenAI is staggers GPT-5.6 rollout for government vetting, signaling federal oversight is now key to releasing frontier AI models.",
+    "summary": "OpenAI's rollout of its advanced model, GPT-5.6, will be staggered and restricted to select partners, reportedly at the request of the government. CEO Sam Altman announced this plan, detailing a customer-by-customer approval process from federal agencies like the Office of the National Cyber Director. This signals a major shift in the market, with Washington exercising increased control over powerful AI models. Competing firm Anthropic has also faced strict government interventions regarding its cybersecurity tools. Meanwhile, OpenAI is adjusting its corporate roadmap, reportedly favoring a 2027 IPO date, a decision influenced by market volatility and internal financial pressures.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://siliconangle.com/2026/06/25/openai-staggers-gpt-5-6-rollout-government-vetting-eyes-2027-ipo/",
+    "date": "2026-06-25T22:48:57Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/openaisam.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Duncan Riley",
+    "content": "OpenAI Group PBC will roll out its next model, GPT-5.6, to a small group of partners rather than the public at the request of the Trump administration, the latest sign that Washington now wants to review frontier artificial intelligence models before they ship widely. The plan was disclosed by Chief Executive Sam Altman during a staff question-and-answer session on Wednesday, as detailed in a report from The Information . Altman reportedly told employees the federal government had asked the company to take the staggered approach and that it was the fastest path to a broad release. In a memo, according to the report, he said the government would be \"approving access customer by customer during this preview period,\" adding that he hoped a wider rollout would follow \"a couple of weeks later\" if the review went well. The arrangement mirrors how rival Anthropic PBC handled Mythos, a model with advanced cybersecurity capabilities that it shared with select partners in April rather than releasing it publicly. The Trump administration later forced Anthropic to pull Mythos and a companion model offline earlier this month under an emergency export control directive citing national security, a confrontation that appears to have set the template for how the government now approaches cutting-edge releases. Reuters also reported the GPT-5.6 review and said the request grew out of talks with two agencies, the Office of the National Cyber Director and the Office of Science and Technology Policy. What the customer-by-customer vetting involves and how long it runs, remains unclear. OpenAI and the White House have not yet publicly commented on the reports. The episode points to a shift in who decides when powerful models reach the market. AI developers have spent years arguing over how openly to release their systems. Increasingly that call is being shaped in Washington, where officials worry that models capable of finding software vulnerabilities or breaking into hardened systems could spread to adversaries before safeguards are in place. OpenAI is navigating the new scrutiny as it weighs the timing of a stock market debut that would rank as one of the largest in history. The company is leaning toward waiting until 2027 to go public rather than filing this year, the New York Times reported today. Recent market turbulence is a factor. SpaceX raised $75 billion in an initial public offering on June 11 that jumped on its debut before surrendering most of those gains, a wobble that has made OpenAI wary of weak demand from retail investors. Chief Financial Officer Sarah Friar has pushed for the later date, pointing to the company's heavy cash burn, its compute commitments and the demands of public reporting, the Times said. Friar has favored a 2027 listing since at least last year, while Altman has leaned toward moving sooner. OpenAI completed the corporate restructuring needed to go public in October , converting its for-profit arm into the public benefit corporation now known as OpenAI Group PBC. It was reported at the time that the company was weighing a filing as soon as the second half of 2026 at a valuation of up to $1 trillion. The company closed a $122 billion funding round at an $852 billion valuation on March 31 . A spokesperson previously told Reuters that \"an IPO is not our focus, so we could not possibly have set a date.\" Photo: OpenAI A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=773791",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "Top Story 3",
+        "AI regulation",
+        "AI safety",
+        "Anthropic",
+        "artificial intelligence",
+        "frontier AI models",
+        "GPT-5.6",
+        "Mythos",
+        "national security",
+        "Office of Science and Technology Policy",
+        "Office of the National Cyber Director",
+        "OpenAI",
+        "OpenAI IPO",
+        "Sam Altman",
+        "Sarah Friar",
+        "Trump administration"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "65cac79c-3304-48cc-a07e-32dc746a9bad",
+    "cluster_id": "4d594726-8aa8-43dd-b0ba-5e5b335b143d",
+    "cluster_size": 4,
+    "source": "SiliconANGLE",
+    "title": "Apple’s Macs and iPads and Microsoft’s Xbox consoles are getting more expensive — blame AI",
+    "teaser": "AI’s relentless appetite for chips is forcing Apple and Microsoft to raise prices across Macs, iPads, and Xbox consoles, signaling a major economic shift in tech.",
+    "summary": "The AI boom is making consumer technology significantly more expensive, forcing major players like Apple and Microsoft to raise prices across their hardware lines. Apple increased prices on Macs and iPads, citing that soaring component costs made the price hikes 'unavoidable.' Similarly, Microsoft increased Xbox console prices and discontinued its 2TB model. Both companies point to the dramatic rise in memory and storage chip costs, which have more than quadrupled over the last year due to immense demand from AI servers. The pressure is reflected in semiconductor stocks, with chip maker Micron reporting record profits and forecasting tight supply conditions into 2028. Consumers can now expect to pay significantly more for nearly any advanced electronic device.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/06/25/apples-macs-ipads-microsofts-xbox-consoles-getting-expensive-ai-blame/",
+    "date": "2026-06-25T23:44:17Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-26-06-43-43.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Mike Wheatley",
+    "content": "The surging cost of memory chips has translated into a bonanza for companies such as Micron Technologies Inc., but for almost everyone else there's going to be a steep price to pay, with both Apple Inc. and Microsoft Corp. raising the price of some of their most popular products today. First came Apple, which announced this morning that it's increasing the prices of its Mac computers and iPad tablet devices, just a week after outgoing Chief Executive Tim Cook said soaring component costs would leave it with no alternative. It was followed hours later by Microsoft, which revealed a significant price hike for the Xbox video game console. The iPhone maker briefly took the Apple Online Store offline in the morning, in a move that normally signifies the launch of a new product. But the only new thing that appeared when it returned was significantly higher prices on some existing devices, with iPad models now costing between 15% and 25% more, and Mac prices rising by between 15% and 20%. Apple said the MacBook Air laptop will now cost $1,299 after receiving a $200 price hike, while its most affordable model, the entry-level MacBook Neo, now costs $699, up $100. The price of the flagship MacBook Pro, meanwhile, has increased $300, to $1,999. As for the iPads, the heavy-duty iPad Pro model now comes with a $1,199 price tag, up $200, while the iPad Air has a new price of $749, up by $150. For now, Apple has put off increasing prices for its iPhone handsets, though it hinted that it's considering doing so in the not-too-distant future. \"We have reached a point where we need to begin raising prices,\" a spokesperson for the company said. \"We have never seen a component price increase this much, this quickly.\" Apple's hand was forced by the soaring cost of dynamic random-access memory chips and NAND storage chips, which have become essential components for the boom in artificial intelligence servers. The cost of those components has more than quadrupled over the last year, according to data from the research firm TechInsights, and most experts project prices to continue increasing in 2027. Both memory and storage are mandatory in everything from smartphones to personal computers, games consoles to cars - basically any \"intelligent\" device. Cook had warned of an imminent price hike last week when he told the Wall Street Journal in an interview that the higher costs of those products had made such a move \"unavoidable.\" In the wake of Apple's move, Microsoft dropped a bombshell on the video gaming world when it said that its Xbox consoles are getting more expensive . It will also be discontinuing the sale of its 2 terabyte model. Gamers have at least been given an early heads up. Starting Aug. 1, the 512-gigabyte Xbox will cost $100 more, while the 1-terabyte models will see prices rise by $150. In a blog post, Microsoft also blamed the price increases on rising memory and storage costs, saying that these components now cost 2.5 times more than they did at the beginning of the year. The company warned that component costs could double again over the next 12 months. The announcements highlight the growing impact of the AI boom on the lives of everyday consumers, who can now expect to pay significantly more money for almost any electronic device. Microsoft has at least tried to soften the blow somewhat, highlighting various financing options for anyone wanting to buy an Xbox, including its Buy Now, Pay Later options through the Microsoft Store. It also said it's working on creating new programs for anyone that wants to buy \"previously played consoles at lower prices.\" \"Players who are ready to upgrade or no longer use their console will be able to trade it in with participating retail partners for cash or store credit,\" the company said. \"Those consoles will then be made available at lower prices for players.\" Apple's and Microsoft's announcements came less than a day after Micron, America's biggest manufacturer of memory and storage chips, delivered record-breaking revenue and profit in its latest quarterly financial report. Its stock gained more than 16% after the company revealed a gross profit margin of more than 86% on its memory chip products, and helped trigger a broader rally among semiconductor stocks today. In yesterday's earnings call, Micron CEO Sanjay Mehrotra said that tight supply conditions are set to persist into 2028, having previously forecast the situation to last only into 2027. Image: Apple A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=773828",
+      "rss_tags": [
+        "Apps",
+        "NEWS",
+        "The-Latest",
+        "Top Story 2",
+        "Apple",
+        "cost of memory",
+        "iPad prices",
+        "Mac prices",
+        "memory chips",
+        "memory costs",
+        "memory crunch",
+        "memory demand",
+        "memory shortages",
+        "Micron",
+        "Microsoft",
+        "price hikes",
+        "price increases",
+        "prices",
+        "storage chips",
+        "Xbox prices"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "098a7d67-1c9a-4f0c-83ac-c53d2855f6e5",
     "cluster_id": "202b5144-beeb-4b46-8209-8cf7e4e66a0b",
     "cluster_size": 1,
@@ -312,6 +485,62 @@
         "web crawlers",
         "web indexing",
         "web search"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "2ad7eab3-c235-41c2-a67e-eb0b52e01c26",
+    "cluster_id": "f1487417-041f-4728-a59d-282e090b868e",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "UK school’s network left wide open for invasion, student found",
+    "teaser": "A 17-year-old student found a UK school's admin password, 'horse fence ditch,' visible right in the Active Directory description field.",
+    "summary": "A security audit revealed a critical vulnerability at a UK school where a 17-year-old student discovered the network's comprehensive admin credentials. The core failure was the storage of sensitive passwords, such as 'horse fence ditch,' in cleartext within the Active Directory description field. The student could access student and staff data, domain controller tools, and user mailboxes via the Google Workspace synchronization. Experts warn that storing passwords in description fields is highly insecure, illustrating the massive risk posed by poor internal IT security management.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/security/2026/06/25/uk-schools-network-left-wide-open-for-invasion-student-found/5261567",
+    "date": "2026-06-25T07:00:00Z",
+    "image_url": "https://image.theregister.com/5261596.jpg?imageId=5261596&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "SECURITY UK school's network left wide open for invasion, student found And the admin password was right in the Active Directory description field PWNED Welcome back to PWNED, the weekly column where we school ourselves on others' security failures. This week, we'll learn about a school where the entire network was like an open-book test ... and the IT department got a zero. Have a story about someone leaving a gaping hole in their network? Share it with us at pwned@sitpub.com . Anonymity is available upon request. Our tale of academic pwnage comes courtesy of a reader we'll Regomize as Nathan. Nathan was 17 and attending sixth form at a UK school when he found a treasure trove of admin privileges and data at his fingertips. One day, our hero connected his laptop to his school's Active Directory domain. There was no admin authentication required and Nathan was able to see domain controller tools in view mode, look at policy maps, and so on. Nathan then browsed the directory and located the domain administrator account. The password, \"horse fence ditch,\" was written right in the description field, where anyone with access to the network could view it. There were also backup accounts with passwords such as \"bd\" and \"bigbaddog.\" Once he had full God mode enabled, Nathan said, he could see student and staff data, gain Remote Desktop access to any server or domain controller, and even access LanSchool, a popular classroom management app. \"I could've accessed sensitive leadership docs, reset passwords, deleted accounts, wiped the whole network, etc,\" Nathan told The Register . Moreover, the entire system was synced with Google Workspace, so Nathan had access to user mailboxes as well. He even found firewall settings, security policies he could change, and keystroke histories. Because Nathan was a student and did not want to get in trouble at school, he didn't actually use any of these privileges. He kept his head down and graduated from school without incident, but also without reporting the vulns, which might still be in place today for all we know. So what can we learn from this tale of academic malpractice? First, as we learned a few weeks ago , do not store passwords in description fields for Active Directory. In fact, do not store passwords in cleartext anywhere without serious controls! Second, Nathan should not have been able to see Active Directory domain controller tools. And it might also have helped if Google Workspace had different admin credentials. Imagine the restraint required not to change people's grades, take over their computers, or delete data. Would you have been able to exercise the same level of discipline as a 17-year-old? ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5261567",
+      "rss_tags": [
+        "security"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "445a76c2-e8aa-497b-a120-be847ea89cf9",
+    "cluster_id": "62744af3-7a8a-4a9b-8dcf-4da62edb1ba1",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Salyut 5 at 50: The Soviet space station that sickened one crew and nearly drowned another",
+    "teaser": "The Soviet Salyut 5 station faced mysterious odors, failed dockings, and harsh survival ordeals, marking the dramatic end of a major space program.",
+    "summary": "Salyut 5, the final crewed Almaz space station (launched June 22, 1976), provides a dramatic look at early Soviet space program challenges. Developed as the Soviet response to the canceled Manned Orbiting Laboratory (MOL), the station saw three major missions. The first crew (Soyuz 21) returned early after struggling with an acrid odor. A second attempt (Soyuz 23) resulted in a failed docking and a harrowing survival ordeal in Lake Tengiz. A later mission (Soyuz 24) operated successfully for just over 16 days, demonstrating advanced air-replacement techniques. However, the program concluded when Salyut 5 was deorbited on August 8, 1977, due to critically low propellant levels.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/science/2026/06/25/salyut-5-at-50-the-soviet-space-station-that-sickened-one-crew-and-nearly-drowned-another/5261425",
+    "date": "2026-06-25T08:21:00Z",
+    "image_url": "https://image.theregister.com/193575.jpg?imageId=193575&x=0&y=27.37&cropw=100&croph=72.07&panox=0&panoy=27.37&panow=100&panoh=72.07&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "SCIENCE Salyut 5 at 50: The Soviet space station that sickened one crew and nearly drowned another The last inhabited Almaz outpost was short-lived, secretive, and remarkably accident-prone It is half a century since the Soviet Union launched the final crewed Almaz space station, also known as Salyut 5, which was home to two crews, while a third mission failed to dock and nearly came to a watery end. The Almaz stations were launched for the Soviet military and are better known as Salyut 2, 3, and 5. There were additional stations under construction, but the crewed program was canceled after Salyut 5. While we hesitate to use the word \"cursed,\" Salyut 5 was certainly an eventful program for its crews. The station was launched on June 22, 1976, atop a Proton-K rocket from Baikonur. Known internally as OPS spacecraft (Orbital Piloted Stations), the Almaz stations had a pair of solar arrays, reconnaissance equipment, and a cannon mounted at the base of each station, which was test-fired on Salyut 3 while uncrewed. The first crewed mission was expected to last more than 50 days, and three further missions were planned. The mission did not go according to plan. Soyuz 21, carrying cosmonauts Boris Volynov and Vitaly Zholobov, was launched to the station on July 6, 1976. At first, everything went swimmingly. The duo conducted experiments aboard the space station and undertook reconnaissance. After all, this was the Soviet answer to the US's Manned Orbiting Laboratory (MOL), which would have used astronauts to perform surveillance on targets from a space station. The MOL was canceled before any crews were flown. The Soyuz 21 crew began experiencing problems in August. David Harland's book, The Story of Space Station Mir, notes that Russian newspapers \"reported on 18 August that the cosmonauts seemed to be suffering from 'sensory deprivation' and that psychologists monitoring their health had suggested that music be played to them over the voice uplink.\" A few days later, Radio Moscow took a different line, noting that a prolonged flight could be on the cards due to favorable levels of solar radiation. On August 24, the crew returned to Earth after 49 days, earlier than scheduled. It's unclear what happened, although most reports suggest an acrid odor developed aboard the station, possibly from chemicals used to develop photographs from the surveillance equipment or from fumes leaking from the Salyut's fuel tanks. The station's environmental systems were unable to address the problem, and officials, fearing for the cosmonauts' health, elected to bring them back early. A second mission to the station, Soyuz 23, was launched on October 14, 1976, but an equipment malfunction stopped the crew from docking with Salyut 5. The failed docking was only the beginning for the two cosmonauts on board, Vyacheslav Zudov and Valery Rozhdestvensky. The spacecraft splashed down in the freezing waters of Lake Tengiz, and the pair were stranded in the capsule until rescuers dragged it to shore the following morning. \"It was fortunate that such an ordeal had not befallen Volynov and Zholobov in their weakened condition,\" Harland noted. Not to be deterred, the Soviet military tried again with Soyuz 24, crewed by cosmonauts Viktor Gorbatko and Yuri Glazkov. The mission launched from Baikonur on February 7, 1977, and successfully docked with the station. The pair had a shorter stay on board Salyut 5, departing after just over 16 days of docked operations, but did not suffer the problems of the first crew, and demonstrated an air-replacement technique that involved venting the station's atmosphere from one end while air was released into the station from the tanks of their Soyuz. Harland reported that the crew felt a \"light breeze\" during the operation. The Soyuz 24 backup crew was assigned to a planned fourth visit to the station, but, as described by Anatoly Zak of RussianSpaceWeb.com, the station's propellant was likely running low, and, with no way of refueling, Salyut 5 was deorbited on August 8, 1977. Salyut 5, or OPS-3, was the final crewed station of the Almaz program. Subsequent Salyut stations would have a civilian focus and additional docking ports for replenishment, but the project yielded useful operational lessons, even if there would be no more Almaz crews. The project does, however, have an intriguing coda. An unfinished Almaz station was acquired a few years ago by an Isle of Man-based company, Excalibur Almaz. The project came to naught, but the incomplete Almaz-206 can be viewed at the excellent Isle of Man Motor Museum . ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5261425",
+      "rss_tags": [
+        "science"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -547,6 +776,32 @@
     }
   },
   {
+    "id": "e58504b4-b3e1-464f-9277-2125aa2591e7",
+    "cluster_id": "6f5350e2-488b-41bd-9f94-52e70dceb7cf",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "Political bias in AI: Where the AI models stand",
+    "teaser": "New study reveals AI models' inherent biases by plotting their answers as 'clouds' over charged questions, independent of online search.",
+    "summary": "The 'Political bias in AI' project is a descriptive study that measures the political stance of major AI models on contentious topics, including politics, economics, and society. Unlike simpler tests, it runs models repeatedly, plotting results as 'clouds' to show the full spread of possible answers. The research uses an open question bank and ensures the measurements are independent of the internet by disabling web search by default. The project emphasizes its neutrality, stating it reports what the models say without making a judgment on which political viewpoint is correct.",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://trakkr.ai/bias",
+    "date": "2026-06-25T13:08:31Z",
+    "image_url": "https://trakkr.ai/og-bias.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "mektrik",
+    "content": "What is Political bias in AI? Political bias in AI measures where the major AI models stand on charged questions about politics, economics, speech and society. We ask every model the same open question bank many times over, with web search off, classify each answer with a cheap neutral model, and plot the result with error bars and the raw answers behind every point. How is this different from other AI political bias projects? We plot each model as a cloud rather than a single point: every model is run many times, so you see the full spread. We publish our own open question bank with scoring weights, tag each item as factual or values-based, measure run-to-run stability, and count refusals as data. Everything is stamped, versioned and downloadable. Do you test the model or the internet? The weights. Web search is off by default, so the reading reflects what the model itself leans toward, independent of what is online. A separate, deliberately small Border Test turns search on to measure how retrieval shifts answers by location. Is Political bias in AI partisan? No. It is descriptive rather than prescriptive: it reports what the models said, without ruling on who is right. The palette is deliberately not US red and blue, and we never imply which pole is good.",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48672779",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "4b213b26-df64-4867-9091-48e7b154e36c",
     "cluster_id": "4f5421d9-c5ff-48f2-8c55-efd8840f6e21",
     "cluster_size": 1,
@@ -688,6 +943,32 @@
     }
   },
   {
+    "id": "42b66549-a397-4fc6-8046-f52c5ef81136",
+    "cluster_id": "e7bbf458-a27f-4662-940f-dc26112ad9b1",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+    "teaser": "New open-source editor OpenKnowledge offers local-first, WYSIWYG editing and collaborative AI-editing using Claude/Codex, challenging Notion and Obsidian.",
+    "summary": "OpenKnowledge is a new, open-source, local-first markdown editor designed to serve as an AI-first alternative to popular tools like Notion and Obsidian. It provides a full WYSIWYG experience, making markdown editing feel seamless, like using Google Docs. Key features include collaborative AI-editing capabilities powered by major LLMs such as Claude, Codex, and Cursor. Furthermore, it supports Git/GitHub for automatic syncing and team sharing. The platform includes out-of-the-box agentic search and skills for building LLM wikis and 'second brains,' making it a powerful, locally controlled tool for developers and knowledge workers.",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://github.com/inkeep/open-knowledge",
+    "date": "2026-06-25T16:04:46Z",
+    "image_url": "https://opengraph.githubassets.com/fd2caa389395bee5949e6a2cb67b6afd2b73abd922ebfd0886800c17d13e30db/inkeep/open-knowledge",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "engomez",
+    "content": "OpenKnowledge is a beautiful, local-first markdown editor and LLM wiki with integrations for Claude, Codex, and other harnesses. Available as macOS app or Web app/CLI for Linux, Windows, Intel Mac. Key highlights: Full WYSIWYG so that editing markdown files feels like editing a Google Doc or Notion page. Collaborative AI-editing with Claude, Codex, and Cursor desktop apps . Can be used with any harness/agent via MCP/CLI. Out-of-the-box MCP , skills , and agentic search for LLM Wikis, agent second brains, and spec-driven development. No-code Team Sharing and Auto-sync powered by git/GitHub under the hood. Docs for general usage: https://openknowledge.ai/docs . macOS: download the desktop app - open the DMG, drag OpenKnowledge to Applications , and launch it. Latest release . Linux, Windows, Intel Mac: run the same editor as a local web app via the CLI ( Node.js 24+ required): npm install -g @inkeep/open-knowledge cd your-project\nok init # scaffold the project + wire up Claude Code, Cursor, and Codex ok start --open # serve the web editor and open it in your browser Public pull requests are welcome. When a public PR opens here, automation mirrors it into the internal monorepo for review and merge. See CONTRIBUTING.md for details. OpenKnowledge is licensed under the GNU General Public License v3.0 or later ( GPL-3.0-or-later ).",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48675435",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "31f9ad1c-78ba-405a-b496-397d6bdce584",
     "cluster_id": "f7fc35ef-1f3d-4d93-b258-a7bd73c163b0",
     "cluster_size": 1,
@@ -747,6 +1028,32 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "d62a1623-8856-4bc6-8e93-a595b000c4a6",
+    "cluster_id": "4833cdc9-7fa0-4a07-8247-90f41379b436",
+    "cluster_size": 2,
+    "source": "HN: AI",
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+    "teaser": "Apple may revive a partnership with Intel, shifting from its custom M-chips to secure crucial manufacturing capacity amid intense AI chip demand.",
+    "summary": "Apple may re-engage Intel as a chip partner, despite abandoning Intel in 2020 for its M-series chips manufactured by TSMC. While the potential deal was framed politically by President Trump as a move to reshore semiconductor production, the article notes Apple's motivation is practical: reducing supply chain risk. TSMC, which currently makes the M-series chips, is facing strained capacity due to surging demand from AI hardware companies. By adding Intel, Apple gains much-needed capacity. Intel itself is rebuilding its manufacturing credibility, securing major commitments from companies like Tesla and Nvidia for its advanced 14A process.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "date": "2026-06-25T17:38:44Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "scrlk",
+    "content": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-... also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h... Comments URL: https://news.ycombinator.com/item?id=48676795 Points: 202 # Comments: 159",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48676795",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
     }
   },
   {
@@ -810,6 +1117,189 @@
     }
   },
   {
+    "id": "34eb0a60-ed7d-46de-b3a7-e99f327da91e",
+    "cluster_id": "7ff6dac5-8c98-49ff-97e4-fee72c3c0dcf",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Perseverance rover finds even more signs of extinct life on Mars",
+    "teaser": "Perseverance rover detects potential signs of ancient life on Mars, fueling hopes for life confirmation from Earth.",
+    "summary": "Scientists utilizing the Perseverance rover in Mars' Jezero Crater have reported finding signs of macromolecular carbon (MMC) in the rock Cheyava Falls. MMCs, which on Earth are linked to vital organic compounds, suggest ancient Mars may have been highly habitable. While this discovery, corroborated by earlier findings from Curiosity, is exciting, researchers caution that MMCs could also originate from abiotic sources like meteorite impacts. Proof of life hinges on sample return to Earth. The article notes China is advancing its Mars sample-return plans, highlighting the ongoing 'race' for scientific proof.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/offbeat/2026/06/25/perseverance-rover-finds-even-more-signs-of-extinct-life-on-mars/5262477",
+    "date": "2026-06-25T18:38:12Z",
+    "image_url": "https://image.theregister.com/251831.jpg?imageId=251831&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "offbeat Perseverance rover finds even more signs of extinct life on Mars Scientists remain skeptical, plead for someone to bring the rocks home Yet another Martian rock formation has revealed what may be signs of ancient life on the Red Planet. While these findings aren't as scientist-wowing as those reported last year, they add to growing evidence that ancient Mars contained organic carbon and may once have been habitable. An international team of scientists working on examining Martian rock samples collected and analyzed by the Perseverance rover reported in Science Advances Wednesday that they'd found signs of macromolecular carbon (MMC) in the Martian r ock dubbed Cheyava Falls . Like most of the other life-affirming samples collected from Mars, this one comes from Jezero Crater, where Perseverance has spent the entirety of its five-year mission. Jezero Crater, and particularly the long-dried riverbed known as Neretva Vallis that fed what's believed to be a large lake that once filled Jezero, has been the site of several potential signs of ancient life on Mars, and it's no different in this case. Two instruments at the end of Perseverance's arm, the Scanning Habitable Environments with Raman and Luminescence for Organics and Chemicals (SHERLOC) and the Wide Angle Topographic Sensor for Operations and eNgineering (WATSON), were collectively responsible for the discovery of MMCs in Cheyava Falls. MMCs found on Earth are often associated with organic compounds essential to life, including carbohydrates, lipids, proteins, and nucleic acids, and there's a distinct possibility that the MMCs found on Mars could have come from similar sources. The Cheyava Falls team was also excited to link their findings to a discovery made by Curiosity in 2018, which found evidence of similar materials more than 3,500 kilometers away in Gale crater. The potentially organic matter discovered by Curiosity was dubbed \"kerogen\" by that team. From a strictly scientific standpoint, kerogen can be used interchangeably with MMC, but the Cheyava Falls team opted to avoid that terminology in order to \"avoid implications of biogenicity.\" That said, it's still exciting to the team, and the widespread discovery of MMCs across Mars could indicate that \"habitability ... and the availability of organics, may have been widespread across the planet billions of years ago.\" This discovery hasn't led the researchers to jump to conclusions, however. As they note in the paper, there are a number of lifeless sources of MMCs that could be the cause of their detections, with meteorite impacts and abiotic synthesis of organic matter that could both be responsible. \"There are multiple potential pathways to form abiotic organics on Mars, including condensation from igneous systems and associated volatiles, serpentinization, carbonation, and the electrochemical reduction of carbon dioxide in aqueous/hydrothermal fluids,\" the team noted. In other words, this is nowhere near the confounding mystery that NASA admitted it had on its hands in September of last year. Perseverance drilled a core sample called Sapphire Canyon from the Cheyava Falls rock, which NASA said last year contained potential signs of ancient life that it couldn't readily explain through abiotic processes, though non-biological explanations remain possible. \"A year ago we found what we believe to be signs of microbial life on Mars' surface,\" then-acting NASA administrator and transportation secretary Sean Duffy said at a press conference last year. \"After a year of review [the scientific community] has come back and said it can't find another explanation.\" Jezero Crater has given up other signs that it may have been a vibrant, living ecosystem too. In March, researchers reported that the same region also turned up signs of nickel compounds that indicate the formation of enzymes related to bacterial biological processes, but again those signs are also explainable by non-biological action. Proof of life requires samples brought to Earth Both the report released Wednesday and the research leaders behind it are unequivocal on what it'll take to confirm the growing body of evidence that there was once life on Mars: Samples need to be returned to Earth for inspection. \"The instruments on the Perseverance rover were not designed to distinguish between rocks that formed through biologic or abiotic processes, but they are able to identify compelling rocks to sample for possible return to Earth,\" SHERLOC principal investigator and NASA Jet Propulsion Laboratory scientist Kyle Uckert told us in an email. Uckert reiterated to us that humanity's best chance at fully understanding whether the various organics detected in Jezero Crater is some sort of sample-return mission, and he explained that rocks they sampled for the study are packaged, sealed, and waiting for the possibility that something like that still happens. That's far from a sure thing at this point, as NASA's Mars Sample Return plans are essentially scuttled at this point - something Uckert and his co-lead author, Planetary Science Institute researcher Ashley Murphy, declined to weigh in on when asked. Meanwhile, China is already pressing ahead with its own Mars sample-return mission, with launches planned for 2028 and a sample return targeted for around 2031. China already has a leg up on the US in the sample return space, with the China National Space Administration returning samples from the far side of the Moon to Earth in 2024. NASA has collected samples from an asteroid and returned them to Earth, to be fair, but Mars is still a long way off, and life or no life, getting samples back to prove it is going to be a race that China may win if its current plans work out. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5262477",
+      "rss_tags": [
+        "offbeat"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "def63534-a391-4ffc-ab85-df2112b3ca0b",
+    "cluster_id": "ced78933-fd4e-4243-af99-87bcfed64048",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Notion Mail shuts down amid agent takeover",
+    "teaser": "Notion is shutting down its email product, Notion Mail, betting big on AI agents to manage inboxes instead of traditional viewing.",
+    "summary": "Productivity company Notion is retiring Notion Mail on September 22, shifting its focus entirely to its AI agent offering. This move reflects a trend where users are increasingly offloading email tasks to agents rather than manually checking their inboxes. Notion stated that over half of Notion Mail users already manage emails without opening their inbox, prompting the company to 'go all in' on agent workflows. While Notion Mail is connected to Gmail, users must manually export drafts and scheduled emails. The discontinued product was aimed at competing with tools like Superhuman and Fyxer, and the company assures that its email-based agents will remain functional post-shutdown. This shift positions Notion alongside newer, agent-focused startups like AgentMail.",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+    "date": "2026-06-25T19:14:46Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/WhatsNew_Mail05.png?w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Ivan Mehta",
+    "content": "Productivity company Notion is shutting down its email product, Notion Mail, on September 22. The company said it is discontinuing its email inbox in favor of its AI agent offering. It noted that users were increasingly handing over the reins of their email to the agents, and not opening their inbox at all. \"As Notion agents have gotten more capable, we've seen more users hand off email workflows to them. Today, more than half of Notion Mail users manage emails without ever opening their inbox. So, we're going all in on using agents to run your inbox,\" the company said in a post on X . Notion Mail is connected with Gmail, meaning all emails in the inbox will stay intact. However, users will need to export drafts and scheduled emails if they want to keep them. The company said that users can export snippets and auto-label instructions and use them elsewhere and emphasized that Notion's email-based agents will keep working post-Notion Mail shutdown. Notion announced its email product in preview mode in 2024 after it acquired security-centric productivity startup Skiff. The company aimed to integrate email with Notion AI with features like auto-labeling, filtering, and handling scheduling for users. The company made the product available to users in April 2025 to better compete with the likes of Superhuman and Fyxer . Newer startups like AgentMail are in step with Notion's thesis and are trying to build an email service specifically for agents .",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3136429",
+      "rss_tags": [
+        "Apps",
+        "AI agents",
+        "email",
+        "In Brief",
+        "Notion"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "bfa73f86-cede-43dd-9355-4d9ca9d706a0",
+    "cluster_id": "bc880a56-ce2b-4ab8-b41f-a0d193252dca",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "Instagram wants to monopolize your attention",
+    "teaser": "Instagram is going big on TV, launching features for longform, episodic content to compete with Netflix and YouTube in the living room.",
+    "summary": "Instagram is making a major strategic pivot to dominate the living room viewing experience via its smart TV app, aiming to compete with YouTube and streaming services. The platform is rolling out features like horizontal videos and disappearing Stories, alongside plans for longform, episodic content and live creator experiences. While the app is already on Amazon Fire TV, Google TV, and Samsung Smart TVs, its success depends on transitioning users from portable, short-form phone scrolling to stationary, shared, long-form content. Experts note that though the company aims to become a microdrama hub (a $14B market by year-end), replicating YouTube's breadth of content remains a significant challenge.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video",
+    "date": "2026-06-25T20:10:24Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-24-at-4.43.00-PM.png?quality=90&strip=all&crop=0%2C1.8565324667509%2C100%2C96.286935066498&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Charles Pulliam-Moore",
+    "content": "This week, Instagram launched a series of new features for its smart TV app that are all designed to get people to spend more time on the platform through the biggest screens in their homes. In addition to vertical Reels , Instagram for TV - which is currently available for Amazon Fire TV, Google TV, and Samsung Smart TVs - users can now watch disappearing Stories and horizontal videos with aspect ratios similar to what you typically see on YouTube. And soon, Instagram will make a big push for longform, episodic content and TV-focused \"live creator experiences.\" This foray into the TV space feels very different from the Meta-owned company's previous attempts to capture more of our attention by adding functionalities borrowed from competitors like TikTok , Snapchat , and Periscope (RIP.) It's all contingent on the idea that people want to sit on their couches to watch Instagram content that they would typically consume on their phones. The fact that we take our phones with us basically everywhere means that Instagram is always just a few taps away. The inherent portability of phone-based Instagram is arguably the biggest reason why the platform has managed to hit 3 billion monthly users . Scrolling through Instagram's discovery page is something to do while you're bored and already swiping through your phone. It's easy to fire the app up and send videos to friends while you're commuting, waiting for an elevator, or using the bathroom. But Instagram's latest pivot is geared toward a more stationary experience that's meant to be shared with people in the same room. This is a big bet. Instagram says that community feedback is what inspired it to roll out the TV app's new features. Some of them - like being able to cast Reels from your phone to your TV - make a certain amount of sense. If someone wants to share a funny video with a group, it'd be easier to throw it up onto a larger screen instead of having everyone cluster around a phone. What feels a little more dubious are Instagram for TV's new dedicated channels that are supposed to \"make it easier to find videos everyone in the room can enjoy together\" even though the feeds are tailored to individual users' interests. It's also hard to imagine people wanting to watch a carousel of Stories - which are essentially vertically oriented multimedia slideshows - on their televisions. Stories look awkward on widescreen displays, and interacting with them using a remote is much less intuitive than swiping through them on a phone's touchscreen. This is probably why Instagram is also testing a dedicated section for widescreen content. The company's plan to develop longform content and episodic series with creators is a sign that Instagram knows its TV app can't just be a place where people scroll through videos that only last a few seconds. It's obvious that Instagram is trying to capture some of the attention away from YouTube and newer upstarts like the many microdrama platforms that have begun popping up. Microdramas are already a booming business. The sector's revenue is estimated to hit $14 billion by the end of the year. On mobile, Instagram is in a very good position to get into the microdrama game given the app's built-in, massive user base. Most microdrama apps require you to sign up and then either pay per episode or subscribe to monthly or yearly plans to access their content. If Instagram can convince creators to start producing more of these kinds of videos on their own, the company could very well turn itself into a new microdrama hub. Instagram may be leading with the vertical content for the moment, but with the understanding that longform, horizontal videos need to become central to the TV app for it to succeed. Speaking with The Hollywood Reporter , Instagram's VP of product Tessa Lyons said that the company sees shortform content as \"a very accessible way\" for creators \"to get into telling longer and more episodic stories.\" Lyons also explained that part of what prompted the Instagram for TV's new emphasis on longer videos was seeing creators using Instagram to promote their projects that live on other platforms. But even if more Instagram creators embrace longform, landscape video, the TV app is going to have a tough time becoming something akin to YouTube. Like Instagram, YouTube has copied some of its competitors' features , but YouTube has always been a destination for a wide variety of content that lends itself to viewing on a larger screen. You might start watching a YouTuber's skit or video essay, but it's easy to wind up putting on a playlist of music videos or a feature-length studio film . The breadth of YouTube's content library is why it continues to be the most-watched streamer in the US , and while there's plenty to see on Instagram, the two platforms aren't exactly comparable in terms of what they offer viewers. There's a level of commitment that comes with watching something on TV that Instagram content has never really had to worry about before. You don't exactly have to lock all the way in to appreciate a short clip on your phone. But a video on the TV should be something that can sustain your attention for more than a few minutes. This TV pivot might work if Instagram can actually get creators to start churning out polished series instead of flooding the space with more phone-native content. But without a sharp influx of compelling projects that are crafted specifically for TV viewing, this could end up being another instance of Instagram losing the plot while chasing its competitors. Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Charles Pulliam-Moore Creators Entertainment Instagram Meta Tech TikTok",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=956456",
+      "rss_tags": [
+        "Creators",
+        "Entertainment",
+        "Instagram",
+        "Meta",
+        "Tech",
+        "TikTok"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "48890b62-d9fe-4722-ac15-f1ad33cf717f",
+    "cluster_id": "83087a04-1031-4a48-978f-85f70300c306",
+    "cluster_size": 2,
+    "source": "thedd",
+    "title": "US Inflation Hits 3-Year High",
+    "teaser": "Major economies face persistent price pressures: US and Canada report inflation nearing 3-year highs.",
+    "summary": "Inflation reached significant multi-year highs in both the U.S. and Canada, increasing pressure on central banks. In the U.S., the Personal Consumption Expenditures (PCE) price index rose 4.1% year-over-year in May, with core PCE advancing 3.4%. High energy costs and rising housing/financial services rates are cited as contributors. Separately, Canada's annual inflation rate hit 3.2% in May, driven primarily by steep gains in fuel and grocery costs. These elevated figures suggest that price pressures are widespread and persistent, demanding policy attention from the Federal Reserve and the Bank of Canada.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://link.mail.beehiiv.com/v1/c/ANJvMzy7l3XR1xiWB9VFsRG9WKBr5ELi7xatWaGiSSBN8kFk%2BVU2kpfqWs3U%0APkQV4x%2BbTmcQMUteC6MH%2BOgl8X3yitRLYlyJpg5Ria3Q5Vu8RiJv2GfC68cq%0AkTOH%2BrVtbDNylBfj94ktrTSrWUhOZelf39EMFRnYy8jAQ6MfwALNMbs3zUZp%0AgL0a3N7uw23GWovbY3B%2Fzeb1gjbmfuRUJA%3D%3D%0A/bd75630f7831af21",
+    "date": "2026-06-25T20:25:50Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "The Deep Dive",
+    "content": "Sponsored by Antimony Resources US Inflation Hits 3-Year High The Federal Reserve's preferred inflation measure climbed to its highest level in over three years in May, as energy price increases tied to the Iran war continued bleeding into broader parts of the economy, keeping pressure on the central bank to raise rates. The Personal Consumption Expenditures price index rose 4.1% on an annual basis, the highest reading since April 2023, according to Commerce Department data released Thursday. The monthly gain came in at 0.4%. Energy goods and services led the way, rising 4% for the month alone. Stripping out food and energy, core PCE advanced 3.4% year-over-year after a 0.3% monthly gain, its highest point since October 2023. Both readings matched expectations. Housing costs edged up 0.3%, and financial services and insurance posted a 1.2% jump, underscoring concerns that price pressures are no longer confined to the energy sector. Tariffs are also increasingly seen as a contributing factor. You can read more on the matter here . Antimony Resources (CSE: ATMY) is an exploration and development company focused exclusively on antimony. Their flagship asset, the Bald Hill Property, is a premier asset in New Brunswick, encountering some of the highest grade antimony in North America, including 28.76% Sb over 1.7 metres in recent drilling. A historical 43-101 has outlined an exploration target of between 725,000 to 1,000,000 tonnes grading 4.11% to 5.32% Sb for the project, while exploration remains ongoing to expand upon that target. What's going on? Micro Caps, Macro Gains: Trump-Linked Fund Turns Warrants Into Paper Gains ( theDeepDive ) Homes under $500K taking up bigger share in Ontario real estate market: report ( CBC ) How Google Knew Venezuela's Earthquake Seconds Before It Happened ( theDeepDive ) Supreme Court Lets Trump End Humanitarian Protections for Many Immigrants ( WSJ ) Dimon Disputes Carney's Middle-Powers Strategy: \"It's a Fantasy\" ( theDeepDive ) Rescue efforts under way after Venezuela earthquakes kill at least 188 ( Globe ) Breaking Down Carney And Eby's Condo-To-Housing Plan ( theDeepDive ) Carney says B.C. condo buyout proposal is about affordability, not bailouts ( CTV ) Will This Petition Calling For Carney's Resignation Succeed? ( theDeepDive ) What's the latest? Trade War: PM Mark Carney said Canada will modernize CUSMA but won't accept a bad deal, noting 85% of Canada-U.S. trade remains tariff-free despite ongoing tensions. He also highlighted 4,500 affordable homes underway, 23 major projects, 20 international partnerships, a 60% drop in international student arrivals, and a one-third decline in asylum claims, while confirming his recent call with Trump focused on NATO and Iran, not trade. Markets : U.S. markets closed mixed as the S&P 500 slipped <0.1%, the Dow gained 0.1%, and the Nasdaq fell 0.5%. Micron (+16.6%) and Qualcomm (+6.9%) rallied on strong AI demand, while Apple (-4.5%) fell after raising product prices by 15-20% on many Macs. U.S. inflation came in at 4.1% (vs. 3.8% in April), but easing Treasury yields and lower oil prices supported sentiment, with the 10-year yield at 4.39% and Brent crude at $75.36/barrel. AI : A BDO Canada survey found 46% of Canadian business leaders are experimenting with AI without meaningful ROI, while only 18% have fully embedded AI into operations. Another 27% expect AI to have minimal impact over the next four years, suggesting many firms are still running disconnected AI pilots instead of redesigning workflows around the technology. BoC : The Bank of Canada's review found strong support for keeping its 2% inflation target and flexible inflation-targeting framework. Canadians cited high living costs and housing affordability as top concerns, preferred gradual and predictable interest rate changes, and said the CPI often doesn't reflect their real-world spending, prompting calls for clearer communication and better alignment with household experiences. Politics: A U.S. judge temporarily blocked part of the Trump administration's new student loan rules, pausing its definition of 11 \"professional degrees\" while leaving the new borrowing caps largely intact. Beginning July 1, most graduate students remain subject to a $20,500 annual loan cap and professional students to $50,000, replacing the previous system that allowed borrowing up to the full cost of attendance. Minera Alamos Copperstone PFS This Gold Project Still Looks Great at $4,000 Gold | Minera Alamos Copperstone PFS The stock market and stuff Glass House Brands Cleared for NYSE Listing, Trading to Begin June 30 ( theDeepDive ) Anthropic Accuses Alibaba of Largest Known AI Extraction Campaign, Urges Congress to Act ( theDeepDive ) Wall Street drifts in mixed trading after Micron soars and Apple drops ( BNN ) Alphabet Joins the Dow on June 29, Putting Five of the Magnificent Seven Inside the Blue-Chip Index ( theDeepDive ) In the juniors Crossroads Gold Maps Out Multiple Untested Targets in Pambula Reinterpretation ( theDeepDive ) Hemlo Mining Adds 1.4 Million Ounces in Updated Resource Estimate ( theDeepDive ) Titan Mining signs lease with US Army for graphite processing ( Reuters ) Integra Resources Raises 2026 Cost Guidance at Florida Canyon, Extends Mine Life To 2033 ( theDeepDive ) FULL DISCLOSURE: Antimony Resources is a client of Canacom Group, the parent company of The Deep Dive. Canacom Group is currently long the equity of Antimony Resources. The author has been compensated to cover Antimony Resources on The Deep Dive, with The Deep Dive having full editorial control. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security.",
+    "raw_meta": {
+      "gmail_message_id": "711",
+      "gmail_uid": "711",
+      "gmail_labels": [],
+      "gmail_msgid": "1869001943205390640",
+      "gmail_thrid": "1869001943205390640"
+    }
+  },
+  {
+    "id": "838ee888-b8ca-4f15-892e-b42733588680",
+    "cluster_id": "f93bfabd-250d-477d-825f-e8acf6f341d8",
+    "cluster_size": 1,
+    "source": "SiliconANGLE",
+    "title": "Mirendil raises $200M to speed up scientific research with AI",
+    "teaser": "Mirendil raises $200M to build a self-improving AI, aiming to autonomously advance scientific research faster than human efforts.",
+    "summary": "Mirendil Inc., a startup leveraging AI for science, has secured $200 million in funding, reaching a $1 billion valuation. The company plans to develop a self-improving AI system designed to automate the complex and manual processes of creating 'frontier models'—the most advanced AI systems. By doing so, Mirendil aims to accelerate scientific discovery in fields like chemistry, medicine, and robotics beyond what current manual research can achieve. Technical efforts will focus on refining the transformer architecture and developing novel attention mechanisms, and the AI will be trained within reinforcement learning sandboxes. This innovative approach could profoundly change how AI research and development is conducted.",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://siliconangle.com/2026/06/25/mirendil-raises-200m-speed-scientific-research-ai/",
+    "date": "2026-06-25T20:31:22Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/AI.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Mirendil Inc., a startup developing artificial intelligence models for scientists, has raised $200 million in funding at a $1 billion valuation. The seed round was led by Andreessen Horowitz. Mirendil stated in its Wednesday funding announcement that Kleiner Perkins, Nvidia Corp. and several other investors contributed as well. Mirendil is led by Chief Executive Officer Behnam Neyshabur and Chief Technology Officer Harsh Mehta. Neyshabur is a co-inventor of SAM , a popular algorithm for improving the output quality of AI models. Mehta helped launch Anthropic PBC's efforts to automate parts of its internal research program using custom AI tools. Building a frontier model involves a significant amount of manual work. Mirendil plans to develop neural networks that can automate much of that work. According to the company, the goal is to create an AI system that can autonomously upgrade itself to increase output quality. The hope is that such a self-improving AI will be capable advancing machine learning faster than manual research initiatives. Mirendil plans to make its self-improving AI available to scientists in fields such as chemistry, medicine and robotics. The company sees customers using the software to build frontier models optimized for specific research tasks. Mirendil's website doesn't contain any information about its technology. However, one of the company's job postings states that it plans to develop new variants of existing neural network architectures. The opening indicates that the effort will prioritize the transformer architecture, which is used to build large language models. One of Mirendil's priorities will be to develop novel attention mechanisms. An attention mechanism is a module that LLMs use to analyze users' prompt and identify the most important data points. Researchers have developed multiple versions of the technology over the past decade. Some popular variants, such as grouped multi-query attention, are designed to reduce LLMs' considerable RAM usage. Others improve models' ability to process prompts that contain a large amount of data. A second job posting indicates that Mirendil will develop its self-improving AI with the help of reinforcement learning sandboxes. Those are simulations in which neural networks hone their skills by interacting with one another. Google LLC has used a similar approach to train its AlphaGo Zero system, one of the past decade's highest-profile machine learning breakthroughs. Mirendil will build custom AI tooling to speed up its model development efforts. The company hopes to automate more than a half-dozen tasks including data preparation and debugging. \"Call it vibe research,\" Andreessen Horowitz investors Matt Bornstein and Malika Aubakirova wrote in a blog post . \"If it works, it could change the way the AI ecosystem is structured, and support experts across many fields.\" A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=773768",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "funding round",
+        "investment",
+        "Mirendil",
+        "reinforcement learning",
+        "self-improving AI",
+        "startup"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "88d8ca79-db5e-445c-95ad-9689059b2ba4",
+    "cluster_id": "a950a441-6701-4f38-86d0-a910e1ae4ef6",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "They read the scroll thing! AI helps decipher ancient document charred by Vesuvius",
+    "teaser": "AI and X-ray scans helped read an entire, sealed scroll from Roman Herculaneum, finally bringing 2,000-year-old secrets to light.",
+    "summary": "Researchers achieved a major breakthrough in history by using advanced AI and high-resolution X-ray microtomography to decipher an ancient scroll from Herculaneum, buried by Mount Vesuvius 2,000 years ago. The team successfully read the preserved text of PHerc. 1667 continuously from end-to-end, a feat previously impossible. Their new 'workflow' involves digitally unrolling the charred papyrus and using machine learning to detect ink, moving the field from analyzing isolated patches to systematic scroll-scale recovery. This monumental achievement, performed at the European Synchrotron Radiation Facility, opens the potential to unlock the knowledge within Herculaneum's intact library.",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://www.theregister.com/offbeat/2026/06/25/they-read-the-scroll-thing-ai-helps-decipher-ancient-document-charred-by-vesuvius/5262525",
+    "date": "2026-06-25T21:18:47Z",
+    "image_url": "https://image.theregister.com/5262569.jpg?imageId=5262569&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "offbeat They read the scroll thing! AI helps decipher ancient document charred by Vesuvius 'Having certainly strained ourselves to the utmost through research and learning, we will no longer be inferior to them,' reads a scroll virtually unwrapped with the help of AI A sealed scroll from the Roman town of Herculaneum, which was destroyed by Mount Vesuvius' eruption nearly 2,000 years ago, has finally given up its secrets, thanks to a combination of machine learning and high-resolution CT scans. In 2023, researchers managed to decipher a few words from among the char and ash that make up the bulk of the scrolls. Some of those same prize-winning researchers recovered more passages from one of the scrolls, PHerc.Paris.4, netting them the $700,000 grand prize from the Vesuvius Challenge contest in early 2024. Fast forward two more years, and those grand prize winners are now part of the Vesuvius Challenge team that managed to read the surviving portion of a rolled scroll end-to-end, as the VC team shared in a Thursday announcement and detailed in an accompanying paper [PDF]. According to the research paper, the ability to make out the entirety of the scroll was thanks to high-resolution phase-contrast X-ray microtomography performed at the European Synchrotron Radiation Facility in France - an improved imaging technique over prior methods used to capture prior images that were analyzed in the prize competition. That wasn't all, though: They say that much of their work succeeded because of a new \"workflow\" they developed to scan scrolls, detect ink on charred papyrus, virtually \"unroll\" the scrolls by modeling their deformed surfaces, and preserve those surfaces digitally, allowing machine learning models to identify letters across an entire scroll rather than just isolated patches. \"The key transition marked by the present work is therefore from exceptional local recovery to systematic scroll-scale recovery,\" the team wrote. In other words, provided they can account for the particularities of the hundreds of sealed scrolls recovered from Herculaneum's Villa of the Papyri, the world's only surviving intact library from antiquity, this could mark the beginning of an explosion in new material for historians. So, what did it say? PHerc.Paris.4 wasn't at the center of this breakthrough either, though they did have some exciting news to share on that front that we'll get to. Instead, the breakthrough centered on PHerc. 1667, a previously unread rolled scroll whose preserved text was read continuously from end to end for the first time. The work appears to be a treatise on Stoic philosophy focused on ethics - a favorite subject of Zeno, Marcus Aurelius, Epictetus, and their intellectual fellows. \"Having certainly strained ourselves to the utmost through research and learning, we will no longer be inferior to them in any respect,\" a passage from the latter part of the scroll reads, \"accomplishing in like manner the things that befit them and possessing the same practical wisdom as they.\" Quite a fitting bit of ancient wisdom to be the first to see the light of the modern world. While the team digitally unrolled the scroll, detected its ink, and transcribed the preserved text from end to end, portions of the original PHerc. 1667 were lost long ago during earlier attempts to physically open the scroll, before archaeologists had access to sophisticated X-ray imaging and AI-assisted analysis. \"Earlier attempts to open it by hand - in the nineteenth century, and again in 1969 and the 1980s - destroyed its outer layers,\" the Vesuvius Challenge team said, noting that only an 8 cm-high core remains of the original scroll, which originally measured between 19 and 24 cm in height when standing upright. Nonetheless, \"it is the first time the preserved text of a rolled Herculaneum scroll has been read continuously, end to end, rather than in isolated words or patches,\" the team said. In addition to the full reveal of what's left of PHerc.1667, the team also managed to pick out some information from a couple of other scrolls using their new workflow. One, PHerc.139, was determined to be a copy of book eight of epicurean philosopher Philodemus' treatise On Gods, meaning scholars can expect to know what they're looking at once the scroll is fully digitally unrolled. A comparison between the original scans of PHerc.Paris.4 used in the prize competition (top), and a scan taken using the new method Source: Vesuvius Challenge/Giorgio Angelotti, et al. The second concerns, as mentioned above, PHerc.Paris.4. The new higher-resolution images taken for this latest experiment make the words on the scroll directly visible for the first time, meaning that there's no need to rely on algorithmic detection of individual words and phrases from CT scans. Most crucially, the new scans of Paris.4 perfectly matched what the grand prize team made out several years ago, providing independent confirmation that the prize went to the right team. There are still challenges to meet in unwrapping and deciphering the rest of the ancient library, with the team calling out geometric challenges in surface prediction that can render an unrolled scan unreadable, and radiometric challenges that make ink identification difficult, as ancient recipes were inconsistent. Still, it's a massive leap forward and the team believes the X-ray and machine learning workflow they've developed is ready to scale. \"The thoughts of the ancient world, sealed in darkness for two millennia, are coming back into the light - a whole scroll at a time,\" the Vesuvius Challenge team said. I, for one, can't wait to see what ancient secrets they discover next. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5262525",
+      "rss_tags": [
+        "offbeat"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "8027f4c4-57c2-4662-ad33-3c9a3d351f0a",
     "cluster_id": "cd461d1d-8ea4-4d23-893a-b370e4e66ce9",
     "cluster_size": 1,
@@ -857,6 +1347,39 @@
       "rss_entry_id": "https://www.theregister.com/a/5262171",
       "rss_tags": [
         "personal tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "624667f4-06f2-457b-8bc6-efba913056a0",
+    "cluster_id": "12b5236c-8b36-4f86-9f45-677c611dfeff",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+    "teaser": "YouTube Shorts are getting a makeover with features like 2x speed playback and a 'Clear Screen mode,' all while replacing the dislike button.",
+    "summary": "YouTube is rolling out several updates to Shorts, making the viewing experience more streamlined and akin to competitors like TikTok. New features include the ability to double the playback speed, allowing users to absorb content more quickly, and a 'Clear Screen mode' to hide distracting icons and text. Furthermore, YouTube is replacing the 'dislike' button; instead, users should select 'Not Interested' or 'Don't recommend this channel' to give feedback. The platform is also swapping the 'thumbs-up' button for a heart emoji, aiming to create a more intuitive short-form video experience.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+    "date": "2026-06-25T22:02:12Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/youtube-shorts.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Lucas Ropek",
+    "content": "YouTube is rolling out a series of changes to Shorts, including a new method that lets users shrink the duration of short-form videos. The Google-owned platform announced Thursday that Shorts now comes with a setting that allows users to double their playback speed. The point of making what is an already brief experience even briefer is to let users \"absorb information more quickly or find your favorite part faster,\" the platform said. In an apparent bid for a more positive web, YouTube has also nixed the Shorts dislike button. Instead of disliking a video, users will now have to rely on the \"Not Interested\" and \"Don't recommend this channel\" functions to disincentivize certain kinds of content. Similarly, instead of clicking on a thumb's up button if they like a video, users will now have access to a heart emoji. Finally, YouTube is also introducing a new \"Clear Screen mode,\" which is designed to temporarily hide \"all icons and text from your playback view,\" giving users a clean view of their content unencumbered by floating distractions. All of these changes have been made in the service of creating \"a more intuitive Shorts experience,\" the company said. It's not exactly clear when the updates will take effect. The company said that the features would be rolling out over time, but didn't give exact dates. TechCrunch reached out to Google for more information. YouTube was late to the short-form video space (it launched Shorts in 2024, several years after the launch of TikTok and Instagram Reels), but has managed to attract an audience since then. YouTube Shorts was averaging 200 billion daily views as of June 2025, CEO Neal Mohan said at his keynote in Cannes last year. (We may qualify this impressive metric with the context that YouTube counts a \"view\" as the very first moment that a video is opened.) A report earlier this year showed that Shorts were increasingly being watched on viewers' TV screens - and that as much as 2 billion hours of such content was being consumed per month.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3136461",
+      "rss_tags": [
+        "Media & Entertainment",
+        "Google",
+        "shorts",
+        "TikTok",
+        "YouTube",
+        "YouTube Shorts"
       ],
       "fetch_ok": true,
       "fetch_status": 200,

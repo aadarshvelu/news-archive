@@ -231,6 +231,39 @@
     }
   },
   {
+    "id": "6cac4bbf-49db-4fac-aec9-63d49c03c25d",
+    "cluster_id": "ec556850-d6f9-4260-bb3d-a211bc0d8e28",
+    "cluster_size": 3,
+    "source": "TechCrunch",
+    "title": "Facebook rolls out an AI companion app for creators",
+    "teaser": "Meta's AI Mode synthesizes search answers directly from public user posts, raising major questions about information reliability.",
+    "summary": "Meta is aggressively rolling out a suite of AI tools across Facebook, aiming to make the platform stickier and diversify revenue. Central to this strategy is the 'AI Mode,' a new search function that uses Meta AI to generate synthesized answers pulled from public posts, including Groups and Reels. This feature, alongside the Reddit-style Forum app's AI search, raises concerns about the potential for misleading information from unvetted user chatter.\n\nFor creators, Meta revamped Creator Studio into a stand-alone AI companion app, which offers personalized recommendations and an AI-powered comment tool for drafting replies. Beyond search, other features include AI-powered photo presets (like virtual jerseys) and AI assistants for Marketplace messages. This flurry of releases signals a broader push toward integrating AI into every aspect of user interaction.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+    "date": "2026-06-24T17:16:24Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Aisha Malik",
+    "content": "Facebook announced on Wednesday that it's reimagining its Creator Studio tool as a stand-alone AI companion app designed to help creators grow their audiences on the social network. By giving creators access to this AI companion app, Meta is looking to keep creators active on Facebook as it competes for their attention against rivals like TikTok and YouTube. The company also likely hopes that the app will eliminate the need for creators to turn to third-party tools like ChatGPT when brainstorming content ideas and analyzing performance. The new app , which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it. The assistant provides creators with personalized recommendations based on their content style, performance, audience engagement, and goals. Image Credits: Meta Creators often have to sift through charts and dashboards to understand their performance, but with the AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\" Since the AI assistant is conversational, they can also ask follow-up questions, like how their audience has shifted over time. Beyond the built-in AI assistant, the Creator Studio app will include a set of several new features, such as an AI-powered comment tool that will help surface the most important comments and draft replies in the creator's own tone. Creators can edit and approve the drafted replies before posting them, Facebook says. When creators open the app each day, they will see a feed of daily priorities: reviewing their newest post's performance, tracking progress toward goals, and flagging comments in need of a reply. Image Credits: Meta Wednesday's announcement adds to Meta's recent wave of app launches. Last month, the company rolled out a stand-alone app for Facebook Groups called Forum that functions similarly to Reddit. In April, Meta launched a new app called Instants that lets users share disappearing photos with Instagram friends. The pipeline keeps growing. The New York Times reported on Tuesday that Meta is building its own Polymarket-like app , internally called \"Arena,\" though it has yet to launch. The cadence is deliberate. The Wall Street Journal reported in April that CEO Mark Zuckerberg told employees that AI-driven efficiencies would enable the company to build more apps than it has historically.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3135724",
+      "rss_tags": [
+        "AI",
+        "Apps",
+        "Social",
+        "Facebook",
+        "Meta",
+        "social media"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "fb8704c4-c278-4a9e-b940-aa6ec556fbcd",
     "cluster_id": "259b83eb-ed3b-426d-b25e-2da4ddde6acf",
     "cluster_size": 2,
@@ -924,6 +957,36 @@
     }
   },
   {
+    "id": "f8a42fd4-1546-48f3-9013-ad12ba3c5e21",
+    "cluster_id": "1625c5c4-f39b-4f65-989e-da009d73fd98",
+    "cluster_size": 2,
+    "source": "Testing Catalog",
+    "title": "Google tests voice dictation and Magic Pointer on Gemini desktop",
+    "teaser": "Gemini's macOS app gets a massive upgrade: Users can now use system-wide voice dictation and control AI context from paid subscriptions.",
+    "summary": "Google is significantly upgrading its Gemini desktop experience, particularly for macOS, by introducing advanced voice and context features. The redesigned interface aims for a unified voice control, incorporating system-wide voice dictation—a voice keyboard overlay that can type anywhere on the machine. Additionally, the 'Magic Pointer' feature will keep the AI focused on elements the user hovers over. Beyond the UI, Google is enhancing personalization by allowing Gemini to prioritize information from a user's paid subscriptions and connected third-party apps. Crucially, users will gain manual control to inspect and adjust this gathered context, a feature that distinguishes it from rivals. These updates show Google integrating the user's entire digital footprint while maintaining a degree of user oversight.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/google-tests-voice-dictation-and-magic-pointer-on-gemini-desktop/",
+    "date": "2026-06-24T14:42:25Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/06/Screenshot-2026-06-22-at-23.02.23.webp",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Alexey Shabanov",
+    "content": "Google's Gemini desktop app for macOS is poised for a significant voice upgrade, with early indications suggesting three new features beyond the basics already available on mobile. The main Gemini Live interface has been redesigned to resemble the phone layout: a full-screen canvas with a glowing center and control buttons anchored at the bottom. This change signals Google's intention to create a unified voice interface across devices rather than maintaining two separate ones. The first addition is system-wide voice dictation . An in-app prompt describes the ability to summon a Gemini panel that types for you in any application. You can assign a hotkey, switch to your browser or editor, and speak. In practice, it functions as a voice keyboard overlaying the entire machine, aligning with the screen-aware drafting feature Google showcased at I/O, where spoken thoughts are transformed into clean text wherever the cursor is positioned. The second feature, reminiscent of the Magic Pointer concept shown earlier , allows Gemini to follow whatever the cursor hovers over. This ensures that both the user and the model remain focused on the same on-screen element during a spoken interaction. The third addition is less clear: a menu entry, located beside video and image generation options, for connecting to other macOS devices . Its purpose is still uncertain, though it suggests a potential path toward one desktop instance controlling another. This trajectory aligns with Google's stated plan to introduce its Gemini Spark agent and enhanced voice capabilities to the Mac client this summer, bridging the gap between the desktop app and the web. It also positions Google alongside OpenAI and Anthropic, which already offer similar features such as Codex Remote Control and Claude's Dispatch. Currently, these features are being tested by a small group, so the final version that becomes widely available may still undergo changes. Join DevMode Discord for more 👀",
+    "raw_meta": {
+      "rss_entry_id": "6a3b12d4bd4d5500014b045e",
+      "rss_tags": [
+        "Gemini News",
+        "AI Rumours",
+        "Latest AI News"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "3df7b559-7e4e-4e7e-b7aa-5a6930071212",
     "cluster_id": "62a11255-e191-4c90-a1d1-5d8a3342ee57",
     "cluster_size": 1,
@@ -1056,6 +1119,44 @@
       "rss_entry_id": "https://www.theregister.com/a/5261388",
       "rss_tags": [
         "software"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "ab4c73ba-5645-4550-9257-f36d5cdb59cf",
+    "cluster_id": "eb48a804-4677-40d3-95de-3b3addecf1ad",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "HelloTwin launches ‘Digital Authority’ to bring governed AI agents to the enterprise",
+    "teaser": "New 'Semantic Twin' platforms are building a 'Digital Authority' layer for AI, ensuring agents are auditable and grounded in corporate truth, solving the 'black-box' problem.",
+    "summary": "Enterprises are adopting 'Semantic Twins' and 'Digital Authority' AI models to solve the critical challenge of deploying governed, trustworthy AI. These platforms act as an accountable 'head' for AI agents (the 'hands'), establishing a single source of truth of the business's entire data context and relationships. This layer ensures that AI-driven decisions are grounded in verifiable corporate data, eliminating hallucinations and the 'black-box' problem. Key features include full lineage tracking and adherence to global regulations like GDPR. By making the data foundation accessible and auditable, these solutions help companies transition from unsuccessful pilot projects to measurable, high-accuracy operational processes, accelerating modernization efforts significantly.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/06/24/hellotwin-launches-digital-authority-bring-governed-ai-agents-enterprise/",
+    "date": "2026-06-24T16:30:30Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Kyt Dotson",
+    "content": "HelloTwin.ai GmbH today announced what it calls an accountable artificial intelligence AI twin that holds business intelligence and goals in a single source of truth. HelloTwin said it built its data model on a patent-pending compiler designed to pull answers from business context rather than generate them. This means that the agentic identity for the business is deterministic; the company calls this \"Digital Authority,\" and it's designed to be auditable and trusted to make business-critical decisions. \"Agents are the hands. A Digital Authority is the head,\" said co-founder and Chief Executive Kay Iversen. \"It holds the goal, decides on governed truth and directs humans and agents within clear boundaries to achieve these goals. That is the entity you can actually delegate to and it is what businesses have been missing.\" If it can manage this digital twin capability, it would help create what theCUBE Research's Dave Vellante and George Gilbert call the System of Intelligence . It's a layer that would allow AI agents to act reliably, including a data foundation, governance and semantics, context harmonization, agentic control and intelligence. HelloTwin compresses all five layers into a product packaged for businesses that doesn't require data experts to prepare it. That's a bold claim. The company says it handles this in two layers: First is a semantic Digital Twin that contains a governed model of the business, with every definition, metric and relationship of the company's tools, as a single source of truth. This is the critical central reflection of truth that holds the data and the context. Second, the Digital Authority presents an accountable AI running on top of it, assigned a specific role and a goal. The AI holds a mandate, directs the agentic layer and owns the result. The answers are then compared against the semantic model to eliminate hallucinations. According to the company's website, Twins roles include finance, marketing, sales, success, product, engineering and operations. Although a single Twin governs its function, multiple Twins cooperate between boundaries, formulate governance and translate the role gap within the wider source of truth. HelloTwin's product vision is part of an industry race to build the semantic intelligence layer for agents. In June alone, multiple players have launched products built on the same foundation that AI agents need governed context to act responsibly and reliably. Onix Networking Corp. targets European enterprises with Wingspan, Snowflake Inc. is building it into its data platform . HelloTwin says it can deliver the same thing to businesses automatically. Image: SiliconANGLE/Microsoft Designer A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=773419",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "Top Story 4",
+        "agentic AI",
+        "AI agent",
+        "artificial intelligence",
+        "HelloTwin.ai GmbH",
+        "Kay Iversen",
+        "semantic intelligence",
+        "System of Intelligence"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -1445,6 +1546,37 @@
         "Shishir Mehrotra",
         "Superhuman",
         "Superhuman Go"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "84e407a5-f7e4-4284-b787-d4a8edcec3e3",
+    "cluster_id": "46572263-4057-4e82-bc01-1e04d3dceb60",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "Elon suffers another day short of trillionaire status",
+    "teaser": "The IPO of Elon Musk's space company, SpaceX, raised a massive $85.7 billion, temporarily propelling Musk to trillionaire status.",
+    "summary": "SpaceX successfully completed a super-sized IPO, raising a total of $85.7 billion (up from an initial $75 billion). This financial milestone boosted SpaceX's valuation to over $2 trillion, confirming Elon Musk as a trillionaire. The proceeds will be strategically used to extinguish approximately $20 billion in debt linked to X and xAI. Furthermore, the funds will be allocated to expanding critical areas, including AI compute infrastructure, advanced launch facilities, and improving Starlink services.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+    "date": "2026-06-24T23:09:39Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Amanda Silberling",
+    "content": "In a world marred with oppression and strife, one injustice rises above all else: Elon Musk is not currently a trillionaire. When SpaceX went public earlier this month, Musk became the world's first trillionaire . He declared in a victory lap-slash-speech that he aspires to take all of us to the moon, Mars, and \"maybe beyond the solar system.\" He awkwardly threw his fists in the air while his acolytes cheered him on. But stock prices fluctuate , so right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index. Frankly, it's embarrassing. How will Musk support his legion of offspring? Can he even afford to keep expanding his already considerable brood, given his outspoken pronatalism ? The math is getting complicated. We wish him the best as he navigates this trying time. And, Elon, if you need a good rice and beans recipe, or some tips on how to win big at the thrift store, we can point you in the right direction.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3135941",
+      "rss_tags": [
+        "Space",
+        "Elon Musk",
+        "In Brief",
+        "SpaceX"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
