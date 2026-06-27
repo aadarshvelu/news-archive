@@ -274,6 +274,100 @@
     }
   },
   {
+    "id": "f619f211-cb0e-4cde-a12a-3f76a5912f05",
+    "cluster_id": "7f970302-74ea-4adf-b401-4abda29f443f",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Trump-shuttered climate change site back online in nonprofit hands",
+    "teaser": "After Trump shut down NOAA's climate site, former staff relaunched Climate.us, ensuring crucial climate data remains accessible outside of politics.",
+    "summary": "Following a Trump executive order in July 2025, the NOAA’s Climate.gov website was shut down, cutting off public access to 15 years of vital climate data. In response, former staff formed Climate.us, a non-profit alternative to restore the scientific information. The shutdown occurred after political appointees purged editorial and data visualization staff and removed documents, including guides on climate literacy. Climate.us now aims to ensure climate science remains accurate and independently accessible, arguing that vital knowledge should not be subject to political changes or governmental whims. The organization believes that non-governmental management is safer for the mission than returning to the federal domain.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://www.theregister.com/science/2026/06/26/trump-shuttered-climate-change-site-back-online-in-nonprofit-hands/5263319",
+    "date": "2026-06-26T20:39:07Z",
+    "image_url": "https://image.theregister.com/5223935.jpg?imageId=5223935&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "science Trump-shuttered climate change site back online in nonprofit hands Remove something from the internet? You can't stop the (climate change) signal, Mal It's back! After Donald Trump shuttered the National Oceanic and Atmospheric Administration's (NOAA) Climate.gov website in 2025, cutting off public access to its 15-year archive of climate information, former members of the site's team have brought much of it back at a new domain. \"Trusted climate information should not disappear when politics change,\" Climate.us managing director Rebecca Lindsey said of the new platform in a press release . Lindsey, who previously served as the Climate.gov program manager and lead editor, told The Register in an email that she and one of the web developers responsible for the site were the first to be caught up in government purges when DOGE swept through the department in late February 2025. \"In May, political appointees directed that all the remaining Climate.gov editorial and GIS/data visualization staff be removed from the contract,\" Lindsey added. Created in cooperation with sustainability nonprofit accelerator Multiplier, Climate.us aims to be an independent alternative to its old .gov, and many of the former NOAA crew behind the previous website have teamed up for the new initiative to \"keep climate information accurate, accessible, scientifically rigorous, and useful for the people who rely on it.\" Climate.gov, which now redirects to a NOAA page about climate but which hosts none of the data the shuttered site used to contain, was taken offline in July 2025 following a Trump executive order prioritizing \"gold standard science.\" The order decried what it called the prior administration's politicization of science by, among other things, \"encouraging agencies to incorporate diversity, equity, and inclusion considerations into all aspects of science planning, execution, and communication.\" The EO called out climate change science as a particular area of concern, arguing that prior climate science models relied on worst-case scenarios, which somehow meant the public availability of 15 years of climate data and reporting ought to change. The shuttering of climate.gov followed a day after the order, leading to scientists expressing concern about the ability of governments, the public, and private organizations to combat the effects of a changing climate, whether the Trump administration believed the data was true or not. \"This is evidence of serious tampering with the facts and with people's access to information, and it actually may increase the risk of people being harmed by climate-related impacts,\" University of Arizona climate scientist Kathy Jacobs told The Guardian in July 2025, following closure of the site and removal of other climate information from public repositories. Changes to the site actually began before that, Lindsey told us. Prior to her termination, the Climate.gov team was ordered to search its archives and remove any information that violated Trump's Gulf of America order and ban on DEI programs. Guides on teaching climate change and principles of climate literacy were among documents purged from the site in that sweep. Climate.us, and Climate.gov before it, are designed to be a bridge between scientists studying the climate and the public, Lindsey told us. \"Most of those functions we can perform almost as well outside of the federal domain as in it,\" Lindsey said. \"However, losing access to the tremendous store of knowledge and expertise possessed by federal scientists, with whom we partnered to make sure our content was accurate, is a real blow.\" All of the content that was purged from the .gov is now back, along with blogs from experts, climate status reports, maps and data pathways, and national assessments of climate change as well. Lindsey told us that rapidly changing political winds have led her to believe that the government isn't the right place for that mission to continue, and that she would have concerns about returning the site to federal management if a future administration changed its position on climate change. \"I believe that fostering climate literacy is a public good, one of those things that benefit society as a whole, rather than one company or person,\" the Climate.us director told us. \"So I would definitely have concerns that going back to the government would just put us on a hamster wheel, where we'd face the same situation the next politics shift.\" Regardless of whether that offer comes, Lindsey said that the Climate.us team will continue with the same mission it had before the Trump administration attempted to quash it: Getting climate science in front of the public in a manner that's understandable so they can make their own decisions about how to respond. \"We aren't trying to tell people what to do about climate change,\" Lindsey said. \"We just think that people will come up with better strategies to confronting the world's climate challenges if they understand what the science is telling us.\" ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5263319",
+      "rss_tags": [
+        "science"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "4e1496a1-8cd8-42db-b2c0-41aaab9b7652",
+    "cluster_id": "3e7ecfc4-aa6f-4e8c-988c-c0e853ba8709",
+    "cluster_size": 6,
+    "source": "SiliconANGLE",
+    "title": "Unconventional AI debuts oscillator-based Un-0 model series",
+    "teaser": "Major strides in AI hardware: New chips and architectures—from oscillator models to specialized switches—are boosting efficiency and speed for the next generation of AI.",
+    "summary": "The AI hardware landscape is advancing rapidly, focusing on efficiency and speed. Unconventional AI introduced the Un-1 series, which leverages simulated oscillators in its Un-0 model to improve image generation power efficiency, bypassing standard transistor circuits. Complementing this, Upscale AI is tackling data center bottlenecks with specialized switches (SkyHammer) that provide deterministic latency for AI workloads, utilizing technologies like RoCE and Nvidia's Spectrum-X. Furthermore, Groq announced its LPU 3 chip, specifically designed for AI inference, featuring automatic clock drift correction and high bandwidth (2.5 Tbps). These developments collectively point toward a major industry push to build more power-efficient, high-speed, and specialized computing infrastructure for large-scale AI models.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/06/26/unconventional-ai-debuts-oscillator-based-un-0-model-series/",
+    "date": "2026-06-26T20:59:38Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Unconventional-AI.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Unconventional AI Inc. has developed an artificial intelligence architecture that could improve the power efficiency of image generation models. The technology is the basis of a new neural network series, Un-1, that the company released on Thursday. Unconventional AI is led by Chief Executive Naveen Rao (pictured, second from the left), the former corporate vice president of Intel's AI platforms group. In December, the company raised $475 million from a consortium that included Amazon.com Inc. founder Jeff Bezos. It's developing chips that can run AI models using significantly less power than today's graphics cards. Not all processors are based on standard silicon transistors. Multiple startups are developing so-called in-memory computing devices that use a mix of transistors and capacitors, tiny energy storage devices. Quantum processors, meanwhile, often substitute silicon with materials such as sapphire. The Un-0 model series is part of an effort by Unconventional AI to develop more efficient AI chip architectures. According to the company, Un-0 is optimized to run not on standard transistor-based circuits but rather oscillators. An oscillator is a device that emits a signal such an electrical pulse at regular time intervals. Unconventional AI says that a large number of miniature oscillators could be assembled into a machine learning accelerator. The semiconductor industry already mass produces such components because they're used in chips such as central processing units. In particular, CPUs rely on oscillators to set the pace at which their other circuits perform calculations. Un-0 doesn't run on a physical oscillator chip. Instead, it generates images using several thousand simulated oscillators. The oscillators are linked together, which means that the signals produced by one virtual device affect the output of the others and vice versa. There are six Un-0 models that vary in size and output quality. The smallest comprises 1,024 virtual oscillators while the largest features 16,384. Unconventional AI trained the models using two open-source datasets, CIFAR-10 and ImageNet-64, that contain thousands of images optimized for machine learning projects. The training process unfolded differently than in a standard AI project. Usually, developers go about the task by optimizing AI model components such as weights. By contrast, Unconventional calibrated the manner in which Un-0's simulated oscillators affect one another and the frequency at which they generate signals. The workflow through which a standard AI model generates media files starts with an image that contains random noise. Un-0 kicks off the process the same way, but the subsequent steps differ. First, a small group of oscillators generates an instruction that informs the model what type of image it should create. The instruction prompts Un-0's other oscillators to interact with one another. According to Unconventional AI, the interactions produce a series of numbers that can be assembled into an image. The company ran a series of benchmark tests to evaluate Un-0's output quality. It determined that the model can match \"the quality of leading conventional image generation methods when they were first published.\" As a result, Unconventional AI believes that future advances may make it possible to improve the power efficiency of AI applications significantly. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=773919",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "Top Story 6",
+        "chip",
+        "image generator",
+        "Neural Network",
+        "oscillator",
+        "processor",
+        "semiconductor",
+        "startup",
+        "Un-0",
+        "Unconventional AI"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "24482799-7613-4718-b43f-fb6b1fbdbd15",
+    "cluster_id": "5c697046-e768-449d-8503-b4af00289e56",
+    "cluster_size": 7,
+    "source": "HN: AI",
+    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "teaser": "After intense negotiations, Anthropic's powerful Mythos 5 AI model is being released, but only to a select group of 'trusted' U.S. organizations.",
+    "summary": "The U.S. government has lifted restrictions, allowing Anthropic to release its Claude Mythos 5 AI model to over 100 'trusted' U.S. organizations and government agencies. This move, signaled by Commerce Secretary Howard Lutnick, marks a de-escalation following previous export controls. Critically, the access is restricted, mirroring OpenAI's phased rollout of GPT-5.6, which was also done under government guidance. While the model is accessible to approved partners, the overall goal is to establish secure protocols and standards for future releases. However, the rollout remains staggered, with the public-facing Fable 5 model still unreleased, despite promises of future availability.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "date": "2026-06-26T22:48:28Z",
+    "image_url": "https://img.semafor.com/50a98e4cab1aadfa340671d35d9027ed27e6899b-740x493.png?rect=0,53,740,389&w=1200&h=630&q=75&auto=format",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "bobrenjc93",
+    "content": "The US government Friday lifted its block on Anthropic's powerful Claude Mythos 5 AI model, allowing the company to release it to more than 100 US institutions, including major companies and government agencies. The decision, in a letter sent Friday afternoon to Anthropic, is a major de-escalation in the confrontation between the Trump Administration and one of the world's most valuable private companies. Two weeks ago the administration imposed export controls on Mythos, leading to a shut down of the model and its cousin Fable 5 after warnings from Amazon and other companies that they could be \"jailbroken\" for malicious purposes. The letter is silent on Fable 5, a weaker version of Mythos that was briefly the most powerful AI model widely available to consumers. People close to the talks said they are moving toward releasing Fable as well, though that timeline is unclear. \"I have determined that appropriate safeguards are in place to permit certain trusted partners to access the Claude Mythos 5 Model,\" Commerce Secretary Howard Lutnick wrote to Anthropic's chief compute officer Tom Brown Friday, citing \"significant progress\" in the intense, daily talks between the government and the company since the block went into effect. \"Anthropic has committed to work with the U.S. government on protocols and standards and releases\" for its models, Lutnick wrote. The move comes the same day that Anthropic's leading competitor, OpenAI, released its latest model, GPT-5.6, to a short list of government-approved partners. Under the new Anthropic arrangement, \"a license will no longer be required to export, reexport, or in-country transfer (including deemed exports and reexports) the Claude Mythos 5 Model to entities identified in Annex A to this letter and their foreign national employees, or to Anthropic's foreign national employees.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48692995",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "a723fffe-745a-4793-ad04-65a184fa67b1",
     "cluster_id": "cd96c208-f6b1-44e8-a293-9c33d59c0c1e",
     "cluster_size": 1,
@@ -563,6 +657,34 @@
     }
   },
   {
+    "id": "f9d4672e-4d0f-44f9-8013-eab75cfd66b1",
+    "cluster_id": "895bdd05-e865-4c42-969b-1d7a1e2f3600",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "US auto regulators want to kill robotaxi brake pedals",
+    "teaser": "US regulators plan to kill brake pedals in fully driverless cars, citing manual controls as a safety risk and regulatory barrier to innovation.",
+    "summary": "US auto regulators, including NHTSA and the DOT, are proposing sweeping changes to federal vehicle safety standards to remove mandatory physical controls—such as brake pedals and steering wheels—from fully autonomous, 'robotaxi' vehicles. These changes aim to eliminate regulatory barriers that hinder innovation in the burgeoning self-driving industry. NHTSA argues that the current requirement for manual controls poses a safety risk, as human passengers could intentionally or unintentionally override the Automated Driving System (ADS). While retaining strict stopping-distance requirements, the proposals seek to allow companies like Tesla and Zoox to deploy ADS-only vehicles more quickly. The regulators state that removing these controls is necessary to advance the technology, though they acknowledge the 'maturing' nature of ADS technology.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theregister.com/offbeat/2026/06/26/us-auto-regulators-want-to-kill-robotaxi-brake-pedals/5263228",
+    "date": "2026-06-26T16:23:47Z",
+    "image_url": "https://image.theregister.com/237994.jpg?imageId=237994&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "offbeat US auto regulators want to kill robotaxi brake pedals Requiring driverless vehicles to keep human brake controls impedes innovation, the NHTSA says If a self-driving car is going to stop, it may need to stop itself. US vehicle safety regulators are proposing to let robotaxi designers get rid of brake pedals, calling regulatory requirements for manually operated methods of stopping driverless vehicles a barrier to innovation. The US National Highway Traffic Safety Administration (NHTSA) published a notice of proposed rulemaking on Friday to modify federal brake safety standards for light vehicles by eliminating the requirement for vehicles equipped with automated driving systems (ADS) and no manual controls to have foot-operated service brakes or manually operated parking brakes. The NHTSA argues the controls themselves could pose a safety risk by allowing passengers to intentionally or unintentionally override an ADS. Existing braking performance requirements would remain in place, the agency said, even as brake pedals and handbrakes are on the chopping block. \"Regardless of the manner of brake control application, the brake systems must be capable of safely stopping the vehicle, as already required by the standard,\" the agency said in its proposal. \"This rulemaking would remove unnecessary regulatory burdens and costs with no negative impact to vehicle safety.\" The NHTSA would keep existing stopping-distance requirements for robotaxis, thankfully, but said standardized methods for testing driverless vehicles may need further development. Vehicles equipped with ADS that still have steering wheels and other manual controls, as well as cars equipped with driver-assistance systems such as Tesla Autopilot, Ford BlueCruise, and similar technology, will still need to have brake pedals, naturally. A number of automakers and driverless taxi operators ( Tesla , Waymo , Amazon , etc.) have been developing vehicles that lack manual controls, but current FMVSS still require them to have a brake pedal. That's simply not safe, says the NHTSA. \"The inclusion of a manually operated driving control that directly overrides ADS operation could pose a safety risk through intentional or unintentional misuse by a vehicle passenger,\" the proposal argues. All people in a driverless taxi, it continues, are passengers who \"should also not be expected to perform driver functions such as engaging the parking brake.\" In other words, despite the NHTSA's admission in the proposal that ADS tech \"is still maturing and many of the potential benefits are yet to be realized,\" the agency is prepared to remove mandatory brake pedals and handbrakes from ADS-only vehicles, even as robotaxis and driver-assistance systems continue to generate safety headaches, from Waymo vehicles entering flooded roads and running over dogs to fatal crashes involving Tesla's Autopilot, without requiring a standardized method for passengers to tell the vehicle to stop. It doesn't want to completely eliminate manual overrides, mind you, but the agency isn't going to force automakers to conform to any one method of giving passengers the ability to stop their driverless car. \"It is NHTSA's expectation that if these controls are removed, passengers will still be provided with a means to direct an ADS-operated vehicle to come to a stop, though how a passenger would indicate they wanted the ADS-operated vehicle to stop would likely vary by manufacturer,\" the NHTSA said. The NHTSA has frequently butted heads with automakers deploying controversial driver-assistance technology, like Tesla , but the agency was gutted during Tesla CEO Elon Musk's time heading up the so-called Department of Government Efficiency, with the cuts falling particularly hard on staff responsible for regulating self-driving vehicles. Comments on the proposal are being accepted through July 27, but the docket number for the proposal (NHTSA-2026-0728) does not yet appear on the web portal for registering support or dissent. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5263228",
+      "rss_tags": [
+        "offbeat"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "5144ac3f-9541-467d-9083-6e7f06657931",
     "cluster_id": "d50a0aaf-cdcb-4138-962b-e200e1e79911",
     "cluster_size": 1,
@@ -619,6 +741,154 @@
         "OpenAI",
         "Prabhjeet Singh",
         "Uber"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "d31087d3-7772-47fe-b798-517034df39a6",
+    "cluster_id": "60b2599a-9b32-4fd7-a26a-95471976db2d",
+    "cluster_size": 1,
+    "source": "americanpublicmedia",
+    "title": "Planning a summer vacation? Look in your back yard.",
+    "teaser": "State tax cuts saving homeowners money are costing Wyoming's local towns millions, forcing deep spending cuts for essential services like libraries and fire departments.",
+    "summary": "Local public services across Wyoming are facing severe budget crises following state tax policy changes. During the COVID-19 boom, soaring home values led to increased property tax revenues for towns and counties. However, state lawmakers subsequently lowered residential property taxes by 25%, a move that saved homeowners money but cost local governments tens of millions in vital operating funds. Officials now predict that these lost revenues will force deep spending cuts, impacting services like the library in Lander, which is forced to restrict its operating hours.",
+    "importance": 4,
+    "category": "policy",
+    "url": "",
+    "date": "2026-06-26T18:47:22Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Marketplace",
+    "content": "Property taxes typically go to towns and counties for public services, like fire departments, libraries, ambulances and roads. They're just one of those things homeowners have to pay - or at least that is how it has always been. To understand where this started, we have to rewind to the height of the COVID-19 pandemic. Like many places, home values skyrocketed in Wyoming's little mountain towns. \"People were coming in from out of state, and they were paying cash offers, they were paying over asking price, and so that just made the market go up,\" said Hank Hoversland, executive director of the Wyoming Taxpayers Association. With home values up, property taxes followed. Hoversland said that meant longtime Wyoming homeowners were suddenly paying a lot more. State lawmakers responded by lowering residential property taxes last year by 25%. It saved a Wyoming homeowner a few hundred bucks, but cost towns and counties tens of millions in revenue. \"There really isn't a plan to make up these revenues. And so it's going to come on the backs of spending cuts,\" Hoversland said. Like the library in the small town of Lander, Wyoming, where Anita Marple is the director. On the day I speak with her, she is wearing a Dr. Seuss T-Shirt that says, \"Oh the places you'll go when you ... read.\" \"Sometimes I just wear this shirt to remind me of, OK, here's our mission,\" Marple said. Lately, Marple is spending much of her time going over a difficult budget. Because these days, the library's doors are locked and the lights are out more often. \"You're here on a Monday morning and we're closed until 1 p.m.,\" she said.",
+    "raw_meta": {
+      "gmail_message_id": "729",
+      "gmail_uid": "729",
+      "gmail_labels": [],
+      "gmail_msgid": "1869086479642713809",
+      "gmail_thrid": "1869086479642713809"
+    }
+  },
+  {
+    "id": "ff3603eb-7a74-4a5e-b455-170006362a36",
+    "cluster_id": "d920e610-2665-4dd7-876d-9a188be35bd3",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Google wants AI regulation, but on its own terms",
+    "teaser": "Google advocates for 'middle-way' AI regulation, but critics say it's a move designed to protect its profit and power under the guise of oversight.",
+    "summary": "Google is advocating for a 'middle way' approach to AI governance, suggesting the creation of a federally overseen frontier AI regulatory organization (FARO). While framed as a balanced solution, the article argues that Google's proposals ultimately serve to maintain the industry's autonomy. The company, while calling for rules, emphasizes that using public web data for training models should be protected under fair use. Critics point out that Google's insistence on this middle path, alongside the massive growth (340% since 2023) in AI lobbying, suggests the push is more about favorable market control than genuine regulation.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/26/google-wants-ai-regulation-but-on-its-own-terms/5263276",
+    "date": "2026-06-26T19:50:06Z",
+    "image_url": "https://image.theregister.com/253737.jpg?imageId=253737&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "AI AND ML Google wants AI regulation, but on its own terms Surely, we can have rules that allow us to continue doing what we're doing For more than three years now, we've been hearing from AI execs who insist that the government regulate their industries ... until there's a chance such oversight could hurt business. OpenAI and Anthropic have led the way with the latter's CEO, Dario Amodei, calling for \"binding regulations\" in June 2026, only to push back when his latest models were suspended . Now Google, which has also called for AI regulation , would like to clarify its request for government intervention and ask for a \"middle way\" that's largely favorable to its interests. \"The debate over AI governance is stuck in a false choice between over-regulation and no regulation,\" said Google president Kent Walker in a blog post . \"There is a middle way: A pragmatic, evidence-based approach that recognizes the unique challenges and opportunities of both frontier AI and widely-deployed AI applications.\" Walker does not explicitly define \"over-regulation,\" but presumably we're talking about the recent ban on Anthropic's Fable 5 and Mythos 5. In Google's 21-page policy paper \"A Pragmatic Approach to AI Governance in America\" [ PDF ], the company argues, \"There is a middle path that would balance market-driven innovation and independent oversight: a federally overseen frontier AI regulatory organization (FARO).\" The FARO would be modeled after other notionally independent, industry-funded organizations like the North American Electric Reliability Corporation, the Financial Industry Regulatory Authority, and the American Medical Association, each of which is overseen by some government commission or agency. The conceit of a middle path is difficult to reconcile with the past decade of dire warnings about AI from technology leaders. If AI is indeed an existential threat with the capability to do harm, one might expect it to be regulated like lead or asbestos. Yet here's Google arguing, \"AI platforms should be required to take reasonable measures to feature persistent disclaimers, filter out sexually explicit or romantic content, avoid claims the model is a person (and regularly point out that it's not), and not promote emotional dependency.\" We've seen how well this has worked out on the internet, where Section 230 of the Communications Decency Act has immunized platforms that take performative safety measures: we wanted some measure of free speech, but we also got no-fault misinformation and social media incitement as part of the package. The middle road for AI governance is already here: some acceptable level of chatbot suicide promotion, non-consensual nudification images, copyright surrender, model bias, indemnified errors, and guidance toward harms. Hey, we tried. It's not communities banning datacenters, but communities negotiating terms. \"The question is not datacenters or no datacenters, but how to build datacenters the right way, responsibly and in partnership with communities,\" Google's paper states. But already for many communities, it's not a question but an imperative. If there's one thing that unites the political spectrum at the moment, it's opposition to datacenters . And this middle of the road approach looks more like \"just let us have our way\" with regard to copyright. \"Using publicly available web data for training models is a transformative, non-expressive use - like an art student taking inspiration from walking through a gallery - that should remain protected under fair use in the U.S. and text-and-data-mining exceptions abroad,\" Google's paper muses. The courts are still considering claims about AI copyright abuse. But as analogies go, AI for Google is more like an art student who controls the tourist referral market capturing the entirety of the Louvre's imagery and then selling access to those images - fair, profitable use! - and laundered variations in a way that discourages tourists from visiting the actual Louvre. And then, noting all the creative types who no longer get hired because AI sells their talent on tap, the art student throws in with a non-profit offering incentives to companies for job retraining programs. Google is asking for a middle path, but one need only look at the growth in AI lobbying over the past few years - up 340 percent since 2023 - to understand that the AI industry is paying to pave this middle path in a favorable direction. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5263276",
+      "rss_tags": [
+        "ai and ml"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "80e4c0fd-03b6-489b-85d1-6f135a2510b2",
+    "cluster_id": "d497e6d4-c4da-470a-98a5-dae8547e68b5",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Even the Secret Service won't use company-issued phones",
+    "teaser": "Even the Secret Service won't use company-issued phones: lax security risks threaten leaders' and agents' lives.",
+    "summary": "A federal review revealed severe mobile phone security gaps within the US Secret Service, noting that the agency's lax practices, including agents using personal, unsecured phones on protective missions, endanger the lives of leaders and agents. Government-furnished equipment (GFE) also lacked sufficient security against cyberattacks. Investigators found thousands of instances where personal phones were used for official business, often because government devices were inadequate or lacked basic security features. The Department of Homeland Security inspector general issued five recommendations, including mandatory cybersecurity training and formal policies for secure equipment. The Secret Service confirmed they have implemented several comprehensive enhancements to mitigate potential risks.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theregister.com/security/2026/06/26/even-the-secret-service-wont-use-company-issued-phones/5263356",
+    "date": "2026-06-26T21:50:47Z",
+    "image_url": "https://image.theregister.com/251521.jpg?imageId=251521&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Security Even the Secret Service won't use company-issued phones Personal cell phones on protective missions, no threat detection on government-issued devices among the litany of sins It seems like nobody wants to carry a work phone and that includes even those charged with protecting the US president. The US Secret Service's extremely lax mobile phone security practices - including using unsecured personal devices during mission operations - put America's leaders' and agents' lives at risk, according to a government-issued report. Secret Service agents routinely used personal cell phones to communicate with law enforcement and each other, including during protective operations in the US and overseas, because their government-issued devices lacked the capabilities they needed to perform their missions, according to a federal review ordered after the 2024 assassination attempt against President Trump in Butler, Pennsylvania. Even when Secret Service employees did use government-furnished equipment (GFE), these mobile devices didn't have sufficient security to \"ensure real-time, continuous protection from cyberattacks by foreign adversaries or individuals,\" according to a report by the Department of Homeland Security inspector general. The inspector general's investigation also found vulnerable apps on these GFE mobile devices. In addition to being prohibited - Homeland Security policy only allows Secret Service employees to use GFE devices for official business - using personal cell phones is especially bad from a cybersecurity perspective. As we have seen time and time again , government employees' personal devices and private communications provide highly attractive targets for foreign spies or even homegrown criminals plotting attacks against elected leaders. Secret Service agents' phones can also reveal mission-related details, geolocation - and, by proxy, the US president, vice president, and visiting heads of state's geolocations - as well as photos, contacts, and other personal information such as family members and home addresses. Since these personal devices are not managed or secured by the US government, it's much easier for attackers to plant surveillanceware and other malware on them. \"If a personal device is jailbroken, infected with malicious code, or not up to date on security software, an adversary could intercept device communication,\" according to the report. \"Outdated and vulnerable apps could enable malicious actors to conduct surveillance, track locations, or record employees' communications. Connecting to unsecured networks may also allow cybercriminals to access data or install malware.\" The inspector general reviewed call and text logs from Secret Service GFE mobile device records from October 2022 through May 2025, and found more than 15,000 instances among 4.8 million calls in which employees sent and received calls from colleagues' personal phones while working protective events. Investigators also examined travel vouchers for Secret Service employees who travelled internationally between October 2022 and April 2025. They found 30 employees who claimed reimbursement for using personal phones for official, government business. Most of these (23 of the 24 interviewed) said they needed to use their personal cell phones during nearly every foreign assignment. Plus, they used personal mobile devices as hotspots to provide internet access for government-issued laptops, or to access websites blocked on GFE phones. Even when employees did use government-issued devices on overseas trips, these phones also lacked basic security, the investigation found. For example: the Secret Service did not begin installing mobile threat defense software on any GFE phones until August 2025. Nor did the agency consistently wipe data from GFE devices after employees returned from international missions despite Secret Service policy requiring employees to do this within 24 hours of returning to the US. Do these 5 things As a result of its findings, the inspector general made five recommendations to improve mobile device security. These include implementing a formal policy to ensure government-issued devices have all the needed capabilities to ensure mission functions can be conducted securely, and also ensure all employees complete cybersecurity awareness training, as required by the Secret Service. The report also recommends the Secret Service office of the chief information officer do a better job communicating to employees that the use of personal devices is not allowed for official business, and implement controls to wipe all mobile devices returning from international missions. Finally, the inspector general also recommends an updated vulnerability testing policy be applied to all mobile app code. The Secret Service \"concurred\" with all five recommendations. We reached out to the Secret Service about the report and recommended actions, and a spokesperson declined to comment beyond a letter from Secret Service Director Sean Curran included in the report. Curran said, among other things, that in response to the inspector general's findings, the agency made \"several comprehensive enhancements to Secret Service communications policies and protocols to both mitigate the potential for adversaries to intercept and exploit Secret Service information, as well as further strengthen the protective environment.\"®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5263356",
+      "rss_tags": [
+        "security"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "358c6f65-14cf-459d-9a84-4e7fa32a1cfc",
+    "cluster_id": "bc2c514d-1104-4a53-8ecb-bf2cd68e56ba",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+    "teaser": "Insurance startup Corgi faces claims of IP theft after adopting features from competitor Papermark, igniting a debate over 'vibe-coding' ethics.",
+    "summary": "Y Combinator-backed startup Corgi faced accusations from Papermark, an open source data room software maker, of stealing intellectual property. Papermark claimed Corgi’s Dataroom product copied its software's features and language. While Corgi's CEO Nico Laqua denied stealing actual code, the company admitted to using 'vibe-coding'—adopting the look and feel of existing products—for peripheral settings. This controversy has sparked a broader debate on the ethics of feature replication versus code theft in the tech industry. Corgi issued a cease-and-desist letter to Papermark’s co-founder, Marc Seitz, while simultaneously emphasizing its recent $106 million Series B1 funding round, valuing the company at $2.6 billion.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+    "date": "2026-06-26T22:00:37Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Corgi-founder-CEO-Nico-Laqua.jpg?resize=1200,815",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Julie Bort",
+    "content": "Y Combinator-backed insurance tech startup Corgi became embroiled in yet another controversy earlier this week when Papermark, maker of open source data room software, accused Corgi of stealing its software and passing it off as its own. Corgi denies this. \"No code was used from Papermark,\" the company tells TechCrunch. But there were reasons why people believed the initial allegation, which was made by Papermark co-founder Marc Seitz on X and concerned Corgi's newly released product called Dataroom. Deal room software is essentially secure document sharing. It is famously used by startups to pitch VCs and send them supporting materials for due diligence. Seitz's post blew up because he shared screenshots showing Corgi's product using the same language for the same features as Papermark's, word for word. He went as far as to call Corgi's new product copyright- and license-infringing, and \"fraud.\" Image Credits: Marc Seitz/Papermark Corgi's co-founder and CEO Nico Laqua saw the tweet and promised to investigate. Soon after, he responded on X with a full denial, showing that the code was different between the two products. While he strenuously pushed back on the allegations of a license violation - arguing that \"copying my style\" is a different claim than \"stealing enterprise code\" - he did admit that relying on a vibe-coding design led to the replica features. \"Looking back, we should've leaned more into our own language and visual choices instead of taking cues from existing products in the space, and that's on us,\" he posted. A Corgi spokesperson confirmed to TechCrunch that the offending features were vibe-coded and said they have already been changed, downplaying the situation. \"The issues were isolated to visual elements on two peripheral settings pages,\" the spokesperson told us, adding that these elements were \"immediately updated\" and that \"our team confirmed that no code was used from Papermark.\" Laqua and the spokesperson also accused Papermark of making these accusations because Corgi is offering a less expensive product. \"I get that this stings since we're putting out something mostly free that competes with his SaaS. I'd be mad too,\" Laqua wrote of Seitz. Seitz did not respond to a request for comment. The copying of visual elements and identical feature language, however, went beyond sour grapes as a credible complaint. It raises a new and thornier question: If vibe coding makes it so easy to copy the look, feel, and every function of another's work, while not copying every line of the code itself, how much does it matter if the source isn't identical? Obviously, legally speaking, it's the only thing that matters. So this is not the same as the controversy over Y Combinator alum PearAI, a 2024 startup that admitted to cloning another open source project and releasing it under its own license. Morally speaking, this is ambiguous and will become increasingly common. As fellow YC alum and founder of the agent operating system OpenProse Dan Barrett explained on X : \"In a world where a bot can trivially copy 1:1 the structure of something even if the character-level code diverges ... what makes one unacceptable and the other not? existing IP law, incidental to the old world? is there not some greater principle at work here?\" Corgi is now vigorously trying to clean up any reputational damage. It has issued a cease-and-desist letter to Seitz demanding that he take down the tweet, the company confirmed to TechCrunch. The founder of Hello World Cafe, which competes in part with Corgi's coffee shop business, says he also received a cease-and-desist from Corgi's lawyers over a tweet joking about the Dataroom controversy. Though X still remembers. There have been hundreds of comments and countless subtweets. This is not the first time Corgi has been accused of heavy-handed legal tactics. In May, competitor Matcha accused the company of bullying behavior , a dispute that unfolded alongside a separate lawsuit. The two-year-old startup has also sued various former employees and developed a growing reputation for being litigious . (Corgi also offers a 24-hour coffee shop, with plans to open more, Laqua recently said on VC Harry Stebbings' podcast .) This latest hullabaloo adds to a growing list of chatter around Corgi. The two-year-old startup, for instance, has a growing reputation for being litigious . It's already sued various former employees . Laqua also recently went viral for his comments on Stebbings' podcast about how he expects employees to work seven days a week. \"Whatever you can get done in five days, I promise you, you'll get more done in six and seven,\" he said. That is, of course, the fallacy of startup hustle culture. Decades of research repeatedly conclude that human productivity is not a quadratic equation. While sprints can be effective and build camaraderie for short-term problems like the site going down, the research shows that, as a matter of routine, more hours of work reduces productivity , not the other way around. The startup also got tongues wagging for how fast it has raised money with increasing valuations, even by AI-startup standards. Last month, Corgi raised a $106 million Series B1, valuing the company at $2.6 billion, just three weeks after announcing a $160 million Series B at a $1.3 billion valuation and four months after its $108 million Series A. Corgi also operates a 24-hour coffee shop, with plans to open more, Laqua said on the Stebbings podcast.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3136556",
+      "rss_tags": [
+        "Startups",
+        "TC",
+        "corgi",
+        "open source",
+        "vibe coding",
+        "Y Combinator"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "7402924b-7023-4b84-99b2-fc8bfe33808b",
+    "cluster_id": "dca60c14-d0af-443b-b258-1bf6f4a1fdd0",
+    "cluster_size": 4,
+    "source": "The Verge",
+    "title": "My favorite Govee smart lamps are at their lowest prices ever for Prime Day",
+    "teaser": "Get smart lighting upgrades during Prime Day! Check out Govee's sales, including the Floor Lamp Basic for just $59.99.",
+    "summary": "Govee is offering significant discounts on its smart lamps during Prime Day, providing budget-friendly options for smart home lighting. Models range from the compact Table Lamp 2, now $53.99, to the large Uplighter Floor Lamp, discounted to $125.99. These lamps are highly versatile, supporting millions of colors, adjustable white light, and music syncing. Functionality is enhanced by compatibility with Alexa, Google Assistant, and Matter. While the Floor Lamp Basic is slimmer, the Uplighter offers a dramatic three-zone lighting effect. The Portable Table Lamp Classic uses a rechargeable battery, making it easily movable, though it is not weather-resistant.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale",
+    "date": "2026-06-26T22:51:28Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/goveefloorlampbasiclifestyle.png?quality=90&strip=all&crop=0%2C5.701506220411%2C100%2C88.596987559178&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Sheena Vasani",
+    "content": "We've already rounded up the best Philips Hue deals of Prime Day , but if you're looking for something a little more budget-friendly, Govee's latest sale is worth checking out. The company has heavily discounted several of its color-changing smart lamps, including the Table Lamp 2 ($53.99, down from $79.99), Floor Lamp Basic ($59.99, regularly $99.99), the portable Table Lamp Classic ($55.99, down from $79.99), and Uplighter Floor Lamp ($125.99, down from $179.99). I own all but the Portable Table Lamp Classic and regularly recommend them to friends. No matter which lamp you choose, you're getting a similar experience. Each supports millions of colors and adjustable white light, comes with a variety of preset scenes, and can sync its lighting to music. You can also create custom scenes, schedules, and automations in Govee's app or control the lamps with your voice using Amazon Alexa or Google Assistant. Plus, with the exception of the Floor Lamp Basic, they all support Matter, allowing them to work with other major smart home platforms too. The biggest differences come down to size and where they'll fit best. The small Table Lamp 2 is ideal for a nightstand or desk, while the portable Table Lamp Classic swaps the power cord for a rechargeable battery, making it easy to move from room to room or take outside onto a patio. Just keep in mind it isn't weather-resistant, so you'll only want to take it out when it's not raining. The Floor Lamp Basic and Uplighter Floor Lamp, meanwhile, are both designed to brighten larger spaces. The minimalist Floor Lamp Basic is the smaller and slimmer of the pair. If you want something more dramatic, the taller Uplighter offers three independently controllable lighting zones that can project different colors onto your walls and ceiling at the same time.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=958313",
+      "rss_tags": [
+        "Deals",
+        "Gadgets",
+        "Prime Day",
+        "Smart Home",
+        "Tech",
+        "Verge Shopping"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -800,6 +1070,63 @@
     }
   },
   {
+    "id": "564da375-4c83-48ab-bb6d-bedc19c1f266",
+    "cluster_id": "31e33cd0-4d48-45f3-a9e3-c874c5190da2",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
+    "teaser": "Tennis star Novak Djokovic is joining General Atlantic as a global advisor, signaling a growing intersection between elite sports and private equity.",
+    "summary": "Tennis champion Novak Djokovic has become a global strategic advisor for the private equity firm General Atlantic. In this role, he will work with the firm's leadership and portfolio companies, bringing expertise in leadership, resilience, and innovation. This strategic move highlights the increasing investment in the sports and wellness sectors. Djokovic's business acumen is further demonstrated by his investments in companies like Waterdrop and his co-founding of supplement and snack food companies. General Atlantic is reportedly keen to utilize his network to deepen its presence in the health and wellness sector and expand its sports investment portfolio, following previous stakes in a football club and a sports stadium.",
+    "importance": 3,
+    "category": "economics",
+    "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
+    "date": "2026-06-26T19:13:40Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2282709667.jpg?w=1024",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Dominic-Madori Davis",
+    "content": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor, where, according to a press release, he \"will work closely with the firm's leadership, portfolio companies, and investors, bringing perspectives on leadership, resilience, and innovation that reflect General Atlantic's commitment to excellence.\" The news comes just days before Djokovic is set to play at Wimbledon, with his eyes set on a 25th Grand Slam title. The partnership, in many ways, makes sense. Djokovic has invested in a handful of wellness companies, including Waterdrop in 2023 , and co-founded his own supplement company, SILA , in 2024, followed by the clean snack food company Cob Foods in 2025. He also backed the wearables company Incrediwear. As reported by Bloomberg, General Atlantic hopes to leverage Djokovic's network to gain further exposure to the health and wellness sector. At the same time, the firm is hoping to expand further into sports investing, having, over the past two years, taken stakes in a football club, a sports stadium, as well as a sports media agency. The presence of private equity in tennis has increased, with General Atlantic being just the latest name to enter the game. The firm's CEO said in an interview with Bloomberg that Djokovic had \"strong views about how professional tennis can be reshaped\" and that \"there'll be opportunities there.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3136777",
+      "rss_tags": [
+        "Venture",
+        "Sports",
+        "tennis",
+        "wellness"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "78bf0c9b-3ed4-421b-a662-36c4b06a6c92",
+    "cluster_id": "65fe4f6d-ba09-444d-a628-8cc1718f3ef8",
+    "cluster_size": 1,
+    "source": "Planet Money (NPR)",
+    "title": "We almost had a smartphone in the 90s. Why did it fail?",
+    "teaser": "General Magic, a pioneer in early smartphone tech, failed not due to lack of funds or talent, but perhaps due to needing 'constraints'.",
+    "summary": "A retrospective look explores why a sophisticated, smartphone-like device developed by General Magic in the early 1990s failed to gain traction. While General Magic possessed immense resources, including generous investors, world-class talent, and creative freedom, the theory presented suggests that the lack of necessary limitations or 'constraints' might have been the critical factor in the device's ultimate failure.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.npr.org/2026/06/26/nx-s1-5872785/general-magic-sony-magiclink-constraints",
+    "date": "2026-06-26T21:30:00Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "In the early 90's, a company called General Magic began working on a portable device that would allow people to check email, make phone calls, even play games. It was basically a smartphone. But it never caught on. On today's show, a theory about why this device failed. General Magic had generous investors, world-class talent and creative freedom. But is it possible what they needed was constraints? Support: Read: Follow: This episode was hosted by Erika Beras and Emma Peaslee. It was produced by Emma Peaslee with help from Sam Yellowhorse Kesler and James Sneed. It was edited by Marianne McCune and fact-checked by Charlotte Isidore. It was engineered by Jimmy Keeley with help from Cena Loffredo. Alex Goldmark is Planet Money 's executive producer. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences. NPR Privacy Policy",
+    "raw_meta": {
+      "rss_entry_id": "328df0bb-82ab-4cd3-a519-2dd8a03a1c8d",
+      "rss_tags": [],
+      "fetch_ok": null,
+      "fetch_status": null,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "3710a968-7d9a-49d4-b2ba-2f0f036d0c2e",
     "cluster_id": "15816996-148d-454a-9125-6960afd32aed",
     "cluster_size": 1,
@@ -821,6 +1148,37 @@
       "rss_entry_id": "https://www.theregister.com/a/5260833",
       "rss_tags": [
         "bofh"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "1ac411c4-aacb-42fb-ad5b-00e7b0bca8fc",
+    "cluster_id": "da493ef3-f881-4511-96fc-fac94826464d",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
+    "teaser": "After Prime Day deals, this author finally bought Vampliers: specialized Japanese pliers designed to solve the universal problem of stripped screws.",
+    "summary": "Following a period of Prime Day deals, the author highlights a useful tool: Vampliers. These specialized, Japanese-made pliers are designed specifically for removing stripped screws, solving a common household frustration. The standard 6.25-inch VT-001 Vampliers are currently on sale for $25.58 at Amazon. The author notes the tool's effectiveness, mentioning that similar pliers, like Engineer's \"Neji-Saurus,\" are available; Vampire Tools distributes these rebranded Engineer tools in the US.",
+    "importance": 1,
+    "category": "other",
+    "url": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
+    "date": "2026-06-26T22:09:46Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/062626_Vampliers_VT001_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Antonio G. Di Benedetto",
+    "content": "We've covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I'm most hyped for is a simple tool for fixing my most egregious mistakes. I bought a pair of Vampliers. If you're unfamiliar, Vampliers are Japanese-made pliers designed for one simple task: removing stripped screws. I don't even remember when I first heard of them, but I threw one on my wishlist long ago and thought, \"I should get one of these eventually.\" That time is now: the standard 6.25-inch VT-001 Vampliers is on sale for $25.58 (about $6 off) at Amazon . I recommended a smaller pair of Vampliers in our roundup of Prime Day deals under $25 . I knew from people I trust how handy these things are. I even read Chris Person's excellent ode to his Engineer \"Neji-Saurus\" pliers , which are the same thing with a green handle. (Engineer makes both sets of pliers; Vampire Tools distributes rebranded Engineer tools in the US.) Over the years, I've abandoned far too many stripped screws in door jambs, junction boxes, and even under my desk. And now I finally have a means to correct my mistakes. Maybe it's the full pot of coffee I've been drinking every day since Tuesday, but I'm done with Prime Day and I'm done with stripped screws.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=958179",
+      "rss_tags": [
+        "Deals",
+        "Gadgets",
+        "Prime Day",
+        "Verge Shopping"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
