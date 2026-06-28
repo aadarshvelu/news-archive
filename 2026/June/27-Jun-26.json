@@ -247,6 +247,69 @@
     }
   },
   {
+    "id": "db49b11c-cf56-446c-ab44-5c2e01c77c2d",
+    "cluster_id": "ce0141b6-ac4d-481e-bc49-2d76d59cdbad",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+    "teaser": "Margaret Atwood warns that AI is only as reliable as its input data, famously stating: 'garbage in, garbage out'.",
+    "summary": "Author Margaret Atwood shared her skeptical view of artificial intelligence at the Babell Literary and Cultural Festival in Porto, Portugal. Having used Anthropic's Claude chatbot to research the detective series Father Brown, Atwood reported that the AI gave her a wrong or 'lying' answer. She cautioned that LLMs are flawed because they are not human beings and cannot recognize when they are providing false information. Atwood stressed the core principle: AI is only as reliable as its input data—'garbage in, garbage out.' She criticized users who rely on AI, calling them 'opportunists,' warning that even professional use requires careful human checking because the technology is prone to mistakes.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+    "date": "2026-06-27T18:39:32Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin , was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI chatbot exactly once, Anthropic's Claude, and came away unimpressed. She was looking for information about the British detective series Father Brown and, well: \"Claude gave me the wrong answer, or it lied. Of course, it didn't know it was lying because it's not a human being; it's a large language model... It had skimmed and sampled a lot of television reviews, but they never give away the ending in online criticism, so it was misled by the things it had read about the show.\" She didn't have particularly kind words for the people who rely on AI either, calling them \"opportunists\" looking for the easy way out. But of course, as she pointed out, all LLMs are only as good as the data they're fed, and putting your faith in a machine trained on scraped, previously published, and possibly out-of-date information isn't the best idea. \"Human beings are not robots, but they are opportunists, so if there's an easy way to cheat and it's hard to detect, people will do it... But the thing about AI is that it's garbage in, garbage out. Even people who use it for business reasons have to check it because it makes mistakes.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=958715",
+      "rss_tags": [
+        "AI",
+        "Books",
+        "Entertainment",
+        "News"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "2f4f8c2c-68aa-4f95-89a3-94bd1a2d25bc",
+    "cluster_id": "0c52caec-60fc-4dd3-8633-02b76a5b8a4c",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+    "teaser": "Instagram plans to integrate 'Your Algorithm' deeper into the app—users can customize their feeds by pulling down or swiping up from Reels.",
+    "summary": "Instagram is enhancing user control over content selection via 'Your Algorithm,' according to Instagram head Adam Mosseri. This feature allows users to specify desired topics and content volume. Mosseri plans to evolve it from a mere setting to a central part of the app experience. New user interfaces under test include accessing the customization menu by pulling down in the main feed or swiping up from a Reel. Additionally, users will see new buttons beneath Reels to directly indicate interest in similar content. This major shift aims to meet user demand for greater algorithmic transparency and control.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+    "date": "2026-06-27T21:27:37Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Anthony Ha",
+    "content": "Instagram users could soon see more ways to tune their content, according to a recent post from Instagram head Adam Mosseri. Specifically, Mosseri was showing off new ways that users might access Your Algorithm, a feature that allows them to specify which topics they want to see more of, and less of. Instagram launched Your Algorithm last year and has been introducing it to more areas of the app . \"We want to evolve Your Algorithm from a setting to something that feels central to your experience on Instagram,\" Mosseri said. He also noted, \"Some of this is testing now, some is coming soon, some might not work.\" The examples in his post include one where pulling down in your Instagram feed eventually brings up the Your Algorithm menu, and another where swiping up from a Reel could bring up a similar customization prompt. A third shows buttons beneath each Reel to indicate whether or not you want to see more Reels like it. The most popular comments on Mosseri's post all make the same request. As one user put it, \"WE JUST WANT OUR ALGORITHM TO SHOW THE PPL WE FOLLOW.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3136988",
+      "rss_tags": [
+        "Apps",
+        "Social",
+        "adam mosseri",
+        "Instagram",
+        "Meta"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "582f1606-8947-48e1-85bb-a9e9991957f5",
     "cluster_id": "0a48bda1-17fc-4d9f-acfd-f12538988bb8",
     "cluster_size": 1,
@@ -300,6 +363,38 @@
         "Gadgets",
         "Installer",
         "Streaming",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "5c049c69-a492-4059-93ea-f2f4f43325af",
+    "cluster_id": "38a3dc07-03ee-40c6-901f-e47812820941",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
+    "teaser": "Teenage Engineering's KO II sampler gets a huge OS 2.5 update, adding selectable lo-fi sample rates and an arpeggiator for fresh sound design.",
+    "summary": "Teenage Engineering released OS 2.5 for the KO II sampler, significantly enhancing its capabilities. Key additions include USB audio over support, an arpeggiator, and extending the maximum sample length from 20 to 40 seconds (when capturing mono audio). A standout feature is the selectable sample rate, allowing users to switch between standard 46 kHz and lo-fi modes like 26 kHz for a crunchy, digital character. The update also improves chopping, adding an arpeggiator and better support for melodic content. While the OS 2.5 update is also available for the Riddim, the EP-1320 Medieval sampler only receives USB audio support.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+    "date": "2026-06-27T21:20:32Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/teenageengineering1.webp?quality=90&strip=all&crop=0%2C11.097693417406%2C100%2C77.804613165189&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler . Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo-fi fun, sample reverse, an arpeggiator, equal-length autochopping, and it extends the maximum length of a sample from 20 seconds to 40 seconds by capturing mono, instead of stereo, audio. Sample reverse is such a simple feature that it's shocking it wasn't implemented earlier. An arpeggiator doesn't always make a ton of sense on a sampler, but the KO II sounds so incredible repitching samples (like the SK-1 successor I've always wanted) that here it's a huge addition. It's easier than ever now to crank out a synthpop bassline. The combination of longer sampling time and equal-length autochopping also makes the KO II much better suited to chopping up and rearranging samples and loops. While the transient-based autochopper was great for isolating drum hits in a break, it was less useful for melodic content. My favorite new feature, though, is the new selectable sample rate. You can stick with the standard 46k kHz if you want, but the new 32 kHz mode adds some nice character, while 26 kHz goes full lo-fi, turning crunchy and digital. Those are just the headlining features. There's also improved time stretching, new scales, per-pad time shifting, and tons of bug fixes. The OS 2.5 update is also available for the KO II's reggae-themed sibling, the Riddim . While the bizarre EP-1320 Medieval sampler is finally getting an OS update , it's only getting USB audio, and nothing else. We've asked Teenage Engineering why the EP-1320 is regularly left out of the update fun, but have yet to hear back. You can update your OP-133 KO II, EP-40 Riddom, or EP-1320 Medieval here .",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=958723",
+      "rss_tags": [
+        "Entertainment",
+        "Gadgets",
+        "Music",
+        "News",
         "Tech"
       ],
       "fetch_ok": true,
