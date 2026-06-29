@@ -1,0 +1,56 @@
+[
+  {
+    "id": "e2cc9b5d-a4af-4853-98f2-823ce6601884",
+    "cluster_id": "da935d1f-8ecf-4560-90c9-4ce20163b8ac",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "AI boom risks global financial crash, warn central bankers",
+    "teaser": "Central bankers warn that the dizzying pace of the AI boom presents a major systemic risk, potentially leading to a global financial crash if left unregulated.",
+    "summary": "Central bankers have issued stark warnings that the global AI boom poses significant systemic risks to the financial system, potentially leading to a worldwide economic crash. They caution that the rapid, unbridled pace of technological investment in AI is creating instability, which could trigger market bubbles and asset valuation collapses. The core risk lies in the speed of AI development outpacing necessary regulatory frameworks and systemic safeguards. To mitigate this danger, central banks emphasize the urgent need for international coordination among policymakers to regulate AI's impact on credit markets, employment patterns, and overall asset valuation, ensuring a controlled and stable transition.",
+    "importance": 5,
+    "category": "economics",
+    "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+    "date": "2026-06-29T01:25:04Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "b-man",
+    "content": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/\nComments URL: https://news.ycombinator.com/item?id=48713697\nPoints: 114\n# Comments: 126",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48713697",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 403,
+      "fetch_error": "HTTP 403"
+    }
+  },
+  {
+    "id": "74e08edc-9b0b-4424-b44f-42485b1e3935",
+    "cluster_id": "b29f342e-882f-45ab-94fe-654a20c74271",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Malaysia ponders regulating management of IP addresses",
+    "teaser": "Malaysia wants to revive an old system, planning a National Internet Registry (NIR) that regional experts warn could challenge global internet governance and risk political censorship.",
+    "summary": "Malaysia plans to regulate IP address management by establishing a National Internet Registry (NIR), a move that conflicts with global internet governance standards. The Communications and Multimedia Commission (MCMC) opened consultations to create a statutory authority to manage electronic addressing resources, aiming for national control. However, APNIC, the regional registry, has since deprecated NIRs, arguing that resource management works best at a regional scale to prevent overlapping authorities. Experts warn that if Malaysia proceeds, the centralized power could potentially be used for political censorship or denying resources to specific groups, contradicting the international multi-stakeholder model supported by the UN.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theregister.com/networks/2026/06/29/malaysia-ponders-regulating-management-of-ip-addresses/5263460",
+    "date": "2026-06-29T03:51:41Z",
+    "image_url": "https://image.theregister.com/261323.jpg?imageId=261323&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "networks Malaysia ponders regulating management of IP addresses Malaysia ponders regulating management of IP addresses Wants to revive the lost art of the National Internet Registry, which APNIC has deprecated and isn't keen to bring back The government of Malaysia has commenced a consultation on whether it should regulate management of IP addresses and autonomous systems numbers, over objections from regional internet registry the Asian Pacific Network Information Center (APNIC). Malaysia announced its consultation in June, when the nation's Communications and Multimedia Commission (MCMC) posted a paper [PDF] in which it explains that a lot has happened since passage of the 1998 Act that governs its activities - so it probably needs an update. One of the proposed changes would see Malaysia create a statutory authority with the power to manage electronic addressing \"including the management of IP addresses, AS numbers and associated fees.\" \"This is to support the development of a National Internet Registry model and to ensure a transparent and sustainable administration of electronic addressing resources in Malaysia which will be overseen by the Commission,\" the consultation paper states. \"This will contribute to a more robust and well-governed digital infrastructure environment in Malaysia.\" APNIC says its talks with the MCMC saw the Malaysian entity express a desire for \"full operational and technical autonomy over resource assignments\" - powers that existing NIRs don't have. National Internet Registries (NIRs) are a relic of the time before regional internet registries came into being. Only APNIC and LACNIC, the Latin American and Caribbean Internet Addresses Registry, allowed NIRs - and only nine exist, covering China, India, Indonesia, Japan, Korea, Taiwan, Vietnam, Mexico, and Brazil. APNIC stopped accepting applications for new NIRs in 2012, and in 2024 made the moratorium on new applications permanent. In 2024, APNIC's executive chair Kenny Huang explained : \"NIRs are a historical feature of the APNIC membership structure, recognizing that some IP address registries were already operating at a national or economy level when APNIC started, and some were in formation.\" \"In the past, particularly while IPv4 address space was being rapidly allocated and needed careful management, NIRs provided important support to a fast-growing Internet with high demand for number resources and registry services.\" The internet governance community long ago decided that internet resource distribution and management works best when handled by sizable organizations which operate at regional scale, and that if every country had an NIR it would create unhelpful risks and overlapping authorities. If Malaysia presses ahead with its desire to create its own National Internet Registry (NIR) and have it assume some of APNIC's functions, it will therefore challenge the status quo. If it actually gets an NIR into operation, that would likely revive debate about whether national governments should have a role in allocating internet resources given the potential for such power to be used for political purposes such as denying resources to groups that a government opposes. The United Nations last year had its say on that idea by re-affirming its support for multi-stakeholder governance under which governments are one of many voices that participate in debate about the future of the internet. Kenny Huang has written [PDF] to the Communications and Multimedia Commission (MCMC), pointing out that it's currently not possible to create a new NIR and that APNIC won't revisit its policy on the matter - but he also notes that it's always possible to commence a consultation and policy process that would see APNIC debate a new position. But that process could only start after the conclusion of work on ICP-2 , the major revision of the rules that govern the operation of RIRs. The current ICP-2 timeline calls for a revised document to be in place by the end of 2026. If MCMC decides to pursue creation of an NIR, it will be in conflict on a collision course with APNIC. In the past, most collisions in the world of internet governance occurred at low speed and involved mostly civil debate that plays out over years. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5263460",
+      "rss_tags": [
+        "networks"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]

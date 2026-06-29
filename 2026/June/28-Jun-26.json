@@ -316,6 +316,94 @@
     }
   },
   {
+    "id": "850dd8d8-9a98-4a4c-97df-670f6edf2585",
+    "cluster_id": "2286c7fc-6c62-4a8b-b46a-232fe7d3c5fa",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "Professor denounces mass AI fraud on an exam at Brown",
+    "teaser": "A Brown prof reveals a massive AI cheating scandal: At least 50 elite students cheated on an exam, forcing calls for major academic policy overhauls.",
+    "summary": "Professor Roberto Serrano of Brown University has revealed a major academic scandal, detecting conclusive evidence that at least 50 students cheated on his advanced economics exam (ECON 1170) using AI tools like ChatGPT. The incident, described as the largest known fraud in the Ivy League, exposed a systemic threat to academic integrity. Despite the overwhelming evidence, the university initially responded with 'absolute silence.' Serrano, calling for a broad public debate, argues that institutions must modernize their approaches to combat AI-facilitated cheating. To protect the utility of higher education, he plans institutional changes, eliminating take-home and weekly exercises. The drastic score drop from the midterm (96/100) to the final (48/100) underscores the need for these sweeping policy reforms.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+    "date": "2026-06-28T16:41:12Z",
+    "image_url": "https://imagenes.elpais.com/resizer/v2/J6ITLVPHQNHI3BHNR3FPIX5URE.jpg?auth=29cc39cd3e10fbe5a5266dd40100f1d61e4fe145ccd2e4ab13b6a6bd0b67f1dd&width=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "geox",
+    "content": "The temptation to use artificial intelligence (AI) to cheat is shaking up elite universities in the United States. Professor Roberto Serrano, who is the Harrison S. Kravis University Professor of Economics at Brown University, has detected a massive fraud in one of the classes he teaches, ECON 1170, an advanced undergraduate course in mathematical economics. He has conclusive evidence that at least 50 students cheated on the March midterm exam, making it the biggest known scandal at Brown and in the entire Ivy League, which brings together the East Coast's eight most elite private universities, including Princeton, Harvard, Yale, Columbia, Cornell, Dartmouth College and University of Pennsylvania. When he reported the case to high-ranking officials at Brown, he got a cold reaction. The response from the president, he said, was absolute silence. The dean did not comment either until Serrano took the case before the Academic Code Committee. At that point, he received a note acknowledging that what had happened in his classroom was \"a wake-up call.\" Serrano, a Madrid-born economist who has been at Brown for 34 years, believes this is not enough. \"That cannot be the university's position before an incident of this magnitude. Academic integrity is a value worth defending. The faculty cannot be left on its own in a battle that is decisive if we want to preserve the future of higher education,\" explains the 61-year-old professor in a telephone conversation from Providence, Rhode Island. To prevent AI from ending the prestige and utility of teaching, he feels, it is necessary to adopt a different approach: \"We need to publicly admit the seriousness of the situation and open up a broad debate about the real extent of the problem.\" Serrano is considered one of the leading proponents of applying game theory-the field that earned John Nash the 1994 Nobel Prize in Economics-to the analysis of markets . After earning a bachelor's degree in economics from Spain's Universidad Complutense de Madrid, where he has been Doctor Honoris Causa since 2019, Serrano went on to obtain a PhD at Harvard and, after completing his studies, received several job offers. Convinced that he wanted to devote his life to research and teaching, he accepted a position at Brown, where he remains to this day. He has been the recipient of several awards, including the King of Spain Prize for Economics in 2024. At age 17, Serrano went blind. In a matter of months, the retinal dystrophy that had dogged him since he was little, but which still allowed him to read and play soccer , took away his sight entirely. After a short-lived crisis, he decided it would not stop him. He learned Braille, and his excellent academic record opened up the doors of Harvard. \"Of course it affects my life, but one shouldn't over-dramatize. We economists understand reality as a set of people responding to optimization problems with restrictions. I view my disease simply as one more restriction that I have to deal with, and I optimize based on that,\" he says. Serrano always has an assistant in class to do the work on the whiteboard and handle the slides. Everything else, from preparing the class exercises to tutoring, as well as writing papers and books, he does by himself; recently these tasks have become easier thanks to technological progress. This year, the economist decided that both the midterm and the final exams for his course would be of the take-home, closed-book type (there is a certain tradition of this at Ivy League schools). \"It's a very nice kind of exam, because as you're giving students practically unlimited time to complete it, it lets you make it harder than normal, to see how far they can go.\" In this case, Serrano changed some of the model assumptions they had seen in class, and asked students to demonstrate whether certain statements were true or false under the new assumptions. The course, which he has been teaching for years, is not an easy one: it typically attracts few students, but very good ones. He has never had more than 30 students enrolled at a time, and on some occasions he had only eight. This semester, probably because of the new evaluation system, 86 students signed up for the class. The results of the midterm exam, which was administered on March 5, were extraordinary, with an average score of 96 out of 100. Forty students scored a perfect 100. The people who corrected the exams warned him about several irregularities. \"Some answers contained unusual passages that coincided with results obtained after running the questions through ChatGPT, \" he says. Serrano did not void the midterm exam, but warned students that the final one, which counted for 50% of the final grade, would be held in-person. He also said that if the grade distribution was not similar to the midterm, only the final exam would be taken into account. The average score dropped to 48 out of 100. Of the 89 students who did the midterm exam, only 59 showed up for the final one. And of the 27 who did not show up, 22 had scored a perfect 100 in the midterm exam. \"The empirical evidence of fraud is overwhelming,\" says the professor, who has decided to make changes for the coming academic year. First, the weekly exercises will not count towards the final grade, as these could be done with AI. Second, no more take-home exams, no matter how appropriate they would be. The shooting that changed everything Brown University made headlines on December 13 of last year for reasons that were not strictly academic. Neves Valentes, a 48-year-old former PhD student, showed up on campus with a gun in his hand and started firing . Two people died and nine more sustained injuries, in some cases serious ones. \"We were living in an apartment in downtown Providence, and that Saturday we started to see a lot of police cars and ambulances headed for the university,\" he recalls. His phone soon started getting messages. The shooting took place inside a classroom where a review session was underway for Introduction to Economics, led by one of his colleagues, Rachel Friedberg. These are sessions held to answer any questions that might arise ahead of the final exams. Two of the nine injured students were enrolled in Serrano's class. They fought for their lives for weeks, and happily both survived. Two days later, on the 15th, when the names of the deceased were released, he found out that one of the two fatalities was Ella Cook. The young woman had been to Serrano's office that very same week to introduce herself. She had told him she was going to enroll in his Intermediate Microeconomics class that semester, and asked if he could be her career advisor for her joint concentration in economics and mathematics. \"We chatted for quite a while. She was full of projects, ideas and hope. She was very interested in her studies. When I found out, I couldn't believe it. I've been living in the U.S. for a long time, and I still cannot understand how this country still upholds the right to bear arms . There are cases like this one all the time, but you carry on with your life because they don't affect you personally. Until one does. And it hurts, it hurts a great deal.\" Serrano was affected. \"I was in a really bad place mentally for a while. After what happened, it occurred to me that that semester, which was beginning a month and a bit after the shooting, exams could be take-home in order to make life a little easier for students. Many of them still feel anxiety when they are on campus because of what happened in December.\" But now Serrano worries about the fact that some of his students decided to cheat. And that the university would side with them, in part because it gets generous donations from very wealthy families whose children often study there. \"This means that the kids always get the benefit of the doubt; I've seen it on other occasions,\" he notes. But it also hurts him that the one time in 34 years that he decided to offer a take-home exam, for highly justified reasons, the response was wide-scale fraud. The temptation of AI Artificial intelligence is altering century-old traditions at America's most elite universities. Princeton, for instance, has decided to end a practice that had been upheld for 133 years: from now on, professors will proctor in-person exams. This hadn't been the case since 1893, when an Honor Code went into effect by which all students pledged not to cheat: the teacher would hand over the exam, leave the room, and walk back in to pick up the tests at the end. If anybody cheated, it would be up to other students to report it. But \"A.I. has made deception easier and more remunerative than ever before,\" wrote the U.S. journalist Theo Baker in a recent article in The New York Times . \"I don't know a single person who hasn't used A.I. to get through some assignment in college.\" The 22-year-old writer has just graduated from Stanford, where he started classes two months before the first version of ChatGPT was released. In his four years as a student, he has witnessed how his fellow students have been unable to resist the temptation. Serrano agrees that AI makes students have more incentives to cheat. That is why, he says, these cases cannot be swept under the rug. On the contrary, they should serve to open up an in-depth debate. \"If we no longer defend truth and decency and honesty, then what kind of credibility are we going to have as academics?\" Sign up for our weekly newsletter to get more English-language news coverage from EL PAÍS USA Edition",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48708991",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "0773525c-51ca-4f43-bcd0-16f0a66bfcc6",
+    "cluster_id": "4ee60d28-d1af-4423-9db4-adb33f4be6e4",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+    "teaser": "Suno's new artist incubator program comes with alarming legal terms, requiring artists to sign away negative commentary and grant broad usage rights.",
+    "summary": "AI music generator Suno has launched 'Spark,' an incubator program offering grants and mentorship to independent artists. While this provides significant support, the required terms raise notable concerns regarding artist autonomy. To participate, artists must grant Suno broad rights to their work for remixing and derivative creations. Furthermore, applicants must waive their right to class action participation and agree to a stringent 'Good Vibes Only' clause. This clause dictates that participants cannot make negative statements about Suno, enforcing a requirement for positive promotion and raising ethical questions about intellectual property and creative freedom in the AI era.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+    "date": "2026-06-28T20:27:36Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned singer, songwriter, or producer releasing music under their own name. They also need to agree to some terms and conditions that have raised some eyebrows over on the Suno subreddit . For one, you need to agree to make your songs available on Suno for remixing. That's not necessarily super concerning, but the broad license it grants Suno to your works, including the ability to create derivative works, is. By agreeing, you also waive your right to a trial and to participate in a class action, and give Suno limited exclusivity to your material. Suno is already facing a proposed class action lawsuit from a group of independent artists . Perhaps most alarming is the \" Good Vibes Only \" confidentiality and non-disparagement clause that requires you to promote Suno and give the company the right to request edits and removals of your content. It says the participant \"will not at any time make any statements or representations, either directly or indirectly, whether orally or in writing, that portrays Suno, Suno personnel, and/or any Suno products or services in a negative light,\" and doing so could mean being removed from the program.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=958801",
+      "rss_tags": [
+        "AI",
+        "Entertainment",
+        "Music",
+        "News"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "9fa403d6-be07-4de7-8224-75b69a8543b3",
+    "cluster_id": "553b4f0c-1b95-4da6-b865-793c223f2331",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "California law targeting loud streaming ads takes effect on July 1",
+    "teaser": "California's new law mandates that streaming ads cannot be louder than the accompanying video content, starting July 1.",
+    "summary": "California is implementing a new consumer protection law requiring streaming services to limit ad volume. Effective July 1, the legislation bans ads from being louder than the associated video content, addressing the issue of jarring ad noise. While limited to California currently, this reflects a broader trend in content regulation, with similar bills slated for states like Illinois. The law was championed by State Senator Thomas Umberg, who noted the need to reduce noise pollution from streaming ads. Industry groups, such as the Motion Picture Association of America, opposed the measure, stating that streamers already address volume issues across various output devices.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+    "date": "2026-06-28T21:34:14Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1306345527.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Anthony Ha",
+    "content": "Streaming ads might be getting a lot quieter this week. A California law banning streaming services from showing ads \"louder than the video content\" that they accompany is set to take effect on Wednesday, July 1. (Existing legislation already imposes similar volume restrictions on broadcast and cable TV commercials.) Ars Technica notes that streaming services have not shared additional details about how they plan to comply with the law. While the volume limitations only apply to California for now, it seems likely that any relevant changes would be deployed more broadly, especially with a similar bill set to take effect in Illinois next year. When the law was passed in 2025 , its sponsor, State Senator Thomas Umberg, said it was inspired by \"every exhausted parent who's finally gotten a baby to sleep, only to have a blaring streaming ad undo all that hard work.\" Industry groups including the Motion Picture Association of America and the Streaming Innovation Alliance opposed the bill, claiming streamers were already working to address the issue, and noting that they have to deal with a variety of output devices, including TVs, tablets, and phones.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3137041",
+      "rss_tags": [
+        "Government & Policy",
+        "Media & Entertainment",
+        "streaming",
+        "thomas umberg"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "b6164081-44d4-479a-a2c3-3e5674fcaeeb",
     "cluster_id": "f294ee4c-3d98-415c-8635-888c561140a9",
     "cluster_size": 1,
@@ -437,6 +525,32 @@
         "ian bogost",
         "the small stuff"
       ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "5477f053-1e22-4ddf-96ee-54aac064fc59",
+    "cluster_id": "0eab3412-e192-44cf-a48c-f29693a6d064",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "We need tech news sources which exclude AI",
+    "teaser": "The author argues that general tech news sources are now so overrun with AI stories that dedicated, non-AI tech press is urgently needed.",
+    "summary": "The author argues that mainstream tech media, including Techmeme and Hacker News (HN), are overly dominated by Artificial Intelligence coverage. The piece calls for a dedicated filter or an alternative press dedicated to non-AI technology. The frustration stems from the feeling that AI hype crowds out coverage of other critical tech developments, such as physical hardware advancements or fundamental tech issues.",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://news.ycombinator.com/item?id=48713041",
+    "date": "2026-06-28T23:49:50Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "botfriendsarent",
+    "content": "Its now clear that we need to preserve tech press for non AI related things. Techmeme for example is now completely overrun with AI stories. HN is getting closer to that every day. If AI kickback deals, phony new model ratings, high RAM prices and your surprise at how you think you coded something with AI and it was AMAZING! even though it doesnt work is all there is count me out. We need a filter on existing tech news sites or an alternative press.",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48713041",
+      "rss_tags": [],
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null

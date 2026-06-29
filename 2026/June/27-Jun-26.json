@@ -217,6 +217,38 @@
     }
   },
   {
+    "id": "8960d714-6200-45df-8732-fd2da12b952e",
+    "cluster_id": "84d55883-1e49-4ec4-9ede-8d7c6c0c73fc",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+    "teaser": "Facing supply chaos, Apple is seeking permission to source chips from a blacklisted Chinese supplier, while also pursuing a major partnership with Intel.",
+    "summary": "Apple is navigating complex semiconductor sourcing challenges amid rising costs and geopolitical tensions. Facing supply chain pressure, the company reportedly sought permission to purchase RAM chips from CXMT, a blacklisted Chinese supplier. Simultaneously, Apple is pursuing strategies to diversify its chip base by potentially partnering with Intel. While Apple's high-end M-Series chips are expected to remain sourced from TSMC, the proposed Intel deal would primarily involve manufacturing chips for Mac computers and entry-level devices. Intel is advancing its manufacturing capabilities with its 18A-P process, which has entered risk production, helping it secure commitments to validate its advanced nodes and counter reliance on TSMC.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+    "date": "2026-06-27T17:28:18Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times . The skyrocketing prices of RAM and storage have driven Apple to raise prices on almost all of its products this week, so it makes sense that it would seek alternative sources. Legally, Apple isn't barred from buying chips from CXMT, but doing business with a company tied to the Chinese military would carry serious reputational risks. It's possible that CXMT could still find itself the target of export controls for undermining US security. The company was on a list of proposed additions to the so-called \"Entity List\" by the Commerce Department, but held off because the White House was in the middle of trade negotiations with China. It's unclear if the administration would give its blessing to Apple. Tim Cook has spent significant time trying to build bridges with the Trump administration, presenting the president with gaudy statues and attending a screening of the Melania movie, directed by accused rapist Brett Ratner. But if the White House granted Apple permission, such a decision would likely face significant blowback. John Moolenaar, Republican chair of the House China committee, told the Financial Times that: \"Apple choosing to partner with a Chinese military company would be a grave mistake... Helping the [Chinese Communist Party] succeed in its plans to dominate critical supply chains will make our country's tech industry and economy more dependent on China at a time when we must build secure tech supply chains with our allies,\"",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=958707",
+      "rss_tags": [
+        "Apple",
+        "News",
+        "Policy",
+        "Politics",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "2addbef4-aa2b-40a5-891a-94b219cc0874",
     "cluster_id": "e4e79f4d-9d41-418e-85bf-2419cf2b56bd",
     "cluster_size": 1,
