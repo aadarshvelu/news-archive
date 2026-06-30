@@ -1,0 +1,99 @@
+[
+  {
+    "id": "a9186347-8214-4323-af0d-4285ae5963a5",
+    "cluster_id": "da1b38a8-be6b-4bd0-86de-3d77042216f7",
+    "cluster_size": 4,
+    "source": "SiliconANGLE",
+    "title": "Space launch provider Rocket Lab to buy satellite operator Iridium for $8B",
+    "teaser": "Rocket Lab's $8B bid for Iridium unites launch services and a massive satellite network, positioning the company as a direct rival to SpaceX.",
+    "summary": "Rocket Lab is set to acquire Iridium Communications for $8 billion, a strategic move combining its rocket launch capabilities (Electron, Neutron) with Iridium's established global satellite communications network. Iridium currently serves over 2.55 million subscribers via its LEO constellation, offering vital services like PNT (a GPS alternative) in remote and difficult environments. The deal, expected to close by mid-2027, aims to transform Rocket Lab into a 'fully integrated space power,' enabling it to directly challenge dominant players like SpaceX (Starlink) and Amazon. This acquisition provides Rocket Lab with highly valuable spectrum and an existing profitable customer base, accelerating its expansion into direct-to-device services and solidifying its role in the satellite market.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/06/29/space-launch-provider-rocket-lab-buy-satellite-operator-iridium-8b/",
+    "date": "2026-06-30T00:37:34Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Iridium.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Rocket Lab Corp. today announced plans to acquire Iridium Communications Inc., a major satellite operator, for $8 billion in cash and stock. The companies expect to complete the transaction in mid-2027. Rocket Lab is the developer of Electron, a 60-foot launch vehicle optimized to take satellites into low Earth orbit, or LEO. The company completed its first successful flight in 2019. It has since deployed more than 250 satellites for customers aboard 91 Electron rockets. Besides providing launch services, Rocket Lab also supplies components to other space companies. The company makes solar arrays, propulsion modules, sensors and a variety of other subsystems. Furthermore, Rocket Labs offers a suite of software tools that companies can use to coordinate their spacecraft. Iridium focuses on a narrower segment of the space market. It operates an internet constellation that comprises 66 active LEO satellites and more than a dozen spares. The company uses the network to deliver connectivity in far-flung areas with limited access to terrestrial internet infrastructure. Iridium provides access to its constellation through multiple services. One, Iridium PTT, is optimized for first responders. Another is geared toward connected devices that require the ability to occasionally broadcast their location and maintenance status. Iridium also offers a service called NTN Direct that enables users to connect to its satellites without a standalone antenna dish. The company offers its connectivity subscriptions alongside a so-called PNT service. It's an alternative to GPS that can withstand harsh weather, interference and other adverse conditions. The service also works in indoor environments, where devices usually struggle to pick up GPS signals. Iridium's satellite constellation supports 2.55 million active subscribers. The company generated $871.7 million in revenue from those customers last year, 5% more than in 2024. Rocket Lab plans to grow Iridium's addressable market after the acquisition. In particular, the company stated that it hopes to \"scale into untapped markets and pioneer new space-based services.\" That hints the initiative could see Rocket Labs expand Iridium's constellation. The company is no stranger to the satellite market. It sells a satellite chassis called Lightning that is optimized for LEO, the stretch of space where Iridium's constellation is deployed. The module includes radiation hardening, redundant systems and other reliability optimizations. Rocket Lab plans to take Lightning-based satellites to orbit aboard an upcoming launch vehicle called Neutron. The rocket can carry 28,000 pounds, more than 20 times the cargo capacity of Electron, thanks to nine custom engines. Its first phase is reusable, which should enable Rocket Labs to reduce the cost of satellite launches and thereby boost Iridium's margins. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=774256",
+      "rss_tags": [
+        "Emerging Tech",
+        "NEWS",
+        "The-Latest",
+        "Top Story 6",
+        "acquisition",
+        "Electron",
+        "Iridium",
+        "Neutron",
+        "NTN DirectSM",
+        "Rocket Lab",
+        "satellite",
+        "space",
+        "space launch",
+        "NASDAQ:RKLB"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "0c676e63-3c04-40df-b445-70917cbfb11d",
+    "cluster_id": "c2285159-d995-435f-846c-966c18e92693",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "India’s central bank mandated use of .bank domains to enhance trust – but its registry leaked sensitive info",
+    "teaser": "🚨 Major banking vulnerability: India's mandated .bank.in domain registry leaked data for 5,576 bank staff, exposing password hashes and employee personal details.",
+    "summary": "Despite the Reserve Bank of India mandating the use of the .bank.in domain to bolster trust and security in Indian banking, a major data breach occurred. A security researcher found that the exclusive registrar, IDRBT, left its entire REST API exposed through 33+ unauthenticated endpoints. This vulnerability allowed unauthorized access to highly sensitive data, including bcrypt password hashes and personal details for 5,576 bank employees. The exposé revealed deep systemic flaws, noting that many registered domains lack fundamental security measures like DNSSEC and DMARC. The leak undermines the mandate's goal, suggesting that attackers could potentially use this harvested employee data to launch sophisticated phishing or spoofing attacks, even after IDRBT reportedly fixed the flaw.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/security/2026/06/30/indias-central-bank-mandated-use-of-bank-domains-to-enhance-trust-but-its-registry-leaked-sensitive-info/5264152",
+    "date": "2026-06-30T02:24:46Z",
+    "image_url": "https://image.theregister.com/257475.jpg?imageId=257475&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "security India's central bank mandated use of .bank domains to enhance trust - but its registry leaked sensitive info Open API could reveal everything an attacker needs to impersonate bank officials In 2025, the Reserve Bank of India created the .bank.in subdomain and required all local banks to start using it for their online presences. Indian is home to thousands of banks and the new rule meant all needed to register for and use a bankname.bank.in domain, a move designed to make life harder for phishers and fraudsters. Now a security researcher has alleged that the entity chosen as the sole registrar of the subdomains - the Institute for Development and Research in Banking Technology (IDRBT) - botched the job and leaked sensitive data. The allegation came in a report [PDF] and post published yesterday by CashlessConsumer, a group that advocates for India to become a cashless society and which aims to represent citizens to digital payments players. \"The IDRBT Domain Registration Portal (registrar.idrbt.ac.in) - the exclusive registrar for India's .bank.in namespace - exposed its entire REST API via 33+ unauthenticated endpoints,\" the post alleges. \"Anyone with curl could retrieve the bcrypt password hashes, mobile numbers, email addresses, login IPs, and device fingerprints of all 5,576 bank employees trusted with managing India's banking domains.\" The researcher behind the exposé, \"Srikanth L\", says he accessed info through the portal and found evidence that some India banks host websites on shared servers in the United States, Singapore, and Lithuania. He also found 80 percent of registered .bank.in domains don't use DNSSEC, 40 percent don't employ the DMARC email security protocol that verifies senders' identity, and many domains are secured with free Let's Encrypt certificates. The researcher's post also alleges that the portal went live without a proper security audit and ran without secure APIs for 13 months. Srikanth L disclosed his findings in early June and says IDRBT has since fixed the gaping security flaws. The researcher also appears to have used a GitHub repo to list info found by accessing the portal's APIs - so some of the info available over the previously-open API is now public - and claimed doing so will help security researchers by letting them understand the extent of Indian banking infrastructure. That knowledge may come in handy given the open API means attackers may have been able to access and use credentials of senior bank staff, information that can enable many forms of attack - even the DNS spoofing and phishing attacks the requirement to use .bank.in was designed to prevent. At the time of writing, the IDRBT, Reserve Bank, and India's government appear not to have made a public comment on the matter. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5264152",
+      "rss_tags": [
+        "security"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "c242ee7a-e55e-44b7-b0dc-aa8153becd5d",
+    "cluster_id": "79893741-7166-4b6b-8f54-598541f2f61b",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Microsoft builds a bouncer to keep bots out of Teams meetings",
+    "teaser": "Microsoft is rolling out a 'bouncer' system requiring human approval to prevent unauthorized bots from accessing sensitive Teams meetings.",
+    "summary": "To mitigate security and privacy risks posed by rogue bots joining sensitive Teams meetings, Microsoft has developed a 'bouncer' system. This new feature requires a human participant to manually approve a bot's ID in the pre-meeting lobby before it can join, strengthening detection using 'behavioral and infrastructure signals.' Furthermore, Microsoft is implementing a 'registration path' for Independent Software Vendors (ISVs). This system allows bot developers to register and include a self-identification marker, enabling Teams to recognize them as known participants. This rollout will eventually replace existing CAPTCHAs.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/software/2026/06/30/microsoft-builds-a-bouncer-to-keep-bots-out-of-teams-meetings/5264199",
+    "date": "2026-06-30T06:11:03Z",
+    "image_url": "https://image.theregister.com/5225031.jpg?imageId=5225031&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "software Microsoft builds a bouncer to keep bots out of Teams meetings Allows ISVs to put their names on the door so desirable bots always get in Microsoft has built a bouncer to keep bots out of Teams meetings. \"Bots have begun joining meetings that participants never intended them to attend,\" wrote Microsoft product marketing manager Meera Ajam in a Monday post . \"For example, after connecting a third-party service to a meeting, some users have found that its bot continues joining future meetings automatically.\" Ajam thinks bots butting into meetings that include discussion of sensitive matters is a potential security and privacy problem. Your correspondent has personal experience of this when transcription bots add themselves to meetings conducted under non-disclosure agreements. Microsoft has therefore built tech that sees Teams require a human to check a bot's ID in the \"lobby\" where guests wait before a meeting. If a human rates a bot as worthy of coming inside, it gets to join the meeting. The software giant says it's \"strengthened Teams' ability to distinguish between bots and human participants as they join a meeting\" by using \"a combination of behavioral and infrastructure signals to identify bots with a higher degree of accuracy.\" That's not a guarantee that Teams will detect all bots, but Microsoft's tech requires multiple clicks to let a bot attend a meeting. \"Admitting a bot should be a deliberate decision, not something that happens by mistake,\" Ajam wrote. Some users want bots to attend a meeting. Your correspondent prefers a third-party transcription-bot to Microsoft's own. The software giant recognizes that and plans to add \"a registration path for independent software vendors (ISVs) that build meeting experiences for Microsoft Teams.\" That path will mean bot-builders will be able to register with Microsoft and include a self-identification marker in their join requests. \"When Teams recognizes that marker, it can identify the bot as a known participant,\" Ajam wrote. \"We're currently working with a limited set of ISVs to preview this capability and validate the experience before broader availability,\" she added, before promising more detail about registrations soon. There's peril in this plan for Microsoft, which could make itself an arbiter of what constitutes a good bot worthy of admission to Teams. Just like bouncers do in real life, often to the chagrin of plain-looking revelers. Microsoft has started rollout of its bot-bouncer. Once it's in place, the software behemoth will retire the CAPTCHAs it currently uses to put bots in their place. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5264199",
+      "rss_tags": [
+        "software"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]
