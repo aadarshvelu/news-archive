@@ -1,0 +1,129 @@
+[
+  {
+    "id": "14a05dfa-035c-40d7-b78a-feff82874ca2",
+    "cluster_id": "a575aad7-74fe-4a78-a292-02a1ff1fa76f",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+    "teaser": "Major AI models, including Anthropic's Fable 5, are poised for a return after U.S. export controls are lifted, potentially restricted to US-only, credit-gated access.",
+    "summary": "Anthropic is reportedly regaining access to its advanced AI models, Mythos and Fable/Fable 5, after the U.S. government lifted export restrictions. The initial ban, citing security risks, had cut off global public access. While the U.S. government—and implicitly the Trump administration—has signaled a cautious return, the subsequent update suggests a structure limiting access: Fable 5 may return only as a credit-gated option for paid users. Furthermore, the restoration might require identity verification, a measure aligning with the U.S. government's desire to maintain control and prevent the transfer of frontier capabilities abroad. This fluctuating regulatory environment creates significant uncertainty for the AI industry.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "date": "2026-07-01T02:16:06Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Tim Fernholz",
+    "content": "The U.S. has lifted a requirement that Anthropic obtain a license before exporting its Mythos and Fable models abroad, a requirement that effectively cut off public access to what are widely considered the most advanced AI models released to date. The AI lab said it would begin restoring access to the models on Wednesday, July 1. On June 12, the U.S. government had added the products to its list of export-restricted technologies, meaning they could no longer be made available to foreign nationals without special approval. Complying with that rule proved impractical at scale, forcing Anthropic to end public access to the models altogether. Now, after weeks of talks, Secretary of Commerce Howard Lutnick said Anthropic \"has agreed to proactively detect and address security risks associated with the models; to work diligently with the U.S. government on protocols and standards and releases for Mythos, Fable and future models; and to inform the US government of any malicious activity.\" Anthropic had already publicly pledged to do much of this voluntarily, months before the export rule existed. That's part of why cybersecurity experts were skeptical of the restrictions in the first place. To them, the ban looked less like a security fix and more like leverage, a way for the Trump administration to punish Anthropic for its executives' public criticism of how the government, and the president's political opponents, might use the technology. Mythos was originally made available to a select group of organizations beginning in April to allay concerns about its ability to identify and exploit vulnerabilities in software, while a version called Fable was released to the public in June with additional security guardrails. However, with Asian AI companies beginning to release their own AI models approaching Mythos-level capabilities - among them Fugu and Tulongfeng - the U.S. government was under pressure to ease its restrictions on Anthropic to ensure that American AI could compete globally. Last week, Lutnick cleared Mythos to be released to select customers approved by the White House. OpenAI's latest models were also released to a group of organizations approved by the Trump team, instead of the public. The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases. An executive order issued in June that signaled a desire to review models ahead of release was criticized by influential analysts like Dean W. Ball, who recently started a policy position at OpenAI.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3137898",
+      "rss_tags": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "fable",
+        "Mythos",
+        "Trump Administration"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "0bc3cbbd-79c9-426b-ba9c-3c1c7d2938d3",
+    "cluster_id": "83a3c130-412d-4ad1-b12b-970dc44a66d8",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
+    "teaser": "Meta’s new AI smart glasses launch is marred by controversy as the company allegedly imposes rate limits and paywalls on on-device features like 'Conversation Focus.'",
+    "summary": "Meta has unveiled its new AI-powered Meta Glasses, collaborating with EssilorLuxottica. These high-tech eyewear, starting at $299, feature open-ear speakers, a multi-mic array, and are powered by the Muse Spark model running Meta AI. However, the rollout is complicated by consumer concerns: one report alleges Meta is implementing a soft paywall and rate limits on core, on-device functions like 'Conversation Focus.' Critics argue that this feature, which reportedly functions without relying on Meta's servers or the internet, should not be limited, suggesting the company's aggressive monetization strategy reflects financial pressures.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+    "date": "2026-07-01T00:51:03Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0129.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Sean Hollister",
+    "content": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will soon be limited to three hours of use per month, unless you pay for a $19.99 Meta One Premium subscription . In a help article , the company insists that it won't require a subscription to use your glasses, period; it's merely erecting a \"rate limit\" for certain AI features. Even premium subscribers will only get 15 hours of Conversation Focus per month under that \"rate limit,\" it claims. Problem is, Meta's rate limit is ridiculous. The Conversation Focus feature, which amplifies the voice of the person you're speaking to so you can hear better in noisy environments, is not something that should plausibly be rate-limited, because it doesn't use Meta's servers. It runs on-device , using the chips inside the glasses that you've already purchased. I turned off my internet, and it kept working. Here's how the company introduced it last year: \"[C]onversation focus uses your AI glasses' open-ear speakers, beamforming technology, and real-time spatial processing to dynamically amplify the voice of the person you're talking to.\" Not only does it avoid Meta's servers, but Conversation Focus doesn't technically require an internet connection at all. I double-checked by turning off my phone's Wi-Fi and cellular, turning on Airplane Mode, and I was still able to use Conversation Focus just fine by tapping a button on my phone. Does Meta have some secret licensing deal with another company that costs it money every time a person uses Conversation Focus? Failing that, the rate limit sounds utterly bogus. Meta is feeling some financial pressure trying to make AI happen, recently laying off around 10 percent of its entire workforce - around 8,000 people - to help offset its AI investment costs. It also recently managed to make three pairs of AI glasses $80 cheaper by nixing the Ray-Ban name . But perhaps ditching the branding isn't the only way it plans to subsidize that move. At a time when hardware is getting increasingly expensive, I suppose this isn't as controversial as Meta quietly beginning to embed a facial recognition upgrade for these glasses in millions of phones, code that it has since quietly removed . Still, I'm filing this under \" Meta will ruin its smart glasses by being Meta .\" We've asked if Meta can explain the move, and whether the company plans to put other on-device features behind a subscription. Meta didn't immediately respond to a request for comment.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=959899",
+      "rss_tags": [
+        "Gadgets",
+        "Meta",
+        "Tech",
+        "Wearable"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "4ae78781-7eff-47b0-8526-5ebf86a9671e",
+    "cluster_id": "2ea4af7c-ddd0-4f3d-830e-8c0a925f4d5f",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+    "teaser": "Self-driving startup Wayve launched an $85M employee tender offer, revealing a massive $8.5B valuation and key partnerships with Uber and Nissan.",
+    "summary": "U.K.-based self-driving tech startup Wayve has launched an $85 million employee tender offer, reflecting its latest $8.5 billion valuation. This move highlights a growing trend among AI startups using tender offers as employee retention tools, rather than waiting for an exit. Wayve utilizes a unique self-learning approach: its autonomous driving software is an end-to-end neural network that learns purely from data, similar to human experience. In its pursuit of a 'general-purpose' AI driver, Wayve plans robotaxi pilot launches with Uber later this year and intends to integrate its AI into Nissan's next-generation systems starting in 2027.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+    "date": "2026-07-01T02:04:40Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg?resize=1200,675",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Marina Temkin",
+    "content": "Wayve, a U.K.-based self-driving tech startup, is allowing its employees to sell a portion of their vested equity. The $85 million tender offer - essentially a structured opportunity for employees to sell shares back to investors - is being led by the company's existing and new investors at the company's latest valuation of $8.5 billion . That valuation was set in February when the nine-year-old company raised a $1.2 billion Series D led by Eclipse, Balderton, and SoftBank Vision Fund 2, and included participation from Ontario Teachers' Pension Plan, Baillie Gifford, Microsoft, Nvidia, and Uber. This is Wayve's second employee liquidity event. The company previously held a tender offer alongside its $1.05 billion Series C funding round in May 2024. Wayve's offering is part of a growing trend of AI startups. Rather than waiting years for an exit, companies are using tender offers as a retention tool, giving employees a reason to stick around rather than jump to a competitor - or start their own shop - the moment their options vest. Other startups that have recently completed employee tender offers include Decagon , which builds AI agents that handle customer service for enterprises like Duolingo and Hertz; ElevenLabs , the AI voice-generation company behind much of the internet's synthetic speech and dubbing tools; Linear , a popular project-management platform built for software teams; and Clay , a sales and marketing automation tool that helps companies research and reach prospects. (Clay has run two tenders in the last nine months alone.) These startups are able to provide employee liquidity primarily because investors are eager to buy more of the equity in these high-growth companies, even at a premium, betting the businesses will be worth even more down the line. Wayve uses a self-learning approach to its autonomous driving. Instead of relying on the prebuilt, high-definition maps most self-driving programs use, its software is an end-to-end neural network that learns to drive purely from data - closer to how a human picks up driving through experience, its founders argue. In pursuit of a \"general-purpose\" AI driver - one that could, in theory, work across countries, cars, and road conditions - the company has more than doubled its headcount to 1,200 employees over the past year. Wayve is targeting robotaxi pilot launches in partnership with Uber later this year, while separately planning to integrate its AI software into Nissan's next-generation driver-assist systems starting in 2027.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3137957",
+      "rss_tags": [
+        "AI",
+        "Transportation",
+        "liquidity",
+        "secondary offerings",
+        "wayve"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "3e0db98c-5522-4756-8ed5-3527eacd9bd3",
+    "cluster_id": "5045b074-e364-44aa-bf61-7abb3038c16e",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "The ‘Father of the Internet’ is finally retiring",
+    "teaser": "The 'Father of the Internet' predicts that the coming wave of AI agents will force the tech world to abandon natural language for formal, standardized protocols.",
+    "summary": "Vinton Cerf, a co-architect of the foundational TCP/IP internet protocols, is retiring from Google. Beyond celebrating his influential career, Cerf addressed the future of AI at an Open Frontier conference. He predicted that the emerging 'agentic model'—autonomous AI software—will drive the tech industry back toward strict standards and interoperability, rather than relying on natural language communication. Cerf stressed that while LLMs seem sufficient, natural language has inherent ambiguity, making formalized protocols crucial for reliable inter-agent coordination. His predictions suggest that defining these future standards will be key to the structure of the coming 'agentic economy', echoing historical internet protocol development.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "date": "2026-07-01T03:15:37Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?resize=1200,723",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Tim Fernholz",
+    "content": "Vinton Cerf will step down from his role as Google's chief internet evangelist next week, marking the conclusion of one of the most influential careers in technology history. While speaking via video feed at the Open Frontier conference hosted by the Laude Institute, Cerf was recognized by Dave Patterson, the UC Berkeley professor best known for co-developing RISC processor architecture. \"Vint ... has been at Google more than 20 years, and he is retiring a week from today, and so I think we ought to give him a round of applause for a relatively good career,\" Patterson said, to cheers from the room. Google did not respond to a request for comment by publication time. Cerf, 83, and collaborator Robert Kahn are credited as being the architects of the networking protocols that became the internet we know today. His work developing and popularizing TCP/IP - the basic set of rules that lets different computer networks talk to each other - beginning in the 1970s has been recognized with numerous honorary degrees, the Presidential Medal of Freedom, and a Turing Award , among other honors. Since 2005, Cerf has served as vice president and chief internet evangelist at Google. (At this point, we can safely say the internet is fully evangelized, for good or ill.) Cerf was speaking on a panel alongside other computer scientists known for their work on durable open source projects, including Patterson; François Chollet, creator of the Keras deep-learning library and co-founder of Ndea; John Ousterhout, the Stanford computer scientist behind the Tcl programming language, who also co-founded Electric Cloud; and Matei Zaharia, who is Databricks' co-founder and chief technologist. They offered advice about what it takes to build open source systems that survive - advice that's increasingly relevant as founders bet on open infrastructure for the next wave of AI products. Much of the conference's discussion focused on the problems with the centralization of advanced models in a handful of well-resourced labs, in contrast to the decentralized world of the open internet that made Cerf's own protocols so durable. However, Cerf predicted that the rise of AI agents - software that can act autonomously and coordinate with other software - would push tech companies back toward standardized protocols. \"The agentic model of AI, with multiple agents from multiple sources interacting with each other, is going to force composability, and a requirement for interoperability and standardization,\" Cerf said. If he's right, the companies that define those interoperability standards early could end up with outsized influence over how the agentic economy actually works - a dynamic not unlike the early internet protocol wars. While other panelists speculated that natural language communication between LLM agents would be sufficient, Cerf predicted formal standards would be required. \"I don't think English is going to be the best choice. There's a flexibility in it, but there's ambiguity, and I think precision for interagent interaction is going to be very, very important. An agent really needs to be sure the other agent understands what it is that they just agreed to do together,\" Cerf said. \"Remember the old telephone game where you wish you'd whispered in somebody's ear and then by the time it got to 10 people away the message was totally different? Imagine a bunch of agents talking to each other in natural language, you know, that's kind of terrifying.\" In a more lighthearted moment, Patterson recalled meeting Cerf, known for his wardrobe of three-piece suits, as a grad student in the 1970s. \"He's always been the best dressed computer scientist I've ever met,\" Patterson said. \"My memory of Vint is that he came as a grad student with a shirt and tie in the '70s.\" \"It absolutely is true,\" Cerf said. \"I even had a vest, and for some reason I always wanted to stick out, and instead of having long hair, and something in my nose, I thought just dressing differently was one way to do it.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3137972",
+      "rss_tags": [
+        "AI",
+        "Exclusive",
+        "Google",
+        "Vint Cerf"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]
