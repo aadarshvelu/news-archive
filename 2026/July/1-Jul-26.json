@@ -690,6 +690,34 @@
     }
   },
   {
+    "id": "4fe0578d-d0a5-41ce-956c-313b42d49a9b",
+    "cluster_id": "c295ad93-eeb1-4381-9b95-72ffcbe03dce",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "T-Mobile appears to be quitting VMware – and fighting a very familiar battle for support rights on the way out",
+    "teaser": "Facing an urgent deadline, T-Mobile is battling Broadcom in court to keep support for its massive 303,000-core network—a battle signaling a major shift in tech power.",
+    "summary": "The virtualization market is facing significant upheaval as Broadcom enforces tighter control following its 2023 acquisition of VMware. T-Mobile, a major telco that runs its internal network on at least 303,000 CPU cores using VMware, is locked in a legal battle. Broadcom has reduced the product line to subscription-only bundles, leading to disputes over continued support. In a key development, a court granted T-Mobile an injunction, forcing Broadcom to provide support past the initial 2025 expiry date, contingent upon T-Mobile paying $5.28 million. The conflict is gaining traction, with other major corporations like Tesco also taking legal action against Broadcom's practices. This broader struggle underscores a critical trend in corporate IT: the resistance of large clients who view supplier lock-in as a threat, asserting that even foundational technologies like virtualization are replaceable. This tension suggests that the power dynamic in the tech supply chain is being challenged by institutional memory and legal action.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/virtualization/2026/07/01/t-mobile-appears-to-be-quitting-vmware-and-fighting-a-very-familiar-battle-for-support-rights-on-the-way-out/5264750",
+    "date": "2026-07-01T01:19:14Z",
+    "image_url": "https://image.theregister.com/244972.jpg?imageId=244972&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "virtualization T-Mobile appears to be quitting VMware - and fighting a very familiar battle for support rights on the way out 303,000 cores that power internal networks headed out the door Telco giant T-Mobile appears to be transitioning away from VMware and fighting a court battle for support it says Broadcom is bound to provide, according to court documents seen by The Register . The dispute relates to a deal T-Mobile struck with VMware in August 2023, which saw the telco acquire perpetual licenses and two years of support for some software, plus the option for a further year of support. When Broadcom acquired VMware in 2023, it stopped selling perpetual licenses and standalone support deals for customers with those licenses. Broadcom also reduced the virtualization giant's product range from over 150 products to two subscription-only bundles. Broadcom now mostly sells its Cloud Foundation (VCF) private cloud suite. Customers including AT&T and Tesco tried to exercise their right to extended support, but Broadcom declined to do so. AT&T settled on confidential terms. Tesco is pursuing the matter in the courts. When customers exercise their option for extended support, Broadcom argues it can't deliver because the products covered by the contract don't exist anymore, its contracts allow it to deny support for dead products, and subscriptions are now the industry standard. T-Mobile started using VMware's products in 2008 and, per court documents, runs it on at least 303,000 CPU cores. In one hearing, the carrier's counsel described T-Mobile's VMware implementation as \"the base of the entire internal network\" and \"the place where 1,000 applications reside.\" Court documents allege that in 2024 Broadcom notified T-Mobile it would not renew support after the initial two-year deal expired in 2025. The two parties kept talking about possible new arrangements. T-Mobile also sought an injunction that would compel Broadcom to provide extended support. Broadcom opposed the injunction, arguing that T-Mobile deliberately waited too long to seek it. At one point T-Mobile suggested a $20 million deal for another two years of support. An affirmation filed last week by T-Mobile vice president of technology Kevin Luu says the carrier sought that arrangement \"to be able to complete T-Mobile's transition away from VMware at a more deliberate pace.\" The court eventually granted the injunction forcing Broadcom to offer support beyond August 2025, but required T-Mobile to pay $5.28 million and post a $500,000 undertaking. Broadcom continued to provide support but also sought damages on grounds that the injunction meant it missed out on a new deal with T-Mobile. The telco has rubbished that argument in part because the two parties were still talking about a new deal. Broadcom later proposed to charge $24 million for extended support covering six products, a sum it said would cover over 20 staff needed to support T-Mobile. The carrier fired back by pointing out that it has made just two support calls in 2026, which hardly justifies such a massive staff and expense. The matter is now somewhat urgent because the injunction expires on August 3, 2026, so T-Mobile may soon be unable to get support for its very substantial VMware estate. We've asked the carrier how it will cope if it can't get support but haven't received a response at the time of writing. One fascinating wrinkle in the case is that the presiding judge, The Honorable Jennifer G. Shecter, also heard the case between VMware and AT&T. The parties reached a confidential settlement in that case, but in in an October 2025 hearing Shecter said she thinks T-Mobile's case is stronger than AT&T's. \"I think this case is even more compelling and to be sure I was very compelled both in AT&T and very convinced,\" she said. VMware's counsel argued that the cases differ because AT&T acted quickly, but T-Mobile waited many months before seeking extended support and an injunction. \"Just to give some perspective, there are 10,000 customers. Thousands upon thousands have successfully migrated to subscription,\" VMware's counsel argued. \"T-Mobile is the outlier here that is in litigation. AT&T is the other outlier. Thousands upon thousands of customers have already transferred under these sorts of provisions and accepted and understood that end of availability applies.\" VMware last week named one of those customers that signed up for VCF: the UK's Nationwide Building Society. But Judge Schecter was not convinced by the argument that T-Mobile and AT&T are outliers, suggesting that some customers \"don't just want to fight Broadcom. I don't know. Or it's not worth it and maybe they're smaller scale and transitioning is easier.\" Broadcom argues that customers who move to VCF subscriptions emerge with a more efficient infrastructure that can help to improve overall business performance, and points to strong revenue growth for VMware as evidence its strategy is appreciated and working. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5264750",
+      "rss_tags": [
+        "virtualization"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "4ae78781-7eff-47b0-8526-5ebf86a9671e",
     "cluster_id": "2ea4af7c-ddd0-4f3d-830e-8c0a925f4d5f",
     "cluster_size": 1,
@@ -901,6 +929,34 @@
     "raw_meta": {
       "rss_entry_id": "https://news.ycombinator.com/item?id=48743472",
       "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "5a9990f0-0730-49ef-b127-55588d1e8181",
+    "cluster_id": "f6668ebd-c191-4a85-b6ec-c34892ecc6ce",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "UK.gov vows to cut consultancy spending, then hands up to £350M to consultancies",
+    "teaser": "Despite vowing cuts, the UK Home Office awarded consultancies up to £350 million, contradicting spending controls and raising alarms about government fiscal policy.",
+    "summary": "The UK government faces criticism for contradictory spending policies, particularly regarding consultancy services. Despite making public commitments to cut unnecessary consultancy spending and save £1.2 billion by 2026, the Home Office awarded massive contracts totaling up to £350 million to Deloitte (£200M) and PA Consulting (£150M) for data and analytics services. These awards clash with promised controls requiring senior approval for major expenditures. Furthermore, a broader review highlighted systematic spending problems, noting that government contractors cost three times more per year than civil servants, and the PAC has found non-compliance with spending directives. Experts suggest the government struggles to balance digital ambition with fiscal responsibility, often making 'grand promises' without implementing adequate accountability.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theregister.com/public-sector/2026/07/01/ukgov-vows-to-cut-consultancy-spending-then-hands-up-to-350m-to-consultancies/5264864",
+    "date": "2026-07-01T09:15:00Z",
+    "image_url": "https://image.theregister.com/5239198.jpg?imageId=5239198&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "public sector UK.gov vows to cut consultancy spending, then hands up to £350M to consultancies Home Office deals with Deloitte and PA Consulting raise questions over Cabinet Office spending controls The UK's Home Office has awarded two global consultancies contracts worth up to £350 million for data and analytics services, despite the government's commitment to spend less on consultants. Deloitte has won a four-year deal worth up to £200 million to offer \"strategic multifunctional teams\" for data analytics, data matching and data insight services. PA Consulting has won a contract for up to £150 million for the same services over the same period, according to procurement documents published last week. In November 2024, the UK government promised new controls on the use of consultancies across the public sector to cut unnecessary spending and save £1.2 billion by 2026. The Cabinet Office and Crown Commercial Service said the controls were expected to provide far greater oversight, with ministerial sign-off required for any consultancy spend over £600,000, or for contracts lasting more than nine months. Consultancy spending over £100,000 was to be signed off by the relevant permanent secretary. The Register has asked the Home Office whether the above contracts were subject to these controls and, if so, why they were approved. It has yet to respond. In November 2025, the National Audit Office, a spending watchdog, said His Majesty's Treasury (HMT) lacked comprehensive data on government consultancy expenditure, potentially delaying progress toward \"ambitious targets\" to cut costs. The Public Accounts Committee (PAC) said in March that departments were not complying with Cabinet Office directives on consultancy spending, and compliance was not being monitored. The committee called for a list of departments not complying with Cabinet Office requests on consultancy procurement, and a detailed breakdown of what each department spends on individual private contractors, categorized by type of service. The Science, Innovation and Technology Committee recently published a report stating that government spending on contractors was one impediment to achieving its digital transformation goals. It said contractors in central government cost three times as much per year as civil servants, and across the public sector, contractors accounted for roughly 18 percent of headcount but 40 percent of staffing costs. It called for publication of departmental plans to reduce the proportion of their workforce made up of contractors and the associated cost in digital and technology roles. Meanwhile, the government should create a digital workforce strategy to \"deliver on the Prime Minister's commitment for one in 10 civil servants to be in technology and digital roles by 2030, as well as a definition of what constitutes a technology and digital role in the civil service,\" the committee said. The government has long been told that lack of internal tech skills is a real problem. In 2023, the PAC reported on the barriers to achieving greater efficiency through digital transformation . Dame Meg Hillier MP, chair at the time, said the government's digital ambitions were \"hobbled by staff shortages and a lack of support, accountability and focus from the top.\" \"The government talks of its ambitions for digital transformation and efficiency, while actively cutting the very roles which could help achieve them,\" she said. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5264864",
+      "rss_tags": [
+        "public sector"
+      ],
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
