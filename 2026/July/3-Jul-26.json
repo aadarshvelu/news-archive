@@ -171,6 +171,34 @@
     }
   },
   {
+    "id": "c5bc1591-5cf9-4b53-b3ce-673aa65b8c51",
+    "cluster_id": "1cf06b10-75cb-489d-801e-ce0ffd9023dc",
+    "cluster_size": 2,
+    "source": "Testing Catalog",
+    "title": "Condense launches proxy to cut AI coding agent bills by up to 72%",
+    "teaser": "New proxy tools can slash AI coding agent bills by up to 72%, offering a critical countermeasure to Gartner's warning that AI costs may exceed developer salaries by 2028.",
+    "summary": "New developments address the escalating costs of AI coding agents. Condense.chat launched a context-compression proxy, significantly reducing token usage. This system, which sits between the agent and the model, uses two compression models—Helene 1 and Adeline 1—to strip or pack past conversation history, achieving up to a 72.3% cost reduction (e.g., Sonnet runs dropping from $154 to $43). Complementing this solution, Gartner warns that unchecked consumption-based pricing could lead to AI coding costs exceeding average developer salaries by 2028. The proxy works by compressing aged context while preserving the core 'skeleton' (prompts and final answers) byte-for-byte, maintaining high faithfulness (94.2%).",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/condense-launches-proxy-to-cut-ai-coding-agent-bills-by-up-to-72/",
+    "date": "2026-07-03T13:06:44Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/07/08-live-bench.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Nero Soares",
+    "content": "Condense.chat has opened public access to a context-compression proxy for coding agents, a system that sits between an agent and the upstream model, shrinking each request before billing. It targets a line item most teams never inspect. In a working agent loop, the model is re-sent the system prompt plus the whole conversation on every turn, so by the middle of a long session, it has re-read the same early context hundreds of times. Across twelve real coding sessions and 18,333 assistant turns, Condense puts cache reads at 67.7 percent of a typical bill, the cost the proxy is built to remove. The proxy runs two compression models in sequence. Helene 1, an extractive model, scores every token and keeps the survivors verbatim as a strict subset of what the agent saw, stripping content before it reaches cache. Adeline 1, a diffusion-based rewriter, takes settled agent loops the session has moved past and packs each into a short summary that holds intents, file paths, identifiers, errors, and code, landing at roughly 9 percent of the original tokens. The skeleton, meaning the system prompt, user messages, final answers, and paired tool calls with their results, is preserved byte for byte and never rewritten. Only the aged interior of past loops is stripped or packed, so the working set the model is reasoning over stays raw. On one real session replayed to 938 turns, Condense reports the bill falling 72.3 percent, taking a Sonnet run from 154 dollars to 43 and an Opus run from 771 to 214, with dollar-weighted savings across every session size near 66 percent. The company states the effect compounds with depth, since a larger context means a larger frozen prefix and a smaller slice of history re-read each turn, passing 53 percent on sessions with chains above 400,000 tokens. Answer faithfulness against uncompressed transcripts is reported at 94.2 percent. Setup is a single command that drops the harness in front of an existing agent with no key swap, and the drop-in API speaks both the OpenAI and Anthropic SDKs, so a team can point its base URL at a provider route and keep its own key. The proxy currently drives Claude Code, Codex, and OpenCode across macOS, Linux, and Windows. It is aimed at developers running agent workflows at scale, where re-read costs dominate, and the deepest sessions incur the largest bills. Condense is giving TestingCatalog readers 100M saved tokens. Test it out! Condense is built by engineers with backgrounds shipping large-model infrastructure at Nord Security, Kilo Health, and Nexos AI. The full measurement pipeline is published as an open harness on GitHub, including the cost-split study and the replay tool, so the figures can be recomputed without a key.",
+    "raw_meta": {
+      "rss_entry_id": "6a47069d3fac6e0001d3b751",
+      "rss_tags": [
+        "Sponsored"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "0ad076f8-ebc9-4382-923a-b5e3abf696b3",
     "cluster_id": "a21d813d-c895-4718-907d-6f78b0335be1",
     "cluster_size": 2,
