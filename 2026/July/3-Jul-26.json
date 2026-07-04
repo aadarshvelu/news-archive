@@ -199,6 +199,46 @@
     }
   },
   {
+    "id": "e11e4f41-801b-48d9-85be-0b1016a72f08",
+    "cluster_id": "00fd44e9-c67a-4322-8796-0bc5d651fac2",
+    "cluster_size": 3,
+    "source": "SiliconANGLE",
+    "title": "Chipmakers urge White House to avoid broad memory market interventions",
+    "teaser": "Amid soaring AI demand, $900B+ poured into South Korea's 'K-Semiconductor' plan, while industry groups warn governments against disrupting memory markets.",
+    "summary": "The global semiconductor industry is undergoing massive transformation driven by AI demand, leading to surging memory prices. Industry body SEMI warned the U.S. White House against broad regulatory interventions in the memory market, calling for targeted support like tax credits instead. Meanwhile, South Korea launched the ambitious '3S+1F' plan, earmarking over ₩ 1 quadrillion ($900 billion) to establish itself as a global semiconductor powerhouse. This state-backed initiative involves tech giants like Samsung and SK hynix committing to build new fabs and advanced datacenters. The focus remains heavily on High-Bandwidth Memory (HBM) and building the physical infrastructure needed to support AI applications, signaling a fierce global race for technological dominance.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/03/chipmakers-urge-white-house-avoid-broad-memory-market-interventions/",
+    "date": "2026-07-03T23:22:31Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/chip.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "A chip industry association has urged the White House not to make major changes to the way the memory market is regulated. The group, SEMI, represents most of the world's major semiconductor equipment and materials companies as well as chipmakers. Bloomberg reported late Thursday that the association had outlined its concerns about the memory market in a letter to the Trump administration. The document was addressed to Treasury Secretary Scott Bessent, Defense Secretary Pete Hegseth, Commerce Secretary Howard Lutnick and Secretary of State Marco Rubio. Memory prices have increased sharply over the past year because of surging demand from artificial intelligence data center builders. The higher prices are affecting not only the server market but also other segments. In December, S&P Global Inc. predicted that vehicle DRAM could become 100% more expensive by the end of 2027. More recently, Apple Inc. raised the price of several devices. In its letter, SEMI urged the White House to avoid memory \"interventions that distort pricing or capacity decisions.\" The group argues that such moves would harm the market. SEMI stated that officials should take other, narrower measures to address the memory supply crunch. The consortium called on the White House to push for tax deductions or credits that would lower the price of consumer electronics. Additionally, SEMI argued in favor of the long-term purchase contracts that some companies use to source memory chips. The association counts the world's three largest DRAM suppliers, Micron Inc., SK hynix Inc. and Samsung Electronics Co, among its members. Much of the demand from data center builders focuses on a specific type of DRAM known as high-bandwidth memory. It's based on the same circuit architecture as standard memory but differs in other areas. Whereas a regular DRAM module is a single chip, an HBM device comprises up to a dozen DRAM chips stacked atop one another. The chips are placed on a foundation called a logic die that optimizes the flow of data. HBM modules can move data to and from the attached processor significantly faster than standard DRAM. That makes them well-suited for AI applications, which generate more memory traffic than other workloads. HBM modules are usually placed immediately next to a graphics card's logic circuits to further speed up the flow of data. SEMI stated in its letter that the chip industry expects to grow memory production capacity by 19% annually going forward. Nevertheless, demand is expected to exceed supply for the foreseeable future. Micron plans to invest $200 billion in up to six new stateside fabs. The company is also upgrading an existing memory factory in Virginia. The plant recently started making DRAM chips based on Micron's newest manufacturing process, which uses a technique called multi-patterning to etch circuits into silicon wafers. The technology relies on an elaborate sequence of laser pulses to form transistor-shaped patterns. Micron is expanding its capacity to make not only memory chips but also HBM packaging. That's the technology used to link together multiple DRAM chips into a single HBM module. Last year, Micron broke ground on a $7 billion packaging facility in Singapore that is expected to start mass production by the end of 2027. SK hynix and Samsung, for their part, plan to double their memory production capacity over the next five years. The push is part of a $584 billion chip manufacturing initiative that the South Korean government launched this week. The project will see SK hynix and Samsung build four new fabs. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=776522",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "Top Story 6",
+        "DRAM",
+        "Fab",
+        "HBM",
+        "memory",
+        "Micron",
+        "Samsung",
+        "semi",
+        "semiconductor",
+        "White House"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "0fac78f6-699d-4911-8425-b0d5c2d298f0",
     "cluster_id": "af55971c-b7be-4620-98b3-1f0df9f121dd",
     "cluster_size": 2,
@@ -358,6 +398,49 @@
       "gmail_labels": [],
       "gmail_msgid": "1869687784661213212",
       "gmail_thrid": "1869687784661213212"
+    }
+  },
+  {
+    "id": "e63abb75-5920-47a9-ac69-9bc168c304d2",
+    "cluster_id": "7a238769-3c61-4029-9c43-afcccdf921dc",
+    "cluster_size": 2,
+    "source": "WinBuzzer",
+    "title": "Microsoft Posts Azure Linux 4 ISO Downloads on GitHub",
+    "teaser": "Microsoft enables local testing of Azure Linux 4 via GitHub ISOs, giving devs a crucial pre-cloud proving ground for their server OS deployments.",
+    "summary": "Microsoft has made Azure Linux 4 ISO downloads available on GitHub, enabling local testing of its Azure-optimized Linux distribution outside the cloud. This Fedora-derived, RPM-based distribution is intended for server workloads and Azure VM deployments, not for general desktop use or replacing Windows. The preview images, supporting x86-64 and Arm64, allow IT teams to inspect base packages and deployment assumptions before cloud rollout. Although Microsoft also offers the distribution through Azure Marketplace and other Azure services, the ISO download provides a crucial, local proving ground for deployment pipelines and automation. Note that Azure Linux 4 is still in preview, and administrators should wait for general availability details before using it in production environments.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://winbuzzer.com/2026/07/03/microsoft-posts-azure-linux-4-iso-downloads-on-github-xcxwbn/",
+    "date": "2026-07-03T10:37:46Z",
+    "image_url": "https://winbuzzer.com/wp-content/uploads/2016/07/Microsoft_LOVES_Linux.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Markus Kasanmascheff",
+    "content": "TL;DR GitHub ISO Access: Microsoft has released Azure Linux 4 ISO downloads on GitHub for local testing outside Azure. Marketplace Split: Azure Marketplace remains the cloud VM route, while ISO files give local labs a separate evaluation path. Preview Scope: The Fedora-derived, RPM-based preview targets Azure and server workloads, not desktop or production deployment. Admin Checkpoint: Administrators can inspect installer requirements now, but Microsoft has not set general availability or final support terms. Microsoft has posted Azure Linux 4 ISO files in the project's GitHub repository, giving administrators a local test path for the company's Azure-optimized Linux distribution outside Azure. ISO files are bootable installer images, so developers and IT teams can start with a local virtual machine instead of creating an Azure-hosted image for every early test. Before the GitHub files appeared, Azure Linux evaluation mostly ran through Azure VM, Marketplace, and container-image routes. Local access lets teams inspect the installer, base packages, and deployment assumptions, while Azure Linux 4 remains limited to evaluation and testing and has no general availability date. ISO Download Path and Preview Limits Microsoft's GitHub repository now carries the Azure Linux 4 ISO downloads alongside the existing Azure routes. Microsoft also offers Azure Linux 4 through Azure virtual machines, VM Scale Sets, container images, and Azure Marketplace , its cloud marketplace for Azure VM images. Preview images support x86-64 PCs and servers as well as Arm64 systems. At about a 1 GB download, the preview requires 1.1 GB of disk space and 359 MB of RAM. A small footprint helps with installer checks, compatibility reviews, and early automation tests before teams connect the operating system to Azure deployment pipelines. Administrators will find the files in the ISO Installer area under the repository's Using Azure Linux section rather than a standard GitHub Releases list. Direct access still exists, but the placement may slow teams accustomed to tagged release assets. Azure Linux 4 remains limited to evaluation and testing . Monthly security updates are planned for the release model, and support-duration details are expected before general availability. Until those details arrive, the ISO fits validation work rather than production workloads. What Azure Linux 4 Is Built For For administrators, Azure Linux 4 is not a desktop Linux release or a Windows Server replacement. It is a Fedora-derived distribution, built from Fedora package material and metadata, and aimed at Azure VM deployments and local testing rather than general-purpose PC use. Server focus also separates the ISO from a desktop Linux distribution, although unsupported Azure Linux desktop experiments already exist, that boot Azure Linux using a GUI inside Windows. Current builds identify themselves as Four Beta and use Linux kernel 6.18 with systemd 258.4. By default, the distribution enables only the azurelinux-base and azurelinux-microsoft repositories, both hosted through Microsoft's Azure Linux package service . A narrow repository base reinforces the preview's infrastructure focus and limits expectations for general-purpose package availability. Fedora lineage also needs a caveat. Azure Linux 4 sources much of its package material from Fedora and has moved much of its configuration to TOML files, but administrators should not treat it as Fedora Server with Microsoft branding. Package compatibility, repository selection, and support boundaries remain tied to Microsoft's Azure Linux project. Earlier versions grew out of CBL-Mariner lineage , and Microsoft moved Azure Linux 4.0 preview into the Azure VM lane in June. GitHub ISO availability broadens testing access without changing the intended use case: Azure and server automation. Cloud Linux Alternatives Frame Microsoft's Narrow Lane Cloud and server Linux customers already have production tracks outside Microsoft's preview. Amazon Linux is AWS's EC2-optimized distribution, with version locking, SELinux support, and a five-year major-version support window. Microsoft's distribution is narrower: it combines local installation with Azure-managed infrastructure integration, while non-Azure use remains community based rather than formally supported. For Azure customers, the immediate value is a local proving ground for scripts, package availability, and deployment assumptions before cloud rollout work begins. Azure Marketplace still gives customers a managed entry point for cloud workloads, while the new ISO gives local labs a way to inspect Azure Linux 4 before infrastructure or automation work.",
+    "raw_meta": {
+      "rss_entry_id": "https://winbuzzer.com/?p=1953216",
+      "rss_tags": [
+        "WinBuzzer News",
+        "Azure Linux",
+        "Azure Linux 4.0",
+        "Cloud Computing",
+        "Cloud Infrastructure",
+        "Cloud Services",
+        "ISO Files",
+        "IT Infrastructure",
+        "Linux",
+        "Microsoft",
+        "Microsoft Azure",
+        "Microsoft Cloud",
+        "Operating Systems",
+        "Servers",
+        "Software",
+        "Virtual Machines (VMs)"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {
@@ -617,6 +700,40 @@
     }
   },
   {
+    "id": "205d3330-1e17-4fc1-8bf7-638d99c2e361",
+    "cluster_id": "cee8fbf9-d548-470f-a8c0-d54fe8d2f6ac",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "teaser": "The browser wars are shifting from search to AI assistance, with new entrants like Perplexity's Comet and OpenAI's Atlas challenging Chrome and Safari.",
+    "summary": "The battle for browser dominance is evolving beyond simple search, centering on which company's generative AI can function as an in-browser assistant. While Chrome and Safari remain market leaders, 2026 has spurred a wave of alternatives across three types: AI-powered, privacy-focused, and 'mindful' browsers. AI competitors include Perplexity (Comet), which acts as a chatbot-based search engine, and Opera's Neon, which can perform tasks offline. Privacy alternatives include Brave (ad/tracker blocking) and DuckDuckGo (no data tracking), while Ladybird aims to be an entirely open-source browser. Productivity tools like Vivaldi offer customizable interfaces, and Opera Air provides 'mindful' features like breathing exercises.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "date": "2026-07-03T18:43:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Lauren Forristal",
+    "content": "The browser wars have entered a new phase this year: The fight isn't just over search results anymore - it's over which company's AI gets to act on your behalf inside the browser. Google Chrome and Apple's Safari still dominate the market overall, with Chrome's edge coming largely from how aggressively it has woven generative AI into search. But 2026 has brought a wave of new entrants - from well-funded startups to Big Tech - all betting that the browser is about to become less like a window onto the web and more like an assistant that gets things done for you. Users looking for alternatives to Chrome and Safari can choose from a growing variety of browsers aimed at challenging the industry giants. To help navigate the competitive landscape, we've compiled an overview of some of the top alternative browsers available today. This includes browsers leveraging AI, open source browsers that promote customization and privacy, and \"mindful browsers\" - a new term that refers to browsers designed to enhance user well-being. AI-powered browsers Image Credits: Perplexity Perplexity's Comet Perplexity is the most recent startup in the space to launch an AI-powered web browser . Called Comet , the company's new product acts as a chatbot-based search engine, and can perform actions like summarizing emails, browsing web pages, and performing tasks such as sending calendar invites. It's currently only available to users with Perplexity's $200/month Max plan, but there's also a waitlist where people can sign up. The Browser Company's Dia Image Credits: The Browser Company The Browser Company, the startup behind the Arc browser, recently introduced Dia , its AI-centric browser that looks similar to Google Chrome but with an AI chat tool. Currently available as an invite-only beta , Dia is designed to help users navigate the web more easily. It's able to look at every website that a user has visited and every website they're logged into, enabling it to help you find information and perform tasks. For instance, Dia can provide information about the page a user is currently browsing, answer questions about a product, and summarize uploaded files. To get early access to Dia, users have to be an Arc member. Non-members can join the waitlist. Opera's Neon Image Credits: Opera Another recent entry into the AI agentic browser war is Opera's Neon , which has contextual awareness and can do things like researching, shopping, and writing snippets of code. Notably, it can even perform tasks while the user is offline. Neon is currently available on macOS and Windows. The subscription costs $19.90 per month. OpenAI's Atlas Image Credits: Bryce Durbin / TechCrunch OpenAI recently launched its AI-powered web browser, called Atlas . The browser allows users to ask ChatGPT about search results and browse websites within the chatbot instead of being directed to outside links. There's also an \"agent mode\" for users to ask ChatGPT to complete tasks on their behalf. Atlas was first rumored to launch in July ; however, it only became available on macOS in October. It's expected to arrive on Windows, iOS, and Android devices soon. Aside Backed by Y Combinator, Aside is an upcoming AI-first, browser-native automation platform built to autonomously complete tasks, fill out forms, and manage data on behalf of users. The company describes the experience simply: \"Give it your passwords, browsing history, and browser context.\" Unlike traditional automation tools that rely on integrations, Aside operates directly within the browser itself, allowing it to work across Gmail, Notion, Slack, Figma, and banking platforms. Users can sign up for the waitlist ahead of launch. Jatter Jatter launched its AI-powered browser in June, giving users the ability to ask questions about any web page, uncover relevant insights, and receive personalized recommendations based on their browsing activity. Additionally, Jatter offers an integrated Notes app, so it can learn from that content, summarize notes, and surface key details. Jatter is currently available on Mac, Windows, iOS, and Android devices. It's free to use, but there's an optional subscription for $10 per month. Privacy-focused browsers Image Credits: Brave Brave Brave is among the more well-known privacy-first browsers , popular for its built-in ad and tracker blocking capabilities. It also has a gamified approach to browsing, rewarding users with its own cryptocurrency called Basic Attention Token (BAT). When users choose to opt in to view ads, supporting their favorite websites, they get a share of the ad revenue. Additional features include a VPN service, an AI assistant , and a video calling feature . DuckDuckGo Image Credits: DuckDuckGo DuckDuckGo is another browser that many people are probably already familiar with, thanks to its search engine by the same name. Launched in 2008, the company recently made significant investments in its browser to stay competitive by introducing generative AI features , such as a chatbot. It also enhanced its scam blocker to detect a wider range of scams, including fake cryptocurrency exchanges, scareware tactics, and fraudulent e-commerce websites. In addition to blocking scams, DuckDuckGo prevents trackers and ads, and it doesn't track user data, resulting in fewer pop-ups for users. Ladybird Image Credits: Ladybird Ladybird , led by GitHub co-founder and former CEO Chris Wanstrath, has an ambitious mission compared to other rivals: It aims to build an entirely new open source browser from scratch. This means it will not rely on code from existing browsers, a feat that has rarely been accomplished. Most alternative web browsers depend on the Chromium open source project maintained by Google, which is the most widely used base for many browsers. Like other privacy-focused browsers, Ladybird will offer features to minimize data collection, such as a built-in ad blocker and the ability to block third-party cookies. The browser has yet to be launched, with an alpha version scheduled for release in 2026 for early adopters, available on Linux and macOS. Vivaldi Image Credits: Vivaldi Vivaldi is a Chromium-based browser created by one of the original developers of the Opera browser. Its biggest selling point is its customizable user interface, which allows users to change the appearance and enable or disable features. One unique feature is that the browser window changes color to match the website being viewed. Other key features include ad blocking, a password manager, no user data tracking, and productivity tools such as a calendar and notes. Niche browsers Image Credits: Opera Opera Air Opera launched the Air browser in February, becoming one of the first mindfulness-themed browsers in the space. While Opera Air functions like a typical web browser, it includes unique features designed to support mental well-being. These features consist of break reminders and breathing exercises. Another feature, called \"Boosts,\" provides a selection of binaural beats to either help improve focus or relaxation. SigmaOS Image Credits: SigmaOS SigmaOS is a Mac-only browser featuring a workspace-style interface that emphasizes productivity. It displays tabs vertically, allowing users to treat them like a to-do list that can be marked as complete or snoozed for later. Users can create workspaces - essentially groups of tabs - to better organize different activities, such as separating work from entertainment. This Y Combinator-backed browser has been around for a few years now and has most recently begun introducing more AI features, including the ability to summarize various elements of a web page, such as ratings, reviews, and prices. It also has an AI assistant that can answer questions, translate text, and rewrite content. SigmaOS is free to use, but users who want more than three workspaces can subscribe to a plan for $8 per month, which provides unlimited workspaces. Zen Browser Image Credits: Zen Browser Zen Browser aims to create a \"calmer internet\" with its open source browser. Zen lets users organize tabs into Workspaces, and offers Split View to view two tabs side by side, among other productivity-focused features. Users can also enhance their browsing experience with community-made plug-ins and themes, such as a mod that makes the tab background transparent. This story has been updated after publication to include newly launched browsers.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3026701",
+      "rss_tags": [
+        "AI",
+        "Apps",
+        "Startups",
+        "Browser",
+        "evergreens",
+        "search engines",
+        "web browser"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "17cfac11-5b48-4178-a4bb-364357ab6320",
     "cluster_id": "9e5fccc5-44ab-42e2-9c6d-13e511571b0b",
     "cluster_size": 1,
@@ -791,6 +908,32 @@
       "gmail_labels": [],
       "gmail_msgid": "1869718525818258930",
       "gmail_thrid": "1869718525818258930"
+    }
+  },
+  {
+    "id": "9dce3e6a-3906-4bdb-b581-762bc7cb002d",
+    "cluster_id": "bdef44c4-9314-4361-9c28-c17f6e1b888c",
+    "cluster_size": 1,
+    "source": "Planet Money (NPR)",
+    "title": "How to win a penalty shootout (with game theory)",
+    "teaser": "Despite being a scoring legend, Messi is only 'average' at penalty kicks—and game theory suggests why.",
+    "summary": "Game theory suggests there is an optimal, mathematically driven strategy for taking penalty kicks, which explains why even great players like Lionel Messi are merely average in this specific scenario. The concept, once controversial, is now studied by economists who are analyzing the interaction between game theory and professional soccer. The podcast 'Soccernomics' explores how this intersection has changed the sport, using the 2008 Manchester United vs. Chelsea Champions League final as a case study to demonstrate the economic forces shaping soccer strategy.",
+    "importance": 3,
+    "category": "economics",
+    "url": "https://www.npr.org/2026/07/03/nx-s1-5879357/world-cup-penalty-kick-game-theory",
+    "date": "2026-07-03T21:00:00Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Lionel Messi is arguably the greatest soccer scorer of all time. But when it comes to penalty kicks, Messi is merely average. Why? Maybe the answer involves game theory. According to game theory, there's an optimal strategy for taking penalty kicks. This strategy involves an idea that was once somewhat controversial in economics - that is, until economists started studying soccer players in real life. On today's show, we kick it over to the hosts of the Soccernomics podcast to explain how game theory has changed soccer, and how soccer has changed game theory. Watch the penalty shootout between Manchester United and Chelsea in the Champions League final in 2008 . Support: Planet Money+ Read: Our book: Planet Money: A Guide to the Economic Forces That Shape Your Life Our weekly longform Planet Money newsletter Our weekly Indicator round-up newsletter Follow: Instagram TikTok YouTube Facebook This episode of Planet Money was produced by Emma Peaslee with help from James Sneed. It was edited by Jess Jiang. It was fact checked by Sierra Juarez and engineered by Annlie Huang. Alex Goldmark is our executive producer. The Soccernomics episode was originally hosted by Ashish Malhotra, Simon Kuper and Stefan Szymanski and sound designed by Alex Roldan. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences. NPR Privacy Policy",
+    "raw_meta": {
+      "rss_entry_id": "3a1cc7b7-7691-4070-a761-e9465a7b8f42",
+      "rss_tags": [],
+      "fetch_ok": null,
+      "fetch_status": null,
+      "fetch_error": null
     }
   },
   {

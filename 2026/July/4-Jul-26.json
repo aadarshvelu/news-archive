@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cd857454-a72d-40d0-9920-982b0af77ee1",
+    "cluster_id": "9bf4012b-188e-4538-9278-5d89367fd482",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "NASA says it will isolate volunteers from the outside world for a year",
+    "teaser": "NASA plans a year of total isolation to simulate deep space life, prepping humans for missions to the Moon or Mars.",
+    "summary": "To prepare for future crewed missions to the Moon or Mars, NASA is planning a yearlong 'Moon and Mars Exploration Analog' experience. Volunteers will live in isolated conditions at Johnson Space Center in Houston, starting no earlier than August 2027. The simulation aims to study how humans function in deep space environments, helping to make future stays on the Red Planet or the Moon safer. Participants must pass physical and psychological assessments and have a strong interest in contributing to space exploration.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/science/2026/07/04/nasa-says-it-will-isolate-volunteers-from-the-outside-world-for-a-year/5266558",
+    "date": "2026-07-04T06:21:00Z",
+    "image_url": "https://image.theregister.com/262725.jpg?imageId=262725&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "science NASA says it will isolate volunteers from the outside world for a year There might also be a downside For those growing sick of Earth's geopolitics, NASA is looking for volunteers to spend a year living and working in isolated conditions in preparation for a journey to some other celestial orb. The US space agency is set to carry out a simulated deep space mission from no earlier than August 2027 to understand what might happen to its human lab rats during planned crewed missions to the Moon or Mars. Johnson Space Center in Houston will be home to the willing participants who are set for a yearlong Moon and Mars Exploration Analog experience designed to help keep potential space travelers safe and mission-ready during future stays on the Red Planet or Earth's natural satellite. The simulation could also inform plans for a sustained lunar presence through the agency's Moon Base and future Artemis missions. The \"experience\" will take place in two confined habitats. The NASA notice does not say whether there will be outside comms, but specifies physical and educational requirements, as well as a willingness to take part in a multi-day selection process and pass a psychological assessment. \"Candidates also should have a strong desire for unique, rewarding experiences, and interest in contributing to NASA's work to prepare for extended stays on the lunar surface and the first crewed mission to Mars,\" the notice says. Given the state of affairs, there may well be a flood of applicants who feel skipping a year would be well worth the inevitable curbs on their freedoms. Nonetheless, they may wonder about the world they will emerge to find when the experiment ends. Will WWE star Cody Rhodes be running for president, given the recent showcase on the White House lawn? Anything is possible in a world that shows an unnerving resemblance to Mike Judge's 2006 Idiocracy . Then again, given the perilous state of NASA's funding under the Trump regime , it is always possible volunteers could fall victim to cuts while they were in isolation, leaving no one to tell them the experiment had reached its end. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5266558",
+      "rss_tags": [
+        "science"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]
