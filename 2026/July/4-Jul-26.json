@@ -251,6 +251,36 @@
     }
   },
   {
+    "id": "3618b5ad-7f4d-4b9c-86cb-8c524a0d977b",
+    "cluster_id": "77aee9fd-35fd-4786-99c4-ed09e6f707fb",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+    "teaser": "NASA launched an emergency mission to save the Swift Observatory, battling orbital decay caused by solar storms.",
+    "summary": "NASA has launched an emergency mission to save the Swift Observatory, a vital instrument that studies gamma-ray bursts and provides crucial insights into the early universe. Due to recent solar storms, the observatory's orbit has decayed, putting it at risk of burning up in the Earth's atmosphere this year. To counteract this, NASA enlisted Katalyst Space Technologies, whose Link spacecraft launched to intercept Swift. The mission involves boosting Swift's orbit, which is currently at 224 miles, by approximately 150 miles. The rapid, highly technical effort is necessary because the satellite was projected to fall too low to save by October, highlighting a challenging feat of space engineering.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+    "date": "2026-07-04T19:06:27Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Testing-Link-Vibration-tests-2_4000x2600.jpg?quality=90&strip=all&crop=0%2C10.723216378839%2C100%2C78.553567242322&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise , NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Friday with the goal of intercepting Swift, which has no propulsion system, and boosting its orbit back to its original position. Right now, Swift is circling at an altitude of 224 miles, and Link is aiming to raise that by about 150 miles. Using a three-armed spacecraft to lift a satellite 150 miles higher into orbit is challenging enough, but the speed with which Katalyst pulled the mission together makes it even more impressive. NASA required the company to rush the job because Swift would be too low to save by October. $30 million and nine months later, help is on the way for the $500 million Swift. The Neil Gehrels Swift Observatory primarily studies gamma-ray bursts, which have been crucial to understanding the early days of the universe.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=961459",
+      "rss_tags": [
+        "News",
+        "Science",
+        "Space"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "cd857454-a72d-40d0-9920-982b0af77ee1",
     "cluster_id": "9bf4012b-188e-4538-9278-5d89367fd482",
     "cluster_size": 1,
@@ -610,6 +640,34 @@
     }
   },
   {
+    "id": "70ffa40f-5987-43a2-866d-76c2d9dfa83b",
+    "cluster_id": "426f0766-fa00-4d83-9139-53d2a04f8eda",
+    "cluster_size": 1,
+    "source": "Testing Catalog",
+    "title": "ByteDance set to launch Seedance 2.5 with 3-minute AI video output",
+    "teaser": "ByteDance's Seedance 2.5 is set to transform AI video, enabling cinematic storytelling up to three minutes long.",
+    "summary": "ByteDance is reportedly preparing to launch Dreamina Seedance 2.5, a major enhancement to its AI video generation capabilities. This upgrade significantly extends the model's output duration, moving from short clips to up to 180 seconds (three minutes). The model will integrate into platforms like Dreamina and CapCut, offering long-video workflows for creators, advertisers, and filmmakers. Seedance 2.5 aims to stabilize character identity and motion across extended scenes. While the official launch date is rumored for early July, this development keeps ByteDance competitive against rivals like Google's Veo and Gemini Omni, marking a shift toward longer, commercial storytelling using its existing creator ecosystem.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/bytedance-set-to-launch-seedance-2-5-with-3-minute-ai-video-output/",
+    "date": "2026-07-04T19:34:02Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/07/HMWzzWMbQAAiNrM.jpeg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Alexey Shabanov",
+    "content": "ByteDance appears close to releasing Dreamina Seedance 2.5, with current rumors pointing to a possible July 9 launch . Public Dreamina and CapCut pages already reference the model, while third-party reports suggest an early-July rollout window rather than a confirmed date. Availability is expected across Dreamina, CapCut, and partner platforms that already work with ByteDance's video stack. The main new feature will be a move from short clips to 30-second standard video generation. Dreamina pages describe a long video workflow that can generate 30-second scenes, 90-second drafts, and 180-second outputs, making three-minute AI video the biggest claimed shift for this release. The open question is not only about duration but also about whether the model can keep character identity, motion, camera logic, and prompt intent stable across extensions. You can create cinematic videos up to 30 seconds in standard mode or extend them to 180 seconds with the beta long-video mode. Dreamina website For creators, advertisers, anime editors, social video accounts, and AI filmmakers, this would turn Seedance from a short-shot generator into a tool for longer sequences. The likely location is within Dreamina's Seedance workflow, CapCut's creator tools, and partner apps that use ByteDance's model access. The evidence appears to come from public-facing product pages and platform copy, while the July 9 timing remains rumor-level until ByteDance posts a dated release notice. The company behind the model is ByteDance, which has been tying AI video to its creator ecosystem through Dreamina, CapCut, TikTok-adjacent production flows, and API distribution. Seedance 2.0 is still positioned around motion stability, multimodal references, and audio-video generation, with listed durations of 4 to 15 seconds on BytePlus. Seedance 2.5 would push that strategy toward longer commercial storytelling and creator workflows, while Google's Veo and Gemini Omni remain the clearest competitive pressure after OpenAI discontinued Sora's web and app product on April 26, 2026. Source",
+    "raw_meta": {
+      "rss_entry_id": "6a49264d3fac6e0001d3b8a0",
+      "rss_tags": [
+        "Bytedance"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "b088bb18-139a-4a3d-8fdf-25d9e395f93b",
     "cluster_id": "af126bc3-dd85-4f3d-8c94-4c4eb6c9c28e",
     "cluster_size": 1,
@@ -664,6 +722,37 @@
         "Keyboards",
         "Reviews",
         "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "fad93957-d433-4417-923d-7d54461b841b",
+    "cluster_id": "4a8ba5f4-486f-4b1e-9bc1-d69e7909bd09",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "teaser": "Google's new ad imagines the Founding Fathers using AI and Google Workspace to draft the Declaration of Independence—a highly collaborative, yet critical, modern vision.",
+    "summary": "Google released a new commercial imagining the Declaration of Independence (1776) using modern Google Workspace and AI tools. The ad, with the tagline 'Group project, but make it 1776,' depicts founding fathers collaborating virtually using Google Docs, Calendar, and Meet, and leveraging AI features like 'help me visualize' and Gemini for notes. The commercial subtly promotes AI's role in collaboration, while notably avoiding claiming AI improves the core text. While viewer comments are generally positive, critics have labeled the ad 'tone deaf.' Experts point out the difficulty of arguing that AI is a practical tool for fundamental political organizing or historical writing, even in a fantasy setting.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "date": "2026-07-04T20:55:25Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Anthony Ha",
+    "content": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial from Google asks : What if the Founding Fathers had access to Google Workspace? With the tagline \"Group project, but make it 1776,\" the ad depicts a largely unseen Thomas Jefferson mid-draft when he gets a nagging text from Ben Franklin, leading to a very Google-centric collaboration process. Edits are suggested in Google Docs, a meeting gets scheduled in Google Calendar and conducted remotely via Google Meet (with every single attendee apparently turning their camera off?), then the whole thing is finalized with e-signatures; cue the fireworks. Of course, since this is an ad from a tech company in the year 2026, AI has a role to play. The fictionalized founders use Google's \"help me visualize\" AI tool to try out different animals on the national seal, Gemini takes notes on the meeting, and the founders also ask the chatbot for advice before declining King George III's document access request. The whole thing is very tongue-in-cheek (at one point, Sam Adams asks, \"Can we settle this over beers?\"), and the AI evangelism is relatively discreet when compared to many other recent ads . And unlike that infamous Google commercial in which a father uses Gemini to write a fan letter for his daughter, this one shies away from any suggestion that the actual text of the Declaration of Independence would be improved with AI. Perhaps the most AI-forward element of the ad is the footage itself, which to my eye has the uncanny glow of AI-generated video. While viewer comments on YouTube and Instagram appear to be mostly positive, you may not be surprised to learn that the response on Bluesky has been far more critical . Posters declared the commercial \"cringey\" and \"stunningly tone deaf,\" and the AI angle was the biggest target - even as many users, including historian Angus Johnston , noted that it's \"amazing how little of this is actually AI.\" \"Even in a corny fantasy joke, it's impossible to make the case that AI is a useful tool for political organizing, writing, or human collaboration,\" Johnston said.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3138982",
+      "rss_tags": [
+        "AI",
+        "Media & Entertainment",
+        "gemini",
+        "Google"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
