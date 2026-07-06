@@ -385,6 +385,36 @@
     }
   },
   {
+    "id": "e9c4dba8-52fa-44a4-af45-72dfe462e01e",
+    "cluster_id": "14c29b64-5959-4b38-83e0-74cd4ace8753",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Some of the nation’s rich are letting AI teach their kids",
+    "teaser": "Wealthy families are paying tens of thousands for AI tutors, raising concerns that these new private schools might sideline 'hot-button social issues' like history and women's rights.",
+    "summary": "Amid general public distrust of AI, affluent Americans are turning to expensive, AI-guided educational services like Forge Prep and Alpha School. These private companies charge tens of thousands of dollars, claiming to teach skills like 'thinking on their feet' over mere fact recitation. Concerns have been raised regarding the curriculum's scope, particularly Alpha School's plan to omit 'hot-button social issues' (such as women's rights or slavery history). Furthermore, the lack of shared performance metrics prevents evaluating whether these AI-guided private schools are genuinely improving educational outcomes.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "date": "2026-07-05T22:30:54Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Most Americans don't trust AI . It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music . But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep and Alpha School are charging families tens of thousands of dollars to turn their kids into beta testers for AI tutors and \"interactive project-based workshops.\" Unsurprisingly, Silicon Valley have been major adopters of this new model. Shaun Johnson, a San Francisco-based venture capitalist, told the Wall Street Journal that he plans to send his son to a $75,000 year Alpha Kindergarten. He said, \"We recognize that education is likely broken the way it is and there's going to be entrepreneurs that try to fix it... You want someone to be able to think on their feet and navigate the world, not necessarily a recitation of facts in a particular discipline.\" Ignoring Johnson's fundamental lack of understanding about modern pedagogy, it's unclear how notoriously sycophantic AI will train children to \"think on their feet and navigate the world.\" It's also concerning that Alpha School co-founder MacKenzie Price has said she plans to keep \" hot-button social issues \" out of the classroom. Which, in the current political climate, could cover women's rights, America's history of slavery, and our immigrant past. That might not seem like a major issue when you're talking about kindergarten, but in some locations, Alpha School goes through high school. Companies like Forge also don't share performance metrics, so there's no evidence that these AI-guided private schools are improving educational outcomes.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=961505",
+      "rss_tags": [
+        "AI",
+        "News",
+        "Policy"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "3b8da488-c051-4da0-b94f-f2389786d8a8",
     "cluster_id": "31c54c45-15ff-4f76-8341-76ba93b9adf9",
     "cluster_size": 1,
