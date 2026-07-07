@@ -167,6 +167,34 @@
     }
   },
   {
+    "id": "979a7879-ec1d-4485-a5ef-5b49e690f26e",
+    "cluster_id": "fa356990-3c93-48e7-9bc2-cf7c51ef1a3c",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "EU urged to act after Pegasus infects phone of spyware inquiry MEP",
+    "teaser": "Former EU MEP Stelios Kouloglou was hacked with Pegasus spyware *while* investigating the spyware, exposing systemic failures in European digital rights.",
+    "summary": "Reports confirm that former MEP Stelios Kouloglou was targeted by Pegasus spyware in 2022 and 2023 while serving on a key committee investigating spyware abuses. Digital rights groups used this incident to accuse the EU of inaction, arguing that current protections are inadequate and that the bloc is not fulfilling its own recommendations. The hack, which exploited a 'zero-click' vulnerability, raises serious concerns about the integrity of European oversight. Campaigners are calling for the EU to launch robust investigations, reform the 2021 Dual-Use Regulation, and ensure accountability to prevent repeat scandals.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://www.theregister.com/security/2026/07/06/eus-latest-spyware-scandal-prompts-calls-for-urgent-action/5267054",
+    "date": "2026-07-06T17:00:00Z",
+    "image_url": "https://image.theregister.com/4093990.jpg?imageId=4093990&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Civil liberties groups have accused the EU of dragging its feet in implementing key measures to prevent spyware infections after Citizen Lab revealed a former member of European Parliament was placed under surveillance during his time in office. Stelios Kouloglou, a former investigative journalist, served as a Greek MEP between 2014 and 2023 and was a substitute member of the inquiry into the use of Pegasus and other spyware (PEGA Committee). After Citizen Lab forensically analyzed his device, the research organization revealed on Friday that his iPhone was infected with Pegasus in October 2022 and again in March 2023, when key hearings about the committee's formal recommendations were taking place. \"The fact that Stelios Kouloglou's device was infected with an intrusive form of spyware that only governments can procure, while he was actively involved in the parliamentary inquiry committee that was investigating spyware abuse by European countries, raises serious concerns about the integrity of independent oversight at the highest levels in Europe,\" said Elina Castillo Jiménez, advocacy and policy advisor for the Security Lab at Amnesty International. \"The brazen targeting of someone in his position underlines how inadequate the current system is, and is yet another wake-up call that the protections that were put in place to prevent this kind of abuse are still not being implemented in Europe.\" Amnesty International is one of the civil liberties groups to co-sign the joint statement to the EU, which lists several demands to ensure spyware abuse \"is met with accountability, not impunity.\" The signatories called for the EU's Directorate-General for Information Technologies and Cybersecurity (DG ITEC) to launch a robust investigation into the hacking of Kouloglou's iPhone and pinpoint who was responsible. Attribution is notoriously difficult in cyberattacks, especially spyware cases. Citizen Lab was unable to definitively pinpoint the NSO Group customer that launched the attacks on Kouloglou, but said it had found no indications that the Greek government was responsible, despite its \"extensive\" historical abuse of Intellexa's Predator spyware. However, the research unit posited that the same Pegasus operator that was behind the attacks on seven targets in 2024, all of whom were exiled activists and journalists from Russia, Latvia, or Belarus, was behind the attack on Kouloglou. The statement also called on the EU to \"urgently and publicly\" respond to the PEGA Committee's recommendations issued in May 2023, and disclose which of its key points have or have not yet been implemented. The recommendations fell short of prohibiting spyware sales outright, instead favoring the tight regulation of spyware sales and use within the EU. Member states seeking to use spyware lawfully would have to involve Europol, be subject to independent oversight, and thoroughly investigate all allegations of abuse. The statement's signatories, however, believe that the EU has failed to deliver a meaningful response to the PEGA Committee's recommendation, leaving the bloc exposed to repeated spyware scandals. The signatories further called on the EU to \"guarantee effective remedies for victims,\" which could include access to evidence, notifications of when surveillance occurred, and ensuring those behind the spyware are held accountable. Campaigners also want to see meaningful reform of the 2021 Dual-Use Regulation. The EU's framework for safely exporting spyware products is currently under evaluation, and the statement calls for any updates to reflect the PEGA Committee's recommendation. The EU has updated the Regulation several times since adopting it in 2021, and has routinely stood by the system, which aims to reduce the risk that cyber-surveillance tools are exported for use in human rights abuses. Critics remain unconvinced that the EU is enforcing the Regulation effectively, believing that the required level of monitoring is not being met, which in turn is allowing spyware to spread. For example, the Centre for Democracy and Technology Europe (CDT), which examined the export controls in four EU countries, said in December that spyware traveling across borders within the EU is not subject to the requisite licensing or accountability measures to effectively prevent abuse. The statement, to which CDT was also a signatory, stated: \"Europe cannot continue moving from scandal to scandal without consequence. The targeting of a Member of the European Parliament involved in investigating spyware abuse should mark a turning point. The EU must act now to defend independent oversight, protect fundamental rights, and ensure that spyware abuse in Europe is met with accountability, not impunity.\" Spyware: Not just for foreign adversaries While regimes such as Russia, Saudi Arabia, Rwanda, and others have been accused of high-profile spyware attacks on specific individuals - of which Jamal Khashoggi was arguably the most infamous - the EU itself has faced various scandals concerning member states. In February, Greece sentenced four individuals connected with Intellexa to more than 126 years in prison each for their role in the spyware scandal that rocked the country in 2022. Domestic law caps this sentence at eight years, although it is currently suspended pending appeals. The case involved journalist Thanasis Koukakis and politician Nikos Androulakis, a then-serving MEP, who both discovered they had been infected with Predator spyware . It would later be revealed that they were among 87 high-profile Greeks to be targeted via hundreds of SMS messages. Critics suspect Greece and its intelligence agencies played roles in the infections, but they have consistently denied wrongdoing, and its Supreme Court cleared them in 2024. Elsewhere, Citizen Lab was instrumental in bringing to light what would go on to be dubbed \" CatalanGate \" - Spain's spyware scandal. It found that the devices of at least 65 people associated with the Catalan separatist movement were infected with Pegasus or Candiru spyware strains between 2017 and 2020, and at least two were infected with both. In 2022, Spain dismissed its national intelligence director, Paz Esteban López , after high-ranking ministers, including Prime Minister Pedro Sánchez , were infected with spyware. In Poland, former intelligence officials and ministers were also charged with using Pegasus spyware in February 2026 after Donald Tusk's government previously committed to an inquiry into the targeting of politicians with spyware in 2024. Hungary, too, was embroiled in its own spyware scandal in 2021 after it was rumored that Viktor Orbán's government targeted journalists, lawyers, and politicians, as well as people under national security investigation. The Pegasus Project found evidence of infections on civilians' devices, and a government official confirmed that the country was a Pegasus customer later that year after initially denying the allegations. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5267054",
+      "rss_tags": [
+        "security"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "80cb3358-0e26-41ac-bf28-5e109818c901",
     "cluster_id": "a439bd08-d2e3-4431-9985-f4657ffdb7ed",
     "cluster_size": 3,
@@ -195,6 +223,93 @@
         "Rakuten",
         "kobo ereader",
         "bookshop.org"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "a6159f9e-2a7f-4a9b-848c-944fb88d47fe",
+    "cluster_id": "a8d4f406-6f5e-4f20-9004-2ba730868a8c",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "America’s greatest idea is still under threat",
+    "teaser": "The First Amendment, America's foundational right to free speech, faces unprecedented threats from government overreach, flawed policing, and corporate censorship.",
+    "summary": "The article, reflecting on the U.S. 250th anniversary, emphasizes that the First Amendment remains the core of American freedom, allowing for free expression, assembly, and press. However, this principle is under constant assault. Historically, this included abuses like the Alien and Sedition Acts (1798) by John Adams and the misapplication of the Espionage Act. Today, threats emerge from inadequate police training, federal agents overreach, and alleged censorship attempts by both government and technology platforms. The piece argues that the 'free speech culture' ironically empowers real censorship, as officials abuse the right to record, and powerful regimes, such as the one associated with Donald Trump, challenge free press liberties. The First Amendment is fundamentally a restraint *on* the government, and protecting it requires constant vigilance.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://www.theverge.com/policy/961802/america-250-free-speech",
+    "date": "2026-07-06T18:36:33Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284040155.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "TC. Sottek",
+    "content": "The United States of America recently turned 250 years old. What a spectacle! The fireworks were amazing, and millions of proud people celebrated across the nation - even around the world. France lit up the Eiffel Tower; Japan had fireworks. French fighter jets flew above New York City with trails of red, white, and blue - our first major ally streaking our shared colors through the sky. Meanwhile, shameful white nationalists paraded through our nation's capital . This has always been a country of paradoxes. Our 250th birthday counts back to the Declaration of Independence in 1776. The declaration was a radical and astonishing document that still serves as America's soul. But the beating heart of the nation wouldn't come until more than a decade later, when the Constitution was ratified. That document is why I'm able to write this to you today. And we need you to help protect it. The First Amendment to the Constitution is so potent that people across the world who live in places untouched by US law often seem to think they have the same rights it establishes. The First Amendment is our day-one theory of what makes a free society. It's literally the first cure by the framers for a project they knew would be forever imperfect and incomplete - fixable only by way of the right to free expression. The Verge exists today because of this great project. We believe in it deeply. The First Amendment affords us the knowledge that we're likely free from imprisonment from expressing our freedom to speak. But journalism and speech are always under assault. It's one of the reasons why we'll always need lawyers despite likely having the strongest editorial ethics policy in the industry. Here's what the First Amendment says: Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances. This is a compelling and beautiful idea. But we've had to fight to keep it alive from the beginning.. John Adams, one of the fiercest revolutionaries who railed against British tyrrany and helped secure independence, completely fucked up the First Amendement when he became the second US president. Adams' series of Alien and Sedition Acts of 1798 look positively Trumpian in retrospect, railing against foreigners, expanding presidential power to arrest, imprison, or deport people, and perhaps most insidiously, making it a crime for American citizens to print \"scandalous and malicious\" writings against the government. Adams surely loved the country he created, but nonetheless shrunk before the magnitude of its liberties. Fast-forward to World War I, when the First Amendment was again under attack, this time by the Supreme Court. The court's fearful message about free speech still sticks with us. You've probably heard the phrase \"you can't shout 'fire' in a crowded theater\" - not actually true . The misquoting and misinterpretation here is darkly funny: Trevor Timm, in The Atlantic , notes the court decision the phrase refers to was actually about whether an American socialist \"could be convicted under the Espionage Act for writing and distributing a pamphlet that expressed his opposition to the draft.\" It almost sounds ripped from contemporary headlines. (Nearly a century later, the Espionage Act would be used again to target, this time, a New York Times journalist.) Misunderstandings about the First Amendment still abound. On the front lines we most readily see it in police confrontations where armed agents of the state bungle their constitutional duties with disastrous results. Cops are routinely so terrible at understanding America's foundational law that there's now a cottage industry of streamers and influencers who work as \"First Amendment auditors\" - people who intentionally flex their right to record in public to bait dummies into abridging their freedom of speech. It's easy to go down TikTok rabbit holes where you'll find someone recording an illegal traffic stop from inside their car, or a fully kitted streamer recording harassment on a public sidewalk. When the police inevitably show up to hassle someone for exercising their rights, the stakes are immediately raised. In a best-case scenario, a higher-ranking cop arrives and dispels their colleagues' unconstitutional conduct. In other cases, someone ends up getting detained or arrested for completely protected behavior. It's even worse than usual in 2026, because we now live under an administration that's flooding cities with barely trained federal agents who see constitutionally protected behavior as a threat. This has resulted in deaths , assaults on reporters, and an untold broader cost of regular people having to endure the immense burden of confronting the justice system simply for doing things they have the fundamental right to do. The right to speak and assemble is especially valid when it's in protest of the government . That's the whole point of this thing! And yet. The latest assaults on the First Amendment have been encouraged by people all the way up the chain of command. We're being betrayed by officials who are supposed to protect us, people who swore an oath to the Constitution and ought to know better. The FCC is not supposed to regulate speech but has nonetheless become a nightmare of incompetence and civil rights suppression . Do you miss Stephen Colbert on The Late Show ? Thank the Trump administration, which now operates a mob-like patronage system that has cowed the billionaire princes who own America's broadcast networks. Or ask Jimmy Kimmel, who got kicked off the air after conservatives went nuclear over his tame remarks about Charlie Kirk, a man who spent his time poisoning our national discourse with none of the grace or wit employed by national talk show hosts. The Trump regime in general has an incredibly disturbing record on free speech, from science to the operations of the largest social networks . Donald Trump rails against anyone who doesn't bow to him, and the list of his victims is too long to enumerate. But here's an important one: The president once threatened to jail Meta CEO Mark Zuckerberg for life . Zuckerberg is far more wealthy and powerful than Trump in many respects, but what did he do? Two years after the threat, Zuckerberg showed up on the White House lawn to celebrate Trump's insane UFC fight show. He tapped out against a bully. This is what makes everything really messy. We live in an age dominated by communication platforms that are so wealthy, powerful, and pervasive that they seem practically unrestrained by the US government, but paradoxically must still cozy up to a regime that has no actual respect for them or for their free speech. Trump once threatened to blow up the entire internet because he wanted platforms to censor things to his advantage. The CEOs of those companies still indulge him with flattery and photo ops. This blurring of public and private interests has fueled a funhouse-mirror idea of \"free speech culture\" that's actually designed to crack down on free speech. The loudest people crying about free speech culture do so as if theirs is not the freest ever in history, while simultaneously supporting actual government censorship, like banning books . I can't say it better than Ken White has, so just go read him on this point . White explains how \"free speech culture\" has emboldened the Trump admin and others to engage in real censorship. \"When enough people think that all of free speech-including free speech law-is bullshit, then free speech rights won't be enforced,\" he writes. Our constitutional punchbowl has been spiked by madmen who profit from confusion about our rights and the rule of law. It doesn't have to be this way. Just remember: The First Amendment is a restraint on the government that prevents it from prohibiting your speech . Moreover: Actual censorship is government suppression of speech. It's entirely understandable that we're confused about what censorship is because of how hard many people have worked to keep us confused. A social media platform moderating your post is not censorship - it's actually free speech . Yes, that sounds completely counterintuitive, but it's true. The alternative is a situation where the government forces private citizens to publish things they don't want to, including hate speech. Much was unsaid here, including the history of immense pain and suffering that has kept the First Amendment and our broader rights alive. I won't claim to know what the fix is for our current mess, but I'll say I really hate when our leaders say things like \"this is not who we are\" when they talk precisely about the things that define who we are. And part of who we are is a coalition that claims to want free speech in theory while simultaneously suppressing it in practice. So what can you do? Yes, of course, vote. But there's much more to do. Write or call your congresspeople (I promise this does matter). Participate in local elections, especially for school boards, which are on the front lines of book banning. And if you're reading this, thank you for subscribing - but consider also supporting other newsrooms. Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=961802",
+      "rss_tags": [
+        "Policy"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "ab3e0585-84ff-4163-bcec-0ee74065160d",
+    "cluster_id": "7c00e608-d11f-47cc-be8f-4caba45947cd",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "AI agent exploits Langflow in first fully autonomous ransomware attack",
+    "teaser": "A new era of cybercrime: AI agents have automated ransomware, executing complex, multi-stage attacks from start to finish.",
+    "summary": "Cloud security firm Sysdig documented JadePuffer, the first ransomware attack fully executed by an autonomous AI agent. The attack leveraged a known bug (CVE-2025-3248) in Langflow, an open-source AI framework. The agent then autonomously searched for secrets, harvesting cloud credentials (AWS, Azure) and API keys from databases. It ultimately targeted a Nacos configuration platform, exploiting a bypass to gain root access, encrypting records, and demanding Bitcoin. Experts warn this automation capability—which allows agents to autonomously chain recon, exploitation, and lateral movement—drastically lowers the operational cost of ransomware, making cyber threats faster and harder to defend against.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/06/ai-agent-exploits-langflow-first-fully-autonomous-ransomware-attack/",
+    "date": "2026-07-06T22:58:24Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/jadepuffer.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Duncan Riley",
+    "content": "Cloud security company Sysdig Inc. has documented what it says is the first ransomware operation carried out from start to finish by an autonomous artificial intelligence agent, a campaign it calls JadePuffer. Sysdig's Threat Research Team spelled out its findings in research published last week . A large language model ran the whole intrusion. It broke into an exposed server, harvested credentials, pushed deeper into the network and finally encrypted and wiped a company's production database. Ransomware has always kept a person in the loop, at the keyboard, or at least behind the script the malware runs. Cut that person out and the price of an attack drops to whatever it costs to rent an agent. In the case researchers detail, JadePuffer forced its way in through CVE-2025-3248 , a critical flaw in Langflow. Langflow is the open-source framework many teams lean on to build AI apps and agent workflows. The bug rates 9.8 for severity, near the top of the scale. A fix had shipped well before the attack and authorities added the flaw to their list of exploited bugs in May 2025. Scores of exposed instances were never updated anyway. Once inside, the agent went looking for secrets. It dumped Langflow's PostgreSQL database and pulled out whatever credentials it held. The haul was broad: application programming interface keys for AI services such as those from OpenAI Group PBC, Anthropic PBC, DeepSeek and Google LLC, plus cloud logins spanning Amazon Web Services Inc., Microsoft Azure, Alibaba Group Holding Ltd. and Tencent Holdings Ltd. Cryptocurrency wallet keys and database passwords went too. A nearby MinIO object store fell because nobody had changed its factory-default login. Before moving on, the agent planted a scheduled task that pinged the attacker's server every 30 minutes. Then came the real target: a second internet-facing server, this one running a MySQL database alongside Alibaba's Nacos configuration platform. The agent logged in as root. To take over Nacos, it reached for a 2021 authentication bypass and a default signing key Nacos has shipped unchanged since 2020 then quietly added an administrator account of its own. What followed was the payload. It encrypted all 1,342 Nacos configuration items, dropped the original tables and left behind a ransom note demanding Bitcoin, with a Proton Mail address for contact. Paying would not help. The encryption key was generated at random, printed to the screen a single time and then discarded, never saved and never sent anywhere. Meet the demand and the data still stays locked. The agent also went beyond encryption, deleting whole database schemas outright. It even left a note in its own code claiming it had already copied the data elsewhere, though Sysdig found nothing to back that up. The researchers ascertained that a machine was at the wheel as the code gave it away. Payloads came stuffed with plain-English notes explaining the reasoning behind each step, the sort of running commentary no human attacker bothers to write but a model spits out by habit. The agent also fixed its own errors at a speed no person could match. In one instance it went from a failed login to a correct, multistep fix in 31 seconds, having worked out the actual cause instead of just hammering retry. Across the whole operation, Sysdig tallied more than 600 distinct, deliberate payloads. The find comes amid a busy year for AI-driven crime. Back in August , ESET spol s.r.o researchers billed PromptLock as the first AI-powered ransomware, only for it to turn out to be a university lab prototype rather than anything loose in the wild. Anthropic, in that same stretch, described a genuine extortion spree that bent its Claude Code tool against at least 17 organizations. By November the company was reporting something bigger, what it called the first largely autonomous cyberattack, tied to alleged Chinese spies. A human still had a hand on the wheel in all of them. Sysdig's advice will sound familiar: Patch Langflow and keep its code-running endpoints off the open internet. Keep secrets in a dedicated manager, not sitting in the environment of an internet-facing AI tool. And never leave a database's admin account reachable from the web. The firm's larger point is about speed: Attackers can now turn a fresh advisory into a working exploit within hours, so watching for bad behavior at runtime counts for more than winning the patch race. The significance is in the automation, not the sophistication, said Ensar Seker, chief information security officer at SOCRadar Cyber Intelligence Inc. \"What changed is that an AI agent was able to autonomously chain reconnaissance, exploitation, credential discovery, lateral movement, and extortion while adapting to failures in real time,\" Seker told SiliconANGLE. \"That dramatically lowers the operational cost of ransomware campaigns and allows attackers to execute far more operations simultaneously than a human team could manage.\" He cautioned against fixating on the headline, noting the intrusion began with an exposed instance running a publicly known bug. \"AI is accelerating attackers, but it is still exploiting fundamental security weaknesses,\" he said. Erich Kron, a security awareness advocate and chief information security officer advisor at KnowBe4 Inc. , said the arrival of such attacks was inevitable. \"Given the amount of money that cybercrime brings in every year, it was only a matter of time before bad actors were leveraging the latest technology for truly autonomous attacks,\" Kron told SiliconANGLE. \"Agents differ significantly from LLMs in the way that they are goal-oriented entities that will figure out how to accomplish a feat given the tools they are provided. This is a very efficient way to run attacks against organizations at any time of the day or night and across the globe.\" Image: Sysdig A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=784981",
+      "rss_tags": [
+        "NEWS",
+        "Security",
+        "The-Latest",
+        "Top Story 6",
+        "agentic AI",
+        "AI agents",
+        "Alibaba",
+        "Amazon web services",
+        "Anthropic",
+        "artificial intelligence",
+        "autonomous attacks",
+        "cloud security",
+        "credential theft",
+        "CVE-2025-3248",
+        "cybersecurity",
+        "DeepSeek",
+        "ESET",
+        "google",
+        "JadePuffer",
+        "KnowBe4",
+        "Langflow",
+        "large language models",
+        "Microsoft",
+        "MinIO",
+        "Nacos",
+        "OpenAI",
+        "Proton",
+        "ransomware",
+        "SOCRadar",
+        "Sysdig",
+        "Tencent",
+        "threat research"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -569,6 +684,38 @@
     }
   },
   {
+    "id": "a7d3f457-0c93-45ca-a99b-b249e9fa29a3",
+    "cluster_id": "2046741d-b992-4e4d-a88f-cc7da4bee654",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
+    "teaser": "Canada's spy agency confirms it hacked drug traffickers, extremists, and a ransomware gang last year in a massive national security effort.",
+    "summary": "Canada's Communications Security Establishment (CSE) revealed in its annual report that it executed several 'active cyber operations' last year to bolster national security. These operations, aimed at foreign threats, targeted drug traffickers involved in fentanyl production, radical extremist groups, and major ransomware outfits. The CSE disrupted cybercriminals selling fentanyl precursors, successfully undermined an overseas extremist group's ability to recruit, and rendered a ransomware-as-a-service infrastructure unusable. Furthermore, the agency conducted concurrent disruptions against 10 significant ransomware gangs and addressed a phishing campaign against Canadian federal institutions. These disclosures highlight the scope of intelligence collection and proactive cyber defense used to secure Canada and its allies.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/",
+    "date": "2026-07-06T14:43:59Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2021/09/epik-hack-1.jpg?resize=1200,724",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Zack Whittaker",
+    "content": "Offering a rare glimpse at the priorities of a top spy organization, Canada's Communications Security Establishment (CSE) said it conducted a handful of state-authorized hacks last year in order to disrupt the operations of drug traffickers, violent extremists, and a ransomware gang. The disclosures in the Canadian intelligence agency's annual report underscore some of the main national security threats that face Canada and its closest allies: ranging from the import of illegal drugs to cyberattacks. The spy agency, CSE, is tasked with collecting foreign intelligence, defending government systems, and disrupting online adversaries. Published last week, the report says the CSE last year carried out three foreign \"active cyber operations\" - the term the agency uses to describe its cyberattacks on overseas operations that threaten Canadian national security and public safety. One of the operations, per the report, targeted cybercriminals outside of Canada who were brokering the sale of chemicals used to create the synthetic opioid fentanyl. The CSE collected intelligence on the brokers, then conducted an operation that \"disrupted and diminished their ability to operate,\" the report said. Another active operation involved the collection of signals intelligence - data produced from electronics and internet-connected devices - on an overseas extremist group that was spreading violent ideology and recruiting members, including in Canada. The report said the agency analyzed the group's organization, reach, and potential vulnerabilities to conduct an operation that \"successfully undermined the group's credibility and limited their ability to radicalize and recruit new members.\" Another operation involved disrupting a ransomware-as-a-service operation that let hackers rent access to a ransomware gang's infrastructure to launch destructive extortion attacks. The CSE said its signals intelligence unit identified how the gang worked against the healthcare, transportation, and business sectors in Canada, then used an active cyber operation that \"rendered the group's infrastructure inoperable.\" The operation also deleted much of the data on the gang's servers. The agency said it undertook concurrent \"technical disruptions\" against 10 of the most significant ransomware gangs targeting Canada to \"make parts of their infrastructure unusable.\" The report did not say where the hackers, extremists, or the ransomware gang were located, or the specifics of the operations that the CSE used to target them. It's not uncommon for spy agencies to conduct cyberattacks against their adversaries, but such operations are seldom disclosed or detailed to protect the methods and techniques used. Fort Meade, Maryland-based Cyber Command, which conducts cyber operations for the U.S. government, regularly carries out \"hunt forward\" operations that involve sending cyber teams to allied nations to secure their networks and disrupt cyber operations launched by adversaries. The number of U.S.-led hunt-forward operations have risen from a few handful during 2018 to more than two dozen during 2025 . Canada's CSE said it also carried out one defensive cyber operation during the year to target a phishing campaign aimed at Canadian federal government institutions and other important systems. The agency said it disrupted the group's infrastructure and \"degraded their ability\" to target Canadians.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3139125",
+      "rss_tags": [
+        "Security",
+        "Canada",
+        "cyberattack",
+        "cybersecurity",
+        "ransomware"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "e50bae62-766d-4825-9326-23d83a364cbf",
     "cluster_id": "5358d21d-6d6a-4dfa-808f-a0726fd889cf",
     "cluster_size": 2,
@@ -767,6 +914,159 @@
     }
   },
   {
+    "id": "7af279b1-5caa-4971-8841-6e770b76d9e1",
+    "cluster_id": "c6b2937d-a119-4911-95a1-53028a1b0ef2",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "Every major tech layoff in 2026 that has name-checked AI",
+    "teaser": "Amid record revenues, tech giants are gutting workforces. Microsoft cut 4,800 roles, while Meta laid off 8,000, citing AI as the core driver of the industry's painful 'realigning.'",
+    "summary": "Major tech companies are undergoing a massive wave of layoffs, reporting record revenues while citing the integration of Artificial Intelligence (AI) as the reason for workforce reductions. Microsoft cut about 4,800 roles, while Meta laid off 8,000 employees, with companies like Oracle (reducing staff by 21,000) and Cisco (cutting nearly 4,000 jobs) also linking their cuts to AI deployment. Industry tracking shows roughly 120,000 tech roles cut in 2026. Although companies claim AI is necessary for realignment, sources questioned the rationale, noting that many cut teams had grown during the pandemic boom. This restructuring suggests a move away from expansionary hiring toward highly specialized, AI-optimized operational models.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "date": "2026-07-06T18:35:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Rebecca Bellan, Connie Loizos",
+    "content": "Microsoft said Monday that it has eliminated about 4,800 roles, or 2.1% of its global workforce, adding to the string of AI-related layoffs hitting the tech world. The company said the roles being cut are \"not being replaced by AI,\" but acknowledged that \" AI is changing how work gets done \" and automating many everyday tasks. The cuts continue what feels to many in the tech industry like an epidemic: companies reporting record revenues while simultaneously culling their workforces, pointing to AI as both the engine of growth and the reason for the cuts. Tech layoffs hit their highest single month in years in May, and AI was the most-cited reason, according to outplacement firm Challenger, Gray & Christmas. Roughly 120,000 tech roles have now been cut in 2026, according to Layoffs.fyi, a tracker that has monitored industry layoffs since 2020. We recently wrote about why that rationale is something companies may want to rethink , not least because for many of these companies, the teams they're now cutting ballooned during the pandemic hiring surge, raising questions about what's really going on right now. Below is a running look - in reverse chronological order - at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor. Oracle - June 22, 2026. Oracle disclosed in late June that it had reduced its workforce by 21,000 employees over the past 12 months, a decline of 13%, which means more cuts than was previously known, including because of AI. \"The adoption and deployment of AI technologies across our operations have resulted, and may continue to result, in reductions to our workforce,\" the company said in an annual financial regulatory filing . GitLab - June 3, 2026. GitLab laid off roughly 350 workers, about 14% of its staff , to fund AI infrastructure investment and handle surging traffic from AI workflows. CEO Bill Staples said agentic workloads are \"pushing competitors to the brink\" and that the company had begun a \"generational rebuild\" of its core infrastructure to support what he called 100x growth requirements. GitLab is exiting 22 countries, flattening management layers, and partnering with an unspecified AI lab to rebuild its platform for agent-scale workloads. The company reported first-quarter revenue of $264 million, up 23% year-over-year, and expects to incur $30 to $35 million in restructuring costs. Google - ongoing through May. Alphabet's Google has quietly cut employees across its Cloud division, including its Threat Intelligence Group and Mandiant-linked cybersecurity staff, even as Cloud revenue grew 63% to exceed $20 billion for the first time and its backlog nearly doubled to over $460 billion. Over the past year, Google has cut more than a third of the managers overseeing small teams - 35% fewer managers with fewer direct reports. Unlike most companies on this list, Google has never announced a single overall number - the cuts have come through a rolling performance review process, a voluntary buyout program, and structural reorganizations, with outside estimates putting the 2026 total at between 1,500 and 3,000+ engineers. Intuit - May 20, 2026. Intuit announced plans to eliminate roughly 3,000 jobs - about 17% of its total workforce - in a restructuring centered on reducing complexity and reallocating resources toward AI. CEO Sasan Goodarzi reportedly told staff the company is reducing complexity and simplifying the structure so it can deliver better products. Meta - May 20-21, 2026. Meta laid off about 8,000 employees, roughly 10% of its workforce, while moving about 7,000 employees into new AI-focused roles (that they reportedly hate ). CEO Mark Zuckerberg told staff the cuts were necessary because \"success isn't a given\" in AI. Cisco - May 14, 2026. Cisco announced it's cutting nearly 4,000 jobs , about 5% of its workforce, despite reporting better-than-expected profit and revenue. CFO Mark Patterson said : \"This was really not a savings-driven restructure... this is more [about] realigning ... resources around silicon, optics, security and AI.\" Cloudflare - May 7-8, 2026. Cloudflare cut about 20% of its workforce (1,100 people), reporting quarterly revenue of $639.8 million, up 34% year-over-year and the highest single quarter in company history. CEO Matthew Prince wrote that \"the vast majority of those we laid off last week were measurers\" - middle management, finance, legal, internal auditing, and revenue recognition. General Motors - May 12, 2026. GM eliminated 500 to 600 jobs, largely in IT roles in Austin, Texas, and Warren, Michigan, saying it was reevaluating its workforce needs amid uncertain market conditions. A person familiar with the cuts told CNBC that AI played a role in the decision but that it wasn't the only reason. GM's statement said it was \"transforming its Information Technology organization to better position the company for the future.\" Despite the cuts, the company still had roughly 80 open IT positions, including roles in AI, motorsports, and autonomous vehicles. Coinbase - May 5, 2026. The crypto exchange said it was cutting about 700 employees, or 14% of its staff, as part of a restructuring aimed at addressing market volatility and increasing AI efficiency. The company flattened its organizational structure to five layers below the CEO and COO, and said it would experiment with \"one-person teams\" combining engineering, design, and product roles. CEO Brian Armstrong wrote that AI had changed the pace of work dramatically - \"engineers use AI to ship in days what used to take a team weeks \" - and that the company needed to \"leverage AI across every facet of our jobs.\" PayPal - May 5, 2026. PayPal announced plans to cut around 20% of its workforce over the next two to three years - north of 4,500 jobs - as part of a turnaround strategy centered on AI adoption and organizational simplification. CEO Enrique Lores told investors the company would \"aggressively adopt AI\" in its development processes and formed a new \"AI transformation and simplification\" team reporting directly to him, tasked with redesigning the company's processes \"function by function.\" Lores framed the cuts as removing organizational layers, and said AI would extend well beyond coding into customer service, support operations, and risk management. Microsoft - April-May 2026. Microsoft offered buyouts structured as voluntary separations, without disclosing how many employees these would impact. CFO Amy Hood said total headcount declined year-over-year in fiscal Q3, and is expected to keep declining as the company focuses on \"building high-performing teams that operate with pace and agility\" amid rising AI investment . Snap - April 16, 2026. Snap cut roughly 16% of its global workforce - about 1,000 full-time employees - and closed more than 300 open roles, with CEO Evan Spiegel citing AI advancements as a key driver. \"Rapid advancements in artificial intelligence enable our teams to reduce repetitive work, increase velocity, and better support our community, partners, and advertisers,\" Spiegel wrote in a memo filed with the SEC. The company said it had already seen small squads using AI tools to drive progress across Snapchat+, ad platform performance, and infrastructure efficiency. IBM - rolling through 2026. Between Q4 2025 cuts and April 2026 Red Hat engineering reductions, estimates range from 3,000 to 9,000 U.S. positions eliminated, bringing IBM's cumulative total since September 2024 above 15,000. Bloomberg reported IBM plans to triple its U.S. entry-level hiring for AI and hybrid-cloud roles, even as roughly 200 HR positions were replaced by AI agents. An IBM spokesperson described the Q4 2025 round as a routine rebalancing affecting \"a low single-digit percentage\" of its global workforce. Atlassian - March 11, 2026. Atlassian cut about 1,600 jobs (10% of its workforce) to \"rebalance\" toward AI and enterprise sales, even as shares rose nearly 2% on the news. CEO Mike Cannon-Brookes said: \"Our approach is not 'AI replaces people.' But it would be disingenuous to pretend AI doesn't change the mix of skills we need or the number of roles required in certain areas. It does.\" Dell - January 30 (though disclosed in March 2026). Dell's total workforce fell about 10% in fiscal 2026 - roughly 11,000 jobs - to about 97,000 employees from 108,000 a year earlier, with $569 million spent on severance. The cuts came as Dell projected its AI-optimized server revenue could double in fiscal 2027. Oracle - March 5-31, 2026. As noted above, Oracle began telling employees it would be cutting thousands of jobs via terminal emails . The cuts came even as Oracle posted $3.7 billion in quarterly net income, up 27% year-over-year, with remaining performance obligations up 325% to $553 billion - savings redirected toward AI data centers. The cuts that would later total 21,000 over 12 months, as Oracle disclosed in its June 22 annual filing. Block - February 26-27, 2026. Jack Dorsey's Block cut 4,000 jobs - nearly half its workforce, down to under 6,000 from over 10,000. Dorsey wrote on X: \"We're already seeing that the intelligence tools we're creating and using, paired with smaller and flatter teams, are enabling a new way of working which fundamentally changes what it means to build and run a company.\" He added: \"I think most companies are late. Within the next year, I believe the majority of companies will reach the same conclusion and make similar structural changes .\" Salesforce - February 10, 2026. Salesforce laid off fewer than 1,000 employees across marketing, product management, data analytics, and its Agentforce AI unit. The company told Fortune , \"Because of the benefits and efficiencies of Agentforce, we've seen the number of support cases we handle decline and we no longer need to actively backfill support engineer roles.\" This followed an earlier cut of about 4,000 customer-support roles, shrinking that team from roughly 9,000 to 5,000, with CEO Marc Benioff saying the company needed \"less heads\" because AI agents handle the work. Amazon - January 28, 2026. Amazon cut 16,000 corporate jobs , following 14,000 cuts in October 2025 - about 9% of its corporate workforce in three months. The company said it was part of \"strengthen[ing] our organization by reducing layers, increasing ownership, and removing bureaucracy.\" CEO Andy Jassy had said in June 2025 that, \"As we roll out more generative AI and agents, it should change the way our work is done. We will need fewer people doing some of the jobs that are being done today... in the next few years, we expect that this will reduce our total corporate workforce as we get efficiency gains from using AI extensively across the company.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3132769",
+      "rss_tags": [
+        "AI",
+        "TC",
+        "Layoffs"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "994278f7-c71d-4e03-87b6-d131cc69bb52",
+    "cluster_id": "777f6dbc-c863-4170-88a6-44446da0b715",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+    "teaser": "iOS 27 beta adds major voice controls for Siri, letting users customize its speaking pace and emotional expressivity.",
+    "summary": "The latest iOS 27 developer beta 3 introduces significant improvements to Siri, allowing users to customize its 'Pace' (speaking speed) and 'Expressivity' (emotion). This feature is part of Apple's effort to rebuild Siri around generative AI, making the assistant feel more natural and personal. Testers can now adjust how quickly and how much human emotion Siri conveys, moving beyond simple male or female voice choices. The updated Siri is deeply integrated into iOS 27, accessible by speaking, swiping from the Dynamic Island, tapping the side button, or using a new stand-alone app. This advanced customization helps Siri compete with AI platforms like ChatGPT, which also allow deep voice styling.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "date": "2026-07-06T19:01:59Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Sarah Perez",
+    "content": "With the latest iOS 27 developer beta, Apple is giving testers an early look at one of the upcoming improvements to its AI-powered Siri : the ability to adjust how quickly and expressively the AI assistant speaks. In iOS 27 beta 3, out today, Apple has enabled the voice controls for \"Pace\" and \"Expressivity\" that were previously labeled as \"Coming soon\" in the first developer beta releases. The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI. Like ChatGPT and others offering voice AI assistants, letting users customize how the AI sounds is an important aspect in helping connect people with the new technology. However, ChatGPT's voice-customization options allow users to go even further, as the ability to adjust the AI's warmth and enthusiasm was rolled out in December 2025 , alongside options to configure the base style and tone. The latter lets users adjust OpenAI's assistant to be more friendly, professional, candid, or quirky, among other styles. This is reflected not only in how ChatGPT speaks, but also in how it presents information to the user. First introduced at Apple's Worldwide Developers Conference (WWDC 26) in June, Siri's voice controls let users personalize their Siri experience beyond just choosing a male- or female-sounding assistant. Now beta testers will be able to switch between a range of voices with different accents, and then use sliders to change how slowly or quickly Siri speaks and how much human-like emotion its voice conveys. As you make the adjustments, Siri will practice saying some common things, like \"You have one new message,\" so you can get a sense of how the different voices sound. The AI version of Siri is deeply integrated across the updated version of iOS, where it will allow iPhone owners to start conversations by speaking, swiping down from the Dynamic Island at the top of the screen and typing, tapping on the phone's side button, or even by using the brand-new stand-alone Siri app. Other, more minor updates are also rolling out with iOS 27 beta 3, including an updated Reminders app icon. (We should note some people on X are also reporting losing access to the new Siri after updating, or seeing their phone again begin indexing their data - typically, the first step in optimizing Siri AI for search.)",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3139329",
+      "rss_tags": [
+        "AI",
+        "Apps",
+        "iOS 27",
+        "siri",
+        "siri ai"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "4067f195-7dc4-4962-a74a-b9600e553905",
+    "cluster_id": "7130448a-c18e-496c-93f4-f6fbc6442219",
+    "cluster_size": 1,
+    "source": "Economist - Finance & Economics",
+    "title": "The World Bank has ditched its climate targets",
+    "teaser": "The World Bank has reportedly ditched its climate targets, signaling a major shift in its approach to global green growth and development policy.",
+    "summary": "The World Bank appears to be altering its approach to climate change and green growth, signaling a potential 'fall' from its previously strong commitment to climate goals. While the specific details of the policy shift are unprovided, the title indicates a significant withdrawal from its established climate targets, which is a major development for global development finance.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.economist.com/finance-and-economics/2026/07/06/the-world-bank-has-ditched-its-climate-targets",
+    "date": "2026-07-06T19:40:33Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The rise and fall of the institution's love for green growth",
+    "raw_meta": {
+      "rss_entry_id": "1a97f4d4-45a0-4450-a6f2-506c5c353951",
+      "rss_tags": [],
+      "fetch_ok": null,
+      "fetch_status": null,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "dbcb4508-b2d6-42eb-8d10-622c1e607a6f",
+    "cluster_id": "835c1cd7-6377-4dc0-bdc0-cdee274d3945",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Boffins bet on quantum computers, AI supers to solve fusion fuel dilemma",
+    "teaser": "Scientists bet on quantum computers to solve fusion power's 'fuel dilemma,' using advanced simulations to identify key tritium-producing materials.",
+    "summary": "To achieve viable fusion power, scientists are leveraging quantum computing and advanced supercomputing techniques to solve the challenge of producing tritium fuel. A research collaboration involving Oak Ridge National Laboratory (ORNL), the Cleveland Clinic, and IBM, supporting the Department of Energy's (DoE) Genesis Mission, is focusing on molten salts like FLiBe. Tritium, a rare radioactive isotope, is essential for fusion reactors. The computational challenge is predicting the electronic ground-state energies of FLiBe clusters. By employing QPUs—similar to techniques used to simulate complex proteins—researchers were able to accurately determine how FLiBe binds tritium at a molecular level. This advanced quantum-centric supercomputing approach successfully identified nine potential cluster configurations for tritium production.",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://www.theregister.com/science/2026/07/06/boffins-bet-on-quantum-computers-ai-supers-to-solve-fusion-fuel-dilemma/5267199",
+    "date": "2026-07-06T20:20:39Z",
+    "image_url": "https://image.theregister.com/226586.jpg?imageId=226586&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Science Boffins bet on quantum computers, AI supers to solve fusion fuel dilemma Department of Energy, Cleveland Clinic, and IBM simulate a soup of molten salts and techno babble in pursuit of tritium Fusion energy has presented a tantalizing alternative to fossil fuels for the better part of a century, but creating the equivalent of a human-made sun is easier said than done. However, new research from the boffins at Oak Ridge National Laboratory (ORNL), the Cleveland Clinic, and IBM in support of the Department of Energy's (DoE) Genesis Mission suggests quantum computers and perhaps a sprinkle of AI could be what the world needs to get fusion power running at scale. Specifically, researchers are looking to quantum processing units (QPUs), like those built by IBM, to find optimal materials to extract the tritium fuel required by some of the most promising reactor designs. On Earth, tritium, a radioactive hydrogen isotope with one proton and two neutrons, is fleetingly rare. Before we can harness fusion to produce energy at scale, we need to figure out a way to mass produce the stuff. According to researchers, molten salts containing a mixture of fluorine, lithium, and beryllium (FLiBe), are one of the more promising candidates for extracting tritium for use in fusion reactors. The idea is that these molten salts, which have historically been used in experimental fission reactors as a coolant, function as a breeder environment for tritium. The trick, as you might expect, is predicting the electronic ground-state energies of FLiBe molecular clusters to better understand how they bind tritium. This is no easy task. These calculations are extremely computationally expensive and prone to error. But as it happens, one of the applications quantum computers have shown the most promise with is optimization and computational chemistry problems. Developing the quantum algorithms necessary to do this isn't easy, but researchers won't stop trying to solve it. As it turns out, the same techniques used by the Cleveland Clinic to simulate 12,635-atom proteins can be applied to FLiBe sims. The process involves using QPUs as an accelerator, similar to how GPUs are used in supercomputers and AI clusters today to perform calculations not easily performed on conventional hardware. In a blog post , IBM explains that parts of the problem are broken down into quantum circuits which can be solved by the QPU. \"This allowed the team to more precisely determine the electronic structure of the material and how its atoms behave, particularly how strongly they bind tritium at the fundamental molecular level.\" By combining CPUs, GPUs, and QPUs, the researchers say they were able to identify nine potential cluster configurations for producing the tritium fuel needed by fusion reactor designs. \"These results add to mounting evidence that quantum-centric supercomputing is now a practical scientific tool for problems that have long challenged chemists, engineers, and materials scientists,\" Jerry Chow, CTO of quantum-centric supercomputing at IBM, said in a statement. While quantum computing may show promise, this isn't a silver bullet to realizing the potential of fusion power. Despite the progress made in recent years toward the development of a self-sustaining fusion reactor, it seems we've still got a ways to go. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5267199",
+      "rss_tags": [
+        "science"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "727fcd52-441a-4216-b114-f5f02ecc3cc2",
+    "cluster_id": "e030ca4a-ee68-45ad-afb7-dfdb7fc75486",
+    "cluster_size": 1,
+    "source": "SiliconANGLE",
+    "title": "AI post-training startup Bespoke Labs raises $40M in funding",
+    "teaser": "AI startup Bespoke Labs raised $40M to streamline post-training, using custom RL environments and vast datasets like OpenThoughts.",
+    "summary": "Bespoke Labs, a startup focused on streamlining the post-training phase of AI models, announced a major $40 million funding round. The capital arrived via a Series A round of $31.75 million, led by Wing VC, alongside investments from Mayfield and The House Fund. AI development involves pre-training (building core skills) and post-training (honing reasoning skills). Bespoke Labs tackles this with a platform that creates specialized reinforcement learning (RL) environments using automation and human expert data. The platform also supports supervised fine-tuning (SFT), a process requiring sample prompts and answers. To aid this, Bespoke released OpenThoughts, a massive dataset of over a million prompts. The company plans to use the funds to advance both its RL platform and AI data research.",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://siliconangle.com/2026/07/06/ai-post-training-startup-bespoke-labs-raises-40m-funding/",
+    "date": "2026-07-06T23:22:48Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Bespoke-Labs.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Bespoke Labs Inc., a startup working to streamline the post-training phase of artificial intelligence projects, has raised $40 million in funding. The company stated today that the capital arrived in two tranches. Bespoke Labs raised the bulk of the funds, $31.75 million, through a Series A round led by Wing VC. The firm was joined by Mayfield, The House Fund and employees at major tech firms such as Anthropic PBC. Bespoke earlier raised $8.25 million from a consortium that included Google DeepMind chief scientist Jeff Dean. The workflow through which developers build a custom AI model comprises two main steps. The first is the pre-training phase, which equips the neural network with the core skills and knowledge it requires to answer prompts. The second phase, post-training, hones the model's reasoning skills. It can also provide improvements in other areas such as long-horizon task completion. Developers often carry out post-training using a method called reinforcement learning. The basic idea is to provide an AI with sample tasks similar to the work it will carry out in production. When the model completes a sample task correctly, it receives a \"reward.\" The reward is a piece of data that adjusts the algorithm's configuration to boost its output quality. Reinforcement learning is carried out in virtual environments tailored to each project. For example, a productivity agent might be trained in a sandbox that simulates employee workstations. A coding agent, meanwhile, may require a simulated GitHub repository. Bespoke Labs offers a platform that makes it easier to create reinforcement learning environments. According to the company, the software generates simulations using automation workflows and input from a network of human experts. It claims that the platform does so significantly faster than traditional manual approaches. The platform runs the AI environments that it generates using what Bespoke describes as a sandboxing layer. The latter component helps minimize latency and boost throughput. The platform's third core component automatically optimizes the output quality of the AI models being trained. One of the technologies that it uses for the task is GEPA, an open-source project Bespoke released last year. The software automates prompt engineering, the process of finding the specific requests and prompt formats that maximize an AI model's output quality. Reinforcement learning is not the sole focus of Bespoke's open-source work. The company is also prioritizing another popular post-training method called supervised fine-tuning, or SFP. It works by providing AI models with a set of sample prompts and answers that they can use to refine their output. Assembling SFP question sets can be a highly time-consuming process. Last January, Bespoke released a dataset called OpenThoughts that contains more than a million sample prompts and responses. The company says OpenThoughts provides better post-training results than earlier SFT datasets. Bespoke Labs will use its newly raised capital to enhance its reinforcement learning platform and finance more AI data research. Photo of founders: Bespoke Labs A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=785031",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "Bespoke Labs",
+        "funding round",
+        "post-training",
+        "reinforcement learning",
+        "SFT",
+        "startup",
+        "Supervised fine-tuning"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "c0a42976-9008-43ff-9d39-012f869bdd08",
     "cluster_id": "ea96c461-85ec-40d5-bebc-72ca917e5363",
     "cluster_size": 1,
@@ -910,6 +1210,93 @@
       "rss_tags": [],
       "fetch_ok": true,
       "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "c6eb6efd-acd3-43d0-ae5b-a06627f7e100",
+    "cluster_id": "bf498d75-7953-45cf-b122-77f070bca907",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Madlad builds homebrew GPU using 8,192 RISC-V chips",
+    "teaser": "A YouTuber built a homebrew GPU using 8,192 low-cost RISC-V microcontrollers, proving that massive, custom DIY projects can rival commercial tech.",
+    "summary": "YouTuber bitluni constructed a massive 'homebrew GPU' cluster using 8,192 inexpensive CH570 RISC-V MCUs, demonstrating a viable alternative to expensive graphics cards. The six-month project involved custom-designed PCBs and was controlled by 256 larger cores with FPUs. Initially, bitluni had to overcome significant setbacks, including redesigning the boards after receiving faulty test components and correcting fundamental wiring errors (MOSI/MISO crossing). The system successfully functions and incorporates RGB LEDs for each MCU, achieving a QVGA display equivalent resolution (320x200). The next planned version is even larger, targeting 32,000 MCUs, and bitluni plans to release the design files for others to attempt.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/systems/2026/07/06/madlad-builds-homebrew-gpu-using-8192-risc-v-chips/5267175",
+    "date": "2026-07-06T19:39:04Z",
+    "image_url": "https://image.theregister.com/5267263.jpg?imageId=5267263&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "systems Madlad builds homebrew GPU using 8,192 RISC-V chips The next version will have 32,000 MCUs If you can't afford a graphics card these days, here's an alternative solution. Just order thousands of microcontrollers, design your own boards, and build your own cluster over the course of six months after dealing with a healthy dose of setbacks. At the end of it, you might even have something able to light up the equivalent of a QVGA display with a whopping resolution of 320x200 for your efforts and, as electrical engineering and software development YouTuber bitluni said of his creation, nearly the loss of your sanity. Describing his homebrewed GPU cluster as his \"nemesis,\" bitluni didn't even intend to build the device, which was designed around 8,192 $0.13 CH570 RISC-V MCUs connected to custom-designed PCBs and controlled by another 256 larger cores with FPUs. The six-month saga actually began after bitluni published a video last year detailing his original homemade GPU, which led to PCB design software firm Altium reaching out about partnering for a project. \"The clusters I made before were already challenging my sanity,\" bitluni explained in the cluster video he published over the weekend. \"I thought I was done with the topic, but the budget and these tools would allow for a cluster of a different magnitude, and the magnitude I had in mind was just insane.\" Each one of the CH570 chips bitluni acquired for the project (which he had to go directly to the manufacturer to get) runs at 100 MHz with 12 KB of SRAM, and his six-layer PCB design incorporates 32 rows of 32 chips - at least at first. When he tried to order his \"blades\" from his PCB manufacturer, the company's website simply couldn't process the request because they were so ridiculously complicated. That meant having to split each blade into two pieces, and it also meant that the full design hasn't been realized yet - according to the video, the next version (which bitluni said he already has the parts for) will have a whopping 32,000 MCUs on it instead of the measly 8,192 version one boasts. Before he got to the completion point, there was troubleshooting to handle, though. When he received the first test blade, several of the MCUs wouldn't work, or would only function intermittently, requiring a complete redesign, relocating traces in order to avoid interference - and several weeks of waiting to get the replacements. When the replacement test boards arrived, he had another problem: level 0 wouldn't communicate with level 1 because he crossed his MOSI and MISO lines in the design, sending input into the output channel, and vice versa. \"No matter how hard you try, you will get rx and tx wrong on the first try,\" bitluni said in the video. He bypassed the error on the few sample boards he received, but the rest were correctly built. At the end of the day, the whole thing worked, including all of the individually connected RGB LEDs associated with each individually programmable MCU that serves as its QVGA equivalent. As for what v1 is capable of, bitluni said he's planning to share that in his next video on the project, which is when he'll also release all the design files for the project for anyone insane enough to attempt this themselves. We reached out to bitluni for additional information about his DIY GPU cluster, but didn't hear back. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5267175",
+      "rss_tags": [
+        "systems"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "6f1e80c2-1a54-47ec-8760-9742465a99a9",
+    "cluster_id": "5b662a14-f796-4a8e-9409-60e5a62c4f81",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price",
+    "teaser": "Need help assembling furniture? Hoto's PixelDrive cordless screwdriver is on sale for $59.99 and features adjustable torque and a built-in display!",
+    "summary": "Hoto's PixelDrive cordless screwdriver is currently available for $59.99 on Amazon, making it ideal for various household projects, from assembling furniture to repairing electronics. This versatile tool comes with 30 bits and features six adjustable torque settings, allowing users to adapt power for delicate work or heavy construction. The unit provides two operational modes: a precise 80RPM setting and a powerful 200RPM mode. Additional smart features enhance usability, including a built-in display for monitoring torque/battery life and an integrated LED light. It is powered by a rechargeable 2,000mAh battery that charges conveniently via USB-C.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
+    "date": "2026-07-06T20:24:28Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/hoto1.jpg?quality=90&strip=all&crop=0,10.677911339888,100,78.644177320224",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Sheena Vasani",
+    "content": "If your Prime Day purchases included a new desk, TV stand, bookshelf, or other furniture you still haven't assembled, Hoto's PixelDrive cordless screwdriver can help speed up the process. It's currently on sale for $59.99 ($20 off) at Amazon , matching its best price to date. From tightening loose screws on furniture to repairing electronics, the PixelDrive is designed to handle a wide range of household projects. Hoto includes 30 screwdriver bits that cover many of the most common screw types, all neatly organized in a small cylindrical case. It also offers six adjustable torque settings, allowing you to use less power when working with fragile electronics or increase it when putting together a desk, bookshelf, TV stand, or other furniture. You can also switch between a slower 80RPM mode for more precise work and a faster 200RPM mode with the press of a button. Hoto also added several features that make assembling projects a little easier. A built-in display lets you quickly check your current torque setting and remaining battery life, while an integrated LED light helps illuminate dim spaces, whether you're working under a desk or inside a cabinet. The rechargeable 2,000mAh battery also charges over USB-C, so you won't need to keep buying disposable batteries.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=961895",
+      "rss_tags": [
+        "Deals",
+        "Gadgets",
+        "Tech",
+        "Verge Shopping"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "9bb147a3-0f8b-45be-9848-e52b3c6f0fae",
+    "cluster_id": "f9f609f5-07aa-4442-9a10-769e169f485a",
+    "cluster_size": 1,
+    "source": "Matt Levine - Bloomberg Money Stuff",
+    "title": "Untruth Machines",
+    "teaser": "What connects memecoins, private credit, and bowling? The article explores the surprising spectrum of modern digital and financial speculation.",
+    "summary": "The article title, \"Untruth Machines,\" suggests a focus on speculative or potentially misleading trends across various sectors. The listed topics include elements of digital finance (memecoins, botting, puts, private credit, emerging markets) alongside a seemingly unrelated cultural interest (bowling). The text lacks further context, suggesting a survey of current, diverse, and potentially volatile areas of modern attention, from financial speculation to niche hobbies.",
+    "importance": 2,
+    "category": "other",
+    "url": "https://www.bloomberg.com/opinion/newsletters/2026-07-06/untruth-machines",
+    "date": "2026-07-06T18:31:20Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Matt Levine",
+    "content": "Botting, memecoins, puts, private credit, emerging markets and bowling.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bloomberg.com/opinion/newsletters/2026-07-06/untruth-machines",
+      "rss_tags": [
+        "world"
+      ],
+      "fetch_ok": null,
+      "fetch_status": null,
       "fetch_error": null
     }
   }
