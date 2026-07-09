@@ -1,0 +1,232 @@
+[
+  {
+    "id": "e5a935d0-dca9-4e08-b2b9-ec77dcceacd4",
+    "cluster_id": "426f0766-fa00-4d83-9139-53d2a04f8eda",
+    "cluster_size": 2,
+    "source": "Testing Catalog",
+    "title": "ByteDance debuts Seedream 5.0 Pro with advanced reasoning",
+    "teaser": "ByteDance unveils Seedream 5.0 Pro, turning complex data into professional layouts, and is rumored to boost video generation up to 180 seconds.",
+    "summary": "ByteDance has unveiled significant updates to its creative AI tools, targeting both advanced image and video production. The new Seedream 5.0 Pro model is a multimodal image generator tailored for professional design, allowing creators to generate detailed layouts, infographics, and UI mockups, rather than just single images. Key upgrades include precision editing (using selection tools), full layer separation (allowing editable background/text), and support for over 10 languages, including complex right-to-left layouts. Separately, ByteDance is rumored to be pushing a major video capability shift with Seedance 2.5, aiming to extend video generation from short clips to long-form narratives up to 180 seconds. These advancements solidify ByteDance's position in the highly competitive AI creative landscape alongside models like Google's Veo.",
+    "importance": 5,
+    "category": "ai_products",
+    "url": "https://www.testingcatalog.com/bytedance-debuts-seedream-5-0-pro-with-advanced-reasoning/",
+    "date": "2026-07-09T00:05:16Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/07/Seedream-5-0-Pro-07-09-2026_01_59_AM.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Alexey Shabanov",
+    "content": "ByteDance Seed has launched Seedream 5.0 Pro, a multimodal image-creation model designed for production design work rather than one-shot image output. The model targets creators, designers, marketers, educators, product teams, and developers who need dense visual layouts, localized text, controlled edits, and reusable design assets from prompt and reference inputs. The new Pro model brings four core upgrades: complex information visualization, precision editing, realistic imagery and portrait textures, and native multilingual input and generation. ByteDance says it can turn data, concepts, and long text into professional layouts, including infographics, posters, UI mockups, educational visuals, and structured commercial assets. Compared with earlier Seedream models, the company points to stronger image-text alignment, structural coherence, text rendering, and visual aesthetics. Seedream 5.0 Pro can use point selection, lasso selection, box selection, sketches, color swatches, material references, and multi-image inputs to edit a specific region rather than regenerating the entire image. It also supports layer separation, letting a poster be split into editable assets such as text, subject, background, and decorations, with occluded background areas restored during the process. For realistic outputs, ByteDance is pushing the model toward physical lighting, material behavior, skin texture, photographic motion, and multi-person compositing. The company shows examples covering glass reflections, architectural photography, cinematic portraits, panning shots, and group photos built from multiple source images. For global use cases, Seedream 5.0 Pro supports more than 10 languages, including Chinese, English, French, German, Russian, Japanese, Korean, Spanish, and Arabic, with support for right-to-left layouts and accents. Developer access is also taking shape through BytePlus ModelArk. BytePlus documentation lists seedream-5-0-pro as a new image generation model that can generate a single image or produce 2 to 10 reference images from a text prompt. The same documentation section was updated on July 8, 2026, indicating an API-side rollout around the launch window. ByteDance Seed is the company's foundation model research unit, working across LLMs, infrastructure, vision, speech, multimodal systems, AI for science, robotics, and responsible AI. Seedream 5.0 Pro sits inside its GenMedia push alongside models such as Seedance 2.0 and Seedream 5.0 Lite, moving ByteDance deeper into creator tools where image generation, editing, layout, and multilingual production are converging. Source",
+    "raw_meta": {
+      "rss_entry_id": "6a4ed35a01b73b00015e18c0",
+      "rss_tags": [
+        "Bytedance"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "dc01c3e2-8725-4758-af9e-521be62dff71",
+    "cluster_id": "0f7705f1-73a9-441f-bdf6-daf7be259f05",
+    "cluster_size": 4,
+    "source": "SiliconANGLE",
+    "title": "Blue Origin seeks to raise $10B from external investors in first VC-led funding round",
+    "teaser": "Despite an explosion, Blue Origin aims for a $10B funding raise and plans to revive its New Glenn rocket, positioning itself for critical NASA lunar missions.",
+    "summary": "Blue Origin is targeting a massive $10 billion capital injection from venture capitalists, valuing the company at over $130 billion. This funding round, led potentially by Coatue Management and supported by $2 billion from Jeff Bezos, signals a major return of investor confidence. The timing is significant as the company is simultaneously navigating the aftermath of a New Glenn rocket explosion in May at its Cape Canaveral launchpad. Despite the setback, CEO Dave Limp stated that the company plans to adapt its launch procedures—replacing the old transporter-erector with a large crane—to accelerate recovery. The New Glenn rocket remains vital, as it is key to Blue Origin's intended lunar lander components for NASA's Artemis missions, positioning the company as a critical competitor to SpaceX in the burgeoning space economy.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/08/blue-origin-seeks-raise-10b-external-investors-first-vc-led-funding-round/",
+    "date": "2026-07-09T01:19:24Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-09-08-16-01.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Mike Wheatley",
+    "content": "Jeff Bezos's rocket company Blue Origin Enterprises LP is reportedly looking to raise money from outside investors for the first time in more than two decades. The company is in talks to secure $10 billion from venture capitalists in a round that would value it at more than $130 billion, according to a report by the New York Times . It's believed that Coatue Management will be the lead investor in the round with a commitment of $4 billion, while Bezos will contribute around $2 billion of his own funds. The remainder will be provided by a group of unnamed \"large institutional investors,\" the report added. The proposed round has not come out of the blue. In May, Bezos told CNBC in an interview that Blue Origin was looking to raise money from outside investors for the first time since it was founded 25 years ago. Until now, the Amazon.com Inc. founder has self-funded the company entirely by himself after selling some of his shares in the online retail and public cloud infrastructure giant, which has grown to become one of the world's most valuable companies. \"It's a good time, actually, to start thinking about the future and bring on some other outside investors,\" Bezos said in May. The $130 billion valuation would make Blue Origin one of the most valuable pure-play space companies, exceeding that of many aerospace companies, including Lockheed Martin Corp., which currently has a market capitalization of $121.7 billion. It would also be around $50 billion shy of Boeing Co.'s $180 billion market cap. Of course, Blue Origin will still be far less valuable than its biggest competitor in the space industry. Elon Musk's SpaceX Corp. recently became one of the world's most valuable companies after raising $86 billion through its initial public offering, pushing its market cap well beyond the $1 trillion mark. Nonetheless, the round would far exceed anything that has previously been raised by a pure-play space company. The biggest round so far was Stoke Space Technologies Inc.'s Series D fundraise, which was bumped up to $860 million in February following an extension. The Chinese reusable rocket company Beijing Interstellar Glory Space Technology Ltd., known as iSpace, was not far behind, raising $729 million that same month. Those rounds pale in comparison with Blue Origin's proposed fundraise. If Blue Origin does announce the round soon, it would likely be seen as a huge vote of confidence, both in the company itself and the broader space economy, coming in the wake of a serious setback that occurred in May. Blue Origin was preparing for the fourth test launch of its new New Glenn space rocket, only for it to explode on its launchpad in Cape Canaveral in Florida. Experts said at the time it could set back Bezos' company many months, considering that when SpaceX's Falcon 9 rocket exploded on its launchpad in 2016, it took more than 12 months to repair the damage at that facility. However, Blue Origin Chief Executive Dave Limp said that though the company is still investigating what went wrong in that launch, he believes New Glenn will be able to fly again before the end of the year. He explained that some parts of the launchpad are still in \"good shape\" and that the company doesn't intend to rebuild the same launch pad. Instead, it will employ a new configuration that should enable it to reduce the time between launches significantly. Blue Origin had issues before that launch, though. On New Glenn's third mission, which aimed to send AST SpaceMobile's BlueBird 7 satellite into low-Earth orbit, it failed to reach a high enough altitude for that vehicle to sustain its operations, and it was ultimately deorbited. New Glenn is critical to Blue Origin's future plans . The rocket has been designed to deliver both cargo and human payloads to the surface of the moon on behalf of the National Aeronautics and Space Administration and other commercial entities. A number of satellite companies are also counting on the rocket to become fully operational and provide them with an alternative to SpaceX's Falcon and Starship rockets. \"There's no better guarantee of quality services than a strong competitor, and with SpaceX currently being the only viable option for many companies wanting to put payloads into orbit, Blue Origin's funding round is great news,\" said Holger Mueller, an analyst with Constellation Research. \"That's why everyone interested in space should be hoping for Blue Origin to succeed, so Elon Musk can face a bit of competition and not have a monopoly on satellites and space-based data centers.\" Blue Origin has its own commercial space operations, having recently announced two mega-constellation projects that aim to put thousands of satellites into orbit around the Earth. These include the TeraWave Internet constellation that will provide high-speed connectivity to enterprise customers from low- and medium-Earth orbit, as well as Project Sunrise, which aims to put 51,600 satellites into a sun-synchronous orbit at altitudes of between 500 and 1,800 kilometers. Photo: Blue Origin A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=787630",
+      "rss_tags": [
+        "Emerging Tech",
+        "NEWS",
+        "The-Latest",
+        "Blue Origin",
+        "Blue Origin rockets",
+        "Blue Origin valuation",
+        "Coatue Management",
+        "funding",
+        "fundraise",
+        "Jeff Bezos",
+        "low Earth orbit",
+        "rocket company",
+        "satellite constellation",
+        "space company",
+        "space flight",
+        "space rocket"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "93462ebb-c2b3-497d-8231-66c5241d5855",
+    "cluster_id": "f9501d31-5d36-42d0-97ca-c186552ab088",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Microsoft shifts to annual exchange rate price revision for cloudy products",
+    "teaser": "Microsoft cuts cloud price revisons from twice-yearly to once a year, potentially leaving customers exposed to large FX rate swings.",
+    "summary": "Microsoft announced a shift in policy for its commercial cloud services, moving from revising local currency prices twice a year to only once annually, effective January 1st. While the company states this change offers 'greater pricing predictability,' critics caution that it may expose customers to rapid or unfavorable foreign exchange (FX) rate changes at the beginning of the year. Previously, semi-annual revisions gave customers more chances for currency fluctuations to work in their favor. The shift is a strategy to manage risk and avoid exposure to volatile market rates, while Microsoft emphasizes that it will continue to announce price changes for other products as necessary.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/off-prem/2026/07/09/microsoft-shifts-to-annual-exchange-rate-price-revision-for-cloudy-products/5268894",
+    "date": "2026-07-09T01:53:07Z",
+    "image_url": "https://image.theregister.com/250480.jpg?imageId=250480&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "off prem Microsoft shifts to annual exchange rate price revision for cloudy products Previously did it twice a year, so customers now have fewer chances to surf FX waves Microsoft has decided to shift to annual price adjustments for its commercial cloud services, instead of its current twice-yearly changes. The software giant happily bills customers in their local currencies but always keeps those costs pegged to the price it charges in US dollars. Since at least 2024, Microsoft has revisited local currency prices for its commercial cloud services twice a year. On Wednesday, the company announced a change in policy that means it will now revisit foreign currency prices once a year, on January 1 st - with an option to make other changes \"in limited exceptional circumstances.\" Microsoft hasn't explained what constitutes exceptional circumstances, but the company is canny enough to avoid leaving itself exposed to rapid or major exchange rate changes that would hurt its bottom line. Microsoft's announcement argues annual revisions mean \"greater pricing predictability while continuing to account for sustained fluctuations in foreign exchange rates.\" And perhaps it does, if foreign exchange fluctuations work in your favor across a year. But if January 1 st rolls around when your local currency is weak compared to the greenback, the \"predictability\" Microsoft provides could mean your bills in local currency are high for a year. Under Redmond's past semi-annual local currency price revisions, users did face the possibility of more frequent price changes but also had an extra chance for exchange rates to work in their favor. Microsoft says it will offer advance guidance for currency-related price changes in November. Microsoft, and other public clouds, try to make costs predictable by offering fixed-price multi-year deals. Redmond also tries to tie licensing to those arrangements, a controversial practice that got it into legal trouble in the European Union. The Windows behemoth will continue to announce price changes for other products whenever it feels like it.®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5268894",
+      "rss_tags": [
+        "off-prem"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "72b67760-d18b-4ecb-8434-5dbde4841f1c",
+    "cluster_id": "f466d28c-d41b-40a6-83f5-df5ae661aad8",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
+    "teaser": "Truecaller is clashing with India's regulator (TRAI) over anti-spam rules, claiming the ban on displaying community spam reports for 1400/1600 numbers is eroding consumer trust.",
+    "summary": "Truecaller has publicly challenged TRAI over anti-spam rules governing its core caller ID functionality. The dispute centers on the designation of the 1400 and 1600 number series for commercial communications. While TRAI mandated this shift to curb spam and scams, Truecaller argues the policy has unintended consequences, leading to a loss of consumer trust. Citing internal data, the company claims Truecaller users now ignore 81% of calls from the 1400 series and 79% from the 1600 series. Furthermore, users manually blocked 74 million calls from these two number series over the past eight months. The conflict intensified after The Economic Times reported TRAI sought powers under India's Information Technology Act to regulate caller ID apps. Truecaller plans to share its data with the Indian IT ministry, urging that any regulation be evidence-based.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
+    "date": "2026-07-09T02:30:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/truecaller-ceo-rishit-jhunjhunwala_image.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Jagmeet Singh",
+    "content": "Truecaller has opened a public fight with India's telecom regulator over rules governing caller ID apps, saying the country's anti-spam framework is making it harder to protect consumers from unwanted calls in its biggest market. On Wednesday, CEO Rishit Jhunjhunwala (pictured above) took to X to publicly challenge the Telecom Regulatory Authority of India (TRAI), accusing the watchdog of preventing Truecaller from displaying community-reported spam information for calls from the country's dedicated 1400 and 1600 number series, a restriction he said had enabled abuse of those numbers and eroded trust in legitimate business calls. The dispute stems from a framework introduced in 2024 under which India's telecom authorities designated the 1400 and 1600 number series for commercial communications, with businesses using the former for telemarketing calls and the latter for service- and transaction-related calls. TRAI later mandated the migration to the dedicated numbering series, saying the move would help consumers identify legitimate business communications and curb spam and scam calls. The framework was rolled out amid growing concerns over spam and scam calls in India, one of the world's largest telecom markets, where regulators and telecom operators have rolled out multiple measures to curb fraudulent communications. Last year, the Indian communications ministry said authorities disconnected more than 2.1 million fraudulent mobile numbers and took action against more than 100,000 entities over the preceding year, underscoring the scale of the challenge. Jhunjhunwala argued the policy has produced unintended consequences. Citing internal company data, he said consumers have increasingly lost trust in the designated number series, with Truecaller users ignoring 81% of calls from the 1400 series and 79% from the 1600 series over the past eight months. During the same period, users manually blocked 74 million calls from the two number series, while daily blocking actions against 1600-series numbers have more than tripled since October 2025, he said. Unable to mark those numbers as spam, Truecaller instead introduced a \"Frequently Blocked\" badge to alert users when a number from the designated series has been blocked by many people. The unusually public criticism came after Indian business daily The Economic Times reported that TRAI had sought powers under India's Information Technology Act to take action against caller ID apps such as Truecaller, Hiya, and Whoscall for labeling numbers from the designated 1400 and 1600 series as spam. TRAI and India's Ministry of Electronics and Information Technology, which would consider any such proposal, did not immediately respond to requests for comment. The dispute comes at a pivotal time for Truecaller, whose core caller ID business has been facing growing regulatory and competitive pressures as the company expands into new products and services . India remains its largest market by a wide margin, with more than 350 million of its 500 million monthly active users based in the country, according to the company. Jhunjhunwala said Truecaller would share its data with the Indian IT ministry as part of the regulatory process, arguing that any decision on caller ID apps should be evidence-based. \"Penalize the bad actors, not the ones like Truecaller that make a significant positive impact,\" he wrote.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3140329",
+      "rss_tags": [
+        "Apps",
+        "Government & Policy",
+        "Truecaller",
+        "MeitY",
+        "TRAI"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "29a3111f-cd3d-44ab-928b-a4ab2ede9728",
+    "cluster_id": "e36a6a59-c3de-4741-bb86-e82fd1a71a12",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "Meta reportedly testing prototype AI specs that record everything the user sees and hears",
+    "teaser": "Meta's 'super-sensing' AI glasses could secretly record everything, and critically, they plan to keep the visible recording light off.",
+    "summary": "Meta is reportedly testing a 'super-sensing' prototype for its AI glasses, which aims to function as an 'always-on assistant' by continuously recording everything the user sees and hears. While raw footage would reportedly not be stored by Meta—instead, only metadata would be extracted for AI querying—the development raises significant privacy alarms. Most controversially, Meta is planning to keep the visible recording LED light off during this 'super-sensing' mode, making it harder for bystanders to know when recording is active. This feature, which processes metadata like locations and device IDs, is a major evolution from existing models, raising ethical questions about surveillance and personal data collection.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/08/meta-reportedly-testing-prototype-ai-specs-record-everything-user-sees-hears/",
+    "date": "2026-07-09T02:34:11Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-09-09-33-32.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Mike Wheatley",
+    "content": "Meta Platforms Inc. this week sought to reassure consumers about the privacy safeguards of its controversial artificial intelligence-enabled glasses , yet at the same time it's reportedly pushing even creepier capabilities in its \"internal prototypes.\" The company's AI-powered eyewear has a growing reputation as a creepy technology, but in a blog post Tuesday the company announced it's taking steps to change that opinion. It revealed it's making a key update that will disable its glasses' cameras if the LED light that's meant to indicate they're recording is blocked or tampered with. The move appears to be a concession to the growing sentiment that AI specs aren't just fashionable high-tech accessories, but also have serious implications with regards to people's privacy. It has become quite apparent that the specs can be abused in nefarious ways, such as by secretly recording people without their knowing. That's why it's concerning that Meta is now testing a new prototype of its smart glasses that will record everything, all of the time. That's according to a report by the Financial Times , which said the new \"super-sensing\" glasses would take photos continuously, every few seconds, in order to record everything that the wearer has seen and done throughout the day. The idea, according to sources with knowledge of the project, is that the AI glasses could act as an \"always-on assistant\" and help to summarize people's days, tell them where they left their car keys or something that someone told them earlier in the day. The most worrying aspect of this is that senior Meta executives aren't planning to activate the LED light when these super-sensing features are being used. If so, it would be much harder for bystanders to know when they're being recorded. That's a significant change from how Meta's existing AI glasses work. With current models , users have to activate the specs to record their surroundings by using their voice to tell them to do so, or by touching a physical button on the glasses. When they do this, the LED indicator at the front of the glasses lights up to show everyone else that the camera is switched on. Meta seems to think it can justify not switching the LED light on. In a policy paper published last year, it said that if the LED light were blinking all of the time, people would likely stop noticing it, leading to reduced awareness of when photos or video was being captured by users. To ease privacy concerns further, the plan is that the raw footage recorded by the super-sensing specs would not be stored by the company, nor would it be made available to the user. Rather, it would simply extract and store the metadata of those images and the audio it records, so it can be queried by AI models. The thinking is that this would have fewer privacy implications, the Financial Times said. However, the metadata can still contain information such as exact locations, device serial numbers and so on. In a statement to the Financial Times, Meta said that its approach towards its AI glasses is always focused on \"privacy built in from the ground up.\" \"While we don't comment on internal prototypes, we're committed to getting our glasses right because they need to be loved by both the people wearing them and those around them,\" the company said. Meanwhile, there are divergent views within Meta on whether the data collected through the super-sensing feature should be used for AI training purposes. At present, the company already stores and collects data from existing specs users, and that practice has been a cause for concern. A report by the Swedish newspaper Svenska Dagbladet earlier this year revealed that some photos and videos recorded by AI glasses wearers were sent to human contractors based in Kenya to be reviewed and labeled for AI training. But those videos contained footage of people having sex, using the bathroom and looking at sensitive data such as financial transaction records and passwords. Given that these moments were all captured by devices that have to be switched on manually, it's almost inevitable that an always-on device would sweep up all kinds of sensitive footage. The one saving grace is that it's debatable if Meta can actually bring its super-sensing glasses to fruition. Though founder Mark Zuckerberg might seem to like the idea, it's not clear if such glasses would have the necessary battery life to be able to make the feature possible. Recording continuously throughout the day would rapidly drain the device's power. Workarounds might be possible, such as an extremely low-resolution camera that uses less energy, or some kind of bigger battery or even an external one, but it's not clear how practical those solutions would be. Photo: Meta Platforms A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=787646",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "AI eyewear",
+        "AI glasses",
+        "AI glasses prototype",
+        "AI privacy",
+        "AI specs",
+        "always-on AI glasses",
+        "internal prototypes",
+        "LED light",
+        "Meta",
+        "Meta prototype",
+        "policy",
+        "super sensing",
+        "User privacy"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "9e5eed26-2485-4bac-bcb0-c124371fa4d9",
+    "cluster_id": "f8ea4edd-997f-4d82-ab75-96d60e77f043",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "nubia Neo 5 GT Special Edition debuts with the first and only Liquid and Air Dual Active Cooling System in its class",
+    "teaser": "Gaming just got cooler: nubia debuts the Neo 5 GT with the first Liquid & Air Dual Active Cooling System, powering unmatched sustained performance.",
+    "summary": "nubia has launched the nubia Neo 5 GT Special Edition, targeting young gamers with a focus on sustained performance. Its standout feature is the revolutionary AquaCore Cooling System, the first Liquid & Air Dual Active Cooling architecture in its class, which combines liquid and air cooling for superior heat management. Performance is driven by the MediaTek Dimensity 7400 4nm chipset, complemented by 550Hz Neo Triggers 5.0 to achieve industry-leading sub-5.5ms latency. The device also includes a 6.8-inch 1.5K AMOLED display (144Hz), a 6,210mAh battery with 80W fast charging, and AI Copilot Demi 2.0. Furthermore, nubia commits to the device with a five-year software update commitment. The global launch is scheduled for July, beginning in Southeast Asia.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/09/nubia-neo-5-gt-special-edition-debuts-with-the-first-and-only-liquid-and-air-dual-active-cooling-system-in-its-class/5268944",
+    "date": "2026-07-09T03:54:36Z",
+    "image_url": "https://image.theregister.com/5268947.jpg?imageId=5268947&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "nubia Neo 5 GT Special Edition debuts with the first and only Liquid and Air Dual Active Cooling System in its class PARTNER CONTENT: nubia aims to democratize premium gaming with a revolutionary AquaCore thermal architecture, launching first in Southeast Asia nubia, a highly personalized and lifestyle smartphone brand, announced the launch of nubia Neo 5 GT Special Edition, the latest addition to its Neo lineup built on the belief to bring pro-level gaming to everyone. Designed for young gamers and tech-savvy Gen Z users seeking for premium gaming experience without compromise, the new device delivers the sustained performance once exclusive to premium devices, and makes it accessible to everyone through the AquaCore Cooling System - the first and only Liquid & Air Dual Active Cooling System in its class, alongside lightning-fast triggers, marathon battery life, an esports-level AI Game Space, and the exclusive AI Copilot Demi 2.0. \"At nubia, our brand DNA is built on relentless tech innovation and deep gamer insights, enabling us to continuously push gaming smartphones forward. After eight years' commitment in esports, we believe that sustained performance matters most and the cooling management is what decides it,\" said Bai Keke, Vice President of ZTE, \"nubia Neo 5 GT Special Edition is designed to solve that challenge by combining active air-cooling, drawn from esports PC design, with active liquid-cooling, inspired by AI server thermal management. From the built-in fan we pioneered at MWC Barcelona 2026 to liquid cooling today, we're building a thermal-first ecosystem where young gamers can stay cool, stay smooth from start to finish.\" Enter a New Era of Cooling with the Revolutionary AquaCore Cooling System At the center of nubia Neo 5 GT Special Edition is nubia's AquaCore Cooling System, which combines liquid cooling and air cooling in a dual-active thermal architecture. The liquid cooling system uses an AI Server-Grade Coolant that is non-conductive and built for long-term reliability. Powered by a piezoelectric micropump and a three-layer cooling film, it drives continuous coolant circulation in a clockwise flow thus to transfer heat more efficiently from core components to cooler areas. A transparent design element reveals the movement of the coolant in real time, adding a distinctive gaming aesthetic that turns the engineering itself into part of the device's identity. The built-in active cooling fan works together with the Through-Flow Duct Design to generate a high-speed airflow path that accelerates heat dissipation. As the liquid loop draws heat away from core components, the fan helps expel it more efficiently. To further strengthen cooling efficiency, nubia has expanded the total heat dissipation area to 33,652 mm², combining VC, graphite, and liquid cooling technologies into one ultra-large thermal architecture. Console-Level Control for Comfortable, Responsive Gameplay Cooling was the foundation, precision is essential to gaming, that's why nubia has equipped the device with 550Hz Neo Triggers 5.0 paired with the 3049Hz Instant Touch Rate and Magic Touch 3.0 algorithm, achieving the industry-leading sub-5.5ms latency to deliver an instant touch response, helping players react with confidence in fast-paced combat and high-pressure moments. It also features a completely flat back, the only one in its class, with refined rounded corners and a 90-degree charging cable for a more comfortable in-hand feel. Powered by the Cold-Core Trinity with MediaTek Dimensity 7400 4nm chipset, up to 24GB Dynamic RAM and NeoTurbo Engine optimization, it's built to deliver high and stable frame rates. This device equips a 6,210mAh dual-cell battery, supported by 80W (45W PD for EU market) fast charging and Bypass Charging. It also supports 5% Extreme Mode, delivering up to 30 minutes of extra gaming or 27 hours of standby. Immersive Gaming Experience Enhanced by AI Copilot Demi nubia Neo 5 GT Special Edition features a 6.8-inch 1.5K AMOLED display with a 144Hz refresh rate and 4,500nits local peak brightness, delivering vivid clarity and fluid motion in fast-moving titles across changing light conditions. Paired with stereo dual speakers with DTS:X® Ultra and an X-axis linear motor, the device creates a more immersive sensory experience that brings every match to life. Beyond hardware, nubia has integrated AI Copilot Demi 2.0 to complement the way users game and interact. Features such as Gaming Coach, Gaming Chatbot, and Demi Auto-Chat are designed to provide guidance, support communication, and help users stay focused without interrupting gameplay, making the gaming experience more personal and more adaptive to the way young users actually play and live. nubia Neo 5 GT Special Edition rolls out globally this July, starting in Southeast Asia. The device comes in Surge Black and Glacial Silver, and is available in two configurations - 24GB (12GB+12GB) RAM with 256GB or 512GB of storage, backed by a five-year software update commitment, reinforcing nubia's dedication to long-term stability and smooth user experience. Contributed by ZTE.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5268944",
+      "rss_tags": [
+        "ai and ml"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "133eeb7d-0fff-4610-bee3-9a98f739a110",
+    "cluster_id": "5f987653-8533-4a61-9c73-250111bdcced",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Singaporean sovereign wealth fund Temasek thinks AI has a future",
+    "teaser": "Temasek plans to pour $36B into AI over five years, targeting a 15% portfolio stake—signaling a massive bet on tech’s future.",
+    "summary": "Temasek, Singapore's sovereign wealth fund, is making a massive commitment to AI, planning to boost its portfolio exposure to 15% by 2031. The fund intends to invest at least an additional $36 billion over the next five years. This strategic pivot reflects the recognition of AI's growth potential, particularly driven by data center expansion and grid modernization. Temasek will focus its investments across five key areas: energy/data centers, semiconductors, cloud services, foundation models, and AI applications. While massive investments are coming from hyperscale players, Temasek's targeted increase signals its deep commitment to the tech ecosystem, while ensuring that the transformation keeps 'people at the heart' of upskilling.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/09/singaporean-sovereign-wealth-fund-temasek-thinks-ai-has-a-future/5268953",
+    "date": "2026-07-09T04:20:09Z",
+    "image_url": "https://image.theregister.com/235728.jpg?imageId=235728&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "AI AND ML Singaporean sovereign wealth fund Temasek thinks AI has a future Plans to lift portfolio exposure by 150 percent, and even more once it adds electrification ventures Singapore's sovereign wealth fund Temasek, one of the world's largest investment houses, intends to massively increase its investment in AI over the next five years - both for its own use and across its portfolio. Temasek holds over $400 billion in assets and around six percent of those are currently tied up in AI companies, including OpenAI. At its annual review meeting yesterday, the fund announced it intends to increase its exposure to AI until it reaches 15 percent in 2031. Temasek said it will target five areas: energy and data centres, semiconductors, cloud services providers, foundation models, and AI applications & software infrastructure. Temasek also sees rising demand for AI as one reason to grow its investment in infrastructure from one percent of its portfolio to five percent. \"We see compelling opportunities in ageing infrastructure and grid modernisation, renewable and nuclear energy, energy storage, and breakthrough decarbonisation technologies, underpinned by rising electrification demand and AI-driven data centre growth,\" the fund said. The fund is eating its own dog food, too, by \"embedding AI into how we invest and operate, augmenting human decision-making, sharpening workflows, and enhancing productivity across the firm.\" Temasek's decision means it's likely to invest at least an additional $36 billion in AI outfits over five years. Hyperscale players alone already intend to invest over $1 trillion in AI, so Temasek's contribution won't dominate spending. Yet the fund's decision is notable because it exists to grow wealth for Singapore and last year achieved 10.5 percent total shareholder returns, another year of success that has seen it deliver 6.8 returns over 20 years. The firm now clearly sees increased investment as essential to keep that kind of performance going. The intention to invest more in AI may therefore soothe investors who are nervous that the technology may not pay off. Temasek thinks it can also steer AI so \"people [are] at the centre of this transformation.\" CFO and president Ms Png Chin Yee said the fund invests to accelerate adoption of AI \"while keeping people at the heart of workforce upskilling.\" Temasek's past tech investments include Alibaba, OpenAI, and Tencent. In 2016 the sovereign wealth fund helped Dell to buy storage company EMC and structured the deal to make it a lucky one, using the precepts of Chinese numerology . ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5268953",
+      "rss_tags": [
+        "ai and ml"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]
