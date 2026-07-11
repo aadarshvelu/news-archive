@@ -1,0 +1,64 @@
+[
+  {
+    "id": "e28ba26c-f090-4b44-a0f7-b7099a5d3272",
+    "cluster_id": "6db34aea-ae61-49e9-85bc-3a3002efbcdf",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+    "teaser": "Phia was accused of 'cookie stuffing'—deceiving shoppers by overriding codes to claim commissions on sales it didn't earn, leading to its platform suspension.",
+    "summary": "Shopping startup Phia faces allegations of 'cookie stuffing' after a Bloomberg investigation found it improperly took affiliate commissions for sales it did not generate. 'Cookie stuffing' is a deceptive tactic involving manipulating online referral codes. The investigation found Phia's app would open a background tab when users shopped, overriding existing affiliate codes to inject its own, thereby claiming credit for purchases it didn't earn. This deception led to the company's suspension from Impact.com, a major affiliate platform. Phia, which helps users find the lowest prices and discount codes, has raised over $40 million and co-founded by Phoebe Gates and Sophia Kianni.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+    "date": "2026-07-11T00:29:25Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/2243869768.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Dominic-Madori Davis",
+    "content": "Phia, the shopping startup co-founded by Bill Gates' daughter, Phoebe Gates, and Sophia Kianni, has been accused of a practice known as \"cookie stuffing,\" which may have helped the product receive commissions and credit for sales it did not actually generate, according to a Bloomberg investigation . The report has sparked controversy and led to Phia's suspension from Impact.com , a leading affiliate and influencer platform. Other startups have been sued over \"cookie stuffing,\" notably Honey, which is owned by PayPal and remains the subject of an ongoing class action lawsuit. Founded in 2025, Phia has raised more than $40 million in funding and has a star-studded list of investors, including Khloé Kardashian and Hailey Bieber. The startup developed an app as a browser extension that works somewhat like Google Flights, but for shopping. Phia helps customers find the lowest-priced items across various retailers as well as discount codes to use when shopping. The company takes a commission on purchases made through the platform, an industry practice known as affiliate marketing. The Bloomberg investigation, as well as findings from an independent consultant and a competitor, found that if a user shopped at an online retailer - even if they arrived at the site on their own or through another affiliate program like Wirecutter - Phia would open a new tab in the background. During the checkout process, Phia would override the referral codes from other affiliates and instead inject its own, allowing it to take credit for and potentially receive a commission on a purchase it didn't earn. Once the issue was flagged to Phia, a spokesperson told Bloomberg that all necessary changes had been made to fix the issue. A check by Bloomberg found the issue had been resolved. It's unclear if the fix is enough to satisfy the retailers and affiliate partners that work with Phia. TechCrunch reached out to Phia for comment and has not received a response. This article was updated to clarify the celeb investors in the company.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3141355",
+      "rss_tags": [
+        "Startups",
+        "affiliate marketing",
+        "In Brief",
+        "Phia",
+        "Phoebe Gates",
+        "Sophia Kianni"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "8b758e3b-22e6-43ba-ac69-1d01f45d2f5f",
+    "cluster_id": "706f3a4c-7b9d-4448-a034-29324e9acd6e",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
+    "teaser": "Flock denies receiving threats for debating surveillance, calling out forged cease-and-desist letters.",
+    "summary": "Flock issued a statement debunking circulating fake cease-and-desist letters that suggested they were threatening individuals for debating its surveillance technology. Flock clarified that these letters are forged and that the company actively encourages public discussion about its technology. The company stated it does not and would not seek to prevent or prohibit such debate, and would welcome participation in any future public discussions.",
+    "importance": 3,
+    "category": "policy",
+    "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+    "date": "2026-07-11T00:10:38Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK471_Government_Surveillance_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Jay Peters",
+    "content": "We're aware of at least two forged letters circulating on the internet, including this one, that purport to be cease-and-desist letters from our legal department. To be clear: these letters did not come from me or from anyone at Flock. Flock welcomes and encourages public debate about our technology. We have not and would not seek to discourage, prevent, or prohibit such discussion and debate. In fact, we would be happy to participate in any such discussions the group in question might host in the future.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=964425",
+      "rss_tags": [
+        "News",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]

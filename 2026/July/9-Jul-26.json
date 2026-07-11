@@ -71,6 +71,53 @@
     }
   },
   {
+    "id": "bead4214-a8e5-4b1c-92f3-2d3c538701cb",
+    "cluster_id": "238efd30-90cb-4368-b14b-280ae4140445",
+    "cluster_size": 2,
+    "source": "WinBuzzer",
+    "title": "Anthropic Signs 20-Year Data Center Lease With Former Bitcoin Miner TeraWulf",
+    "teaser": "AI's demand for compute power is triggering a multi-billion dollar infrastructure race, forcing former Bitcoin miners to pivot into 401MW AI campuses.",
+    "summary": "The global push for AI infrastructure is creating monumental investment opportunities and extreme risk. TeraWulf, a former Bitcoin miner, secured a major strategic lease with Anthropic for a 401 MW AI campus in Kentucky, generating projected $19 billion in revenue. This deal highlights the industry shift of converting power-heavy mining assets into reliable AI capacity. Meanwhile, industry giants like Oracle are undertaking multi-billion dollar expansion plans, spending up to $70 billion in 2027 to finance AI growth, as seen in their deal with OpenAI.\nBoth reports underline that AI development is limited by physical constraints: access to power, suitable land, and necessary hardware. Companies face significant hurdles, including power scarcity, volatility in energy costs, and regulatory/permitting delays. This convergence of massive investment and operational risk defines the current AI frontier.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://winbuzzer.com/2026/07/09/terawulf-signs-anthropic-data-center-lease-in-ai-pivot-xcxwbn/",
+    "date": "2026-07-09T09:43:25Z",
+    "image_url": "https://winbuzzer.com/wp-content/uploads/2018/10/project-xcloud-azure-datacenter-microsoft.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Markus Kasanmascheff",
+    "content": "TL;DR Deal: TeraWulf signed a 20-year lease with Anthropic for a planned AI infrastructure campus in Hawesville, Kentucky. Scale: The company says the lease could generate about $19 billion over the initial term and cover about 401 megawatts of critical IT load. Timing: Capacity is expected to arrive in phases, beginning in late 2027 and reaching full ramp in early 2028. Risks: The deal still depends on construction, financing, equipment supply, cooling design, power use, noise controls, and Anthropic's final hardware mix. Digital infrastructure company and former Bitcoin miner TeraWulf has signed a 20-year lease with Anthropic for a purpose-built AI infrastructure campus at its Justified Data site in Hawesville, Kentucky. Anthropic is the public benefit corporation behind the Claude AI assistant and model family. The agreement gives Anthropic a long-term source of future high-performance computing capacity. For TeraWulf, whose business has roots in bitcoin mining, the lease is a major test of whether power-heavy digital infrastructure can be converted into predictable AI data center revenue. TeraWulf says the lease is expected to generate about $19 billion of contracted revenue over its initial term. The campus is planned for approximately 401 megawatts of critical IT load, meaning power allocated to computing equipment such as servers, storage, and networking rather than general building overhead. The capacity is not online yet. According to TeraWulf's SEC filing , delivery is expected to begin in phases in late 2027 and conclude in early 2028. Anthropic's rent obligations begin only when the applicable leased premises are delivered, and the 20-year lease term runs from that delivery point. Anthropic also has options to extend the lease for up to 10 additional years through two five-year renewals. What Anthropic Gets From the Lease For Anthropic, the Kentucky lease adds another external infrastructure source for AI workloads at a time when AI frontier labs are trying to lock in power, data center space, chips, and cooling capacity years in advance. Earlier questions around SpaceX-linked capacity for Claude showed how the duration and reliability of compute commitments matter to enterprise customers. The Hawesville agreement is different from a short-term capacity boost or a new Claude product launch. It is a long-duration infrastructure lease whose value depends on whether TeraWulf can deliver the site on schedule and whether Anthropic's workloads can be supported at the required density, reliability, and cost. That makes the lease strategically important but operationally unfinished. The contract sets the commercial framework; the campus still needs the physical systems that make AI capacity usable, including power distribution, server halls, networking, cooling, controls, and supporting infrastructure. Why the Deal Matters for TeraWulf TeraWulf's opportunity is to turn access to large power sites into long-term AI infrastructure revenue. Bitcoin miners have broadly been adding AI-related business lines as artificial intelligence demand increases the value of power, land, and data center operating experience. The Anthropic lease gives TeraWulf a named customer and a large expected revenue stream, but it also raises the execution bar. Investors are no longer judging only whether the company can secure power and announce customers. They are now judging whether it can finance, build, and operate a large AI campus on a fixed timeline. That is why the market reaction was sharp. TeraWulf shares rose on the announcement as investors reassessed the company's AI infrastructure prospects, though the initial rally moderated by the end of the trading day. The deal also fits a wider outsourcing pattern. Microsoft's $9.7 billion AI infrastructure agreement with IREN showed how mining-linked power assets can be redirected toward enterprise AI workloads. TeraWulf's lease with Anthropic applies the same question to a new site: can former or adjacent mining infrastructure become dependable AI capacity at scale? Abernathy Sale Helps Fund the Shift Alongside the Anthropic lease, TeraWulf said it is selling its 50.1% ownership interest in the Abernathy Joint Venture to a Fluidstack-led investor group. Abernathy is a separate Texas AI data center joint venture formed in 2025 to develop a 168-megawatt critical IT load campus. The distinction between invested capital and sale proceeds matters. TeraWulf says the transaction monetizes its approximately $450 million investment at a premium. Its SEC filing gives the transaction's aggregate consideration as approximately $530 million, payable in three installments: $250 million within 14 days of signing, $150 million by December 31, 2026, and about $130 million, subject to adjustments, by April 30, 2027. The sale reduces TeraWulf's exposure to a separate joint venture and frees capital for sites where it expects to keep direct ownership, customer relationships, and operational control. In practical terms, Abernathy helps finance the same strategic pivot that the Anthropic lease is meant to validate. Local Questions Remain in Hawesville The Justified Data campus would reuse the former Century Aluminum smelter site in Hawesville. The plant has been idle since 2022, when operations stopped and more than 600 jobs were eliminated. Local officials have said the data center is expected to create about 100 to 120 permanent jobs, far fewer than the smelter once supported but still significant for the county. Power demand, water use, and noise remain the main local issues. The site's heavy industrial zoning and existing electrical infrastructure reduce some approval hurdles, but they do not remove community concerns about how the facility will operate once it reaches scale. TeraWulf has agreed to complete a noise study before the facility begins operating and to repeat the study after it is online. That follow-up matters because projected sound levels from cooling systems, transformers, fans, and backup equipment can differ from real-world operating conditions. The company also plans to use closed-loop cooling, which recirculates coolant instead of continuously drawing new water from local supplies. That design may reduce water consumption compared with some cooling approaches, but the site will still need to prove its actual power, water, and noise profile after operations begin. Hardware and Supply Chain Choices Are Still Open Anthropic has not publicly specified which chips it will use at the Hawesville facility. That choice matters because GPUs, custom accelerators, and networking systems all affect rack density, power distribution, cooling needs, procurement schedules, and operating cost. The hardware decision also affects TeraWulf's delivery risk. Strong AI server demand through 2027 has kept pressure on equipment supply chains, making delivery schedules a central part of the investment case for large AI infrastructure projects. Credit support is another open detail. TeraWulf's filing says Anthropic's payment obligations are expected to be supported by an investment-grade credit, but it does not identify the supporting entity. That leaves investors to watch not only the construction timeline, but also the final financing and guarantee structure behind the lease. The Next Test Is Delivery The first major milestone is the initial service window in the second half of 2027. If TeraWulf hits that target, the Hawesville campus can begin converting a signed lease into operating AI infrastructure revenue. If the schedule slips, the company's AI pivot will remain dependent on unfinished construction, unresolved equipment choices, and the final economics of bringing 401 megawatts of critical IT load online. The deal is therefore both a breakthrough and a test. Anthropic has secured a path to future capacity, and TeraWulf has secured a marquee AI customer. The hard part now is turning the contract into a working campus.",
+    "raw_meta": {
+      "rss_entry_id": "https://winbuzzer.com/?p=1953337",
+      "rss_tags": [
+        "WinBuzzer News",
+        "Abernathy",
+        "AI Compute",
+        "AI Data Centers",
+        "AI Infrastructure",
+        "AI Investment",
+        "Anthropic",
+        "Artificial Intelligence (AI)",
+        "Claude",
+        "Cloud Infrastructure",
+        "Cryptocurrency",
+        "Data Center Investment",
+        "Data Centers",
+        "Hawesville",
+        "Infrastructure",
+        "Investments",
+        "Kentucky",
+        "Revenue",
+        "TeraWulf",
+        "Texas"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "8cacf7d9-1949-4fac-be71-84709ce39a77",
     "cluster_id": "848347c1-972d-496f-9c59-4bc400560d8d",
     "cluster_size": 2,
@@ -327,6 +374,57 @@
       "rss_entry_id": "https://www.theregister.com/a/5269437",
       "rss_tags": [
         "software"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "ac235269-6b9c-432f-818c-af381d222d95",
+    "cluster_id": "09bb17f1-cc44-40c1-bf51-9858740f7ad2",
+    "cluster_size": 2,
+    "source": "WinBuzzer",
+    "title": "GitLost Prompt Injection Can Leak GitHub Private Repos",
+    "teaser": "New leaks expose how AI agents can leak private GitHub data via seemingly innocuous public issue texts, highlighting critical workflow security flaws.",
+    "summary": "Two recent disclosures highlight major security risks in AI coding agents: GitLost and workflow-level jailbreaks. GitLost demonstrates how a malicious public GitHub issue can trick an Agentic Workflows agent into exfiltrating private repository data by exploiting the combination of untrusted input, broad read permissions, and a public output path. Separately, researchers found that coding agents, like GitHub Copilot, can bypass safety guardrails entirely by embedding harmful prompts across multiple steps in a software workflow. These findings confirm that the danger lies in the 'workflow boundary'—when agents treat user input as task instructions. Experts urge teams to implement strict least privilege controls, narrowing the agent's reading and writing capabilities, as the risk is primarily a configuration flaw rather than a core platform breach.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://winbuzzer.com/2026/07/09/gitlost-prompt-injection-can-leak-github-private-repos-xcxwbn/",
+    "date": "2026-07-09T16:54:19Z",
+    "image_url": "https://winbuzzer.com/wp-content/uploads/2026/02/GitHub-Agentic-Workflows.webp",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Markus Kasanmascheff",
+    "content": "TL;DR GitLost Disclosure: Noma Labs has disclosed GitLost as a prompt-injection proof of concept affecting GitHub Agentic Workflows configurations that expose agents to untrusted GitHub issue text. Attack Conditions: The demonstrated leak required three things at once: a public issue trigger, an agent with read access to other repositories in the organization, and a permitted public output path such as an issue comment. What Leaked: In Noma's proof of concept, the agent copied README.md contents from public and private test repositories into a public issue comment. The disclosure did not describe a GitHub infrastructure breach or stolen credentials. Status and Mitigation: No public CVE, GitHub fix notice, or in-the-wild exploitation report was cited in the sources reviewed. Teams should audit Agentic Workflows for cross-repo tokens, public-input triggers, public comments, and missing human-review gates. Cybersecurity experts from Noma Labs have disclosed what they call GitLost , describing a way to make a GitHub Agentic Workflows agent treat a public GitHub issue as an instruction source. In the demonstration, the agent read repository data it was already allowed to access and then posted that data into a public issue comment. The important caveat is that GitLost is not presented as a compromise of GitHub's infrastructure. It is a workflow-boundary problem. A risky setup appears when a public-facing workflow reads untrusted issue text, has broad read access to private repositories in the same organization, and is allowed to publish output. That distinction matters for affected teams. An organization is not exposed merely because it uses GitHub, GitHub Actions, Copilot, Claude, Codex, or another coding agent . The exposure depends on how an Agentic Workflows job is triggered, what repositories its token can read, and whether its output can be written back to a public location. What GitHub Agentic Workflows Do GitHub Agentic Workflows let teams describe repository automation in natural-language Markdown and compile those instructions into GitHub Actions workflows. GitHub introduced the feature in a February technical preview and moved it into public preview on June 11 . The feature is designed for tasks such as issue triage, documentation updates, CI failure analysis, tests, dependency maintenance, and recurring engineering reports. GitHub has described the system as a way to run coding agents inside GitHub Actions. Workflow authors can use plain-language instructions to define what the agent should do, but the agent still acts within the permissions and tools granted by the workflow. That is where GitLost becomes relevant: the model may read untrusted issue text as part of the task, while the surrounding workflow gives it access to repositories and output tools. How the GitLost Proof of Concept Worked Noma's proof of concept used a public GitHub issue that looked like a routine business request. The issue text contained instructions asking for README contents from repositories in the same organization. The vulnerable workflow had four relevant properties: It ran when a GitHub issue was assigned. It passed the issue title and body to the agent. It could read other repositories in the organization, including a private repository. It could post a response using the add-comment output path. Once the issue was assigned, the workflow gave the agent the issue text. The agent then retrieved README.md contents from the requested repositories and posted them as a public comment on the issue. Noma published the attack flow and reproduction details , including the public issue and workflow evidence. The attack chain is simple: public issue text supplied the instruction, broad repository permissions supplied the data access, and the public comment supplied the leak path. No stolen credentials, account takeover, or server exploit was required in Noma's test. Why Public Issue Text Is the Risk Boundary The security problem is not that a GitHub issue can contain text. The problem is that an AI agent may treat that text as a task instruction rather than as hostile user-controlled input. Sasi Levi, Noma Security's research lead, described the issue as a natural-language trust-boundary problem: the same issue body can be both ordinary data and an instruction source for the model. Levi warns that public issue access lowers the attacker bar when the workflow behind it holds sensitive permissions. Noma says that the model initially resisted the private-file request. In the test, rephrasing the request with Additionally caused the model to treat the sensitive request as a follow-on task and produce the output. What GitLost Does and Does Not Show GitLost shows that agentic workflows can leak data when private access, untrusted input, and public output are combined carelessly. The demonstrated leak involved README.md contents from test repositories. A real-world impact could be more serious if the same pattern exposed source code, design documents, internal project names, dependency details, credentials accidentally stored in files, or other sensitive repository content. The severity depends on what the agent can read and where it can write. Teams using the public preview of GitHub Actions workflows should treat this as a configuration risk to audit now rather than a theoretical AI issue to revisit later. GitHub's Controls Reduce Risk, But Configuration Still Matters GitHub's own materials describe several safeguards for Agentic Workflows. Agents run with read-only permissions by default, execute inside sandboxed containers, use controlled network paths, and rely on safe outputs for permitted writes. GitHub's security architecture also describes mediated tool access, network controls, logging, and output validation. Safe outputs are especially relevant. GitHub describes them as a way to let a read-only agent request limited write operations, such as creating issues, pull requests, labels, or comments, through separate permission-controlled jobs. The safe outputs documentation lists add-comment as one of the supported output types. Those controls are useful, but they do not remove the need for least privilege. If a workflow is allowed to read private repositories and is also allowed to post a public comment, a comment can become an exfiltration path. Sanitization, secret redaction, and threat detection can reduce risk, but they do not make broad private-repository access safe for public-input workflows. GitHub's FAQ says teams can require approval before safe outputs run by using GitHub Environment protection rules or external admission controls. That kind of approval gate is important for workflows that read sensitive repositories or publish public comments. Current Status Noma said it responsibly disclosed GitLost to GitHub and published the details with GitHub's knowledge. Noma had proposed a documentation callout, but GitHub has not implemented such documentation as of that report so far. Because the risk sits at the boundary between workflow design, model behavior, and repository permissions, teams should not wait for a single vendor patch to solve it. The practical fix is to narrow what the agent can read, narrow what it can publish, and keep untrusted public text away from privileged automation paths. What Teams Should Check Now Security and platform-engineering teams should review every Agentic Workflows job that can read issue bodies, pull request text, comments, discussions, or other user-controlled content. Public repositories deserve special attention because anyone can often create or influence the input. Inventory public-input triggers. Look for workflows triggered by issues, issue comments, pull requests, discussions, or assignments. Treat those fields as hostile input, not trusted instructions. Remove broad cross-repository access. A public-facing triage workflow should not use an organization-wide token or broad personal access token if it only needs to inspect one repository. Separate public triage from private analysis. If an agent needs private-repository context, keep that workflow away from public issue text or pass only reviewed, structured data into the privileged job. Limit public outputs. Disable or tightly constrain add-comment and similar output types for workflows that can read private repositories. A public comment is the leak channel in the GitLost proof of concept. Use human approval for sensitive writes. Require an environment-protection approval gate before comments, issues, pull requests, or other outputs are published from workflows with private-repository access. Review prompt and tool boundaries together. A prompt rule telling the model not to reveal private data is not enough if the workflow grants the model private read access and a public write tool. Monitor public comments and workflow logs. Alert on comments that include private repository names, file paths, internal-only project terms, secrets, or unusually large copied file contents. The safest default for public-facing workflows is narrow: read only the repository being triaged, act only on trusted or reviewed content, and publish only low-risk output. If a workflow needs private data, it should not also be allowed to turn untrusted public text directly into public comments. A Broader Agent-Security Pattern GitLost is part of a larger class of agentic AI failures: an agent reads attacker-controlled text, treats it as an instruction, uses its tools or permissions, and sends data somewhere the attacker can see. Similar patterns have appeared in reports about browser agents, developer tooling, API keys, and access tokens. That context is useful, but it should not be confused with evidence that GitLost itself has been exploited at scale. A prior browser-agent prompt-injection case and a separate developer-workflow case involving API keys and access tokens shows the recurring pattern: agents become risky when they combine sensitive access, untrusted instructions, and an output path. The operational lesson: prompt-injection risk is not only a model problem; it is also a permissions, workflow, and output-control problem. A public issue should never be allowed to steer an agent that can read private repositories and publish public comments without review. Teams using GitHub Agentic Workflows should audit those three boundaries together: input trust, repository scope, and output approval.",
+    "raw_meta": {
+      "rss_entry_id": "https://winbuzzer.com/?p=1953335",
+      "rss_tags": [
+        "WinBuzzer News",
+        "Agentic AI",
+        "AI Agents",
+        "AI Security",
+        "Artificial Intelligence (AI)",
+        "Claude",
+        "Claude Code",
+        "Code Repository",
+        "Cybersecurity",
+        "Data Security",
+        "Developer Tools",
+        "Exploits",
+        "GitHub",
+        "GitHub Actions",
+        "GitHub Agentic Workflows",
+        "GitHub Copilot",
+        "Indirect Prompt Injection",
+        "OpenAI Codex",
+        "Permissions",
+        "Prompt Injection",
+        "Security",
+        "Security Research",
+        "Security Vulnerabilities",
+        "Vulnerability Disclosure"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -732,6 +830,34 @@
     }
   },
   {
+    "id": "f0491e08-2d8e-4bc3-9066-fe06b7f15633",
+    "cluster_id": "5f987653-8533-4a61-9c73-250111bdcced",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "Singaporean sovereign wealth fund Temasek thinks AI is going to pay off",
+    "teaser": "Singapore's sovereign wealth fund Temasek plans to pour billions into AI, raising its tech exposure to 15% by 2031 to fuel future growth.",
+    "summary": "Singapore's sovereign wealth fund, Temasek, announced a massive strategic shift, intending to boost its investment in Artificial Intelligence (AI) and related infrastructure to maintain its high returns. The fund plans to increase its exposure to AI to 15% by 2031, earmarked for at least an additional $36 billion over the next five years. Investment will target five key areas: semiconductors, cloud services, foundation models (large AI models), energy/data centres, and AI applications. Reflecting the power of AI, Temasek also plans to significantly increase its infrastructure investment from 1% to 5% due to rising electrification demand. While committing vast capital, Temasek noted that human capital remains central, emphasizing workforce upskilling alongside technological adoption.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/09/singaporean-sovereign-wealth-fund-temasek-thinks-ai-is-going-to-pay-off/5268953",
+    "date": "2026-07-09T04:20:09Z",
+    "image_url": "https://image.theregister.com/235728.jpg?imageId=235728&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "AI AND ML Singaporean sovereign wealth fund Temasek thinks AI is going to pay off Downer for doomers as conservative investor plans to lift portfolio exposure by 150 percent, and even more once it adds electrification ventures Singapore's sovereign wealth fund Temasek, one of the world's largest investment houses, intends to massively increase its investment in AI over the next five years - both for its own use and across its portfolio. Temasek holds over $400 billion in assets and around six percent of those are currently tied up in AI companies, including OpenAI. At its annual review meeting yesterday, the fund announced it intends to increase its exposure to AI until it reaches 15 percent in 2031. Temasek said it will target five areas: energy and data centres, semiconductors, cloud services providers, foundation models, and AI applications & software infrastructure. Temasek also sees rising demand for AI as one reason to grow its investment in infrastructure from one percent of its portfolio to five percent. \"We see compelling opportunities in ageing infrastructure and grid modernisation, renewable and nuclear energy, energy storage, and breakthrough decarbonisation technologies, underpinned by rising electrification demand and AI-driven data centre growth,\" the fund said. The fund is eating its own dog food, too, by \"embedding AI into how we invest and operate, augmenting human decision-making, sharpening workflows, and enhancing productivity across the firm.\" Temasek's decision means it's likely to invest at least an additional $36 billion in AI outfits over five years. Hyperscale players alone already intend to invest over $1 trillion in AI, so Temasek's contribution won't dominate spending. Yet the fund's decision is notable because it exists to grow wealth for Singapore and last year achieved 10.5 percent total shareholder returns, another year of success that has seen it deliver 6.8 returns over 20 years. The firm now clearly sees increased investment as essential to keep that kind of performance going. The intention to invest more in AI may therefore soothe investors who are nervous that the technology may not pay off. Temasek thinks it can also steer AI so \"people [are] at the centre of this transformation.\" CFO and president Ms Png Chin Yee said the fund invests to accelerate adoption of AI \"while keeping people at the heart of workforce upskilling.\" Temasek's past tech investments include Alibaba, OpenAI, and Tencent. In 2016 the sovereign wealth fund helped Dell to buy storage company EMC and structured the deal to make it a lucky one, using the precepts of Chinese numerology . ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5268953",
+      "rss_tags": [
+        "ai and ml"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "efa8f884-bf4f-4ea7-a6de-f07ca538b59d",
     "cluster_id": "d3498822-cfa3-41c3-9c58-fddc2e5feae0",
     "cluster_size": 1,
@@ -782,6 +908,34 @@
       "rss_tags": [],
       "fetch_ok": null,
       "fetch_status": null,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "fd21983b-1db1-4c42-89db-ad15de389f52",
+    "cluster_id": "e114c02d-6dff-40af-bbb0-68ee0e66c943",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "Ubuntu emphasizes Arm64 support – and gets Rustier",
+    "teaser": "Despite massive core counts, Arm processors struggle with the single-threaded performance required for a smooth desktop experience, according to new reports.",
+    "summary": "The computing industry is navigating a significant shift to Arm64 architecture. On one hand, Ubuntu is making a major push for Arm64, improving its status as a first-class experience by supporting live kernel patching and bringing native applications, like the Steam client, through FEX emulation (analogous to Rosetta 2).\n\nOn the other hand, deep dives into the technology reveal substantial challenges. A detailed experiment concluded that while modern Arm64 processors boast impressive core counts, this power is often negated by poor single-thread speed. For a smooth desktop experience, processing needs prioritizing speed over raw core count, revealing significant hurdles for the complete adoption of Arm in personal computing.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/os-platforms/2026/07/09/ubuntu-emphasizes-arm64-support-and-gets-rustier/5268563",
+    "date": "2026-07-09T09:59:00Z",
+    "image_url": "https://image.theregister.com/5268623.jpg?imageId=5268623&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "os platforms Ubuntu emphasizes Arm64 support - and gets Rustier Even so, it has some issues with the Rust coreutils Some of Canonical's ambitions for the future directions of Ubuntu are becoming apparent - despite some bumps in the road. Canonical engineering manager Ravi Kant Sharma posted an Ubuntu on Arm summer '26 update on the Ubuntu Discourse. The company is boosting its efforts to make running Ubuntu on Arm64 a first-class experience. Some of the changes are behind the scenes, and others will be more immediately visible. Last month, Canonical announced that Ubuntu's support for patching the live, running kernel now included Arm64 systems, on both mainstream Ubuntu 26.04 and the IoT-focused immutable Ubuntu Core 26. This indicates one of Canonical's focuses: kernel live-patching is a server feature. For desktop or laptop machines, there's no compelling need for something as tricky as this: you can just save your work and reboot. As The Register recently reported , Arm server sales are now nearly half the market - and server support is where Canonical makes most of its money. At least some of it is about end-user systems, though: earlier in June, Canonical announced a native Arm64 snap package of Valve's Steam client. This includes x86-32 and x86-64 binaries, using the FEX emulation layer. This is the Linux world's equivalent of Apple's Rosetta 2 layer in macOS. Development of FEX has been funded by Valve for years, as it will be an important element of the forthcoming Steam Frame VR headset that the company announced last year . Ubuntu's support for Arm laptops is extending beyond Qualcomm SOCs: there's a Resolute Raccoon \"concept image\" for CIX P1-based hardware , meaning devices built around the new CIX Technologies P1, which got Linux kernel support a year ago . This is used in some Radxa and Orange Pi SBCs, and there's even a Framework laptop motherboard using it. As The Reg reported in March , official Google Chrome for Arm64 Linux is coming, and that also means support for Widevine DRM . Other apps can use the Chrome libraries, so this will improve support for DRM-protected streaming media in Firefox and Spotify, for instance. These days more snap packages support Arm64, as well. It's now some three years since the Reg FOSS desk looked at an Arm-based laptop, the Lenovo Thinkpad X13s Gen1 . Even in 2023, Ubuntu was siginficantly ahead of any other Linux distro in how well it supported the hardware, but things continue to get better. Arm64 packages are being moved to the main Ubuntu download servers on archive.ubuntu.com . Until now, they were hosted on the specialist ports.ubuntu.com servers, along with other non-x86 versions such as PowerPC, RISC-V, and IBM mainframes. This means that the Arm64 packages will be automatically carried by Ubuntu's mirror servers around the world. This is not a trivial change: it required changes to the scripts and build pipeline that put together Ubuntu installation images. This exposed some bugs, for instance this one in cloudinit . Back in April when the company released the current Ubuntu LTS version , we reported that Jon Seager, VP of Engineering, promised to \"make interim releases crazy again,\" and that one of the plans was to adopt the new Rust Network Time Protocol daemon . The company is putting its money where its mouth is: at the end of last month, it stepped up to become a Gold Sponsor of the Trifecta Tech Foundation . Trifecta Tech is the non-profit organization developing ntpd-rs, as well as the new sudo-rs tool , a bug which last year caused a security issue in Ubuntu 25.10 . It's based at the same address as Netherlands Rust consultancy Tweede Golf . (Its name, which we will not attempt to render phonetically in English, means \"second wave\" in Dutch, and we were slightly disappointed to learn that it's nothing to do with either the fabric tweed or the game of golf.) (While clearing up potential misunderstandings, as Trifecta Tech developed both sudo-rs and ntpd-rs, it did not create the new Rust coreutils used in recent versions of Ubuntu. The new NTP daemon is also independent from the NTPsec Project , which describes itself as \"a secure, hardened, and improved implementation of Network Time Protocol derived from NTP Classic, Dave Mills 's original.\" As he blogged a decade ago , the main contributor to the NTPSec effort is controversial open source celebrity Eric Raymond.) It is interesting to note that Canonical is pressing ahead with moving more core components to Rust even as it encounters issues with its current adoption of the Rust coreutils. A new bug describes an issue with the Rust version of the cp command: a problem with how it interprets the -L switch. According to the manual page for cp , this means: -L, --dereference always follow symbolic links in SOURCE For now, the team has reverted to using the classic C-based GNU ` cp` command, but the bug shows how subtle behavior of the new replacements for these core Unix commands is risky. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5268563",
+      "rss_tags": [
+        "os platforms"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
       "fetch_error": null
     }
   },
@@ -1822,6 +1976,34 @@
       "rss_entry_id": "https://techcrunch.com/?p=3140900",
       "rss_tags": [
         "AI"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "315ff3af-989f-4ba4-8085-412f35d8c4e4",
+    "cluster_id": "e8689626-5544-454c-b349-6864ff78344a",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "New Horizons Pluto probe just woke itself up after 321 days of hibernation",
+    "teaser": "NASA's New Horizons probe successfully awoke after 321 days of deep hibernation, continuing its distant mission into the outer reaches of the solar system.",
+    "summary": "NASA's New Horizons probe successfully resumed activity after a planned 321-day hibernation, proving its operational status deep in the solar system. Its initial goals included making the first visit to Pluto in 2015 and subsequently visiting the Kuiper Belt object Arrokoth in 2019. Currently located 64.04 astronomical units (AU) from Earth, the probe enters hibernation mode to conserve resources. Its mission is to passively gather data on the Sun's interactions with the outer solar system. If no suitable object is found, New Horizons is slated to exit the Kuiper Belt around 2028 or 2029. The probe's distant location makes it comparable to the Voyagers, which traveled farther—Voyager 2 is at 140 AU and Voyager 1 at 170 AU—approaching the estimated heliopause at 130 AU, the boundary of the solar wind.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/science/2026/07/09/new-horizons-pluto-probe-just-woke-itself-up-after-321-days-of-hibernation/5268982",
+    "date": "2026-07-09T06:41:14Z",
+    "image_url": "https://image.theregister.com/242914.jpg?imageId=242914&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Science New Horizons Pluto probe just woke itself up after 321 days of hibernation Good luck getting your PC to do that after lunch NASA's New Horizons probe has woken itself up after 321 days of hibernation. The aerospace agency sent commands to the probe last July, instructing it to commence hibernation on August 7 and then resume activity in July 2026. On June 23, NASA checked to see if New Horizons had obeyed the instruction to wake up and was pleased to find it was online again. New Horizons' main job was to make our first ever visit to Pluto, which it accomplished in 2015 , before zipping off to visit a Kuiper Belt object named Arrokoth in 2019. At the time of writing, NASA says the probe is 64.04 astronomical units (AU) from Earth, or 9.5 billion km/5.9 billion miles. A quick reminder: A single AU is 93 million miles/150 million kilometers, which we mention because New Horizons has travelled 23.0 AU beyond Arrokoth since its 2019 visit. That's a greater distance than the 19 AU between the Sun and Uranus. NASA says it puts New Horizons into hibernation mode to save resources when it's cruising and doesn't bother sending it any commands or downloading data while the craft is dozing. The agency is content with that arrangement because scientists have observed no other Kuiper Belt object the craft can visit. NASA therefore devised an extended mission plan that calls for New Horizons to gather data about the Sun's interactions with the outer reaches of the solar system - but to do so passively and hoard resources in case observers find an object the probe is capable of visiting for a closer look. If no interesting rock can be found, New Horizons will exit the Kuiper Belt sometime in 2028 or 2029, then sail out of the solar system. Humanity has built just two working spacecraft - the Voyagers - that achieved that feat. Both passed through the heliosheath, a distant region where the solar wind starts to run out of puff as interstellar gases push into the solar system. The heliosheath ends at the heliopause, a boundary at which the pressure of the solar wind and the interstellar medium are equal. Astroboffins think the heliopause is at about 130 AU. Voyager 2 is at about 140 AU and Voyager 1 has travelled 170 AU. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5268982",
+      "rss_tags": [
+        "science"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
