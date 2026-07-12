@@ -432,6 +432,34 @@
     }
   },
   {
+    "id": "caeed38d-06df-409e-bd8f-90c239b3724e",
+    "cluster_id": "47263e2d-f99f-4c2c-bc72-1a7a7b40b41d",
+    "cluster_size": 4,
+    "source": "Testing Catalog",
+    "title": "Vellum launches Plugin Hub for personal AI assistants",
+    "teaser": "Vellum's Plugin Hub unlocks personal AI's full potential, providing secure, portable capabilities like Gmail access without sending sensitive data to the cloud.",
+    "summary": "Vellum has launched Plugin Hub, transforming its local-first personal AI assistant from a standalone product into a shared platform. The new hub provides an open catalog of plugins—standalone, persistent capabilities—distinct from single-use 'skills.' Key to this release is the focus on security, as credential handling ensures sensitive API keys and OAuth tokens remain on the user’s local machine and are never sent to the AI model. Plugins are open-source and portable, allowing functions, such as connecting to Gmail or managing a calendar, to operate across multiple platforms (e.g., macOS, Slack, Telegram). This architecture allows for complex, ongoing workflows, positioning Vellum as a secure, powerful ecosystem for personal AI assistants.",
+    "importance": 5,
+    "category": "ai_products",
+    "url": "https://www.testingcatalog.com/vellum-launches-plugin-hub-for-personal-ai-assistants/",
+    "date": "2026-07-09T18:06:33Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/07/Screenshot-2026-07-08-025852.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Nero Soares",
+    "content": "Vellum has launched Plugin Hub, an open catalog of installable plugins for its local-first personal AI assistant. This release distinguishes between skills and plugins: while a skill handles a single task such as drafting one email, a plugin provides the assistant with a standing capability it can execute independently. This includes tasks such as connecting to Gmail and reading your inbox, managing a calendar, tracking expenses, syncing notes, or monitoring code repositories. Each plugin is positioned as a complete function the assistant owns, rather than a one-off prompt. Plugins are developed as TypeScript packages with lifecycle hooks, differing from skills, which are instruction bundles. The manifest utilizes the vellumai plugin-api and exposes hooks for init, user-prompt-submit, post-tool-use, post-model-call, and on Shutdown, with state persisted to a local JSONL file. This design is intended to be more accessible than authoring a full MCP server, allowing more people than just infrastructure engineers to build one. For those who prefer not to write code, Vellum offers a plugin builder skill that generates a plugin from a plain-language description. A key feature of this setup is credential handling. When a plugin requires an API key or an OAuth token to access email, banking, or a code repository, that credential remains on the machine and is not sent to the model. This ensures the assistant can be trusted with sensitive integrations. Plugins are open-source and portable, allowing them to be shared among users rather than tied to a single vendor. A single plugin can also operate across different platforms: installed on macOS, the same plugin and assistant can run through Slack and Telegram with shared memory, making a capability built once available wherever the assistant is accessed. The launch catalog includes a variety of use cases: Marketing Expert: Bundles positioning, launches, content, brand voice, and reporting into one plugin. AI Hero Engineer Kit: Packages engineering workflows around plans, PRDs, vertical-slice issues, and test-driven loops. Writing Coach: Runs daily prompts that escalate with a streak and critiques drafts. Fitness Companion: Logs meals, workouts, and weight, pulls nutrition data from OpenFoodFacts, and calculates macro targets. Plugins can be installed from the catalog or directly from a GitHub URL, and authors can publish their own to the same catalog. Vellum is a local-first personal AI assistant that operates as a native macOS app or as a self-hosted service, with an open-source runtime and support for multiple model providers, including Anthropic, OpenAI, Google, and local models via Ollama. The assistant is built around persistent memory, its own identity, and permission-gated action on the user's machine. Plugin Hub extends this foundation into a shared ecosystem, transitioning the assistant from handling one-off tasks to managing ongoing parts of a workflow. The company describes the catalog as the layer that transforms the assistant from a product into a platform.",
+    "raw_meta": {
+      "rss_entry_id": "6a4da7859457fa00014fa8e8",
+      "rss_tags": [
+        "Sponsored"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "22dfd8ae-d09e-47f8-87bd-68864ab81f79",
     "cluster_id": "968e15f9-aad9-43aa-be9d-52cfff328c9f",
     "cluster_size": 1,

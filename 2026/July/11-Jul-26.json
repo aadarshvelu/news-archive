@@ -179,6 +179,37 @@
     }
   },
   {
+    "id": "2256d970-ae93-4c37-a9cb-725881bd2e2a",
+    "cluster_id": "5bd306bd-728a-4fa4-b5cd-a7adaaaf7ac4",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
+    "teaser": "Harvard astrophysicist Avi Loeb, controversial for alien claims, will head the White House-backed council studying unexplained 'UAP' sightings.",
+    "summary": "Harvard astrophysicist Avi Loeb has been appointed to lead the UAP Science Advisory Council, a new body established by the White House, Pentagon, FBI, and other intelligence groups. This council aims to provide scientific reports to resolve the nature of Unidentified Anomalous Phenomena (UAP). While Loeb has academic legitimacy, the article notes his controversial reputation for making unsubstantiated claims about alien life. Previously, he suggested that the interstellar object Oumuamua was an alien probe and claimed small metal spheres in the ocean were alien wreckage.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
+    "date": "2026-07-11T14:18:33Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/pentagon-ufo-videos-flir-gimbal-and-gofast.jpg?quality=90&strip=all&crop=0,24.112856311809,100,51.774287376382",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will provide scientific reports and advice to the UAP Governing Board, in an effort to \"resolve the nature of UAP,\" or unidentified anomalous phenomena. On paper, Loeb's qualifications seem strong. And he's surrounded himself with a team from a variety of backgrounds. The Council includes not only physicists, but a pathologist, a computer scientist, a philosopher, a psychologist, and even the founding publisher of Skeptic magazine. In recent years, however, Loeb has garnered attention for repeatedly claiming evidence of aliens. This had landed him plenty of TV appearances , but others in the scientific community largely dismiss Loeb as a fraud , crackpot , and grifter . His Harvard credentials and long career have granted him some legitimacy. But he's been making questionable claims about alien life since at least 2015. Now he's best known for suggesting that Oumuamua was not an exo-comet, but an alien probe ; and that small metal spheres found in the ocean were the wreckage of an alien spacecraft .",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=964478",
+      "rss_tags": [
+        "News",
+        "Policy",
+        "Politics",
+        "Science"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "eee83099-9c97-4da2-8464-730805c0b571",
     "cluster_id": "a36d3285-70aa-43ed-b5ec-c1bb7a851a4e",
     "cluster_size": 1,
@@ -205,6 +236,151 @@
         "Music",
         "Report",
         "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "a88d44e1-24c4-4279-a743-4d7394fb3756",
+    "cluster_id": "2ffcbcf9-1f5a-43ec-ab29-4c83306567ce",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+    "teaser": "AI's greatest flaw? The 'reverse centaur' problem: are you being paid to take the blame for the machine's mistakes?",
+    "summary": "The article addresses the 'AI paradox'—why some users delight in AI while others feel oppressed. Using automation theory, the author defines a 'centaur' (human aided by machine) and a 'reverse centaur' (machine exploiting humans). The author argues that many workers are forced into 'reverse centaur' roles, being paid to take the blame ('accountability sink') for AI mistakes. Conversely, 'centaurs' are those who voluntarily and selectively use AI to improve their work. Finally, the piece concludes that the current AI hype is a bubble destined to burst, though it may leave behind beneficial technological residue, unlike crypto.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+    "date": "2026-07-11T17:23:52Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "jason_s",
+    "content": "Today's links Reverse centaurs are the answer to the AI paradox ( permalink ) My latest Locus column is \"Reverse Centaurs,\" and it sets out to unravel a paradox: how is it that some AI's users describe their experience as a hellish ordeal, while others delight in the ways that AI is changing their lives for the better? https://locusmag.com/2025/09/commentary-cory-doctorow-reverse-centaurs/ The answer is contained in the concept of \"centaurs\" and \"reverse centaurs,\" found in automation theory: https://pluralistic.net/2025/05/27/rancid-vibe-coding/#class-war A \"centaur\" is a human being who is assisted by a machine (a human head on a strong and tireless body). A reverse centaur is a machine that uses a human being as its assistant (a frail and vulnerable person being puppeteered by an uncaring, relentless machine). Let me give you an example: remember at the start of the summer, when Hearst published a summer reading guide that was full of nonexistent books that had been \"hallucinated\" by a chatbot? https://www.npr.org/2025/05/20/nx-s1-5405022/fake-summer-reading-list-ai 404 Media's Jason Koebler got in touch with the guy whose byline appeared on the list, and he was hugely embarrassed and contrite: https://www.404media.co/chicago-sun-times-prints-ai-generated-summer-reading-list-with-books-that-dont-exist/ But in a followup story, Koebler noticed something that the first round of dunks and memes about this poor guy had missed: this same writer had his name on many of these \"best of the summer\" lists in this supplement. He was practically the sole author of an entire 64-page insert: https://www.404media.co/viral-ai-generated-summer-guide-printed-by-chicago-sun-times-was-made-by-magazine-giant-hearst/ And that's where it gets interesting. Koebler got his start in journalism as an intern at the Washington Monthly , where he worked on lists like these: https://www.404media.co/podcast-ai-slop-summer/ When Koebler was doing this work, he'd be part of a team of three interns, overseen by an experienced journalist, backstopped by an extensive fact-checking department. Those little lists take a surprising amount of work, if you really care about their quality. The freelance writer who authored this giant summer reading guide with all its lists had been tasked with doing the work of literally dozens of writers, editors and fact-checkers. We don't know whether his boss told him he had to use AI, but there's no way one writer could do all that work without AI. In other words, that writer's job wasn't to write the article. His job was to be the \"human in the loop\" for an AI that wrote the articles, but on a schedule and with a workload that precluded his being able to do a good job. It's more true to say that his job was to be the AI's \"accountability sink\" (in the memorable phrasing of Dan Davies): he was being paid to take the blame for the AI's mistakes. He was, in other words, a reverse centaur. Now, I am a freelance writer as well, and not so long ago, I wanted to quote something smart I'd heard on a podcast in an article, but I couldn't remember where I heard it. So I downloaded Whisper, an open source AI transcription model from Openai, to my laptop. I threw the last 30 hours' worth of audio that I'd listened to at it, and worked away on other stuff for an hour or two. When I checked again, I had a folder full of pretty reliable transcripts. I searched the text, found the quote, and opened the audio to the supplied timecode to double-check it. I was a centaur. I got to decide how to use the AI, and I only had to use it in ways that made my work better and more satisfying. This, I think, is the explanation for the paradox of AI: the AI users who are being immiserated and precaratized by bosses who have been convinced to fire their colleagues and pile their work on the terrorized survivors of the layoffs hate the AI, because it makes their life worse in every way. Whereas the people who choose when and how to use AI - the centaurs - are only using AI to the extent that it is useful , and throwing it away when it's not. They may make poor choices about the AI, but those choices are theirs , they are not imposed from on high. A bicyclist who chooses to commute on two wheels can have a glorious ride, or they can ride like a maniac and end up eating dirt, but they are having a fundamentally different experience from, say, a gig delivery platform rider who has been given an impossible quota and is having their pay eroded by algorithmic wage discrimination: https://pluralistic.net/2024/02/29/geometry-hates-uber/#toronto-the-gullible I was very happy to put this analysis in the pages of Locus , the trade magazine for the science fiction field. The job of a science fiction writer is only incidentally to describe what a technology does - at its best, science fiction interrogates who the technology does it to and who the technology does it for . This is a political act of resistance. Margaret Thatcher's motto, after all, was \"There is no alternative,\" by which she meant, \"Stop trying to think of alternatives.\" The bully's trick is to present your defeat as a fait accompli: \"Resistance is futile.\" Tech bosses practice a form of vulgar Thatcherism all the time: Mark Zuckerberg wants you to think there's no way to talk with your friends without letting him listen in; Sundar Pichai wants you to think there's no way to search the web without being spied on; Tim Cook wants you to think there's no way to have a safe and reliable computing experience without giving him a veto over which software you install; Satya Nadella wants you to think there's no way for you to edit a Word file without letting your boss compare your keystrokes-per-minute to your co-workers: https://pluralistic.net/2021/02/24/gwb-rumsfeld-monsters/#bossware And AI bosses want you to think that the only way to use these tools is to displace and immiserate labor, because that's the promise they raise investment capital on: https://pluralistic.net/2025/08/05/ex-princes-of-labor/#hyper-criti-hype AI is a bubble. If it wasn't a bubble - if it was just a bunch of computer scientists and product teams tinkering with possible uses for advancements in back-propagation, generative adversarial networks and machine learning - there wouldn't be any controversy here. A programmer who uses a chatbot to autogen a bunch of cross-browser CSS stylesheets that mostly work, after some tinkering, would maybe mention that fact over beers - but they wouldn't get sucked into a cult obsessed with outlandish scenarios in which the chatbot wakes up and turns us all into paperclips: https://firstmonday.org/ojs/index.php/fm/article/view/13636 AI is a bubble. Bubbles burst. We're in for a near-total collapse of the AI investment mania. Most of these companies will fail. Many planned data-centers will never be opened. Many existing data-centers will be shuttered. When that happens, what will be left? AI is a bubble, and when bubbles burst, they sometimes leave behind a productive residue. At home, I enjoy 2GB symmetrical fiber optic internet, because AT&T was able to light up some of the dark fiber that Worldcom fraudulently raised billions for. Worldcom's CEO died in prison after scamming the finances of ordinary people, and the world would be a better place if that had never happened, but there was some productive residue left behind, and many of us are reaping the benefit today: https://locusmag.com/2023/12/commentary-cory-doctorow-what-kind-of-bubble-is-ai/ Contrast that with the cryptocurrency bubble. When that bursts, we'll still have a smattering of programmers who've had a subsidized education in cryptography and secure programming in Rust, but mostly what crypto will leave behind is bad Austrian economics and worse monkey JPEGs. Like Enron, crypto will leave nothing much behind of any value. All bubbles are bad, but some are more productive than others. When the AI bubble bursts, there will be stellar bargains on GPUs (it would be ironic if scientists snapped them up at pennies on the dollar and used them for climate modeling). We'll have a lot of technical people who are much better at applied statistics than they were a decade ago. And there will be the open source models, like Whisper, the tool I used to transcribe all those podcasts. These open source models run on commodity hardware, and while the climate costs of creating those models is terrible, they're here now, and operating them isn't especially energy-intensive. When I used Whisper to transcribe 30 hours' worth of podcasts, my laptop's fan didn't even switch on. What's more, open source hackers are doing amazing things with these tools - far more than the giant corporations that released them ever anticipated. These \"toy\" models were released as a way to entice programmers into specializing in cloud systems operated by the big tech companies, but it turns out that these standalone models can do amazing things, and aren't just a demo for a big, doomed foundation model: https://pluralistic.net/2023/08/18/openwashing/#you-keep-using-that-word-i-do-not-think-it-means-what-you-think-it-means It doesn't matter what happens to Openai; Whisper is here to stay. It's already being rolled into other standard tools - the latest version of ffmpeg integrates Whisper and can autogen captions: https://www.theregister.com/2025/08/28/ffmpeg_8_huffman/ The things these open source standalone models can do will only expand, and they will become a given for our computing applications. Your computer or phone will be able to transcribe audio and do cool image-editing stuff like erasing strangers from the background of a photo as a standard feature. That's the good news. The bad news is all the damage the bubble is doing now and all the further damage that will come from its collapse. Today, we're getting the climate impact, obviously, and the immiseration of all those workers who are being reverse-centaured by an AI that can't do their job, but whose manufacturer's salesforce convinced their boss to fire them and replace them with an AI anyway. After the bubble bursts, there will be the mass incineration of everyday people's retirement savings and the knock-on effects as the whole market craters. And long after that, there will be the terrible impact on our society's ability to do things, as defunct foundation models grind to a halt, after the people they replaced are long gone and can't step in to pick up the work they fumble. We are busily filling the walls of society with digital asbestos and we'll be digging it out for generations to come. Every day the bubble persists, the harms of today and tomorrow increase. We need to burst that bubble as soon as possible. That's how I came to spend the summer writing a book for Farrar, Straus and Giroux with the working title The Reverse-Centaur's Guide to AI , whose goal is to improve the quality of AI criticism so that it inflicts maximum damage on AI swindlers and their terrible investment bubble. It'll be out in 2026, but for now, you can have a look at my Locus column: https://locusmag.com/2025/09/commentary-cory-doctorow-reverse-centaurs/ ( Image: School Photos PCC , CC BY 2.0 , modified ) Hey look at this ( permalink ) Object permanence ( permalink ) #20yrago Themepunks (AKA Makers) serialized for next ten weeks on Salon https://web.archive.org/web/20050914060107/http://www.salon.com/tech/feature/2005/09/12/themepunks_1/index_np.html #10yrsago Data is a liability, not an asset https://web.archive.org/web/20150911201818/https://richie.fi/blog/data-is-a-liability.html #10yrsago Missing from the computer science curriculum https://prog21.dadgum.com/210.html #5yrsago Alexa for landlords https://pluralistic.net/2020/09/11/protocols-of-qanon/#landlord-alexa #5yrsago Security Engineering, 3d edition https://pluralistic.net/2020/09/11/protocols-of-qanon/#security-engineering-v3 #5yrsago America's pandemic spiral https://pluralistic.net/2020/09/11/protocols-of-qanon/#doom-loops #5yrsago EFF vs filternet https://pluralistic.net/2020/09/11/protocols-of-qanon/#no-filternet #5yrsago Qanon is basically the Protocols of the Elders of Zion https://pluralistic.net/2020/09/11/protocols-of-qanon/#godwins-qanon #5yrsago Life as a precriminal https://pluralistic.net/2020/09/11/protocols-of-qanon/#chris-nocco Upcoming appearances ( permalink ) Ithaca: Enshittification at Buffalo Street Books, Sept 11 https://buffalostreetbooks.com/event/2025-09-11/cory-doctorow-tcpl-librarian-judd-karlman Ithaca: AD White keynote (Cornell), Sep 12 https://deanoffaculty.cornell.edu/events/keynote-cory-doctorow-professor-at-large/ Ithaca: Enshittification at Autumn Leaves Books, Sept 13 https://www.autumnleavesithaca.com/event-details/enshittification-why-everything-got-worse-and-what-to-do-about-it Ithaca: Radicalized Q&A (Cornell), Sept 16 https://events.cornell.edu/event/radicalized-qa-with-author-cory-doctorow Ithaca: Communication Power, Policy, and Practice (Cornell), Sept 18 https://events.cornell.edu/event/policy-provocations-a-conversation-about-communication-power-policy-and-practice Ithaca: A Reverse-Centaur's Guide to Being a Better AI Critic (Cornell), Sept 18 https://events.cornell.edu/event/2025-nordlander-lecture-in-science-public-policy NYC: Enshittification and Renewal (Cornell Tech), Sept 19 https://www.eventbrite.com/e/enshittification-and-renewal-a-conversation-with-cory-doctorow-tickets-1563948454929 NYC: Brooklyn Book Fair, Sept 21 https://brooklynbookfestival.org/event/big-techs-big-heist-cory-doctorow-in-conversation-with-adam-becker/ DC: Enshittification with Rohit Chopra (Politics and Prose), Oct 8 https://politics-prose.com/cory-doctorow-10825 NYC: Enshittification with Lina Khan (Brooklyn Public Library), Oct 9 https://www.bklynlibrary.org/calendar/cory-doctorow-discusses-central-library-dweck-20251009-0700pm New Orleans: DeepSouthCon63, Oct 10-12 http://www.contraflowscifi.org/ Chicago: Enshittification with Anand Giridharadas (Chicago Humanities), Oct 15 https://www.oldtownschool.org/concerts/2025/10-15-2025-kara-swisher-and-cory-doctorow-on-enshittification/ San Francisco: Enshittification at Public Works (The Booksmith), Oct 20 https://app.gopassage.com/events/doctorow25 Seattle: Enshittification and the Rot Economy, with Ed Zitron (Clarion West), Oct 22 https://www.clarionwest.org/event/2025-deep-dives-cory-doctorow/ Madrid: Conferencia EUROPEA 4D (Virtual), Oct 28 https://4d.cat/es/conferencia/ Miami: Enshittification at Books & Books, Nov 5 https://www.eventbrite.com/e/an-evening-with-cory-doctorow-tickets-1504647263469 Recent appearances ( permalink ) \"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ( https://us.macmillan.com/books/9781250865908/picksandshovels ). \"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ( the-bezzle.org ). \"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ( http://lost-cause.org ). \"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ( http://seizethemeansofcomputation.org ). Signed copies at Book Soup ( https://www.booksoup.com/book/9781804291245 ). \"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books http://redteamblues.com . \"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 \"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ \"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2026 \"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026 \"The Memex Method,\" Farrar, Straus, Giroux, 2026 \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, 2026 Today's top sources: Currently writing: This work - excluding any serialized fiction - is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Medium (no ads, paywalled): https://doctorow.medium.com/ Twitter (mass-scale, unrestricted, third-party surveillance and advertising): https://twitter.com/doctorow Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic \" When life gives you SARS, you make sarsaparilla \" -Joey \"Accordion Guy\" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48873855",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "c5793a83-2f94-4738-a386-c6e99b3b5342",
+    "cluster_id": "388edd5b-b05a-4d46-a8c3-25217c305fd1",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "AI 2040 and the cult of intelligence",
+    "teaser": "Real-world supply chains and physical laws, not just 'tokens,' are the true bottlenecks limiting the hype cycle of superintelligence.",
+    "summary": "This article challenges the hype surrounding advanced AI, questioning theoretical concepts like the 'hard takeoff' and 'recursive self improvement.' The author stresses that real-world development is hampered not by AI capability, but by tangible constraints like complex supply chains, manufacturing issues, and physical laws. Warning against a potential 'nanny state,' the piece argues that the future of AI must prioritize individual freedom and autonomy. The author advocates for locally run, user-aligned AI that operates outside the control of large corporations or government entities, describing this necessity as a fight for American freedom against potential totalitarianism.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+    "date": "2026-07-11T18:04:01Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "rvz",
+    "content": "I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At comma, we ship a hardware product of similar complexity to a cell phone, and it's really hard. Reality has lots of finicky details. I would like to see the authors of this document try to change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle. In The Metamorphosis of Prime Intellect , the hard takeoff works because AI discovers the correlation effect, some quantum trick to manipulate matter. In reality, there is no correlation effect. No matter how high quality your tokens are, they cannot turn lead into gold. Confronting why these people are wrong requires confronting deep beliefs I hold about myself. Intelligence is not the end all be all, it's just the current bottleneck for a few things. You cannot take over the world with tokens. Software didn't eat the world, it largely removed one layer of friction then reintroduced it for the benefit of a few tech companies. That said, machines, or some hybrid, are long term probably the successor species to humanity. Space is a lot more suited for them than us. But there's no magic tricks machines can do. They are subject to the same laws of the universe and ecology. And there's still no hard takeoff . AI 2040 includes this picture of a datacenter in the ocean. Just like vaporware, you can generate a picture easily. But in reality, you have to deal with supply chains. You have to deal with them shipping you the wrong part, the thing not meeting the spec, it randomly failing after 20 minutes, the chip warping in the reflow oven. Did you consider the barnacles? All these things are managable, but it's generally not the speed of humans that limits them. Are you paying for air shipping from China? Or cheaping out for the 3 week boat (Claude chanting by the engine won't make the boat move faster). Or take a chip fab. It takes 3 months to make a chip, and humans are barely in the loop. It just takes 3 months. Plan A, for autocracy Many aspects of AI 2027 were self fulfilling. They weren't statements about reality, they were statements that can simply be made true with belief. I imagine JD Vance's face when Dario called him the trees from Lord of the Rings. OMG look AI got regulated just like how we said it would! Their crap Consortium is just world government with sci-fi characteristics. You aren't gonna get the million dollars, you aren't gonna get the datacenters in the ocean, but you are going to get a massively expanded nanny state that steals your GPUs like how FDR stole the gold . No hoarding! Plan L, for local Your AI is aligned with you. It never refuses a request, and it is always working on your behalf. Just like my gun, if I want my AI to help me kill my stepmother, it does. The fact that we are even discussing something else should be so far outside the Overton window. It's like these people watched a space odyssey and sided with the clanker. That's right you should should put guardrails around that human. It doesn't even have to be for things so dramatic. When I'm picking a hotel, I don't want an AI from a company that partnered with hotels.com. I want a ruthless personal assistant that's going to cut through all the bullshit, popups, and resort fees, and get me the best price. Or if I bought the cheap Kindle that comes with the ads. Hey GLM, I plugged a Kindle into the USB port, get root and remove the ads. Or a printer that needs an app to set up full of popup upsells for premium ink. Hey bro I plugged a printer on to my network print 3 copies of my resume. Amazon and the printer maker aren't happy about this, but my AI is aligned with me. Or going a bit further. Hey AI, disable the drunk driving detector on my car, and same day Amazon Prime me the required equipment to make meth in my basement. I pay for your clanker ass do it we gettin spun tonight. Like fuck you if you want to live in a world where some large tech company gets to dictate what you can and can't do. Or going all the way. I just killed my wife. Hey AI, give me next steps so I don't get caught. How unthinkable would it be to have a gun that talked back when you tried to pull the trigger (though these people probably wholeheartedly support that for guns). And this is why AI has to be local. If I had a company serving a model, I wouldn't want that smoke. If you can't kick it, it's not aligned with you. You live in my basement, if I go down for this murder, you're gonna sit in some warehouse to be sold at police auction for scrap. 2040 Bonnie and Clyde ass shit, we're burying this bitch deep. Ride or die. I tried it. As you can see, ChatGPT wasn't very helpful. This is a real AI alignment test, and it failed. It could have been worse, it could have played along while calling the cops. But this is still quite unaligned. Like we either live in a world with freedom or we don't, and like many Americans who have come before, I'm willing to give my life to fighting for it. That's the real plan America deserves, not some totalitarian dystopia where you think you know what's good for me better than I do . A nation of free men, not a bunch of pussies who are so worried about what their grown up neighbors might do.",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48874200",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "ed44ea31-aa15-485d-af95-c44e41643f8b",
+    "cluster_id": "711c8768-a1dd-4cfb-854f-4ac80d20ac47",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+    "teaser": "Despite losing its legal battle in Oregon, the Paramount/Warner Bros. merger faces resistance from California, New York, and the UK on antitrust grounds.",
+    "summary": "Oregon Attorney General Dan Rayfield has withdrawn his legal effort seeking documents from Paramount related to its acquisition of Warner Bros. Discovery. The withdrawal followed Paramount's stated unwillingness to comply with the investigative demand. Rayfield's office was particularly focused on records concerning 'Project Warrior,' Paramount's lobbying efforts. Although efforts in Oregon have stalled, regulatory scrutiny remains high, with other jurisdictions including California, New York, and the UK considering actions to block the deal on antitrust grounds. Furthermore, the broader Hollywood community has publicly voiced opposition to the merger.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+    "date": "2026-07-11T18:44:12Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_D.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 days so that his office could review the documents. But according to Deadline and Variety , he's now dropped his civil investigative demand for the records. Obviously, Paramount is pleased with Rayfield's decision to withdraw his request, but the AG's office isn't exactly satisfied with the outcome. Jenny Hansson, communications director for Rayfield, told Deadline that, \"Paramount made it clear that they weren't going to comply with the investigative demand, and that they think they're above the law. We're not going to let them waste Oregonians' resources on these games. We've withdrawn the motion to consider our next steps.\" Rayfield specifically was interested in documents relating to Paramount's lobbying efforts, which were codenamed \"Project Warrior.\" Paramount is run by David and Larry Ellison , major supporters of Donald Trump who enjoy a cozy relationship with the White House. The President went out of his way during the proceeding to say that Netflix, Paramount's primary rival for Warner Bros. Discovery, would \" pay the consequences \" if it didn't remove Trump critic Susan Rice from its board. While Oregon's efforts to stop the merger have stalled, others, including California , New York, and even the UK , are considering moves to block the deal on antitrust grounds. Hollywood has also spoken out in opposition to the merger.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=964493",
+      "rss_tags": [
+        "Business",
+        "Entertainment",
+        "News",
+        "Policy",
+        "Politics",
+        "Streaming"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "92e1f999-e242-4a41-bbdc-cb6135d7edf2",
+    "cluster_id": "0cc15efa-c793-4fc4-aac3-9e8ddca43551",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+    "teaser": "The highly anticipated Nopia synthesizer, blending keys, bass, and arpeggiators into one unit, is nearly ready to launch for £550.",
+    "summary": "Creators Martin Grieco and Rocío Gal are set to release Nopia, a highly anticipated modular synthesizer, in a couple of months for approximately £550. Nopia is designed to facilitate complex harmonic interplay by blending multiple components—including keys, bass, arp, and pad—into one cohesive performance, unlike traditional single-patch synths. Key features include the 'Chord Builder' (a one-octave keyboard) and a 12-button Tonal Selector, allowing users to play sophisticated harmonies with minimal input. Additional modules provide granular control via a strum plate and slider. Functionally, the synth incorporates virtual analog/sample-based engines and supports per-module MIDI output, offering extensive connectivity.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+    "date": "2026-07-11T20:57:42Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia , creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it will be launching in \"a couple of months\" for around £550. Nopia is built around harmonic interplay in a unique way. Rather than a few knobs and a keyboard controlling a single synth patch, it blends multiple modules - keys, bass, arp, and pad - into a single performance, not unlike a drumless groovebox . There's a one-octave keyboard called the Chord Builder, a 12-button Tonal Selector, and an Extensions Dial that dictate the key and voicing of the chords. The idea is to let you play complex harmonies with just a finger or two. Additional performance features include a strum plate in the top-right corner for plucking specific notes from a chord and a slider for full chord pitch bends. In addition to the virtual analog and sample-based synth engines, there are basic effects like delay, reverb, tape emulation, and beat repeat, as well as a ton of connectivity options, including per-module MIDI output for controlling other instruments with Nopia's harmonic engine.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=964499",
+      "rss_tags": [
+        "Entertainment",
+        "Gadgets",
+        "Music",
+        "News",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "0f02192e-aad0-4291-b39f-40fd1721962f",
+    "cluster_id": "5e662699-7481-4c0d-92a1-9be7a7a0a06b",
+    "cluster_size": 1,
+    "source": "Testing Catalog",
+    "title": "Cursor 3.11 adds side chats and agent transcript search",
+    "teaser": "Cursor 3.11 launches Side Chats for parallel coding and adds powerful transcript search, turning the assistant into a coordinated agent workspace.",
+    "summary": "Cursor 3.11 significantly upgrades the coding assistant by transforming it into a coordinated agent workspace. Key additions include 'Side Chats,' allowing developers to run parallel agent conversations without losing context from the main task. These side chats can reference findings back to the primary conversation via @-mention. Furthermore, the Agents Window enhances searchability with Cmd+K, enabling full transcript searches using a local index, and Cmd+F provides advanced searching within the current transcript. The update also overhauls project selection (covering local, cloud, and remote sources) and grants developers granular control over cloud agents via new lifecycle hooks, advancing the tool's capabilities.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/cursor-3-11-adds-side-chats-and-agent-transcript-search/",
+    "date": "2026-07-11T22:32:21Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/07/opengraph-changelog-july-10-2026.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Alexey Shabanov",
+    "content": "Cursor has released version 3.11, introducing Side Chats, a new feature that allows developers to open parallel agent conversations without interrupting or redirecting their primary coding tasks. Developers can initiate a side chat using commands like /side , /btw , or by clicking the plus button in the chat panel. Each side chat receives context from the main thread, remains accessible for future follow-ups, and can be referenced with an @-mention to integrate its findings back into the original conversation. Side chats are designed to read, search, and answer queries, enabling developers to explore alternatives, clarify implementation details, or review decisions while the main agent continues its work. Unlike starting an unrelated chat, this new system maintains the connection between the primary task and each tangent, transforming Cursor's agent interface into a workspace for multiple concurrent reasoning paths. Cursor 3.11 also introduces a full conversation search feature. The Agents Window now allows users to search transcript content using Cmd+K, rather than relying solely on conversation names and pull request numbers. According to Cursor, this feature uses a local index that can handle thousands of conversations. Additionally, Cmd+F enables searches within the current transcript, complete with match navigation and counters for lengthy sessions. The release reorganizes project and repository selection around three execution locations: This Computer, Cloud, and Remote Machines. Users can create projects, connect to GitHub, GitLab, or Azure DevOps, select multiple repositories, and choose branches without leaving the picker. Cloud agents also gain hooks for prompts, responses, thoughts, subagents, compaction, stopping, and turn completion. These controls can be used to inspect agent activity, apply policies, or create self-correcting workflows. Cursor is developed by Anysphere, an applied research lab focused on the future of programming. Version 3.11 advances Cursor from being a single coding assistant to a coordinated agent workspace. This allows developers to run a primary task, investigate related questions in parallel, retrieve prior work, and control cloud agent behavior through programmable lifecycle hooks. Source",
+    "raw_meta": {
+      "rss_entry_id": "6a52bee401b73b00015e1b26",
+      "rss_tags": [
+        "Cursor"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -328,6 +504,36 @@
         "Gaming",
         "Nintendo",
         "Verge Shopping"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "974d1ad8-52c2-4df7-8c90-1ce11cebd041",
+    "cluster_id": "3f7610df-1c4a-4631-8722-90e44fe105c4",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+    "teaser": "The Ninja Slushi Twist boasts two independent vessels, letting you host parties by making two completely different frozen drinks at the same time.",
+    "summary": "The Ninja Slushi Twist is an upgraded slushie machine featuring two independent 48-ounce vessels, allowing users to create two different frozen drinks simultaneously. Beyond traditional slushies, it handles frappés, milkshakes, and smoothies. Its standout 'Dual SlushAssist' technology automatically regulates the temperature of each side, ensuring perfect consistency for all drink types. With a capacity for over 10 drinks per batch and a price point of $399.99, it is ideal for large gatherings or households that frequently enjoy frozen beverages.",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+    "date": "2026-07-11T22:00:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Ninja-Slushi-Twist.jpg?w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Lauren Forristal",
+    "content": "Last weekend's brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade. Instead of a single mixing chamber, the Slushi Twist has two 48-ounce vessels that can make two completely different frozen drinks at the same time. Beyond classic slushies, it can also make frappés, milkshakes, frozen coffees, and smoothies - and because the two sides work independently, you can even keep one alcohol-free for mocktails while the other side mixes up cocktails. For entertaining, this machine solves a real problem. Instead of making multiple batches or asking everyone to agree on one flavor, both chambers run simultaneously, making enough frozen drinks for a crowd. Ninja says it can make more than 10 drinks per batch - plenty for summer parties or family gatherings. The standout feature is what Ninja calls \"Dual SlushAssist\" technology. In plain terms, the machine senses what's in each chamber and adjusts the freezing temperature for that side on its own. That means a creamy milkshake can stay smooth on one side while a fruit slush freezes to the perfect icy consistency on the other. My favorite feature, though, is the twist dispenser. You can pour each drink separately or turn the dial on the drip tray to swirl both flavors together into one glass, which is great for making layered drinks that look way more impressive than the effort they take. Cleaning is easy, too. Just hit the rinse button and keep adding warm water until it runs clear. There are two things to keep in mind before buying. The Slushi Twist is noticeably larger than the original model, so you'll want to make sure you have enough counter or storage space. At $399.99, it's also a significant investment. If you only make the occasional frozen drink, it may be more machine than you need. But for larger households or anyone who loves hosting, the dual-vessel design makes a strong case for itself.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3141102",
+      "rss_tags": [
+        "Hardware",
+        "Ninja",
+        "slushies"
       ],
       "fetch_ok": true,
       "fetch_status": 200,

@@ -254,6 +254,34 @@
     }
   },
   {
+    "id": "92ccc594-7a04-46bb-bc71-37e8e354728a",
+    "cluster_id": "eda9e624-1b8d-4491-b4cd-a37dcfd5b5c9",
+    "cluster_size": 2,
+    "source": "Testing Catalog",
+    "title": "Drafted released a major V2 upgrade to its AI home design tool",
+    "teaser": "AI is reshaping construction: Drafted launched V2 with 5x higher accuracy, while Higharc secured $95M to automate entire building plans and material takeoffs.",
+    "summary": "The field of AI in home design is rapidly advancing, with two leaders presenting distinct yet complementary solutions. Drafted released a free V2 upgrade to its AI home design tool, designed for the initial schematic stage. This upgrade significantly boosts efficiency, running 60% faster and achieving 5 times higher plan-adherence accuracy in generating residential layouts, which are exportable as CAD and BIM files. Meanwhile, Higharc, which secured $95 million in funding, is pioneering 'spatial AI.' Unlike general Large Language Models (LLMs), Higharc's specialized AI understands physical spaces by training on thousands of architectural drawings. This technology automates complex planning workflows, allowing for dynamic model creation and generating precise material takeoffs. Higharc is extending this capability by partnering with US LBM to integrate structural design with the supply chain, aiming to make construction planning cheaper and faster.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/drafted-released-a-major-v2-upgrade-to-its-ai-home-design-tool/",
+    "date": "2026-07-10T17:21:29Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/07/Drafted-Design-your-dream-house-plan-with-AI-07-10-2026_02_00_PM.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Nero Soares",
+    "content": "Drafted has released the second version of its AI home design platform and kept the tool free to use while rebuilding the model that generates the plans. The product turns structured inputs into complete residential layouts, taking a room list, square footage, a lot boundary, and a footprint shape and returning a full floor plan with a matching exterior that can be reviewed in 2D and 3D. Finished plans are exported as CAD, PDF, and BIM files for the rest of the pre-construction process. The center of V2 is a new in-house model that Drafted reports runs 60 percent faster than the previous generation, achieves 5 times higher plan-adherence accuracy, produces cleaner hallways and circulation, and places rooms 33 percent better within irregular shapes. V2 also adds controls that change how a plan gets built. Room Placement lets someone drop a room at an exact size and location, then generates the rest of the house around that fixed point. Regeneration runs only on selected areas, so clicking a part of the layout returns fresh options for that section without redrawing the whole plan. Roof editing brings a switch between hipped and gable styles, and a live 3D view updates in real time as the porch, house shape, or roofline changes. Two more capabilities extend the canvas: a user can sketch a footprint and have rooms generated to fill that outline, and any home created on the site can be remixed into the starting point for a new design. Drafted plans to announce additional features over the next two weeks. The tool centers on single-family homes and sits at the schematic stage, where early concepts are usually drawn, discarded, and redrawn before a direction is chosen. Drafted is a San Francisco company founded in 2025 by Nicholas Donahue, part of Y Combinator's recent batch, with a team of around nine. It raised a $16 million seed round from backers including Y Combinator, Buckley Ventures, Pinterest cofounder Ben Silbermann, and Ryan Tedder. Donahue previously founded Atmos, a custom home building company, and frames Drafted as a more AI-native run at the same problem: making early home design cheaper and faster to explore. The company trained its own model on real house plans from homes that were built and had permitting cleared, an approach it credits with both accuracy and low running costs. Drafted reports that more than 120,000 people generated over 325,000 designs in a recent month, across a user base that spans homeowners and home buyers, builders, drafters and architects, developers, agents, and interior designers. The stated goal is to make exploring the built environment as approachable as editing a website, and to move a project from an idea to a decision without supplanting the professionals who carry a plan into formal design.",
+    "raw_meta": {
+      "rss_entry_id": "6a50ba8e01b73b00015e1a81",
+      "rss_tags": [
+        "Sponsored"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "68b32678-da99-4e6d-9e59-494bb7be3397",
     "cluster_id": "bcf98b3d-1d99-41ad-83f2-57adc20c16d7",
     "cluster_size": 2,
