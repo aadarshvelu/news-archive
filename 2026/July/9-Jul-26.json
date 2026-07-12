@@ -886,6 +886,34 @@
     }
   },
   {
+    "id": "198d1a85-c939-4f1c-842e-dba8c2c859d1",
+    "cluster_id": "f1487417-041f-4728-a59d-282e090b868e",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "Thief posed as Wi-Fi fixing hero, then stole priceless trophy",
+    "teaser": "A security audit revealed that a thief could steal a priceless trophy just by posing as a 'Wi-Fi fixing hero,' proving human trust is the biggest vulnerability.",
+    "summary": "These reports highlight critical security failures stemming primarily from human trust and poor physical security controls. In one incident, a red teamer successfully stole a priceless trophy by posing as a Wi-Fi fix expert, demonstrating that employees tend to trust people who appear legitimate in the workplace, regardless of their actual motives. A second, more technical audit detailed how attackers could exploit lapses to gain full domain administrative access. These attackers used pretexting (e.g., pretending to be new staff or helping with snow) to gain physical access. The red teamers also discovered significant network vulnerabilities, including weak passwords and unmitigated certificate services (ADCS), showing that vigilance and strict access control are essential to prevent costly breaches.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/security/2026/07/09/thief-posed-as-wi-fi-fixing-hero-then-stole-priceless-trophy/5268750",
+    "date": "2026-07-09T07:00:00Z",
+    "image_url": "https://image.theregister.com/5268796.jpg?imageId=5268796&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Security Thief posed as Wi-Fi fixing hero, then stole priceless trophy If people think you are doing a legitimate job, you can get away with anything PWNED Welcome, once again, to PWNED, where each week we share the saga of an organization that couldn't get out of its own way when it comes to security. Have a story about someone leaving a gaping hole in their network? Share it with us at pwned@sitpub.com . Anonymity is available upon request. This week's tale comes courtesy of Dahvid Schloss, a professional red teamer who was also involved (as a supervisor) in last week's story about hackers shoveling snow in order to gain access to restricted areas. This time, it was Schloss himself who broke in, and he used the promise of better connectivity to do it. On one assignment, Schloss was asked to test the physical and network security of a company that was near the top of the Fortune 500 and had a reputation for sponsoring and providing the trophy for an international sporting competition. According to him, there were three copies made of the trophy: one for the winner, one for the host nation itself, and one for the sponsor. When Schloss was conducting his audit, the location he visited was undergoing construction, creating problems with the office Wi-Fi that all the employees noticed and hated. So when Schloss and his team invaded the place and started probing the wireless network, no one questioned them. \"So, you got three of us that are kind of walking through this campus with antennas sticking out of our laptops. We were not being secretive at all, but we figured this is California and there's plenty of tech bros and nerds everywhere so antennas sticking out of a computer is not going to scare people,\" Schloss said. \"But everyone kept coming up to us - not to ask us if we were supposed to be there, but to ask us if we were going to fix the Wi-Fi.\" After wandering the building, Schloss and his team came to the marketing department where one of the trophies, which he estimates was worth at least $250,000 (or, perhaps, priceless as there are only three), was sitting in a case. Knowing that his job was to test overall security and not just network security, he opened up the case and proceeded to remove the trophy. Someone from the marketing department saw Schloss pulling the trophy out of the case and talked to him while he was doing it. Their question: \"Are you here to fix the Wi-Fi?\" When he answered \"yes,\" the marketing people ignored him as he slipped the trophy into his backpack. He took the trophy out of the building and held onto it for two and a half weeks, with no one saying anything about it. However, when it came time for him to give a presentation to the company executives, he brought the prize with him. \"We walked to the boardroom and the first thing I do in this boardroom is I pull out the trophy and I put it on the table,\" Schloss told us. \"And all these executives are sitting around there as we're about to give this security report on where the maturity is at and that was like enough said, right? You could see the eyes just popping open.\" What we can learn from this story is that employees tend to trust people in the workplace, even outside contractors. If they think that someone belongs in the building, they won't question that person's motives, even if they see them doing wrong. I'm reminded of a situation that took place at a job I was working at many years ago. It was around 6 pm and most people had left the office, but the cleaning lady was there sweeping up when I heard a commotion coming from my coworker's cubicle. My colleague, who had been at the gym and left her wallet at her desk, returned to find the cleaner taking cash out of her wallet. At first I didn't believe it and thought there must be a misunderstanding because the cleaning lady, unlike Schloss' set of fake Wi-Fi repairmen, was legitimately supposed to be working that night. However, my coworker caught her red-handed and she later admitted stealing the money. So train your staff to question everyone, especially strangers who look like they belong in the building. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5268750",
+      "rss_tags": [
+        "security"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "efa8f884-bf4f-4ea7-a6de-f07ca538b59d",
     "cluster_id": "d3498822-cfa3-41c3-9c58-fddc2e5feae0",
     "cluster_size": 1,
@@ -1648,6 +1676,34 @@
       "rss_entry_id": "https://www.theregister.com/a/5269421",
       "rss_tags": [
         "software"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "67885995-8d86-478c-93ea-5ca3b334c3c3",
+    "cluster_id": "0d6cd1bf-1e7c-45b6-889d-4a7c2e9373c1",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "AI tool scours the web for job openings, preps your resume and cover letter",
+    "teaser": "From automated job hunting to viral dating pitches, AI agents are tackling the tedious parts of modern life, raising major privacy concerns.",
+    "summary": "AI automation is infiltrating both professional and personal spheres. Tools like Autopilot-Jobhunt (A-J) automate job searches, scanning the web for roles, scoring matches against a resume, and even drafting cover letters using free models like Llama and Gemma 4. Meanwhile, other open-source agents (like OpenClaw) are used for highly personal tasks, such as Ben Guez creating automated Instagram dating reels or Jeff Weisbein researching date spots. While these tools offer massive efficiency gains, experts warn of steep privacy risks, emphasizing the need for human oversight, as noted by Lazer Cohen’s alternative, NanoClaw. Overall, these examples demonstrate the escalating potential and the corresponding privacy challenges of advanced AI agents.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/09/ai-tool-scours-the-web-for-job-openings-preps-your-resume-and-cover-letter/5269410",
+    "date": "2026-07-09T17:40:00Z",
+    "image_url": "https://image.theregister.com/5239850.jpg?imageId=5239850&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "ai and ml AI tool scours the web for job openings, preps your resume and cover letter Searching for work sucks; AI combs the internet and sucks it all up. Combine the two and let 'er rip with this Python project Combing through job postings and company help wanted pages for a position that matches your resume is the very definition of drudge work. Now, there's an AI designed to suck up information from the web, do the search for you, and even help you apply. Software developer Tarun Gupta created just such a tool in the form of Autopilot-Jobhunt . When configured with a profile of the user and their desired jobs (and what they absolutely won't accept in an opening), A-J will scan the web while users sleep, take stock of the positions that are a good match, and then send a Telegram message to its user. That message includes all matching openings, scored against the user's resume and ranked according to the AI's assessment. Users can ask A-J to format a resume and cover letter tailored to the position, which it's up to the user to review and send - the bot won't do so automatically. You might be thinking that an AI-crafted resume and cover letter would be a bad strategy for getting your foot in the door at a company you're keen to work for, but that might not be the case, actually. As we reported last year, researchers found that some AI hiring bots, often the first line a company uses to separate the wheat from the chaff, favored applications generated by the same AI model they used for screening - suggesting the human touch may be worth less than you think in the modern job market. A-J is designed to be free to use (what hard-up developer can afford to do hundreds of AI API calls a night, after all?), and relies on free models to comb the web for jobs. TinyFish's AI web agent is used to crawl for jobs, while OpenRouter provides the API for one of several default free AI models that A-J will run through, starting with Llama and falling back to free versions of Nvidia's Nemotron, Google's Gemma 4, and Alibaba's Qwen3 when all else fails, or quotas run out. Claude Code and the Anthropic API can be used in place of OpenRouter if you've got tokens to spare. For those concerned about A-J broadcasting personal details to the web, Gupta writes that it's designed to be private, providing an entire privacy readme as part of the project's GitHub documentation. As mentioned above, A-J never applies for a job on a user's behalf, and the config file where users link to their locally stored Markdown-formatted resume and set other options is gitignored so it won't ever be committed by accident. That said, resumes do get routed to the LLMs OpenRouter is configured to use. Gupta said those who want to avoid sending that data through OpenRouter can use Claude Code instead, provided they have an Anthropic subscription that supports it. As for who could make use of the tool, it's configured by default for software developers, and for good reason: According to Hiring Lab data published on Wednesday, the number of job openings for software developers has risen by 15 percent since Anthropic released Claude Code in February 2025, while openings for all other jobs have fallen by seven percent over the same timeframe. Still, young college graduates in a variety of career fields report not being able to find a job, so the tool could be of use to anyone with the willingness to reconfigure it for a different career field. AI companies, fintechs, and Silicon Valley heavyweights might be programmed into A-J by default, but they can be freely added, removed, and reconfigured as desired. It'll probably take some work to get Autopilot-Jobhunt configured for your particular needs, but if you're having trouble landing a role, giving it a shot can't hurt. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5269410",
+      "rss_tags": [
+        "ai and ml"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
