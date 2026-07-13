@@ -376,5 +376,36 @@
       "fetch_status": 200,
       "fetch_error": null
     }
+  },
+  {
+    "id": "31d1c0fc-6a8c-4a84-99f8-4abe12cb8f70",
+    "cluster_id": "6f417cae-fe4c-4f5c-a61f-b34f8056429a",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
+    "teaser": "Drew Daniel's new album swaps metallic samples for live sound, crafting a shockingly beautiful and optimistic meditation on art and human connection.",
+    "summary": "Drew Daniel, half of the duo Matmos, presents his Soft Pink Truth album, *Shall We Go On Sinning So That Grace May Increase?* This work shifts away from Matmos’ usual heavily sampled, experimental sounds toward a more hypnotic, healing, and ambient experience. While utilizing manipulated field recordings, the album leans heavily on live instrumentation and spontaneity, contrasting with his meticulously sampled prior work. Key tracks like \"Sinning\" feature abstract saxophone blasts and clear rhythm, while \"Grace\" and \"May Increase\" showcase instrumental growth. Overall, the album is praised for its emotional depth and celebration of human creativity through live sound.",
+    "importance": 2,
+    "category": "other",
+    "url": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
+    "date": "2026-07-12T19:40:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/soft-pink-truth.jpg?quality=90&strip=all&crop=0%2C5.1234106207928%2C100%2C89.753178758414&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vespertine . But Drew Daniel, one half of Matmos, is fiendishly prolific. When he's not literally dreaming up new viral music genres , he's also putting out records under the banner of The Soft Pink Truth. Where Matmos usually focuses on a specific musical experiment - using only samples of medical procedures or building instruments out of PVC tubing - Soft Pink Truth goes wherever Daniel's whims take him. That might be a house record. It might be a bunch of black metal covers . Or, in the case of Shall We Go On Sinning So That Grace May Increase? , it could be a shockingly beautiful and optimistic meditation on the rise of global fascism. Shall We Go On is a subtler record than Daniel's previous solo efforts. It trades the distortion and house beats of previous material for something hypnotic and healing. While there are plenty of heavily manipulated field recordings and samples, as you'd find on a Matmos record, they err towards a more organic and ambient texture than Daniel's other projects. The first track, \"Shall,\" sets the stage with some unsettling dissonant drones, fussy soundscapes, and a vocal chant that's teetering dangerously on the edge of the uncanny valley. It's an embodiment of what we're leaving behind as the album kicks into gear with the minimal new-age thump of \"We.\" A muted four-on-the-floor kick backs clanking percussion, wind sweeps, female vocal runs, and a piano playing peekaboo. The song gradually gathers momentum, as the arrangement becomes busier and reaches for the clouds. \"Go\" follows the chilled-out dancefloor excursion of \"We\" with a call to prayer, before leading into the ocean-front ambiance of \"On,\" with its ghostly choir of vocals, glitchy piano, and gently plucked synths. These are all buildup, however, to what is arguably the album's centerpiece, \"Sinning.\" Abstract saxophone blasts dance with bells and vibraphones as another simple four-on-the-floor kick injects the jam with undeniable groove. I chose that word \"jam,\" intentionally, too. Where previous Soft Pink Truth records and most of Matmos' catalog are built primarily from samples, Shall We Go On... leans heavily on live instrumentation and musicians bouncing ideas off each other in real time. Where Do You Party? Feels meticulous; Shall We Go On... feels spontaneous. It gets caught up in its own celebration of human creativity and the power of art to heal. \"So\" is the comedown after the ecstatic celebration of \"Sinning,\" with the saxophones serving as our gateway to the back half of the album, which, like the rest of it, is a seamless mix. Their simple two-note drone becomes a recurring motif that other instruments build on top of, from the piano pedal that anchors the ambient chaos of \"That,\" to the jazzy explosion of \"Grace,\" that erupts from what sounds suspiciously like a car alarm having a nervous breakdown. \"May Increase\" spends its four-plus-minute runtime disassembling everything that \"That\" built up. All the chaos, all the noise, until it finally ends with a deep exhale. The Soft Pink Truth's Shall We Go On Sinning So That Grace May Increase? is available on Bandcamp and most major streaming platforms, including YouTube Music , Apple Music , Spotify , and Deezer . Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Terrence O'Brien Column Entertainment Music Music Review",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=964532",
+      "rss_tags": [
+        "Column",
+        "Entertainment",
+        "Music",
+        "Music Review"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
   }
 ]
