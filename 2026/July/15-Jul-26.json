@@ -1,0 +1,127 @@
+[
+  {
+    "id": "fb1a54c2-20a6-4c30-99c4-00879cf5c092",
+    "cluster_id": "d6a02120-7f5d-405f-ad1f-ba9eefe82de0",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+    "teaser": "Google and Epic drop their lawsuit fight, meaning rival app stores must now come inside the Google Play Store next week.",
+    "summary": "Google and Epic Games have jointly withdrawn their attempt to modify a permanent court injunction regarding Android app stores. This legal development forces Google to comply with a ruling that requires it to carry rival third-party app stores within its own Google Play ecosystem, starting as early as July 22nd. The original injunction, agreed upon by Judge James Donato, aimed to dismantle Google's alleged monopoly. Google stated it is committed to delivering 'greater app store choice' and lower prices. To gain access to the Google Play catalog, third-party stores must pay an annual fee of $5,000 and adhere to strict policies. This shift opens the Android platform to outside payments and increased competition.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+    "date": "2026-07-15T03:28:53Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047551/236883_Epic_Vs_Google_C_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Sean Hollister",
+    "content": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party app stores on Wednesday, July 22nd. Does that mean it's time for Microsoft to launch an Xbox game store on Android ? In October 2024, Judge James Donato originally agreed that forcing Google to carry rival Android app stores within its own Google Play store for several years, and share its own entire catalog of apps with those stores, would be the best way of undoing the company's illegal monopoly over Android applications. Google has been fighting that ever since, and eventually convinced Epic to join in, by settling all their legal disputes around the world and making a secret $800 million deal along the way . But Judge James Donato was skeptical he should abandon his original permanent injunction in favor of Google's proposed \"Registered App Stores\" that users would have to sideload - instead of simply downloading third-party stores directly through Google Play. On Thursday, July 16th, both parties were set to appear in court to argue it again , but that may no longer be necessary. Here's is Google's full statement on withdrawing its proposed modifications to Judge Donato's permanent injunction, via Google spokesperson Dan Jackson: We've agreed with Epic to withdraw our motion to modify the US Court's injunction rather than prolonging this process which creates uncertainty for the ecosystem. This allows us to focus on executing our recently announced global business model evolution to deliver greater app store choice, lower prices, and more opportunities for developers and users. We remain committed to maintaining Android's industry-leading security and fostering a competitive ecosystem where every app store and developer has the freedom to compete. In parallel, we continue to comply with the US Court's injunction.\" Google had previously announced that it would launch its sideloaded Registered App Store program in the rest of the world, beginning with the new version of Android later this year. That means there may be two different tracks for Android: stores-within-a-store in the United States, and Registered App Stores everywhere else. Google is already informing US app developers that their apps and game listings will automatically be provided to third-party app stores starting July 22nd, unless they opt out, and it's launched a specific page for its Play Catalog Access Program for third-party app stores to enroll. It's not yet clear if there will be a parallel \"program\" for third-party app stores inside of the Google Play Store, or if companies will simply submit them the way they'd submit any other app. Technically, the court's permanent injunction states that Google \"may not prohibit the distribution of third-party Android app distribution platforms or stores through the Google Play Store,\" not that it has to proactively invite them in. For access to the Google Play catalog of apps, Google will charge stores an annual fee of $5,000 for \"security and policy reviews,\" and it has many additional requirements, including: stores can't distribute apps outside of the US, have to be open to all eligible third-party developers, have \"clear, non-discriminatory\" trust and safety policies, and no more than 1 percent of \"install attempts\" can be malware. It's not yet clear how all the other economics around Android app distribution and billing might shake out yet - we may need to wait for more info - but Epic and Google have already set the world on a course for reduced fees and opened the Play Store to outside payments .",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=965792",
+      "rss_tags": [
+        "Apps",
+        "Google",
+        "News",
+        "Policy",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "c45eaf3c-6a86-4a36-b5fa-f70b0b68df53",
+    "cluster_id": "ddc6863b-4cae-418a-ac1d-7e2f6400da4a",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Google Cloud's VMware service loses resilience due to a dud update",
+    "teaser": "Google Cloud's VMware service lost critical resilience following a configuration update, revealing systemic vulnerability in cloud infrastructure.",
+    "summary": "Google Cloud's VMware Engine (GCVE) service experienced a significant resilience outage, impacting stretched clusters in several regions (including Australia and Europe). The failure, which prevented customers from achieving rapid disaster recovery, was traced by Google to a recent, admitted configuration update that caused inter-zone network disruptions. While storage and compute services remained running, the critical function of failover was lost. Separately, the article highlights a severe security advisory from VMware/Broadcom regarding its Avi Load Balancer. A key flaw, CVE-2026-47865, is an authentication bypass vulnerability (CVSS 9.8), reminding users of ongoing systemic risks in virtualization infrastructure.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/virtualization/2026/07/15/google-clouds-vmware-service-loses-resilience-due-to-a-dud-update/5271511",
+    "date": "2026-07-15T00:16:21Z",
+    "image_url": "https://image.theregister.com/257570.jpg?imageId=257570&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Virtualization Google Cloud's VMware service loses resilience due to a dud update As VMware itself warns of critical flaw in its load balancer Google Cloud has admitted it made a configuration change that means some customers of its VMware Engine (GCVE) can't use stretched cluster. A G-Cloud incident report time-stamped 13:24 PDT on July 14 (21:24 UTC) reports some customers \"are experiencing zonal outages impacting network connectivity across multiple regions\" and that the trouble started at 10:00 PDT. Google first attributed the problem to \"an underlying network connectivity issue affecting the infrastructure that links the zones within a stretch cluster,\" and warned \"This disruption is causing synchronization issues between the affected zones.\" Storage and compute services weren't impacted, and VMs kept running. Users just couldn't reach their virtual servers. That's bad because the whole point of stretched clusters is to enhance resilience by creating a virtual pool of resources that spans two physical sites, while keeping the two rigs in synch to enable rapid failover without disruption. Google's next update offered \"underlying inter-zone communication failures and Border Gateway Protocol (BGP) session flapping between cluster zones\" as the reason for the mess, adding \"Specifically, network connectivity has been lost between the affected zones and the witness appliance. Because the witness appliance is currently unreachable, the cluster zones are unable to safely synchronize state.\" At 16:05 PDT Google 'fessed up. \"Our investigation has identified a recent configuration update that is the likely cause of the inter-zone network disruption,\" the web giant admitted. \"Teams are working on remediation.\" Google hasn't said when it will set things right, so customers in the impacted regions - australia-southeast1, australia-southeast2, europe-west3, and northamerica-northeast2 - must wait to learn when they'll once again enjoy the resilience they pay for. Other VMware customers may not want to wait because the Broadcom business unit on Tuesday warned of seven flaws in its VMware Avi Load Balancer. One of them, CVE-2026-47865 , is an authentication bypass vulnerability that earned a CVSS score of 9.8. The product's name is a little misleading, as it's actually a full Application Delivery Controller that includes load balancing and a Web Application Firewall VMware hasn't said much about the flaw other than warning \"A malicious user with network access may be able to access the Avi Control plane by bypassing the authentication mechanism.\" The tool works with VMware's Cloud Foundation bundle, Kubernetes Service, and can connect resources in public clouds. Unauthorized access is therefore distinctly undesirable. The five remaining CVEs are also significant, with CVSS ratings ranging from 8.8 to 7.1. Broadcom has fixed the flaws in recent updates to the product. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5271511",
+      "rss_tags": [
+        "virtualization"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "b221c552-ce99-4f74-9a8f-cf24b0b780e9",
+    "cluster_id": "6abe7d16-cdc8-47c8-be85-d23c6fc8bb53",
+    "cluster_size": 1,
+    "source": "SiliconANGLE",
+    "title": "Construction automation startup TerraFirma raises $115M",
+    "teaser": "Construction automation startup TerraFirma secured $115M in funding to power AI-driven remote operation of heavy machinery.",
+    "summary": "TerraFirma Inc., a construction automation startup, has raised $115 million in a Series A round, led by Kleiner Perkins. The company develops a platform that allows construction teams to remotely operate heavy machinery like excavators and tractor loaders, significantly improving both safety and productivity. The technology goes beyond remote control, offering 'autonomous workflows' that automate repetitive tasks, from planning construction steps to calculating complex price estimates. The system utilizes an obstacle avoidance algorithm for multiple vehicles on one site and can even test workflows with a built-in simulation tool. The technology involves retrofitting existing machinery with sensor modules, enabling autonomous features like real-time collision avoidance. Founders Noah Schochet and Noah McGuinness launched the company in 2024, and the new funding will support hiring 300 workers and building a new facility.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/14/construction-automation-startup-terrafirma-raises-115m/",
+    "date": "2026-07-15T00:44:15Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/unsplash-3.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "TerraFirma Inc., a startup with a platform that enables construction teams to remotely operate heavy machinery, has raised $115 million in funding. The bulk of the capital arrived in the form of a $100 million Series A round led by Kleiner Perkins. TerraFirma disclosed today that Bain Capital, Definition and more than a half-dozen other institutional investors chipped in as well. The company's investor roster also includes employees at several major tech firms including SpaceX Corp. TerraFirma was launched in 2024 by former SpaceX engineers Noah Schochet and Noah McGuinness. Its platform enables construction teams to remotely pilot excavators, tractor loaders and other vehicles using joysticks. TerraFirma says that removing the need for users to sit in a construction vehicle's cab boosts safety while significantly improving productivity. Customers don't have to manually coordinate every construction task. According to TerraFirma, its software provides the ability to create \"autonomous workflows\" that automate repetitive chores. The platform also promises to ease several related tasks. Creating a price estimate for a construction project is a highly technical task. Engineers have to account for factors such as a construction site's elevation, the type of building that it will host and the amount of soil that must be added or removed. The task can take weeks in some cases. TerraFirma says its software speeds up the process. Furthermore, engineering firms can use it to plan each step of the construction workflow. They can then test the workflow for inefficiencies with the help of a built-in simulation tool. Once construction is underway, TerraFirma's platform uses an obstacle avoidance algorithm to keep remote-controlled vehicles from colliding. The company says that the software makes it possible to operate multiple vehicles on the same construction site. Autonomy features such as automated collision avoidance require real-time data from vehicle sensors. TerraFirma's website doesn't specify how it collects sensor data. However, the company does note that it retrofits existing machinery to work with its software. That suggests TerraFirma equips customers' vehicles with a sensor module. Atoms Inc., a newly launched robotics startup led by Travis Kalanick , equips trucks with autonomy features by adding in a ruggedized computer. The system combines a GPS module, cameras and radar sensors in a case designed to withstand severe weather. \"Making construction truly faster and cheaper requires innovating on operations and technology together across the full stack,\" said McGuinness. \"We believe autonomy is a part of the solution, but driving real change requires building a whole ecosystem of technology that is directly informed by rapid iteration and lessons from the field.\" CNBC reported that TerraFirma will use its new funding to hire 300 workers over the next year. Additionally, the company will build a new facility from which it plans to orchestrate customer vehicles. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=789985",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "automation",
+        "construction",
+        "construction equipment",
+        "funding round",
+        "simulation",
+        "startup",
+        "TerraFirm"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "50757be6-d586-4603-b9da-98e6497b7b3d",
+    "cluster_id": "e2bd7524-85ee-42b7-bb35-9138e19c47de",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "South Korea to launch universal basic AI chatbot",
+    "teaser": "South Korea is rolling out a national 'universal basic AI chatbot,' requiring local tech giants to build the service and boost digital sovereignty.",
+    "summary": "South Korea plans to launch a 'universal basic AI chatbot' and service agent through a major tender, aiming to ensure every resident has free access to quality AI. This 'AI for everyone' policy emphasizes national digital sovereignty, requiring successful bidders to use locally developed AI models and operate the service within the country. The government will supply up to 256 Nvidia B200 GPUs, encouraging local tech giants like Kakao and Naver to participate. This move strengthens local AI capabilities, reducing dependency on foreign providers and bolstering the nation's sovereign tech infrastructure.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/public-sector/2026/07/15/south-korea-to-launch-universal-basic-ai-chatbot/5271566",
+    "date": "2026-07-15T04:54:11Z",
+    "image_url": "https://image.theregister.com/260291.jpg?imageId=260291&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "public sector South Korea to launch universal basic AI chatbot Tender calls for providers to power free service with local LLMs, government to supply some GPUs South Korea's government has posted a tender seeking suppliers to build a universal basic AI chatbot, and an AI agent for government services. The \"AI for everyone\" plan calls for private entities to create and operate the AI systems under contracts that expire in the year 2031. Bid documents reveal that Seoul will provide up to 256 Nvidia B200 GPUs to successful bidders. Winners must match government funding. The aim of the policy is to ensure that every resident of South Korea can access a free-to-use quality AI chatbot, a tool Seoul has decided no local should be without. The tender also calls for creation of an agentic system that allows citizens to interact with government services. South Korea's government wants to ensure that residents can always access a locally hosted and operated service, to reduce reliance on overseas providers and ensure that AI services reflect local culture. Successful bidders must therefore use locally developed AI models as the foundation for the services. Bidders have until August 11 th to file their proposals. South Korean media reports suggest local tech giants Kakao, Naver, SK Telecom, and LG are all keen to participate. The tender landed just weeks after the US government compelled Anthropic to prohibit all foreign nationals from accessing its Mythos 5 and Fable 5 models. Because Anthropic has no idea which passports its US-based users hold, it was unable to comply and therefore took both models online. The incident sparked increased interest in sovereign AI capabilities that would mean netizens in each country can't be cut off from AI services by policy decisions made abroad. South Korea's lawmakers are surely aware that funding free local AI services will improve the nation's sovereign capabilities. They also likely recognize that the country is fortunate to have a cohort of tech companies capable of doing the job. Messaging service Kakao is an equivalent to WhatsApp, while Naver is a Google analogue. Past policy decisions have those companies grow: South Korea has restricted Google's ability to run a mapping service on national security grounds, leaving mapping apps from Naver and Kakao vastly superior and making their other services more attractive. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5271566",
+      "rss_tags": [
+        "public sector"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]
