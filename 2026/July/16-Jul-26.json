@@ -1211,6 +1211,37 @@
     }
   },
   {
+    "id": "06868544-39fb-49e6-9ea8-6b0ae8ac79e6",
+    "cluster_id": "c35f035b-76c2-449c-b67b-ed676a7fdbd6",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "Ecovacs&#8217; self-cleaning Deebot X11 has hit a new low price",
+    "teaser": "Smart floor cleaning sees price drops and major upgrades: Ecovacs Deebot X11 drops to $699, while iRobot's Roomba Electro Plus uses tap water to disinfect.",
+    "summary": "The market for smart floor cleaning is rapidly advancing, with major brands like Ecovacs and iRobot introducing advanced models and price drops. Ecovacs cut the price of its Deebot X11 to $699, offering 19,500Pa suction, lidar, and a self-washing, auto-emptying dock. Meanwhile, iRobot introduced the non-robotic Roomba Electro Plus ($399), a 5-in-1 cleaner that sanitizes using electrolyzed tap water. iRobot also updated its lineup, with flagship models like the Roomba Max 775 Combo boasting 30,000Pa suction and hot-water mop washing, making advanced, automated cleaning increasingly accessible.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
+    "date": "2026-07-16T17:57:15Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ecovacsomnicyclone11deebots.webp?quality=90&strip=all&crop=0,10.403009371288,100,79.193981257424",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Sheena Vasani",
+    "content": "Sometimes it feels like keeping your floors clean is one of those never-ending chores, which is why it's nice to have a versatile robot vacuum take it off your hands. The Ecovacs Deebot X11 robovac / mop hybrid is designed to do just that, and it's now $699 ($400 off) at Amazon and directly from Ecovacs , which is a new low price. The Deebot X11 is the latest version of one of our former top picks for the best robot vacuum / mop. While the Matic has since taken its place in our rankings, the X11 remains an excellent option, especially at nearly half the price. It combines powerful 19,500Pa suction along with a handful of features that make cleaning feel nearly effortless, including lidar and a 3D camera that help it map your home and avoid obstacles. The extending roller mop reaches farther into corners and along edges, and automatically lifts itself to help keep rugs dry. Plus, mechanical levers help the robot get over thicker rugs, raised doorways, and uneven floors more easily. Maintenance is minimal, too. Every time the robot returns to its dock to rinse the mop, it also quickly tops off the battery, making it less likely to pause for a long break midway through a cleaning session. The bagless dock automatically empties the dustbin, then washes the mop with hot water and dries it. It also supports Matter, so you can control the bot using your voice via any major smart home platform instead of having to get up or even reach for your phone.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=966651",
+      "rss_tags": [
+        "Gadgets",
+        "Smart Home",
+        "Tech",
+        "Verge Shopping"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "fc99d891-bfb6-4d24-9d5b-ea3d31b4827a",
     "cluster_id": "c88ca5e8-6539-4c4c-8cc7-87d3f56ea207",
     "cluster_size": 2,
