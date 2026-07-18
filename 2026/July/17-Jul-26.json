@@ -42,6 +42,34 @@
     }
   },
   {
+    "id": "69bfc4b2-d686-48a3-bc1f-ee60c6e36208",
+    "cluster_id": "e7b8718b-3ef1-4a53-a320-347ee7ab4118",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "NTP server that traveled back in time caused massive Aussie mobile outage",
+    "teaser": "A time server glitch sent Telstra's network back to 2006, causing a massive, widespread outage that shut down emergency services and payments.",
+    "summary": "Telstra suffered a major connectivity outage affecting emergency services, payments, and transport networks. The technical cause was identified as a Network Time Protocol (NTP) server resetting its clocks to 2006. This incorrect time was broadcast across the network, causing various connected systems to deny legitimate connections. Telstra explained this failure resulted from an undocumented design change and the failure to implement a known software update. The crisis was deemed 'clearly unacceptable,' leading to extensive self-reflection and cooperation with regulators. The incident, which severely impacted 25 million customers, recalls the major Optus outage, demonstrating critical flaws in telecommunications maintenance and control procedures.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/networks/2026/07/17/ntp-server-that-traveled-back-in-time-caused-massive-aussie-mobile-outage/5274059",
+    "date": "2026-07-17T04:48:45Z",
+    "image_url": "https://image.theregister.com/239998.jpg?imageId=239998&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "networks NTP server that traveled back in time caused massive Aussie mobile outage Telstra skipped a patch, didn't record changes, had no idea it was an accident waiting to happen Australian telco Telstra has revealed the cause of the recent incident that caused widespread connectivity problems across its mobile networks, inculding outages to Australia's 000 emergency services line, plus outages to electronic payments services and transport networks. The carrier explained itself in a submission [PDF] to a Senate inquiry into outages affecting Australia's emergency services which initially investigated an outage at Telstra's main rival, Optus. The Optus incident is linked to multiple deaths after people could not reach emergency services. Telstra's submission reveals that the carrier's attempt to address a known resilience problem was the instigating incident. That problem was a faulty backup power feed in the chassis used to house a network time protocol (NTP) server. A few minutes before midnight on July 7, a Telstra techie started work to replace that chassis. By 3:38 AM on July 8, the worker had finished the job and powered up the server. The NTP server included a GPS card that Telstra says \"did not operate as expected\" when the server came back online. \"We now believe this occurred because of an intentional design change that had previously been made to the equipment to fix an earlier fault [which] had not been properly documented,\" the submission states. \"This meant the maintenance team was not aware of the way the device would behave when restarted.\" Telstra also admitted it had not applied a software update to the device, despite knowing of its availability in early 2026. \"Had that software update been completed or had the design change been properly reviewed and documented post the earlier incident, and reflected in the maintenance procedure, the outage may not have occurred,\" the submission states. The outage did happen because once the NTP server came online it reset its clocks to the year 2006. The server then did what NTP servers do: publish that time to myriad other machines across the network. Once those machines received the incorrect time, other kit on the Telstra network compared digital certificates and decided something dodgy was going on - so denied connections. Just one of Telstra's three NTP servers had this problem, but enough bad timing info made it onto the carrier's network to cause chaos. The telco isolated the bad box at 7:11 AM, and by 10:30 AM had identified all network components that used the bad time information the naughty NTP box broadcast. That wasn't the end of the matter, because as valid time information rippled across the network, some equipment didn't close IP sessions. Customer devices therefore couldn't reconnect to the network unless rebooted. The carrier has described the outage as \"clearly unacceptable.\" \"If maintenance work can trigger this kind of outage, it suggests our controls were not good enough. We are accountable for that, and our investigation will address why that design change was not documented, why the software update was not completed, and what needs to change in our controls so known risks are captured, prioritised and closed before they can affect customers.\" The carrier has done the usual thing by promising to conduct deep and lengthy self-reflection, submit itself to further flagellation at more inquiries, co-operate with a probe by the relevant regulator, and to do what it takes to prevent similar incidents. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5274059",
+      "rss_tags": [
+        "networks"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "9800dd13-058a-4f0a-8fe6-c8d1750ff49c",
     "cluster_id": "f71bafeb-cf6b-405d-ac0d-9b2c187eaa7b",
     "cluster_size": 1,
