@@ -221,6 +221,38 @@
     }
   },
   {
+    "id": "39088c38-c05e-4012-b65b-857fccdd6d3a",
+    "cluster_id": "4ae37eb7-a123-467d-b11e-bdd6e246bcdc",
+    "cluster_size": 3,
+    "source": "The Verge",
+    "title": "Samsung&#8217;s redesigned Z Fold 8 with a wide display just leaked",
+    "teaser": "Samsung's new Z Fold 8 redesign promises a wider, passport-like shape, and the Z Fold 8 Ultra sports a massive 50MP/200MP camera array.",
+    "summary": "Samsung is set to unveil its next generation of foldables at the Galaxy Unpacked event on July 22nd. Leaked images reveal significant redesigns for the Z Fold 8, which is rumored to adopt a wider, passport-like shape, along with the Z Flip 8 and Z Fold 8 Ultra. Key specs include the Z Fold 8's Snapdragon 8 Elite For Galaxy processor, and advanced camera arrays: the Z Flip 8 sporting a 50MP wide/12MP ultrawide cover camera, and the Z Fold 8 Ultra featuring a triple-camera setup (50MP ultra wide/200MP wide/10MP telephoto). Furthermore, Samsung offers a $30 store credit for early pre-orders of these highly anticipated devices.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak",
+    "date": "2026-07-17T15:52:50Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-galaxy-z-fold-8-evan-blass-leak.png?quality=90&strip=all&crop=0,13.311053682264,100,62.411150792275",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Stevie Bonifield",
+    "content": "Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The leaked images show a shorter, wider foldable matching earlier leaks of the Z Fold 8. They also reveal some of its specs, including a Qualcomm Snapdragon 8 Elite For Galaxy processor, 50MP wide and 50MP ultra wide rear cameras, 10MP selfie cameras on the inside and outside screens, and an advertised battery life of \"up to 26 hours of video playback.\" Blass also posted images of the Galaxy Z Flip 8 and shared images of the Galaxy Z Fold 8 Ultra in an email received by The Verge . They match glimpses of both phones shown in a Spider-Man teaser Samsung released earlier this week, and include a few specs. According to the images, the Galaxy Z Flip 8 will have a 4,300mAh battery, a 10MP main screen camera, and a 50MP wide / 12MP ultrawide cover screen camera, the same as the current Z Flip 7's camera setup. Blass's images also show the Galaxy Z Fold 8 Ultra advertising a 5,000mAh battery offering up to 27 hours of video playback. It also appears to have a 50MP ultra wide / 200MP wide / 10MP telephoto rear camera, along with 10MP cover and main screen cameras.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=967198",
+      "rss_tags": [
+        "Foldable Phones",
+        "Mobile",
+        "News",
+        "Samsung",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "d359628a-0b2f-495e-b16e-047f022b3307",
     "cluster_id": "60d57b8a-d479-468b-817b-2dfd44f9daa2",
     "cluster_size": 2,
@@ -331,6 +363,37 @@
         "Music",
         "News",
         "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "3dce9d30-8b83-4980-a9d8-283dcfc95732",
+    "cluster_id": "8879afcb-27be-4c1d-892d-7689368d9f7c",
+    "cluster_size": 7,
+    "source": "TechCrunch",
+    "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
+    "teaser": "SpaceXAI's Grok 4.5 model promises superior AI power and efficiency, priced dramatically lower than competitors.",
+    "summary": "SpaceXAI Corp. has launched Grok 4.5, positioning it as a cost-effective, powerful AI 'workhorse.' The new model claims to excel at various knowledge tasks, including coding and office work, while achieving superior efficiency with 'twice greater token efficiency' than its rivals. SpaceXAI advertises Grok 4.5's competitive edge through its pricing: just $2 per million input tokens and $6 per million output tokens. While the company asserts its performance is comparable to Anthropic’s Opus 4.7, it faces competition from models like OpenAI's GPT-5.6 Sol. *Note: A separate regulatory story details that San Francisco has ordered Apple and Google to remove 'nudify' apps due to non-consensual deepfake pornography, citing California law that criminalizes such activities.*",
+    "importance": 5,
+    "category": "ai_products",
+    "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+    "date": "2026-07-17T19:49:53Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Lucas Ropek",
+    "content": "The city of San Francisco has ordered Apple and Google to remove dozens of \"nudify\" apps - - software programs that can digitally alter pictures to unclothe the people in them - from their app stores. California law criminalizes any activity that \"knowingly facilitates\" or \"recklessly aids or abets\" the creation of non-consensual deepfake pornography. In 2025, California also passed a law that allows victims to pursue civil actions against third-party facilitators of such material. The city says that, despite these well-known regulations, both tech companies have continued to host and make money from such programs. \"Apple and Google are profiting off apps that exploit women and girls by generating nonconsensual intimate deepfakes,\" San Francisco City Attorney David Chiu said in an emailed statement to TechCrunch. \"While the companies cut ties with some problematic apps, Apple and Google have a responsibility to be proactive and vigilant to prevent sexual abuse.\" Letters sent to Google and Apple by Chiu's office, which were viewed by TechCrunch, note that the companies have \"been on notice\" for their role in \"processing payments for illegal purchases for almost a year\" but have, nevertheless, continued to do so. According to the letters, both companies have been repeatedly warned that they are hosting these apps. In January and again in April, the Tech Transparency Project issued reports and sent letters to both companies noting that there were \"dozens of apps\" within their app stores that \"sold deepfake NCII [non-consensual intimate images] in exchange for payments\" from processed by the firms. TTP's report from April said that Google and Apple had intentionally \"steered\" users towards such apps and called both companies \"key participants in the spread of AI tools that can turn real people into sexualized images.\" Additionally, Chiu told Wired that both companies had likely made \"millions of dollars in fees\" from apps that offered such services. The letters from Chiu's office warn that Apple and Google could face civil penalties for violating the law and request that they contact the city within 28 days. When reached for comment by TechCrunch, an Apple spokesperson said that nudify apps were forbidden from appearing in its App Store, further noting: \"We have removed three of the apps in question and are in the process of terminating their developer accounts from our program. We are in contact with four others that need to address policy violations or risk being removed as well.\" A Google spokesperson claimed that all five Play apps referenced in Chiu's letter had been suspended from Google Play. \"When violations are reported to us, we investigate and take swift action, which in the case of these apps has included suspending hundreds of violating apps and restricting related search terms like 'nudify' on our store,\" the spokesperson added. Deepfake pornography has largely been a problem for female celebrities, although nudify apps make it possible for anyone with a publicly available photo to be targeted. Update July 17: This article was updated to include statements from Google and Apple.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3143849",
+      "rss_tags": [
+        "Apps",
+        "Apple",
+        "deepfakes",
+        "Google"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -674,6 +737,37 @@
         "Gadgets",
         "News",
         "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "48743224-4652-4282-851e-c2b4bb67a508",
+    "cluster_id": "2d3627b3-40e1-481f-af58-bc10d35aea20",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "Is America ready for this quirky Jeep-looking EV that can park itself?",
+    "teaser": "Is America ready for a microcar revolution? New EVs like Chip Motors' LUV and Fiat's Topolino are turning the focus to hyper-functional, low-speed urban mobility.",
+    "summary": "A 'small car renaissance' is gaining momentum in the US, driven by the efficiency and appeal of micro-mobility EVs. Companies like Chip Motors and Fiat are capitalizing on the desire for compact, low-speed 'life utility vehicles' (LUVs) that challenge the traditional dominance of large SUVs. Chip Motors’ LUV operates at 25mph, utilizing an LFP battery for an estimated 100 miles of range, and features self-parking capabilities through remote teleoperation, aiming for Level 4 autonomy. Complementing this is Fiat's Topolino, a low-cost micromobility EV with a 19mph top speed. While the US market has historically resisted small cars, both companies pitch their vehicles as hyper-functional and emotionally appealing second cars for short urban trips. The trend suggests a potential shift in consumer preference towards localized, low-speed, and highly autonomous personal transport.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price",
+    "date": "2026-07-17T15:48:39Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ER4A6029.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Andrew J. Hawkins",
+    "content": "Are we living through a small car renaissance? There's the Slate Truck , Amble's dune buggy , and the Fiat Topolino , as well as a whole galaxy of kei cars and trucks from Japan that have their own built-in fan base. While microcar sales in the US are still as tiny as the vehicles themselves, there are some signs that Americans might not be as closed off to the idea of downsizing as you might think. The latest example is the launch of Chip Motors , a Miami-based startup with an adorably boxy, open-air electric vehicle that defies easy categorization. Is it a golf cart? A Jeep Wrangler that got hit with a shrink ray? A bit of both? The company calls Chip a \"life utility vehicle,\" or LUV for short, but a more accurate acronym would be LSV for \"low speed vehicle,\" similar to neighborhood electric vehicles from companies like Gem and Wink . It's top speed of 25mph means it's only legal on roads with 35mph speed limits or below. It's intended as a second vehicle for short trips to the grocery store or for kid pickups. There's a roll bar and a flat battery pack along the floor to protect occupants. And an LED screen on the front bumper acts as Chip's digital \"face\" as it smiles and responds to verbal commands. And it even parks itself using teleoperation, with the goal of eventually getting to Level 4, fully autonomous driving. In terms of the hardware, Chip runs on in-wheel motors and a 15 kWh lithium iron phosphate battery that can recharge overnight on a standard 110-volt household outlet, or in 4 hours using a Level 2/240-volt charger via a NACS charge port - though on its website, the company notes that charge times are \"illustrative,\" pending final specs. The LFP provides an estimated 100 miles of range, but that's just an estimate as well. Chip comes in four- and six-seat configurations, with the former starting at $15,000 and the latter at $18,000. You can reserve one today for $250, and the company says it will start deliveries in 2027. Microcars may be a dead end in the US, but sales of golf carts have been growing steadily since the pandemic , said Chip Motors CEO Jameson Detweiler. But Chip is more than just a gussied up golf cart. He says the tiny EV is designed to capture the feeling of freedom associated with scooters and bicycles while removing much of the \"mental overhead\" that comes with owning a traditional automobile. \"It's not small, -it's light,\" Detweiler said. \"And it's designed to be, like, hyper functional. And then also, like, it's cool!\" A serial entrepreneur, Detweiler sold his camera tech company to one of the largest e-scooter operators in Europe in 2022 before fully pivoting to Chip, which he says he's been working on for nearly 15 years. The idea was born from conversations he had while living in a hacker house in San Francisco around trends shaping cities and transportation. From there, Detweiler said he developed a belief that using large, heavy, expensive vehicles for short local trips is inherently inefficient. And as autonomous technology develops, he argued, transportation systems will become more efficient by matching the vehicle to the task. The pandemic allowed golf carts to \"escape the golf communities,\" he said, noting that the biggest driver in sales are young families in warm weather markets who are using them as second vehicles for short trips. This sparked Detweiler's curiosity: Where were the compelling electric versions? Of course, small cars exist. There's your Nissan Versas, your Mini Coopers, and your Honda Fits - all of which can be driven on surface roads and highways, aren't speed limited, and typically sell for around the same price that Chip is selling its EV. Detweiler argues that many compact European-style vehicles aren't built for the American market because they're not designed to coexist safely with large pickup trucks and SUVs. Chip, by contrast, is engineered specifically for US conditions. Beyond that, Chip is designed to have emotional appeal. Detweiler said he wants the vehicle to be unique and expressive rather than just affordable. But the lower cost of ownership, from zero dollars spent on gas to lower insurance premiums, could make Chip a better choice for a variety of consumers. And then there's the self-driving aspect - or, to start, a remote driving feature called \"Chip Go!\" The pitch is that owners will be able to summon their Chip EVs with the tap of an app, or even a vocal command. Likewise, they can tell it to park itself or send it out to run errands without anyone behind the wheel. Detweiler's philosophy is that driving can be enjoyable, but parking almost never is. Speaking from his own experience living in Miami with two young children, he says the worst part of any outing is navigating parking garages, unloading children and strollers, and making multiple trips between the car and destination. Chip will eventually get to Level 4 autonomy, he predicts, but for now will require remote operators to power these features. In terms of latency concerns, Detweiler explained that the cellular networks are already well-versed at mitigating latency spikes by intelligently managing their connections. Also because Chip's vehicles travel below 25 mph on neighborhood streets, teleoperation becomes substantially easier than managing high-speed highway driving, he argued. But he declined to provide more specifics about the teleoperation system, noting that the company intends to continue developing it over time. That said, Chip intends to take legal responsibility for its vehicles while they're being remotely operated. \"I believe that we are going to be the first mass market American robot.\" - Jameson Detweiler, CEO of Chip Motors Chip's launch video portrays a whimsical scenario in which the EV responds to conversational commands and makes funny quips. Detweiler said that wasn't Hollywood magic, describing a system in which Chip participates in the family's group chat, connects to calendars, monitors traffic conditions, and proactively reminds owners when they should leave earlier than planned. \"I believe that we are going to be the first mass market American robot,\" he said. \"It's just not gonna be on two legs in the kitchen chopping tomatoes, which is a little bit terrifying to me. It's gonna be out there rolling around in a form factor that we're all used to.\" But the question remains: Is America ready for a microcar revolution? Detweiler thinks so, pointing to the company's own research into imports and sales that he says shows the segment has grown roughly 15 percent annually since 2021. Still, Chip has broader ambitions, looking into more weatherproofed vehicles for colder climates and more highway-capable versions. Unlike many modern EVs, getting to 60 mph might take \"a few minutes,\" Detweiler joked - he later clarified it was possible in just 8 seconds - but this future vehicle will be highly capable in autonomy and everyday usability. Today, it might be the ideal second car. But with Waymo and other robotaxis possibly changing transportation patterns in the future, it may end up being the only car you'll ever need to own. Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Andrew J. Hawkins Autonomous Cars Cars Electric Cars Transportation",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=966498",
+      "rss_tags": [
+        "Autonomous Cars",
+        "Cars",
+        "Electric Cars",
+        "Transportation"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -1059,6 +1153,45 @@
         "News",
         "Tech",
         "TikTok"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "7be159a9-ed81-4e06-babe-6aeae096011a",
+    "cluster_id": "150faf75-5475-4a48-9f0b-bfc5994e46e3",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "Inference cloud operator General Compute raises $400M in debt financing",
+    "teaser": "AI infrastructure sees major capital influx ($400M funding), while industry experts warn that insufficient capital, not compute, is throttling data center growth.",
+    "summary": "The AI infrastructure market is undergoing significant capital expenditure, highlighted by General Compute Inc. securing $400 million in debt financing to expand its cloud capacity. General Compute distinguishes itself by basing its inference platform on chips from AMD and SambaNova Inc., optimizing for both the prefill phase (AMD MI300X) and decoding (SambaNova). Separately, industry analysis points to a fundamental systemic constraint: a lack of capital, rather than power or compute, is slowing data center deployment. Andrew Sobko of Argentum AI details this 'capital stack' bottleneck, explaining that Argentum's 'demand-first' model accelerates projects by securing contracts and capital upfront, allowing developers to rapidly deploy infrastructure and capitalizing on the surging demand for AI compute.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/17/inference-cloud-operator-general-compute-raises-400m-debt-financing/",
+    "date": "2026-07-17T20:20:46Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/cloud.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Artificial intelligence infrastructure startup General Compute Inc. today announced that it has secured $400 million in debt financing. Upper90, the investment firm that is underwriting the round, will initially provide the company with $100 million. General Compute plans to draw down additional funds as customer demand increases. Unlike most AI infrastructure providers, General Compute is not using Nvidia Corp. graphics cards. The company has based its cloud platform on chips from Advanced Micro Devices Inc. and SambaNova Inc., a fellow startup that recently raised $1 billion in funding. AI models answer user prompts through a two-step workflow. They start by extracting the meaning of a prompt, a step known as the prefill phase. They then generate a response one token at a time in a process known as decoding. The decoding phase requires AI models to move a significant amount of data between the host chip's memory and processing circuits. SambaNova's accelerators are specifically optimized to speed up that workflow. As a result, they can perform decoding faster than some Nvidia graphics cards. The speed at which data moves between a chip's memory and processing modules depends on the physical distance between the circuits. The closer they are to each other, the less time it takes data to complete the trip. The memory and processing circuits in SambaNova's chips are placed immediately next to one another, which minimizes data travel times. General Compute uses SambaNova silicon to run decoding calculations. It performs the other step involved in inference workflows, the prefill phase, using AMD's MI300X graphics card. The chip contains 12 dies and eight memory stacks that together contain 153 billion transistors. The MI300X and SambaNova's chips are designed to run in standard air-cooled server racks. As a result, General Compute can add capacity to its cloud without investing in the pricey liquid cooling equipment that most graphics cards require. That translates into faster infrastructure upgrades. General Compute enables customers to access its inference hardware through two services. The first offers managed versions of open-source language models. Developers can access the models through an application programming interface modeled after the one used by OpenAI Group PBC, which eases the learning curve. General Compute's second service provides dedicated infrastructure environments with more computing capacity. The company will use its debt financing to expand its cloud. According to a document on its website, General Compute has inked agreements that give it the option to purchase 15 megawatts' worth of air-cooled rack capacity in co-location facilities. The company expects that infrastructure to be sufficient for its fourth-quarter growth plans. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=793054",
+      "rss_tags": [
+        "Infra",
+        "NEWS",
+        "The-Latest",
+        "AI",
+        "AMD",
+        "chip",
+        "debt financing",
+        "General Compute",
+        "inference",
+        "SambaNova",
+        "SN50",
+        "startup"
       ],
       "fetch_ok": true,
       "fetch_status": 200,

@@ -383,6 +383,38 @@
     }
   },
   {
+    "id": "8be7aa2a-d384-4a57-9b8a-378033e0190d",
+    "cluster_id": "10010dab-241c-4d38-9816-282c8869d77e",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+    "teaser": "Dave Eggers warns OpenAI staff that ChatGPT's use in student composition is 'silencing an entire generation' by undermining the ability to learn how to write.",
+    "summary": "Author Dave Eggers delivered a sharp critique of OpenAI's ChatGPT to staff, arguing that the tool is having a detrimental effect on learning and creativity. Eggers stated that the technology's use by students to compose work is 'silencing an entire generation' by preventing them from developing their unique voice and ability to write. He warned that the impact on educators' lives is 'catastrophic.' His concerns reflect his previous critical work regarding the tech industry and his dismissal of AI-generated content as 'pastiche nonsense.'",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+    "date": "2026-07-18T20:54:42Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&strip=all&crop=0%2C2.5961195218394%2C100%2C43.073649479563&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels , screenplays, pieces of journalism, started McSweeney's , and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer tips on being relentlessly prolific, or how to excel in multiple fields. Instead, he apparently laced into the company. According to the Financial Times , Eggers told the staff: \"The effect of ChatGPT on educators' lives is catastrophic. Whether you intended to do it or not, you've made every teacher's life infinitely more difficult than it was two years ago. So, just let that settle in... If students are using it to compose, which is the biggest tragedy of all, they'll never learn to write. And their voice is stolen from them. They'll never have the ability to say their truth and tell their own story. And that's silencing an entire generation or two.\" To be fair, Altman likely knew what he was getting himself into. Eggers' best-selling novel The Circle is a scathing critique of the tech industry. And he's called AI-generated writing \"pastiche nonsense.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=967630",
+      "rss_tags": [
+        "AI",
+        "Books",
+        "Entertainment",
+        "News",
+        "OpenAI"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "9ae73539-0469-43c7-9001-1786da4445f5",
     "cluster_id": "144ab1bf-0b9f-4f5a-b332-b696054062b5",
     "cluster_size": 1,
@@ -502,6 +534,32 @@
         "News",
         "Tech"
       ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "57ee521f-548f-4eb2-8d55-200dc469a2e4",
+    "cluster_id": "a04fdfb7-6cf1-4694-b205-416d74242b39",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+    "teaser": "Mayor Mamdani cracks down on deceptive practices, banning landlords from using AI-generated images in property advertising.",
+    "summary": "Mayor Mamdani has announced a policy restricting how landlords can advertise properties. Specifically, the mayor has stated that landlords are prohibited from utilizing AI-generated images in their advertisements. This move signals a local attempt to regulate the use of synthetic media in the real estate sector, potentially impacting how housing availability and property features are marketed to consumers.",
+    "importance": 3,
+    "category": "policy",
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "date": "2026-07-18T22:13:39Z",
+    "image_url": "https://petapixel.com/assets/uploads/2026/07/mamdani-copy.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "gnabgib",
+    "content": "© 2026 PetaPixel Inc. All rights reserved.",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=48962983",
+      "rss_tags": [],
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
