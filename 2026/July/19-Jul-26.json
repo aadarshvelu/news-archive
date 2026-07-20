@@ -85,6 +85,37 @@
     }
   },
   {
+    "id": "1c13bde7-11cb-441f-a2ce-0e4891afa18e",
+    "cluster_id": "88611523-a36d-43e8-8ebc-eed78ddd90fd",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "What to watch for after Jensen Huang’s Japan visit",
+    "teaser": "Japan is building a 'sovereign AI' factory and commanding its industrial elite to adopt Nvidia's platforms, making the physical world the next frontier for AI.",
+    "summary": "Nvidia is driving Japan's shift toward 'physical AI' by establishing a comprehensive national infrastructure and forming deep partnerships with Japanese industrial giants. The goal is to revolutionize manufacturing and robotics, allowing machines to perform sophisticated tasks in the real world. Japan's strategic push, backed by a ¥1 trillion commitment, aims for self-reliance in AI and seeks to capture over 30% of the global AI robotics market by 2040. Key projects include Noetra, a sovereign AI platform, and Nvidia's planned 'Vera Rubin AI factory' by 2028. Major Japanese players, including Toyota and Sony, are adopting Nvidia's Cosmos models, accelerating the integration of AI into factory floors and advanced vehicles. This move positions Japan to reclaim its role as a leader in intelligent industry.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+    "date": "2026-07-19T21:16:07Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/getty-japan-flag-distance.jpg?resize=1200,827",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Kate Park",
+    "content": "Nvidia's chief Jensen Huang spent two days - July 15 and 16 - in Tokyo, courting Japan's industrial and chip-supply elite, weeks after a keynote in Taiwan, and months after a visit to South Korea . He left with deals spanning Japan's entire tech ecosystem: a national AI factory, partnerships with the country's leading robotics companies, and agreements with the chip-material suppliers powering Nvidia's next generation of AI chips. His message was clear. Nvidia is targeting Japan's factory floor, and many of the country's biggest manufacturers are joining in. AI's next chapter, Huang said, belongs to factory floors, robots, and machines, and he wants Japan to build it. Thirty years ago, a $5 million Sega investment helped keep a near-bankrupt Nvidia afloat; today, Nvidia and Japan's industrial giants need each other again - this time to build the physical-AI era, starting with these three projects: Noetra - Japan's sovereign-AI play. The country doesn't want to run its factories and robots on American or Chinese AI. So, the government pulled together roughly 44 domestic firms, with SoftBank, Sony, NEC and Honda at the core, to build its own AI for robots, vehicles and factory floors. Tokyo is committing up to 1 trillion yen ($6.2 billion) over five years , a bet on homegrown \"physical AI\", foundation models built to run machines. Japan wants to own the software brain. The hardware to build it, though, still comes from Nvidia. The U.S chip giant is building \"a Vera Rubin AI factory\", a massive data center packed with its next-generation chips, expected to launch in 2028, with 13,750 Vera CPUs and 27,500 Rubin GPUs , delivering 140 megawatts. Noetra will oversee the effort, with plans to build the data center. Noetra's plan runs in three stages : a reasoning model heavy on Japanese-language skills starting in fiscal 2026; an omni-modal version handling text, images, video, and audio by 2028; and \"Real-world Native AI\" built to run robots by 2030, released to outside Noetra developers in phases. The robotics coalition - Japan's industrial giants line up behind Cosmos. Nvidia is targeting Japan's factory floor, and many of the country's top robotics and manufacturing players are signing on. Fanuc, Yaskawa, Kawasaki Heavy, Fujitsu, Hitachi, NEC, Sony, SoftBank, Kubota and robotics group AIRoA say they plan to build on Nvidia's Cosmos models, an open-model effort Nvidia started in May with a handful of global AI labs. In Tokyo, Nvidia gave them a reason to commit, unveiling Cosmos 3 Edge , a version of the model that runs on its Jetson Thor chips inside the machines themselves. Some are already testing a shared control system; others, like Honda R&D and Omron, are building on the tools now. \"The next frontier of AI is in the physical world, and this is a once-in-a-generation opportunity for Japan,\" Huang said in the company's statement. \"Japan invented modern manufacturing. Now, it has the opportunity to reinvent it for the age of intelligent industries.\" Toyota - cars and physical AI. Toyota uses Nvidia chips across much of its stack. It committed its next-generation vehicles to Nvidia's Drive platform at CES in January 2025 ; the newer work extends Nvidia into its manufacturing, where simulations are used to design production lines, into the software that runs its vehicles, and into systems that read road traffic. Toyota's cars will run advanced driver assistance, which steers and brakes but still requires a driver, a more conservative approach than Waymo and Tesla, which are developing systems that rely less on a human driver. Why it matters Huang's visit put physical AI at the center of Japan's industrial strategy, and Tokyo is spending to back it. Facing a shrinking workforce, Japan wants 10 million AI-equipped robots across 18 sectors by 2040, backed by $65 billion in public and private physical-AI investment . The longer game is bigger. Japan's AI Robotics Strategy, released in March, aims to capture more than 30% of the global AI robotics market by 2040, a market Tokyo values at roughly ¥20 trillion, or about $133 billion. METI is funding a domestic foundation model to run the machines, and Noetra's Nvidia-powered factory is where models of that scale, into the trillions of parameters, would be trained. The wager is that Japan's factory-floor data and manufacturing base can do for physical AI Underneath the industrial case is a sovereign one. As the U.S. and China pull ahead in large-scale AI, Tokyo wants its own data, its own compute, and less dependence on infrastructure it doesn't control. Huang appeared on July 16 alongside trade minister Ryosei Akazawa at the government's physical-AI launch, with Prime Minister Sanae Takaichi joining by video. The Takaichi administration has made AI and semiconductors the centerpiece of a growth plan chasing ¥370 trillion ($2.3 trillion ) in public and private investment by 2040. Noetra's factory - which Nvidia bills as \"the world's first national AI infrastructure\" - is the clearest bet yet. Japan's push for independence, at least for now, rests on American chips.ndence runs on American silicon. Working the whole room In two days, Huang sat across from nearly every name that matters in Japanese tech - the CEOs of Toyota, Fanuc, Yaskawa, Fujitsu and Kawasaki over lunch, and dozens of supply-chain chiefs over skewers and whisky in a Kanda izakaya. It's the same playbook he ran weeks earlier - a homecoming keynote in Taiwan, fried chicken , and a 50,000-GPU deal in Seoul last fall. This time, it was Tokyo's turn, with the robots, the supply chain, and the chips underneath.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3144105",
+      "rss_tags": [
+        "AI",
+        "Japan",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "d7f37c8a-a5fc-4b69-ad4c-ada56b28f445",
     "cluster_id": "7ec58b86-56ab-45a2-af75-7266e410586c",
     "cluster_size": 1,
@@ -307,6 +338,37 @@
     }
   },
   {
+    "id": "b8ac9847-98b9-4e7e-99f7-5189453878b3",
+    "cluster_id": "369f1879-4f70-4747-b78b-056ba71c6cf6",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+    "teaser": "Four Tet's mysterious 'Wingdings' project features unpronounceable glyphs and incredibly polished soundscapes—a true celebration of modern electronic music.",
+    "summary": "This deep dive features Kieran Hebden (Four Tet)'s mysterious and unpronounceable project, titled 'Wingdings.' Despite its bizarre glyph-based branding, the music is highly polished and critically acclaimed. Four Tet showcases his signature sound design, blending crushed 8-bit drums, hypnotic handpan grooves, and sharp synth melodies. While suitable for finding your groove (perfect for writing or cleaning), the album avoids being high-octane rave material. Instead, it offers an ecstatic and spiritual celebration, featuring tracks with deep four-on-the-floor beats and metallic gamelan-inspired melodies. 'Wingdings' is widely accessible across major streaming platforms, including Spotify, Apple Music, Deezer, and Qobuz.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+    "date": "2026-07-19T21:02:45Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/four-tet-wingdings.jpg?quality=90&strip=all&crop=0%2C5.1234106207928%2C100%2C89.753178758414&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "ʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌　҉　　　　　͡　͞　͞　͞　҉● ࿀ ●  ࿀  ●　　　҉⃝ 　　　⃝͢ ͞　　　͘　͞⃝̕ ͢　　　　̛　⃝ 　　　̸　̡　　͢⃝̧ 　͡　͡　　̀　̧　̢⃝͜ 　 　҉　　͞　͞　⃝͞ 　͞　͡⃝  ⃝҉҈҉҈҉҈҉҈҉҈҉ :̶̢͙͙͕̠̩͆(̷̮͍͚̫͚͂̍)̵̳̗̊(　̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥ What am I supposed to do with this? It's un-Googleable. Unpronounceable. It doesn't even render the same way on various platforms. It looks one way on YouTube Music. Another on Apple Music. And yet another on Bandcamp. Even the artist name ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ is an unpronounceable series of glyphs that would make Prince shake his head. So, from here on out, I'm just going to refer to ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ by his more well-known alias, Four Tet, and the album as Wingdings . My apologies to Kieran Hebden for disregarding his intent, but I've got readers to consider. Also, shoutout to subscriber morgannels for bringing this one to my attention in last week's what are you listening to thread. For years, Hebden has kept this alias somewhat of a secret. But now that this collection of wingdings has racked up millions of listens on services like Spotify, it's get a more formal release with wingdings . Some of the tracks here have been released previously, including track five, which Fred Again dropped during his incredible Boiler Room set as \"Feelings,\" under one of Hebdens' other aliases, KH. Wingdings leans heavily towards Four Tet's dancier outputs. And, despite what the project's origins as some sort of secret b-side dumping ground might lead you to believe, these are not throwaways. They're undeniable, infectious, and highly polished. Four Tet's sense for sound design shines from crushed 8-bit drums to the hypnotic handpan grooves and sharp synth melodies. While the songs are definitely groovy and danceable, they're not high-octane rave-ups, for the most part. Instead, tracks like number seven build to a more ecstatic and spiritual climax as layers pile up and textures demand you turn your eyes towards the sky. Not unlike last week's recommendation, Shall We Go On Sinning So That Grace May Increase? , Wingdings is a celebration. No, I might not drop the triphop-esque track one at the club, but it's perfect for finding your groove while trying to write, or cleaning, or any other activity where you want good vibes and grooves. Track two would feel more at home on a dance floor with its deep four-on-the-floor thump and plucked arpeggios that seem to be constantly climbing off into infinity as house hi-hats tick along. Track three blends metallic gamelan-inspired melodies and ultradeep EDM wubs, while track eight is beautiful comedown ambiance. Four Tet's Wingdings is available on Bandcamp and most major streaming services, including Apple Music , Spotify , Deezer , and Qobuz . Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Terrence O'Brien Column Entertainment Music Music Review",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=967696",
+      "rss_tags": [
+        "Column",
+        "Entertainment",
+        "Music",
+        "Music Review"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "9933fb7b-6eba-49bd-a077-a3a0ea1e4630",
     "cluster_id": "2e21432f-00f3-4fa8-ae64-69cd4105f602",
     "cluster_size": 1,
@@ -332,6 +394,36 @@
         "Smart Home",
         "Tech",
         "Version History"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "0082bd00-9560-4074-8f9b-ba8d7cf8f765",
+    "cluster_id": "69eb42d2-9fb1-4d35-bfd2-ccceb3edfb1b",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+    "teaser": "Kodak releases the EC35, a dirt-cheap $34.99 point-and-shoot camera with a retro flair, capturing a perfect 'disposable' aesthetic.",
+    "summary": "Reto Project has released the Kodak EC35, an affordable 35mm film point-and-shoot camera priced at $34.99. Despite its low cost, the camera is designed for simple operation, featuring a built-in automatic flash and a sliding lens cover reminiscent of classic Olympus models. Its functional limitations, such as a fixed f/10 aperture and manual winding mechanism, give it a distinctly vintage, 'disposable' aesthetic. The EC35 is available in several fun colors, including butter yellow, lavender, and avocado green.",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+    "date": "2026-07-19T19:26:06Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/rsz_1233241238.webp?quality=90&strip=all&crop=0%2C3.4750998734523%2C100%2C93.049800253095&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Following the success of its $99 Kodak-branded Snapic A1 , Reto Project is releasing the Kodak EC35 , an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a fixed f/10 aperture and 1/100 shutter speed basically put it on par with a drugstore disposable. The fact that it has a manual wind and rewind only emphasizes that. And you can really lean into that disposable aesthetic thanks to its built-in automatic flash. Unlike the A1, there's no double exposure feature here or zone focusing. The EC35 is designed to require almost no thought to use. Its one special feature is the sliding lens cover, reminiscent of the Olympus Stylus / Mju lineup. It also comes in a bunch of fun colors, including butter yellow, lavender, powder blue, blush pink, and avocado green. The lens covers are a slightly darker shade than the rest of the camera body, giving them some nice subtle contrast. Even the midnight black and vanilla white feature different colored accents, making them slightly more stylish than a disposable camera. Here are a few sample shots from the Kodak EC35:",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=967687",
+      "rss_tags": [
+        "Cameras",
+        "Gadgets",
+        "News"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
