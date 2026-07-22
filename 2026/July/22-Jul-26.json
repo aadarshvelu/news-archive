@@ -1,0 +1,112 @@
+[
+  {
+    "id": "a6737b7a-ffe5-44ba-8218-f8add06bdd72",
+    "cluster_id": "126c1f9d-969a-4cea-af39-140b89f35276",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "SkyPilot nabs $20M to ease AI infrastructure management",
+    "teaser": "SkyPilot secured $20M and Fluidstack raised $830M to power the AI boom, slashing data center build times to months.",
+    "summary": "The AI infrastructure space is undergoing rapid scaling, highlighted by major funding rounds for specialized tech firms. SkyPilot, which raised $20M, offers a platform to manage the complex, fragmented infrastructure required for AI projects, allowing developers to operate across mixed cloud and on-premises environments. Concurrently, Fluidstack secured $830M to build the physical backbone. Fluidstack is partnering with Anthropic on a massive $50 billion U.S. infrastructure build, proposing a revolutionary approach that uses prefabricated, factory-built modules and robotics to cut construction times to just six months. These advances underscore the industry's shift toward high-speed, automated, and integrated compute power.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/21/skypilot-nabs-20m-ease-ai-infrastructure-management/",
+    "date": "2026-07-22T01:10:46Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/SkyPilot.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Infrastructure automation startup SkyPilot Inc. launched today with $20 million in seed funding. Lux Capital led the raise with participation from several other institutional backers. The funds were joined by Databricks Inc. Chief Executive Officer Ali Ghodsi, Google LLC Chief Scientist Jeff Dean and other prominent angel investors. San Francisco-based SkyPilot commercializes an open-source project of the same name. It was developed at the University of California at Berkeley by the company's founding team, which includes Databricks co-founder Ion Stoica. The software makes it easier for enterprises to manage the infrastructure they use in artificial intelligence projects. Companies often mix and match different types of AI infrastructure. For example, an enterprise might run inference workloads in the cloud while keeping its training environments and the associated datasets on-premises. In many cases, each infrastructure environment contains different chips and management tools. Managing hardware assets with diverging technical parameters can be highly challenging. Usually, moving workloads between different infrastructure types requires extensive code changes. Additionally, automation workflows that run reliably in one environment might not work well in another. SkyPilot's eponymous open-source tool eases the task. It enables developers to manage infrastructure environments with different configurations through a single interface. According to the company, the software also automates several common maintenance tasks. Developers can sometimes make an AI cluster more efficient by changing which server runs what workload. If a machine with 10 gigabytes of memory runs a 6-gigabyte workload, an engineer could replace it with two 5-gigabyte workloads. That optimization approach is known as bin packing. SkyPilot says that its software performs the task automatically to save time for users. When an AI workload's hardware requirements increase, the software automatically provisions additional infrastructure. It can also fix certain types of technical issues without human input. SkyPilot makes money from the software with a paid version called the SkyPilot Platform. It includes a tool for creating inference sandboxes, virtual machines in which AI agents can run code without creating cybersecurity risks. Developers may customize the virtual machines by adding in components such as programming tools. Launching an inference sandbox can take a significant amount of time in some cases. According to SkyPilot, its platform speeds up the task by loading virtual machines before they're needed. That enables the software to activate a new sandbox in under a second when it's requested by an AI agent. The SkyPilot Platform also speeds up AI training runs. The company says that it can launch graphics card clusters with 5,000 chips in under a minute. For added measure, a tool called the SkyPilot GPU Manager regularly checks the accelerators' health and fixes any technical issues it finds. \"Every organization is building custom intelligence around its own data and domains,\" said SkyPilot co-founder and CEO Zongheng Yang. \"The challenge is that the AI compute needed to build it is fragmented across clouds. SkyPilot gives frontier AI teams a single platform to manage that infrastructure so they can build custom intelligence faster.\" SkyPilot will use its funding round to enhance the paid and open-source versions of its platform. The company also plans to grow its headcount. Photo: SkyPilot A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=793588",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "AI agent",
+        "AI training",
+        "funding round",
+        "inference",
+        "infrastructure",
+        "investment",
+        "Open Source",
+        "SkyPilot",
+        "startup"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "3ad3f92d-879e-43f0-80c7-f10fe1ad1d78",
+    "cluster_id": "960de33e-0006-4744-8685-d9746fc9e901",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "Mistral AI strikes multibillion-dollar deal with Microsoft to build out Azure infrastructure in Europe",
+    "teaser": "Amid strong local deals, tech sovereignty remains elusive: Experts warn Europe's AI push is still critically dependent on US cloud providers and hardware.",
+    "summary": "Europe's push for AI and tech sovereignty is marked by significant private deals, such as Mistral AI's multibillion-dollar partnership with Microsoft. This collaboration will bring Mistral's leading models (Medium 3.5, OCR 4) to specialized, localized Azure environments (Azure Local) across Europe, enabling regulated industries to maintain strict data residency and privacy standards. Conversely, external analysis cautions that these infrastructural gains do not signal true independence. Forrester notes that despite local efforts, Europe remains critically dependent on US-owned cloud infrastructure (AWS, Azure, Google) and hardware (Nvidia), confirming that technology sovereignty is concentrated globally in the hands of major US and Chinese powers.",
+    "importance": 5,
+    "category": "ai_research",
+    "url": "https://siliconangle.com/2026/07/21/mistral-ai-strikes-multibillion-dollar-deal-microsoft-build-azure-infrastructure-europe/",
+    "date": "2026-07-22T02:04:06Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-22-09-01-45.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Mike Wheatley",
+    "content": "French artificial intelligence startup Mistral AI SAS has struck a multibillion-dollar deal with Microsoft Corp. to expand its computing infrastructure in Europe and increase the availability of its top large language models in the U.S. In an announcement today, Microsoft said that Azure cloud customers will soon be able to develop software using Mistral's data centers located in France. The agreement gives Microsoft more capacity to cater to AI customers in Europe, while enabling regulated industries to access an alternative to U.S.-owned models and computing infrastructure. The deal also sees two of Mistral's top models listed in Microsoft Azure's Foundry, which is a cloud-based service for developing AI applications. Mistral Medium 3.5 and OCR 4 have both been added to Foundry's model catalog. The former is an open-weight model that can be customized and deployed within managed Azure environments, while the latter is designed for structured document processing workloads, automation and agentic workflows that require data to be extracted from business documents. With Azure Foundry, businesses can discover, customize and deploy AI models and agents within the Azure cloud. The platform extended these capabilities to Azure Local environments that are located close to their customer's data, employees and physical operations to address data residency requirements. With these models, companies will be able to develop AI applications once and then deploy them in different environments, based on regional data laws, and also their operational and connectivity requirements. For example, a European manufacturer might want to use locally deployed models to analyze its production facilities and quality data while protecting its intellectual property. Alternatively, a healthcare organization might want to implement AI-enabled workflows while adhering to strict privacy and data residency laws. Europe reaching for AI independence The announcement underscores the renewed push by European governments to reduce their dependence on U.S.-made technology and ensure they have more control over their future economies. Though the push for \"sovereign\" AI is nothing new, it has taken on greater urgency in recent weeks after America shocked some of its European allies by blocking their access to leading models from Anthropic PBC and OpenAI Group PBC due to what it said were \"security concerns.\" Microsoft President Brand Smith told Reuters in an interview that the partnership will enable this sovereignty while still providing European firms with access to cutting-edge U.S. software capabilities and security features. \"By ⁠putting Mistral's models on Azure Local and on Mistral's computational capacity, we can combine American and European technology and do it in a way that provides continuous and assured access,\" he promised. While the partnership may seem promising for sovereignty efforts, there's a long way to go before European countries can claim true independence from U.S. technology. For instance, European-designed and manufactured chips are almost non-existent. Even in Mistral's European data centers, the vast majority of the AI chips will be supplied by Nvidia Corp. and others, such as Advanced Micro Devices Inc. Mistral Chief Executive Arthur Mensch declined to comment on a report published by Bloomberg last week that his company is looking to raise €3 billion (around $3.4 billion) at a €20 billion valuation, and also said Microsoft won't be increasing its stake in the company through today's deal. Like Nvidia, Microsoft is a key investor in Mistral. The Paris-based frontier model lab has become one of Europe's brightest lights in the AI industry. Though its valuation has not kept pace with U.S. giants such as OpenAI and Anthropic, it's regarded as an extremely capable AI developer, with top-performing models targeting areas such as manufacturing, financial services and the defense industry. One of its biggest customers is the French armed forces. Mensch said the deal underscores how Microsoft and his company are making real progress toward \"closing the gap on the infrastructure side\" in Europe. He has previously said the company aims to have 1 gigawatt of compute capacity up and running by 2030, and believes today's agreement validates those ambitions. Image: Mistral AI A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=793608",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "AI infrastructure",
+        "AI sovereignty",
+        "Arthur Mensch",
+        "Brad Smith",
+        "data centers",
+        "Microsoft",
+        "microsoft azure",
+        "Microsoft Foundry",
+        "Mistral AI",
+        "Mistral models",
+        "Open Weight Models",
+        "open-source models",
+        "sovereign AI"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "3c8df295-744a-4f2c-a0c2-38cc09b1c3a3",
+    "cluster_id": "1fdb319b-1e1f-49a0-b0a6-3559c9358133",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "China advances plans for national single-stack IPv6 network, and its own surveillance-friendly version of the protocol",
+    "teaser": "China plans a single-stack IPv6 network by 2030, but the focus on 'IPv6+' raises alarm over its surveillance-friendly metadata capabilities.",
+    "summary": "China has issued a sweeping plan to transition to a national single-stack IPv6 network by 2030, aiming for 950 million active users and 42% of all network traffic. While mandating the widespread adoption of IPv6, the core concern is the push for 'IPv6+', a non-standard protocol. IPv6+ allows senders to embed metadata within data packets, enabling sophisticated monitoring. Critics warn that this capability offers 'obvious appeal for authoritarian regimes' like Beijing, facilitating targeted censorship and traffic control. China is already implementing and exporting equipment based on this surveillance-friendly protocol, signaling a move to control internet infrastructure both domestically and internationally.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://www.theregister.com/networks/2026/07/22/china-advances-plans-for-national-single-stack-ipv6-network-and-its-own-surveillance-friendly-version-of-the-protocol/5275984",
+    "date": "2026-07-22T02:55:30Z",
+    "image_url": "https://image.theregister.com/232573.jpg?imageId=232573&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Networks China advances plans for national single-stack IPv6 network, and its own surveillance-friendly version of the protocol IPv6+ could make it easier to censor netizens or block traffic, and Beijing is already exporting it China's Cyberspace Administration on Tuesday issued a plan for wider adoption of IPv6 between now and 2030, and for more work on a non-standard set of services that Beijing calls \"IPv6+\". The Implementation Plan for Deepening Technological Innovation and Integrated Application of Internet Protocol Version 6 (IPv6) (2026-2030) contains the usual promises to increase use of IPv6. Beijing wants 900 million users to be connected over IPv6 by 2027, and for the protocol to carry 38 percent of network traffic. China also wants all connected devices to be IPv6-enabled by 2027. \"By 2030, IPv6 will be widely and deeply integrated with all sectors of the economy and society, building a technologically advanced, open, innovative, self-driven, and secure IPv6 industrial ecosystem,\" the regulator wrote . \"The number of active IPv6 users will reach 950 million, and IPv6 will account for 42 percent of network traffic.\" The Administration also expects that by 2030, \"New networks will be prioritized for IPv6 addresses by default, accelerating the evolution towards IPv6 single-stack, and promoting the formation of a network service and application system dominated by IPv6.\" News that China is planning for the day it runs a single-stack internet will excite some, notwithstanding the fact that IPv6 has proven less important than its creators hoped . The most interesting part of the new plan is the call for more work on IPv6+ - a set of enhancements to IPv6 that allows those who send information to embed metadata describing content into packets and even suggest the route it should take. As Think Tank the Mercator Institute for China Studies last year observed , IPv6+ \"has obvious appeal for authoritarian regimes looking to control their citizens,\" because a carrier could read metadata and act on it. One possible action could be to allow network operators to identify traffic they would like to charge extra to carry, an idea telcos like because they feel it is unfair that they bear the burden of investing in last-mile infrastructure to deliver content from the likes of Netflix and YouTube. Reading metadata could also enable censorship: Beijing already blocks a lot of content, and if dissidents had to identify themselves in packets, they'd be easier to find and block. The Institute also notes that China's telco equipment companies have implemented IPv6+ and exported kit that runs it to several nations. That's worrying because China already tried to create a protocol called \"New IP\" that also included surveillance-friendly features. China tried to have the International Telecommunications Union sign off on New IP, despite the Internet Engineering Task Force maintaining existing IP protocols. That effort failed, but Beijing is pressing ahead with its efforts to spread its own version of IP at home and abroad. The new plan doesn't suggest that Beijing abandon vanilla IPv6. Indeed, it calls for Chinese participation in global standards development. But the document also says China will work on \"national IPv6 standards and accelerate the development of national IPv6 standards in key areas.\" ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5275984",
+      "rss_tags": [
+        "networks"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]
