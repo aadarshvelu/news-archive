@@ -216,6 +216,36 @@
     }
   },
   {
+    "id": "dd3d8d74-4c08-4192-923a-b9017c6704b1",
+    "cluster_id": "2f093a30-ba6b-47b3-9581-16b64f429ad9",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "The FBI reportedly won’t investigate ICE anymore",
+    "teaser": "Amid reports that the FBI will cease investigating ICE confrontations, critics warn that assigning investigations to ICE's own branch guts accountability for rights abuses.",
+    "summary": "The FBI reportedly plans to stop investigating confrontations involving ICE agents, a change the DHS and DOJ have denied. This shift would likely delegate investigative responsibility to Homeland Security Investigations (HSI), an arm of ICE, which the author notes lacks jurisdiction over civil rights violations. This development follows heightened scrutiny regarding violence from ICE, including lethal shootings of civilians in Maine and Texas. While federal agents previously pursued felony assault charges against protesters—many of which fail—the new guidance would effectively leave ICE investigating itself. Critics argue this move significantly reduces accountability, potentially preventing robust investigations into alleged civil rights abuses committed by immigration enforcement agents.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
+    "date": "2026-07-19T16:42:10Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2252426003.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "According to the New York Times , federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The reported change in guidance follows renewed scrutiny of violence by ICE agents who have killed two people in the last two weeks. The shootings in Maine and Texas were just the latest civilian deaths at the hands of ICE agents, who have attempted to intimidate witnesses following its recent spate of high-profile killings. The new guidance would end FBI investigations of assaults against DHS agents. The government has aggressively pursued cases against protesters and others who have had even fleeting and unintentional physical contact with agents. But those felony assault cases routinely fall apart, with nearly half of them ending with an acquittal, the charges being thrown out, or withdrawn, according to a Times analysis . While the FBI investigations are ostensibly to help the government make a case against protesters and others, they often provide evidence against the officers that could be used in future trials against them. Under the change, responsibility for investigating cases involving federal immigration officers would likely fall to Homeland Security Investigations, an arm of ICE, effectively leaving the agency to investigate itself...Homeland Security Investigations does not have jurisdiction to investigate civil rights violations, so putting the change into practice would make it far less likely that shootings of unarmed people by ICE agents would be investigated to determine if the agents broke federal law.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=967674",
+      "rss_tags": [
+        "News",
+        "Policy",
+        "Politics"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "8c9980f0-744e-4bdc-8d89-63fd5120563c",
     "cluster_id": "f298a0e4-2d45-4d8e-8595-b48daf0df969",
     "cluster_size": 1,
