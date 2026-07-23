@@ -930,6 +930,37 @@
     }
   },
   {
+    "id": "c65c4850-3f37-4dce-b57e-84c0671a3a93",
+    "cluster_id": "5ced75cc-17e8-4518-b121-0ea72a7fffe1",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "Meta won’t have to face the next planned social media addiction trial",
+    "teaser": "Despite dropping a key lawsuit, Meta faces mounting legal pressure, having already been ordered to pay $375 million in penalties and $6 million in recent tech negligence trials.",
+    "summary": "A key lawsuit challenging major tech platforms on allegations of creating addictive features harmed teens has seen a mixed outcome. The plaintiff, R.K.C., withdrew his claims against Meta just before a planned trial, avoiding a settlement for Meta. However, this legal retreat follows multiple high-profile defeats for the company. Previously, Meta and Google's YouTube were found negligent in a Los Angeles case, resulting in a $6 million payout. Furthermore, Meta was ordered to pay a $375 million penalty in New Mexico for allegedly misleading consumers about platform safety. The article notes that the legal battle continues, with seven more bellwether cases remaining in California and ongoing claims from state attorneys general.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
+    "date": "2026-07-22T22:03:53Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Lauren Feiner",
+    "content": "Less than a week before Meta's lawyers were set to return to a Los Angeles courtroom , the plaintiff accusing the platform of inflicting harm dropped the case. Brought by 15-year-old Florida plaintiff going by initials R.K.C., the case was set to be the second in a set of bellwether trials meant to test legal arguments that social media giants allegedly broke the law by creating features that hooked and harmed teens. TikTok, Snap, and YouTube previously settled claims brought by R.K.C. for undisclosed amounts. \"In light of the overall successful result of the litigation and his concerns about enduring a grueling weekslong trial, he has elected to withdraw his claims against Meta,\" R.K.C.'s lawyers Emily Jeffcott and Rahul Ravipudi said in a statement. \"He's ready to close this chapter and focus on his recovery and engage in therapy as he aspires to have a normal life.\" That means Meta got out of this case without having to pay a settlement. \"The claims never held up, and this outcome makes clear that we will not back away from defending ourselves against baseless lawsuits,\" Meta spokesperson Andy Stone said in a statement. Meta got out of this case without having to pay a settlement Multiple cases have already begun to test claims about social media companies allegedly misleading users about the safety of their products and inflicting harm. Meta and Google's YouTube lost the first bellwether case tried at the courthouse, with a jury finding them to be negligent and ordering them to pay a total of $6 million in compensatory and punitive damages to the single plaintiff. Separately, a New Mexico jury ordered the company to pay a $375 million penalty , and the state is preparing for the next phase of trial seeking structural business changes . There's still seven more bellwether cases on deck in the California state courthouse in LA, and a separate set of cases pending in a federal court in Oakland. Meta, Tiktok, Snap, and YouTube settled with a school district that was set to be the first in that separate set of bellwether cases seeking money to cover mental health-related costs to students allegedly caused by their platforms. Meta is still set to face claims brought by state attorneys general in federal court next month, alleging that it illegally misled the public about harmful and allegedly addictive features.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=969644",
+      "rss_tags": [
+        "Meta",
+        "News",
+        "Policy",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "c91fbf83-0a2f-43df-872d-4cb9e11e367d",
     "cluster_id": "b03430ec-fa0c-4ced-a0be-f63b1ec391c3",
     "cluster_size": 1,
