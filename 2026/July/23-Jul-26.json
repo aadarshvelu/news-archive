@@ -1,0 +1,76 @@
+[
+  {
+    "id": "ddf75645-6bf5-40a0-803d-9fcbb9868ebb",
+    "cluster_id": "c510f6eb-ed5e-415f-935c-4511231303d9",
+    "cluster_size": 4,
+    "source": "SiliconANGLE",
+    "title": "Alphabet’s stock sinks after it bumps up AI infrastructure spending yet again",
+    "teaser": "Despite strong cloud revenue, Alphabet's stock sank after it raised its AI infrastructure spending forecast to over $195 billion.",
+    "summary": "Google's parent company, Alphabet, reported strong Q2 earnings, with revenue jumping 24% to $119.8 billion, driven by Google Cloud's stellar performance. Cloud revenue hit $22.4 billion (up 64% YoY), supported by a massive $514 billion order backlog and fueled by enterprise AI adoption. The AI chatbot, Gemini, also boasts over 950 million monthly active users. However, the stock declined because Alphabet significantly boosted its capex forecast to $195B–$205B, reflecting massive investments in AI infrastructure. While Google is adopting a 'bridging strategy' using external cloud capacity to meet feverish demand, this increased spending raised concerns about returns versus rising funding costs, overshadowing positive news like the search unit's performance.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/22/alphabets-stock-sinks-bumps-ai-infrastructure-spending-yet/",
+    "date": "2026-07-23T00:38:15Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/pichai-googleio2021-2.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Mike Wheatley",
+    "content": "Google parent company Alphabet Inc. delivered better-than-expected revenue for the second quarter today, thanks to strong growth in its cloud business - but the stock sank in extended trading after it missed expectations on earnings and lifted its forecast for capital expenditures. The company reported second-quarter earnings before certain costs such as stock compensation of $2.85 per share, trailing the $2.89 forecast by Wall Street analysts. However, revenue jumped by 24%, in the quarter to $119.8 billion, surpassing the $116.93 billion target. Investors still didn't like what they saw, and Alphabet's stock was down more than 2% in late trading. In a conference call with analysts, Chief Executive Sundar Pichai (pictured) revealed that the company spent $44.9 billion on capital expenditures during the quarter, just ahead of the Street's estimate of $44.8 billion. The company now expects capex for the year of $195 billion to $205 billion, up from the $180 billion to $190 billion forecast provided last quarter. Alphabet has been pouring money into artificial intelligence infrastructure to keep pace with booming demand. \"We're still in a supply-constrained environment,\" Chief Financial Officer Anat Ashkenazi said on the call with analysts. \"I think we've said this now for multiple quarters in a row, and we are seeing very strong demand both from external cloud customers as well as across the business.\" Even with the supply constraints, Google Cloud was able to deliver record-breaking revenue of $22.4 billion, up 64% from a year earlier. Google Cloud's order backlog now totals $514 billion, the company revealed. Google's cloud growth has been accelerating ahead of competitors Microsoft Corp. and Amazon Web Services Inc. In the previous quarter, Google Cloud topped $20 billion in revenue for the first time. Alphabet said it's planning to call on third-party cloud providers to meet feverish computing demand. \"Given the supply constraints environment, we plan to expand the use of third-party capacity in Q3 as a bridging strategy while we build up more internal capacity,\" Ashkenazi told analysts. \"The strategy allows us to keep growing our customer base and capture greater overall value. However, it will create modest margin pressure in the near term as we utilize this capacity.\" Alphabet signaled it was moving in this direction during the quarter when it struck a deal with SpaceX Corp. to rent graphics processing units to run artificial intelligence models for $920 million per month. Google's cloud rival Microsoft has been more active in leasing capacity from a series of outside clouds, including CoreWeave and Nebius Group N.V. CoreWeave and Nebius shares leapt 4% and 5% in extended trading, respectively, following Ashkenazi's comments. \"There are very, very large customers of ours on cloud, who we are trying to support them through this extraordinary moment, and the incremental opportunity they are bringing to us, while a short-term cost over a few months may be very high, in the lifetime of the deal, as we bring more capacity on, is highly ROI-positive,\" Pichai said. Even as the competition in the AI industry heats up, Google Gemini is going from strength to strength. According to Pichai, the Gemini app now has more than 950 million monthly active users and can process 22 billion tokens per minute. This is happening even as Google is facing intensifying pressure from Chinese open-weight tools as businesses crack down on rising token costs. Google, which debuted three cheaper Gemini models this week, faced blowback earlier in the month after reportedly delaying the launch of its Gemini 3.5 Pro model. Pichai said that model is undergoing testing, and the company is already investing compute into Gemini 4 to compete with frontier model makers like Anthropic PBC and OpenAI Group PBC. \"It's a very ambitious effort,\" he said. \"We wanted to compete at the frontier level of where the frontier will be when Gemini 4 comes out, so we are applying a lot of our compute and effort in that direction.\" As Gemini scales, Pichai said the company plans to release new models almost every month. Investing.com analyst Thomas Monteiro told SiliconANGLE that the latest increase in Alphabet's capex does not sit well with many of its investors. \"Add to that an increasing rates environment and a continuous supply-demand crunch in AI infrastructure, and the notion that the company would fund itself with cash flows forever might be starting to fade,\" he said. \"Alphabet is now a regular borrower, which means its returns on AI need to clear a funding cost that keeps moving higher.\" However, Monteiro said there will still plenty of positives to take from the latest quarter, with the massive Google Cloud revenue beat providing the clearest sign yet that the company's massive investments are paying off. \"The spending is converting into fast-growing, profitable revenue, with contracted deals coming online the moment capacity is built,\" he said. \"The operating business is doing everything asked of it. The question the market is weighing tonight is simply whether those returns can keep growing faster than the cost of funding them against a shifting rates environment.\" Google Cloud's growing revenue was offset by a poor performance from Google Search, however, as revenue there came in at $63.3 billion, just below the Street's target of $63.4 billion. Investors are going to be looking much more closely at that business in the coming quarters. Ashkenazi told analysts they should brace themselves for some tougher comparisons when it comes to the company's search business. She said that while Google continues \"to benefit from innovation in search by improving the user and advertiser experience with AI,\" the third quarter might be a bit different. \"At the same time, in Q3, we will begin lapping an acceleration in search performance that began in the third quarter last year,\" she said. On the other hand, Google's YouTube advertising revenue rose 13%, to about $11.06 billion, topping the analyst forecast of $10.81 billion. That's up from $9.8 billion in the year-ago period and about $9.9 billion last quarter. Alphabet's other bets category, which includes businesses like Waymo and Verily, came in at $382 million for the second quarter, representing a 2.4% year-over-year increase. Photo: Alphabet A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=793733",
+      "rss_tags": [
+        "Cloud",
+        "NEWS",
+        "The-Latest",
+        "Top Story 2",
+        "Alphabet",
+        "Anat Ashkenazi",
+        "cloud infrastructure",
+        "earnings",
+        "Financial results",
+        "Gemini AI",
+        "Gemini subscribers",
+        "google",
+        "google cloud",
+        "Google Cloud backlog",
+        "revenue",
+        "search revenue",
+        "second quarter",
+        "Sundar Pichai"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "66970868-659a-4b34-86fa-228ff8824f30",
+    "cluster_id": "aad8e8d5-16d6-46aa-b877-ed9373151b98",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
+    "teaser": "The LEGO Donkey Kong machine features a complex 'barrel pump' that creates an infinite barrel loop using a stack of 14 barrels.",
+    "summary": "This article details the elaborate mechanical engineering of a LEGO arcade machine based on Donkey Kong. The centerpiece is the 'barrel pump,' which operates using a stack of 14 barrels and a capacity of 20. This system creates an impressive 'infinite barrel loop' as barrels roll slowly from top to bottom and are continuously recycled. Designing this was a major challenge, solved by combining LEGO elements like studs, slopes, and Technic beams to mimic natural rolling motion. Character movement is handled by a complex dual system: the joystick uses a long lever connected to a dingler for horizontal movement, while the jump button operates via a seesaw lever, simulating jumping using gravity.",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
+    "date": "2026-07-23T00:30:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/lego-donkey-kong-5.jpg?quality=90&strip=all&crop=0%2C10.741467122251%2C100%2C78.517065755498&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Sean Hollister",
+    "content": "Q: How does the barrel mechanism work, and how many barrels fit inside of it at a time? The barrel mechanism is essentially a pump. It uses a stack of 14 Barrels going up the side of the model. Each time the barrel lever is pulled, it adds one barrel to the bottom of the stack and one falls out the top. The system holds 20 barrels so there can be 6 barrels rolling down at a time. Q: Do the barrels roll all the way down to the bottom? Do they fall out of the set, and need to be reinserted into the slot, or does the mechanism bring them back to the top? The barrels roll all the way from the top to the bottom where they are collected in a hopper that is connected to the barrel pump. This forms an infinite barrel loop which is, by definition, \"barrels of fun\". Q: What was the biggest hurdle in designing and testing that mechanism? The biggest challenge was getting the barrels to roll down slowly without stopping or getting stuck. This was achieved through a combination of rolling over steps, LEGO studs, slopes, bows and using LEGO Technic beams which are slightly thinner than LEGO Bricks. This allowed us to capture the feeling of the gameplay where the barrel rolls down slowly. I rolled thousands of barrels down those tracks to figure it out... Those barrels drove me bananas! The second biggest hurdle was finding a way to get the barrel from the bottom to the top again. We built all kinds of stuff; things to shoot one barrel from the bottom to the top, worm gears, force multiplication levers, and more. But it turned the right answer was simply a lot more barrels. Q: How do the joystick and button make Jumpman/Mario move? The joystick moves Jumpman from left to right using a long lever up the back of the model, connected to a dingler. The jump button uses a similar mechanism used in a piano key. When it is pressed down in front of the model, the other end of a see-saw lever presses up on a long rod with Jumpman at the top. When the button is released gravity returns Jumpman to the bottom.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=969668",
+      "rss_tags": [
+        "Gadgets",
+        "Toys"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]
