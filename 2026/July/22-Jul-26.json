@@ -341,6 +341,32 @@
     }
   },
   {
+    "id": "bd7241df-c7bb-4beb-8c93-3eef648403f2",
+    "cluster_id": "235e8e29-896f-432f-8e62-a00f6bc752dc",
+    "cluster_size": 3,
+    "source": "Planet Money (NPR)",
+    "title": "Big Lettuce meets Small Intestine",
+    "teaser": "A Cyclospora outbreak, sickening thousands, highlights alarming weaknesses in food tracing and federal health surveillance systems.",
+    "summary": "A significant Cyclospora outbreak, linked to fresh produce like iceberg lettuce, is causing thousands of Americans to suffer debilitating symptoms, including explosive diarrhea. The parasite's challenging nature and the complex supply chain make tracing difficult, compounded by systemic issues. Authorities are struggling due to a lack of information and federal staffing cuts, specifically noting the scaling back of the CDC's Foodborne Diseases Active Surveillance Network (FoodNet). Companies, including Taylor Farms, have voluntarily recalled lettuce sourced from central Mexico. Experts warn that while proper hygiene is crucial, true prevention requires reducing contamination at the source in farms and distribution networks, as the system's capacity to quickly pinpoint a single source of contamination is severely challenged.",
+    "importance": 5,
+    "category": "world_news",
+    "url": "https://www.npr.org/2026/07/22/nx-s1-5903288/taylor-farms-lettuce-cyclospora-taco-bell-explosive-diarrhea",
+    "date": "2026-07-22T23:16:26Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "The cyclospora outbreak that's sickening thousands of Americans got us interested in the rise of Big Lettuce, and the challenges of keeping it clean. So on today's show, we tell you just how much lettuce Americans eat every year (SO MUCH!), how bagged lettuce came to dominate grocery store shelves, what that means for food safety, and why these outbreaks continue to happen - despite the FDA's efforts to stop them. Check out other related episodes: Food Scare Squad How refrigeration took over the world Support: Planet Money+ Read: Our book: Planet Money: A Guide to the Economic Forces That Shape Your Life Our weekly longform Planet Money newsletter Our weekly Indicator round-up newsletter Follow: Instagram TikTok YouTube Facebook This episode was hosted by Jeff Guo and Emma Peaslee. It was produced by Emma Peaslee. It was edited by Marianne McCune and it was fact checked by Sierra Juarez and engineered by Annlie Huang. Alex Goldmark is Planet Money 's executive producer. Music: NPR Source Audio - \"Electric Leak,\" \"West Green Road,\" and \"Melty Heart\" See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences. NPR Privacy Policy",
+    "raw_meta": {
+      "rss_entry_id": "f5759b18-4ed5-43dd-95ea-0f827a18d5d0",
+      "rss_tags": [],
+      "fetch_ok": null,
+      "fetch_status": null,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "6d940ab5-9d08-4587-a50d-1e2b4ab97b5f",
     "cluster_id": "807658f9-451c-43ec-9d92-1c997f2996f5",
     "cluster_size": 1,
