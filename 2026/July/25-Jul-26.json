@@ -1,0 +1,79 @@
+[
+  {
+    "id": "03ac9bdb-281b-4baa-b4c3-75180d8ecf98",
+    "cluster_id": "e72cbe27-a945-411e-9779-2783183a8db1",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "Nvidia, other tech giants caution against open-source AI ban in open letter",
+    "teaser": "Tech giants, including Nvidia and Microsoft, issue a major warning to lawmakers, demanding freedom from banning open-source AI models.",
+    "summary": "A coalition of major tech firms, including Nvidia, Microsoft, and IBM, issued an open letter urging policymakers to avoid banning open-source artificial intelligence (AI) models. The signatories argue that an open ecosystem is vital for national prosperity and innovation, stating that open weights allow developers to build and deploy advanced, customizable models on private infrastructure. They stress that this decentralized model promotes competition and reduces costs. While acknowledging security risks, they counter that open-source access benefits safety, as a large community of researchers can search for and fix vulnerabilities. The letter urges regulators to facilitate access to computing power and training datasets, following concerns about government overreach regarding AI development.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://siliconangle.com/2026/07/24/nvidia-tech-giants-caution-open-source-ai-ban-open-letter/",
+    "date": "2026-07-25T00:15:50Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/AI-1.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "A group of tech firms has released an open letter that calls on policymakers not to ban open-source artificial intelligence models. The development follows a report that some Trump administration officials sought to limit the use of such algorithms. Many of the world's most popular open-source AI models were developed by Chinese companies. According to Axios , the U.S. Commerce Department last year considered blocking access to those companies' software. Today's open letter was published on Nvidia Corp.'s website. It's also backed by Microsoft Corp., IBM Corp., Meta Platforms Inc. and more than a dozen other tech firms. Several nonprofit industry groups including the The Linux Foundation signed on as well. \"Our AI leadership will be judged not by one frontier AI model, but by whether the United States builds a strong, open ecosystem that diffuses into every sector,\" reads the letter. \"This is essential for creating opportunities for innovation and prosperity across the country.\" The document goes on to list several of the reasons why its signatories believe that open-source AI shouldn't be banned. The first reason is that they make application projects more economical by reducing the need to buy proprietary large language models. Additionally, the letter highlighted the fact that open-source LLMs are customizable and can be deployed on private infrastructure. \"By allowing many organizations to build, adapt, and deploy advanced models, open weights create rivalry not only among model developers but across cloud chips, applications, and services,\" the letter adds. \"That competition spurs innovation, drives down costs, and distributes the benefits of AI broadly across our economy.\" The document goes on to address the risks posed by open-source AI models. The signatories note that it's difficult to track how such algorithms are used, which can complicate efforts to stop cybercrime. Hackers can theoretically use advanced open-source LLMs to speed up cyberattacks. According to the letter, the open-source licensing model could emerge as a source of cybersecurity improvements. When an LLM's code is publicly available, a \"broad community of researchers\" can search for vulnerabilities. Lowering the number of unfixed exploits in a model makes it less susceptible to cyberattacks. The letter also addresses distillation. That's a practice whereby researchers use the prompt responses of a frontier LLM to train a smaller model. A White House official recently stated that Kimi K3, a new open-source LLM with advanced coding capabilities, was distilled from Anthropic PBC's Fable 5 model. \"Unlawful efforts to extract value from closed models raise legitimate concerns,\" states the letter. \"Those concerns should be addressed through targeted legal and commercial frameworks rather than sweeping restrictions on techniques that play an important role in AI innovation.\" The signatories also make several other policy suggestions. They recommend that regulators make it easier for researchers to access computing infrastructure and free AI training assets such as datasets. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=794601",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "Top Story 4",
+        "IBM",
+        "Kimi K3",
+        "large language model",
+        "Microsoft",
+        "Nvidia",
+        "open letter",
+        "Open Source"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "75cacbf8-8f25-43ee-91ae-0795915cd16c",
+    "cluster_id": "e1ddbc98-383d-4c9b-8e9f-89a0892af080",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "Anthropic launches Claude Opus 5 with efficiency, safety improvements",
+    "teaser": "Anthropic's new Opus 5 achieves nearly Mythos 5 quality at half the cost, featuring verified output and industry-leading safety protocols.",
+    "summary": "Anthropic launched Claude Opus 5, a powerful and cost-efficient LLM that nears the quality of its proprietary Mythos 5 model. Opus 5 shows superior performance over its sibling, Fable 5, scoring higher on multiple benchmarks like Frontier-Bench (9.7% better) and proving adept at complex tasks like generating verifiable 3D schematics. Crucially, Opus 5 is touted as Anthropic's safest and most 'aligned' model, scoring zero on vulnerability exploitation tests and operating with guardrails that activate 85% less frequently than Fable 5. Furthermore, the model excels in specialized fields, showing particular strength in biology and protein research. For enterprises, the low cost—token prices are $5/MTok input and $25/MTok output—makes it highly attractive, supported by new API features, including the ability to interrupt workflows and reroute blocked prompts.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/24/anthropic-launches-claude-opus-5-efficiency-safety-improvements/",
+    "date": "2026-07-25T01:29:27Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Anthropic.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Anthropic PBC today rolled out a large language model called Claude Opus 5 to its chatbot service and developer platform. The company says the LLM approaches the output quality of its top-end Mythos 5 algorithm in many areas, but costs significantly less. Anthropic hasn't made Mythos 5 publicly available. The company instead sells access to a scaled-down version of the LLM called Fable 5 that shares many of its features, but poses a smaller cybersecurity risk. Anthropic compared Fable 5 to Opus 5 across 13 benchmarks. It says the latter algorithm scored higher on eight of the tests despite costing about 50% less. Opus 5's edge was particularly pronounced across two benchmarks called Frontier-Bench and AutomationBench. The former test comprises 74 tasks spanning fields such as physics, chemistry and cryptography. Opus 5 performed 9.7% better than Fable 5. It achieved a 8.5% higher score on AutomationBench, which includes a set of knowledge work tasks. One of the contributors to Opus 5's performance is that it verifies its work. The Frontier-Bench benchmark required the model to generate a three-dimensional machine part schematic. Opus 5 had no way to view the drawing, which made verifying its accuracy impossible. The model addressed the challenge by writing a \"computer vision pipeline to pull the geometry from the raw pixels.\" Opus 5's output verification feature also lends itself to biology research. According to Anthropic, the model outperformed an earlier LLM called Opus 4.8 across all its internal life sciences benchmarks. Opus 5 proved particularly adept at automated protein research, an important field that was the focus of the 2024 Nobel Prize in chemistry. Anthropic says that Opus 5 is its safest model to date by multiple measures. Compared to its predecessors, the LLM is less prone to deceptive behavior and errors that are difficult to reverse. Anthropic has not made its flagship Mythos 5 publicly available over concerns that it could be used by hackers to launch cyberattacks. The model can not only find vulnerabilities but also develop workflows for exploiting them. By contrast, Opus 5 scored zero on an internal Anthropic benchmark that evaluates LLMs' ability to exploit vulnerabilities. The company has equipped the LLM with more relaxed guardrails than Fable 5. Customers can use Opus 5 to search code for security issues, but it blocks vulnerability scan methods that are commonly used by hackers. Anthropic estimates that its guardrails will activate 85% less frequency than for Fable 5. Opus 5 is now the default model in the top-end Max tier of the Claude chatbot service. It's also available in the mid-range Pro plan. Developers can connect Opus 5 to their software via Anthropic's application programming interface. As part of today's update, the API received a feature that makes it possible to interrupt an LLM mid-workflow and change the tools that it uses. Another new capability can reroute prompts that are blocked by Anthropic's safety guardrails to a different model. Image: Anthropic A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=794618",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "Top Story 5",
+        "Anthropic",
+        "API",
+        "Claude",
+        "Fable 5",
+        "large language model",
+        "LLM",
+        "Mythos 5",
+        "Opus 5"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]

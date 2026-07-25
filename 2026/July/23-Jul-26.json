@@ -1,5 +1,33 @@
 [
   {
+    "id": "3a14734e-269e-4c91-9f1f-3e7cc3cd5947",
+    "cluster_id": "a4c37c0e-886e-4881-9b12-1328bafd45fc",
+    "cluster_size": 3,
+    "source": "Testing Catalog",
+    "title": "Claude Voice Mode to get Opus and Sonnet model options",
+    "teaser": "Claude Voice Mode is upgrading to Opus and Sonnet models, boosting conversational intelligence while Anthropic details how language changes AI's 'values' expressed.",
+    "summary": "Anthropic is significantly upgrading Claude's voice mode by allowing users to select more powerful models like Opus and Sonnet, moving beyond the limited Haiku model. This represents a major leap, enabling more complex, reasoning-heavy conversations via speech. Furthermore, Anthropic researchers have illuminated how LLMs vary by language, noting that Claude expresses more warmth in languages like Arabic and Hindi, while favoring rigor and precision in English. Competitively, OpenAI has updated ChatGPT Voice for desktop, enabling users to perform sophisticated, multi-step tasks and control various agents. Anthropic is keeping pace, ensuring Claude's voice mode integrates with popular productivity apps like Gmail, Slack, and Notion, underscoring the intense race for multimodal AI capability.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/claude-voice-mode-to-get-opus-and-sonnet-model-options/",
+    "date": "2026-07-23T00:07:22Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/07/FJGs5StyEnkwpq57e3DM7HCI1VPkZUtpM14nd8XJ.webp",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Alexey Shabanov",
+    "content": "Anthropic looks set to give Claude's voice mode a real upgrade, and the clearest signal yet landed this week. A model selector has sat inside the voice interface for roughly three weeks, but until now the choice was cosmetic: whichever option you picked, the session still ran on Claude Haiku 4.5, a model that has not been refreshed in some time. That shifted today. Selecting Opus or Sonnet now routes voice conversations through those models rather than quietly falling back to Haiku, which points to an imminent public rollout, probably within days (*This feature is not yet available to the public and is currently hidden under a feature flag). Opus and Sonnet on Claude Voice Mode The picker currently exposes Opus, Sonnet, and Haiku, with a control for setting the thinking level beside it. Claude Fable, the company's Mythos-class model, is absent from voice for now. The pipeline stays text-to-speech rather than a speech-native model: Claude handles the reasoning and drives the conversation, while spoken output appears to lean on ElevenLabs in the background, the same subcontractor listed since the feature launched. Anyone who found Haiku too thin for real spoken work stands to gain the most. Routing Opus or Sonnet into voice opens tasks that were awkward before, from longer reasoning to tool-heavy requests handled by speech. In testing, interruption handling held up: the model pauses the moment it hears you and resumes sensibly, and it tolerated long silences without cutting in early, so the mode stays usable despite the added intelligence. The direction says something about Anthropic's strategy. Where OpenAI is pouring resources into a bidirectional , speech-native model, Anthropic is taking the opposite path, placing its strongest reasoning models on a conventional voice stack rather than chasing voice-specific tricks. No formal post has appeared, though the functional switch behind the selector suggests one is close.",
+    "raw_meta": {
+      "rss_entry_id": "6a61505583266f000139a80a",
+      "rss_tags": [
+        "Anthropic"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "ddf75645-6bf5-40a0-803d-9fcbb9868ebb",
     "cluster_id": "c510f6eb-ed5e-415f-935c-4511231303d9",
     "cluster_size": 4,

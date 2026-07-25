@@ -620,6 +620,203 @@
     }
   },
   {
+    "id": "784b9c68-e16b-47d1-8c1d-38bc3ebeb869",
+    "cluster_id": "d72c1997-a177-4cde-8b64-433cec61881d",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Qualcomm is about to raise prices and that&#8217;s bad news for everyone",
+    "teaser": "Qualcomm warns of double-digit price hikes starting after September 1st, signaling a major cost crunch for smartphones and high-end PCs.",
+    "summary": "Qualcomm has warned customers of significant price increases—'in the double digits'—effective for products shipped after September 1st. The company attributes this to ongoing component shortages and higher supplier costs, stating it has exhausted its ability to absorb these expenses. These price hikes are expected to ripple across the tech industry, notably impacting smartphones and devices like high-end Windows PCs.\n\nThe price increases signal broader industry struggles; component shortages are driving up costs across various electronics, from Xbox consoles to Apple and Samsung smartphones, potentially leading to higher prices or downgraded specs for consumers.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
+    "date": "2026-07-24T19:14:23Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_STK082_qualcomm_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Stevie Bonifield",
+    "content": "Qualcomm sent a letter to customers on Friday warning of plans to increase its prices by \"a percentage in the double digits,\" Bloomberg reports. The price hikes will go into effect starting with products shipped after September 1st. Qualcomm claims it has \"exhausted its ability to absorb higher costs from suppliers,\" as ongoing component shortages continue to drive up prices. The company also said it attempted to source components from alternate suppliers prior to announcing the price hikes. As Bloomberg notes, Qualcomm's price increases will likely have a ripple effect, particularly for smartphones. Qualcomm's chips power everything from Samsung's new foldables to upcoming smartglasses . Earlier this year, Qualcomm even promised one of its new chip platforms would deliver $300 Windows PCs . Those devices could get pricier if device manufacturers pass the brunt of Qualcomm's price hikes onto their customers. Qualcomm's far from the only company bumping up its prices. Seemingly everything is getting more expensive as a result of component shortages, including Xbox consoles , Raspberry Pi boards , most Apple devices , and Samsung and Google's smartphones . Some devices are even getting downgraded specs alongside higher prices, while other devices are getting canceled or delayed. Qualcomm did not immediately respond to a request for comment.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=970910",
+      "rss_tags": [
+        "Business",
+        "Gadgets",
+        "Mobile",
+        "News",
+        "Phones",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "35cbc789-c230-4cea-ab93-76eca5be1ec1",
+    "cluster_id": "874ebd37-45cb-4d73-b180-5f41de0b1cff",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "Meta just created a moderation nightmare for its smart glasses",
+    "teaser": "Amid privacy backlash, Meta banned smart glasses content filmed as harassment, while pausing a subscription fee test for 'Conversation Focus'.",
+    "summary": "Meta's smart glasses face significant PR hurdles, prompting the company to ban certain content from Instagram filmed with the devices, citing concerns over privacy and harassment. Instagram head Adam Mosseri confirmed removal of content that harasses others, such as 'pickup line kind of videos.' Separately, Meta adjusted its monetization strategy, pausing the planned $20 subscription fee for the 'Conversation Focus' feature. While Meta stated that some premium features will eventually require a subscription to sustain its hardware investment, the initial policy moves signal an effort to balance advanced technology with public concern regarding surveillance and misused recording capabilities.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
+    "date": "2026-07-24T19:23:44Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268667_meta_glasses_spying_posters_AKrales_0059.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Mia Sato",
+    "content": "Meta's smart glasses have been a PR headache for the company. Public backlash has been swift, and fierce; people are concerned about the erosion of privacy and expansion of surveillance. Some especially bad actors are using the glasses to film themselves \"pranking\" random strangers . Women have become unsuspecting social media content for men filming themselves hitting on them without their knowledge. When your product is being referred to as \"pervert glasses,\" you have a problem on your hands. On Thursday, Business Insider reported that Meta was taking the fairly extraordinary step of banning some content filmed with Meta glasses from the company's own platform. Instagram head Adam Mosseri recently said that content \"taking advantage of people and harassing them, like a lot of these pickup line kind of videos,\" would be removed from Instagram. Appreciate for a moment the bind Meta finds itself in: Its product allowed customers to behave so objectionably that the company responded with a content ban, as if to say \"Stop making us look bad.\" \"We don't want people to be surreptitiously taking videos of other people and harassing them and then posting them on our platform,\" Mosseri said, according to Business Insider. \"So we're trying to fight that every way we can.\" But it's worth considering how we got here in the first place. And a policy like this also creates a whole new set of questions that need to be untangled in order to understand what a ban on some smart glasses content actually means - and how it would be enforced. We have little expectation of privacy in public spaces - you could become someone's Instagram Reel subject just for walking down the street, taking the train, or shopping in a store. The rise of short-form video has given new life to the man-on-the-street content format, which has proven time and again to be cheap and endlessly repeatable; there are \"creators\" whose whole schtick is going up to strangers to ask how much money they make or how much they pay in rent, or whether they can name a song. Some people simply take videos of strangers minding their own business; others run up on people to compliment them profusely and enthusiastically just to get a confused - or gracious - reaction on camera. Being in public has always meant sharing space with other people, but now we must also anticipate becoming video fodder for people who will later monetize it online. It's no surprise that some of the earliest adopters of smart glasses have been content creators; making content creation even more frictionless is one of the primary functions of Meta glasses. Not everyone using Meta glasses to film content is doing it to harass service workers and women - some use glasses to film \"day in the life\"-style content, or their meals, or concerts. But between anodyne personal content and the now-banned harassment, there is a lot of gray area that isn't directly addressed by Instagram's new policy: What about accounts that mine homeless encampments for shock-value content, or silently film people in public who are in active addiction? Is it considered harassment if a man films women at the gym but doesn't approach them? And if you find yourself in a clip filmed without your knowledge or consent, is that grounds to ask Instagram to take the video down? And what if someone is \"surreptitiously taking videos of other people and harassing them,\" but in the old-fashioned way, not using smart glasses? Meta spokesperson Albert Aydin told The Verge in an email that the company is working on disabling cameras on glasses when tampering is detected and removing content from accounts associated with those devices. Aydin didn't answer specific questions about whether a person who was filmed could appeal to Meta to have content removed; Aydin said Meta is trying to \"fight surreptitious filming and LED tampering in every way we can.\" Aydin also did not provide The Verge with a copy of the actual policy. The anger over smart glasses is partially due to the especially egregious \"pervert\" use cases of glasses that Meta has had to denounce - but even more innocuous examples put people on edge, too. When it comes to smart glasses, it's less about the specific content being filmed than it is about the capability to do so at all, without others realizing what's happening. In saying the company will police the creepiest version of smart glasses content but sidestepping deeper questions, Meta is trying to have it both ways: It gets to tout its enforcement while creating the conditions for this content to exist in the first place.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=970901",
+      "rss_tags": [
+        "Analysis",
+        "Creators",
+        "Gadgets",
+        "Meta",
+        "Report",
+        "Tech",
+        "Wearable"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "a5994d96-aca3-443b-a690-bc2e23fb637a",
+    "cluster_id": "b1febb79-26b8-44ad-b228-a5429e6b7aab",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
+    "teaser": "VW engineers are charged with insider trading after allegedly making $300k+ using secret knowledge of the Rivian joint venture.",
+    "summary": "The U.S. Department of Justice has charged two Volkswagen engineers, Michael Stamp and Marcus Plank, with securities fraud for an insider-trading scheme. The indictment alleges the men profited over $300,000 by using confidential information about VW’s planned joint venture with Rivian, code-named \"Project Climb.\" They allegedly purchased Rivian stock and options before the public announcement on June 25, 2024. The joint venture, which focuses on EV architecture, was initially planned for a $5 billion investment. The engineers were arrested and face up to 25 years in prison. VW issued a statement confirming the action is focused on specific individuals, not the company itself.",
+    "importance": 4,
+    "category": "world_news",
+    "url": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
+    "date": "2026-07-24T19:56:23Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/rivian-volkswagen-charger-getty.jpg?resize=1200,799",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Kirsten Korosec",
+    "content": "The U.S. Department of Justice has charged two Volkswagen engineers with securities fraud for an alleged insider-trading scheme connected to the German automaker's joint venture with Rivian. The indictment , unsealed Friday by the U.S. District Attorney for the Southern District of New York, alleges that Michael Stamp and Marcus Plank made more than $300,000 by using confidential insider information. Stamp and Plank allegedly bought Rivian stock and options after learning that the EV maker and Volkswagen planned to form a joint venture - internally codenamed \"Project Climb\" - but before the companies made any public announcements. Rivian and Volkswagen announced plans for the joint venture on June 25, 2024, which would focus on developing electric vehicle architecture and software. Volkswagen initially committed to invest $5 billion in Rivian, with the capital to be released as the companies achieve certain milestones. The joint venture has since grown to $5.8 billion, and Volkswagen is now Rivian's largest shareholder . Rivian's stock price rose 23% following the initial announcement in June. Stamp and Plank then allegedly sold their Rivian positions, with Stamp realizing about $250,000 in profits, Plank realizing about $50,000, and Plank's close family member realizing about $12,000, as detailed in the indictment. U.S. Attorney Jay Clayton said in a statement Friday: Michael Stamp and Marcus Plank's alleged exploitation of their employer's confidential information allowed them to make more than $300,000 in illegal profits. When people misuse confidential information for their own financial gain, they undermine the principles that allow our markets to function fairly and efficiently. Insider trading is a crime that New Yorkers want pursued with vigor. Its effects ripple through the financial system, harming ordinary investors and eroding public confidence. Today's charges underscore the commitment of this Office and our law enforcement partners to protecting the integrity of our markets and holding accountable those who choose to violate the law. Investigators allege the two engineers understood their actions were illegal. Eight days prior to the joint venture was announced, Stamp searched \"statute of limitations insider trading,\" and Plank's close family member searched, in German, \"how is insider trading prosecuted?,\" according to the indictment. The pair, who both live in San Jose, were arrested Friday and will appear in the U.S. District Court for the Northern District of California. The case has been assigned to U.S. District Judge Katherine Polk Failla. Stamp and Plank face up to 25 years in prison if convicted of federal securities fraud. Rivian declined comment. A Volkswagen spokesperson said the company is aware of the Department of Justice's action today involving two individuals. \"The action is focused on specific individuals and does not involve allegations against the company,\" the Volkswagen spokesperson said in an email statement. \"As this is an ongoing matter, we are unable to comment further.\" The article was updated to include Volkswagen's comment.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3146558",
+      "rss_tags": [
+        "Transportation",
+        "insider trading",
+        "Rivian",
+        "volkswagen"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "06164e64-da85-4d92-9a04-68b8e1fcd918",
+    "cluster_id": "ab21b109-6292-45a2-ba37-8fbeea4274ff",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Europol flags 4,340 'horrific' URLs linked to The Com",
+    "teaser": "Europol flagged 4,340 'horrific' URLs linked to The Com, an online network promoting everything from CSAM to real-life violent shootings.",
+    "summary": "Europol and international partners launched a major crackdown, flagging 4,340 'horrific' URLs in June and July to combat The Com, a global online network. The Com promotes illicit acts ranging from hacking and swatting to physical violence and the exploitation of minors. This international operation, known as Project Compass, involved law enforcement from the US, UK, and EU members. The flagged URLs featured disturbing content, including CSAM, animal cruelty, and detailed instructions for committing violent attacks, highlighting the seriousness of this 'global threat' particularly concerning minors.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/cyber-crime/2026/07/24/europol-flags-4340-horrific-urls-linked-to-the-com/5278556",
+    "date": "2026-07-24T20:20:57Z",
+    "image_url": "https://image.theregister.com/5268018.jpg?imageId=5268018&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Security Europol flags 4,340 'horrific' URLs linked to The Com Stop the spread (of online recruiting and propaganda) Europol and its partners' investigators flagged 4,340 \"horrific\" URLs for removal over several weeks in June and July as part of an ongoing crackdown on The Com (short for community), a loosely knit network of online groups whose young members participate in a range of illicit activities. These range from hacking, swatting , and digital extortion to real-life shootings , stabbings, and other physical violence . Europol's recent Referral Action Days, aimed at disrupting The Com's online ecosystem and stopping the spread of its propaganda, is part of the larger Project Compass operation. Project Compass began in 2025, and its partner law-enforcement agencies span the US, UK, and EU member states. Investigators from Belgium, Finland, Hungary, Ireland, Luxembourg, the Netherlands, Portugal, Spain, and Sweden participated in the Referral Action Days during June and July. Various groups linked to The Com post content online to recruit members and groom young victims using social media, gaming platforms, and messaging apps. \"The more extreme and harmful the content a user or group can produce or extort, the higher their status within the online community,\" according to Europol . \"These acts are often livestreamed on social media platforms, where online bystanders cheer them on, and later saved and disseminated.\" The URLs flagged for removal during this latest push to disrupt The Com's recruiting activities included \"violent videos and images depicting self-harm, suicide, child sexual abuse material (CSAM), animal cruelty, and violent attacks,\" the international cops said. This, the European cops say, includes so-called blood walls, which are paintings made with blood that display the extorter's alias and group affiliation, and cut-signs, where the victims are forced to carve the extorter's name into their bodies. It also includes videos of street attacks and arson, plus manuals on how to commit these violent attacks, along with instructions on grooming and extorting vulnerable minors, and conducting doxxing and swatting. Europol says its European Counter Terrorism Centre has received \"hundreds\" of requests from member states and others over the past two years to help investigate crimes linked to The Com. It describes the online network as a \"global threat, particularly concerning minors as both victims and perpetrators.\" Last year, both the UK and US issued similar warnings about a subset of The Com that recruits children and teens for contract shootings, kidnappings, and other real-life violent crimes. In July 2025, the FBI said that In Real Life (IRL) Com had become increasingly brazen in its swat-for-hire and violence-as-a-service solicitations. The FBI's alert followed a similar notice from the UK National Crime Agency about a \"deeply concerning\" trend of The Com recruiting teenage boys to commit a range of criminal acts, from cyber fraud and ransomware to child sexual abuse.®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5278556",
+      "rss_tags": [
+        "cyber-crime"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "e89c8b7c-83f2-45a7-be2f-48fa960a593a",
+    "cluster_id": "6b599b9c-3d81-4aa2-bf87-f6a742b85e6e",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "Meta makes Muse Spark 1.1 available to consumers, debuts new Facebook features",
+    "teaser": "Meta's Muse Spark 1.1 LLM powers complex multi-source research, while Facebook rolls out 'Verified' status and the 'Seller' app.",
+    "summary": "Meta has launched an advanced AI update, Muse Spark 1.1, via its Meta AI chatbot. This model is notable for its ability to handle massive prompts (up to 1 million tokens) and perform complex multi-source research, allowing users to plan trips or find online stores by aggregating data from various sources. Concurrently, Meta is significantly upgrading Facebook with two key tools: 'Facebook Verified' and 'Seller.' 'Facebook Verified' allows users to prove authenticity using a free video selfie, displaying a checkmark badge. The dedicated 'Seller' app streamlines the selling process on Facebook Marketplace with AI-driven tools for marketing copy and pricing suggestions. Meta plans to roll out these features, including Muse Spark 1.1 for WhatsApp, in limited markets before global expansion.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/24/meta-makes-muse-spark-1-1-available-consumers-debuts-new-facebook-features/",
+    "date": "2026-07-24T21:19:07Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Meta1.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Meta Platforms Inc. today made its latest large language model available to consumers through its Meta AI chatbot. The update is rolling out alongside several enhancements to Facebook. Meta's flagship social network is receiving a new video-based account verification tool. Additionally, users can now access the Facebook Marketplace e-commerce platform through a mobile app. Meta AI is a free AI service with a similar feature set to ChatGPT. Today's update switched the chatbot to Muse Spark 1.1, an LLM that Meta introduced earlier this month. The model supports prompts with up to 1 million tokens and can create groups of AI agents to tackle complex work. According to Meta, the new version of Meta AI is better at tasks that require it to retrieve data from multiple sources. If the chatbot is asked to plan a trip, it can research destinations and check the user's calendar for scheduling information. A consumer working on a kitchen renovation can ask Meta AI to find online furniture stores. The new version of chatbot also lends itself to more complex research tasks. It can spend up to several minutes collecting information about a user-specified topic. Meta AI aggregates data from research papers, social networks and other sources. Users can optionally have it visualize the retrieved data. Rounding out the list of AI enhancements is a new notification capability. Meta AI can inform users about events of interest and generate recurring alerts such as daily weather updates. On launch, Muse Spark 1.1 is available to users in a limited number of markets via the web and mobile versions of the chatbot. Meta plans to bring the model to the version of Meta AI embedded in WhatsApp within a few weeks. The company is rolling out the chatbot upgrade alongside two new Facebook features called Facebook Verified and Seller. The former tool enables users of the social network to verify their accounts by uploading a video selfie. Consumers who complete the process receive a checkmark badge that appears on their profiles. According to Meta, Facebook Verified is available at no charge to users who are over 18 and don't breach its terms of service. The other highlight of today's Facebook update is Seller, a mobile app for users who sell items on Facebook Marketplace. It includes an AI tool that speeds up product listing creation. The feature generates marketing copy, displays pricing suggestions and organizes each newly created listing under the relevant category. Like the new version of Meta AI, Facebook Verified and Seller will roll out gradually. Meta plans to pilot the features in a limited number of markets before making them available worldwide. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=794514",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "Top Story 6",
+        "app",
+        "Facebook",
+        "Facebook marketplace",
+        "Facebook Verified",
+        "LLM",
+        "Meta AI",
+        "Muse Spark 1.1",
+        "Seller",
+        "This field is for premium subscribers only.:META"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "8f41785c-f2b0-4e59-a383-265a62900b35",
+    "cluster_id": "7114d38a-fb36-4dd3-b0bd-c5d364323352",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+    "teaser": "Despite deploying new V3 Starlink satellites, SpaceX's attempt to launch Starship suffered another Super Heavy booster failure, highlighting the 'fly, fail, fix' nature of development.",
+    "summary": "SpaceX recently conducted a mixed-bag test of its upgraded Starship rocket, deploying third-generation Starlink satellites (which burn up after 20 minutes) while encountering significant technical setbacks. The company successfully deployed the Starlink satellites and saw the upper stage survive atmospheric reentry and perform a simulated landing in the Indian Ocean, a major improvement over previous flights. However, the Super Heavy booster suffered another failure, exploding during a simulated landing burn in the Gulf of Mexico. Furthermore, an attempted launch on Thursday was aborted due to multiple engine failures. While the ability to launch more capable V3 Starlink satellites improves the economics of the profitable Starlink business, the recurring booster failures and the overall reliance on a fully-reusable Starship continue to challenge development progress.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+    "date": "2026-07-24T23:25:47Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-7.12.08-PM.png?resize=1200,1021",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Sean O'Kane",
+    "content": "SpaceX successfully deployed the first third-generation Starlink satellites on Friday using an upgraded version of its prototype Starship - the 13th test flight of its mega-rocket to date. But the company suffered another failure with its Super Heavy booster during a planned simulated landing in the Gulf of Mexico. It's the second time the company has had an issue with the Super Heavy booster on this V3 version of Starship. In May, on the first Starship V3 flight, SpaceX encountered a failure of the Starship's Super Heavy booster as it separated from the upper stage of the rocket. SpaceX was able to perform a simulated landing of the upper stage of Starship during Friday's launch after it deployed the Starlink satellites. The launch came a little more than a week after SpaceX tried to conduct the 13th Starship launch. That attempt had to abort immediately after ignition due to a number of rocket engine failures . SpaceX said it replaced six engines ahead of Friday's flight to fix the problem. During Friday's launch, the booster made it farther into its planned flight but wasn't able to properly fire up all of the engines required for its simulated landing burn. The booster exploded after a faster-than-expected impact with the water. This was the first launch of Starship since SpaceX went public in June in the largest IPO in history . In a test of SpaceX's \"fly, fail, fix\" approach to Starship development, the company saw its stock decline last week in the day following the launch abort. The dip is part of a larger downward trend since the IPO that has seen the company's stock drop from a peak of more than $200 per share to $115 at the close of trading on Friday. In after-hours trading, SpaceX shares fell another 2% following the booster failure, before paring some of those losses. SpaceX had better luck with the Starship V3 upper stage during Friday's launch. The upper stage lost a rocket engine during the first V3 launch in May. That didn't happen this time around, as Starship encountered no issues on its way to deploying the new Starlinks. The Ship, as the company calls it, was able to survive the harsh forces of atmospheric reentry and perform a simulated landing in the Indian Ocean roughly one hour after liftoff. Unlike previous Starship missions, the Ship didn't explode when it tipped over into the water. The Ship instead floated around in the water , giving SpaceX a chance to use a drone to closely examine the heat shield tiles on its belly. The new Starlink satellites burned up in the atmosphere roughly 20 minutes after deployment, as Starship still isn't capable of reaching Earth orbit. SpaceX was able to communicate with all of them while they were in space, marking a step forward for that program, which is the only profitable part of the company's business. The ability to deploy the more capable V3 Starlink satellites improves the economics of the company's capital-hungry space internet network. SpaceX has said launching 60 of the new satellites on Starship is a \"potential twenty-fold increase\" in downlink capacity deployed versus those flown by a single Falcon 9. However, it's not clear if SpaceX can realize those gains if Starship expends the Super Heavy booster rather than reusing it. SpaceX's S-1 said that without a fully-reusable Starship, progress on Starlink \"would be at a slower pace and higher cost.\" With assistance from Tim Fernholz.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3146675",
+      "rss_tags": [
+        "Space",
+        "Transportation",
+        "SpaceX",
+        "Starship"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "4de6819b-71cb-4f99-a7cd-1a67b503a872",
     "cluster_id": "7b313b13-48f6-4bf3-896d-1d9712ce315e",
     "cluster_size": 1,
@@ -768,6 +965,34 @@
     }
   },
   {
+    "id": "8d906094-0461-4ddd-89d2-bf6a74710ff0",
+    "cluster_id": "a772b370-cb86-4e2c-9cc6-a7ae43a9e669",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Dev accidentally commits Copilot binary to FreeBSD ports repo",
+    "teaser": "Accidental Copilot commit forces FreeBSD repo freeze; developers are flocking to simpler VCS alternatives like Game of Trees (Got) to escape Git's complexity.",
+    "summary": "The FreeBSD ports repository recently faced a technical hiccup when a developer accidentally committed a Copilot binary, forcing a repository freeze. This occurred because GitHub's mirroring limit is 100 MiB, unable to handle the file size, though the package itself is not meant to include the proprietary binary.\n\nBeyond this incident, the article explores the widespread developer frustration with the complexity of Git. As developers seek simpler tools, several Git-compatible alternatives have emerged. These include Game of Trees (Got), a system from OpenBSD that prioritizes ease of use, and other options like Jujutsu (Jj) and Gitless. While these alternatives exist, they often require users to already be knowledgeable about complex version control concepts.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/os-platforms/2026/07/24/dev-accidentally-commits-copilot-binary-to-freebsd-ports-repo/5278458",
+    "date": "2026-07-24T17:03:35Z",
+    "image_url": "https://image.theregister.com/5278487.jpg?imageId=5278487&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "OS PLATFORMS Dev accidentally commits Copilot binary to FreeBSD ports repo Git is aptly named: it isn't easy - but there are alternatives The FreeBSD project froze its ports repository on Wednesday. The reason turns out to be a slightly embarrassing Git-related oopsie where a version of Copilot got uploaded somewhere it should not have been. The announcement of the 2026 Ports Repository Freeze went out on July 21 and remained in effect the following day, as explained in a message on the freebsd-announce mailing list . The mail delicately skirted around exactly what happened: « The commit in question severed our ports tree mirroring to github.com due to their filesize hard limit of 100MB, and introduced a blob of questionable licensing into the repository history. » The offending commit is this one . An accidental, but amusing, commit to FreeBSD's ports repository - an entire Microsoft LLM Liam Proven It's not a disaster; the problem is that the Ports repository is automatically mirrored to various places, including a read-only Github mirror - and as Github's docs say , \"GitHub blocks files larger than 100 MiB.\" There is already an official FreeBSD port of Copilot , but FreeBSD terminology is slightly confusing here: the \"port\" is effectively a sort of package that allows the Linux binary to run inside FreeBSD's Linux emulation, called the Linuxulator . It isn't a native FreeBSD version of Copilot, and the package is not meant to include the actual Copilot CLI binary - partly because that is under its own custom license . That's what FreeBSD's Kyle Evans meant by \"questionable licensing\". We don't blame anyone for using any available resources to help with using GitHub. Navigating Linux, FreeBSD, and worst of all Git is hard, especially the last one. Git is aptly named - it's not an acronym, it's a real word : someone annoying or unpleasant. It is, however, now more or less the de facto standard version control system of the FOSS world. Despite not being a developer, the Reg FOSS desk worked with Git on a daily basis for over four years - blame the Docs as Code philosophy - and developed a deep and abiding dislike for it. It's not just us: it's in an XKCD comic , so it must be true. (This vulture has directly lived the experience described in that comic.) Personally, we always found Git much harder work than the tar command . It should come as no surprise that multiple teams are working on compatible alternatives. A Game of Thrones Trees Just the day before some FreeBSD developer's regrettably public mishap, a new version of one of those alternatives appeared: Game of Trees version 0.127 . Game of Trees , known as Got for short, is a Git-compatible version control system (VCS) developed by contributors to the OpenBSD Project. It's been in development since 2019 , and we feel that the project has a nice line in self-deprecation - starting with the homepage's project description: \"a version control system which prioritizes ease of use and simplicity over flexibility.\" This is, we suspect, in response to Git's self-description , which says that it is \"designed to handle everything from small to very large projects with speed and efficiency.\" We also like the Got project goals and especially the FAQ , which really does not beat about the bush: « Does Got aim to replace Git? No. Got does not aim to replace Git. Got can be used instead of Git (for some tasks), or in addition to Git. If you are already using Git and are happy with it, you don't need Got. » And even more succinctly, under the anchor \"pointless\" : « What's the point of all this? Why not just use Git? If you are wondering why Got even exists, you can just ignore it. » Got isn't the only tool that aims to remain compatible with Git, but simplify the experience. Gitless is another, which describes itself as \"a simple version control system built on top of Git,\" and says that it's \"easy to learn and use.\" Unfortunately, development seems to have gone quiet: the last release appeared the same year that Got appeared. Another (and even younger) Git-compatible VCS is Jujutsu , often called just \"Jj\", and not to be confused with the traditional Japanese martial art Jiu Jitsu . Jujutsu the VCS has lots of documentation , but if it has a weakness, it's that it rather assumes that you already know your way around VCS use in general and Git in particular. If that's not the case for you, you might find Jujutsu for Everyone by Remo Senekowitsch more helpful. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5278458",
+      "rss_tags": [
+        "os platforms"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "bb0e8123-b18d-4aea-ba0d-7ee4c60748cf",
     "cluster_id": "13566565-9f19-4791-92d0-059aacf3c277",
     "cluster_size": 1,
@@ -860,6 +1085,58 @@
       ],
       "fetch_ok": true,
       "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "2babe6c8-4f76-4f0e-b688-094b2a65929a",
+    "cluster_id": "4162468c-5e63-4f63-8b9e-e1b53f00bb76",
+    "cluster_size": 1,
+    "source": "thedd",
+    "title": "Explosion Sparks Major Essex Industrial Fire",
+    "teaser": "Over 100 firefighters are battling a major industrial blaze in Essex after an explosion, though the cause and injury status remain unconfirmed.",
+    "summary": "A major industrial fire was reported in Rettendon, Essex, requiring over 100 firefighters to respond. The blaze followed an explosion, but authorities have not yet confirmed the cause of the incident or the status of any potential casualties. While ambulances were present, no injury figures were released. The situation is ongoing as crews continue efforts to control the fire and assess the damage. First Phosphate, a clean technology company focusing on LFP batteries, was mentioned in connection with the site.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://link.mail.beehiiv.com/v1/c/mu5psu8SbWkfElZaJltPM4YO5h7vgIm1o3KnYZZcJF3J3rtTompes3pl6gSr%0AVcYJHFt%2F%2BcpkcbrDtfImgLbdjsOuYupNI1N3erlcPOJh6FbHv132lWzM4iKA%0AUsdCJbv0GBkbYE%2F94c6qMG9J%2BUf9jxYGoYUJp213iRlm2sxTvgUvl8K9X0x8%0AfH4zdFgOe6WoS53cllnIFioXY2x9jQLpEQ%3D%3D%0A/57c55684a7e53fb8",
+    "date": "2026-07-24T20:55:15Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "The Deep Dive",
+    "content": "Sponsored by First Phosphate Explosion Sparks Major Essex Industrial Fire More than 100 firefighters are battling a major blaze at an industrial facility in Rettendon, Essex, following an explosion that residents reported feeling across the surrounding region. Details on the cause of the explosion, the nature of the facility, and any injuries had not been confirmed as the emergency operation continues. The presence of ambulances at the scene suggested authorities were prepared to treat casualties, though no figures were available. The situation remains active as crews work to bring the fire under control and assess the extent of the damage. You can read more on the matter here . First Phosphate (CSE: PHOS) is a mineral exploration and development and clean technology company dedicated to building and reshoring a vertically integrated mine-to-market supply chain for the production of LFP batteries in North America. First Phosphate's flagship Bégin-Lamarche property, located in Saguenay-Lac-Saint-Jean, Québec, Canada, represents a rare North American igneous phosphate resource producing high-purity phosphate characterized by very low levels of impurities. What's going on? Rettendon Industrial Site Erupts in Flames Following Explosion ( theDeepDive ) More than 9,100 federal workers apply for early retirement as deadline arrives ( CBC ) Russia's Funeral Business Keeps Growing, but Not Because of Demand, Industry Says ( theDeepDive ) Trump says original Gordie Howe bridge deal is dead, contradicting Carney ( GN ) House Directs Trump to End Unauthorized Iran Hostilities; Senate Blocks ( theDeepDive ) Canadian government urged to block Thomson Reuters data deal with US ICE ( TG ) DOJ Withdraws Subpoenas Against NYT Reporters After Judge Blasts 'Sloppy' Legal Work ( theDeepDive ) US tech groups cut 140,000 jobs despite AI spending boom ( FT ) Russia Quietly Sets the Stage for a New Mobilization Wave ( theDeepDive ) What's the latest? Prediction Markets: Prediction market Kalshi now places the odds of Strait of Hormuz traffic returning to normal by July 2027 at just 47%, down from nearly 70% two days earlier, following a 13th consecutive night of U.S. strikes on Iran and renewed escalation. Current shipping remains severely disrupted, with a 7-day average of about 12 transit calls versus the 60+ needed to qualify as \"normal,\" while analysts now expect recovery could take into 2027 due to continued Iranian and Houthi threats, despite reports that Pakistan and China are encouraging renewed U.S.-Iran peace talks. Markets : Canada's TSX rose 176 points (+0.5%) to 35,369, while U.S. markets were mixed (Dow +236, S&P 500 +4, Nasdaq -162). The Canadian dollar slipped to US$0.7096, WTI crude fell US$2.88 to US$89.31/barrel-its first weekly decline in oil prices-and gold gained US$20.60 to US$4,070.80/oz. Politics : Canada held a Canada-only ribbon-cutting ceremony for the Gordie Howe International Bridge, which is still expected to open Monday, with officials saying both sides are operational despite the U.S. not formally confirming the date. The bridge will share 50% of net revenues with the U.S. for 15 years under a new agreement, replacing Canada's previous right to retain all toll revenues until recovering its C$6.4B construction cost, while political tensions over Trump's proposed 50% tariffs led to the cancellation of a joint opening ceremony. Tariffs : President Trump announced a Section 301 trade investigation into the European Union, arguing that the EU's fines against Google, Apple, Meta, and Amazon unfairly target U.S. companies. He said the administration expects the EU's penalties to be reversed and warned that the probe will likely lead to substantial new U.S. tariffs on the bloc, adding to trade tensions as the administration also faces a lawsuit challenging its recent use of Section 301 tariffs. Media: Paramount Skydance agreed to delay its $110B acquisition of Warner Bros. Discovery until as late as June 2027 as it battles a lawsuit from U.S. state attorneys general seeking to block the merger on antitrust grounds. The delay could increase the purchase price by over $1B through quarterly $0.25/share ticking fees, while a failed deal would require Paramount to pay a $7B breakup fee, even though U.S. federal and European regulators have already approved the merger. The Battery Boom Has a China Problem The Battery Boom Has a China Problem | John Passalacqua - First Phosphate The stock market and stuff Cadillac Mines Upsizes IPO to $385 Million as Agnico Eagle Takes 11% Position ( theDeepDive ) Waymo explores split with Uber as robotaxi tensions deepen ( FT ) Newmont's Q2 Free Cash Flow Slides 30% to $2.2 Billion on Softer Metal Prices ( theDeepDive ) In the juniors Sunshine Silver Mining & Refining Reports Drill Results Exceeding 1,000 grams per tonne Silver from Multiple Zones including New \"10 Vein\" ( JMN ) Integra Sees Production Climb 30% To 16,379 Ounces of Gold in Second Quarter ( theDeepDive ) Scottie Resources Completes over 10,000 M of Drilling on Its Scottie Gold Mine Project ( JMN ) FULL DISCLOSURE: First Phosphate is a client of Canacom Group, the parent company of The Deep Dive. Canacom Group is currently long the equity of First Phosphate. The author has been compensated to cover First Phosphate on The Deep Dive, with The Deep Dive having full editorial control. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security.",
+    "raw_meta": {
+      "gmail_message_id": "1060",
+      "gmail_uid": "1060",
+      "gmail_labels": [],
+      "gmail_msgid": "1871631530327126389",
+      "gmail_thrid": "1871631530327126389"
+    }
+  },
+  {
+    "id": "ca72116f-3e6d-48da-8e19-13b42d0fca49",
+    "cluster_id": "b259b353-f6f3-421f-9ef8-6aec5439acfe",
+    "cluster_size": 1,
+    "source": "Planet Money (NPR)",
+    "title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
+    "teaser": "Focusing on Kenya and Nigeria, this article explores using Randomized Controlled Trials and human capital development to boost the 'missing middle' economies.",
+    "summary": "This piece appears to focus on economic development and human capital investment in emerging African economies, specifically mentioning Kenya and Nigeria. The text highlights the use of sophisticated research methods, such as Randomized Controlled Trials (RCTs), to evaluate interventions. Key concepts include building 'human capital' (the skills and knowledge of a population) and addressing the challenges faced by the 'missing middle'—a group of individuals or economies with potential that fall between low-income and high-income status. This suggests an examination of targeted solutions for sustainable economic growth.",
+    "importance": 2,
+    "category": "economics",
+    "url": "https://www.npr.org/2026/07/24/nx-s1-5894830/summer-school-kenya-nigeria-cash-development-experiment",
+    "date": "2026-07-24T20:00:00Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Randomized controlled trial\nHuman capital\nMissing middle",
+    "raw_meta": {
+      "rss_entry_id": "114d32ca-0f46-4a42-b717-ff63f75bec77",
+      "rss_tags": [],
+      "fetch_ok": null,
+      "fetch_status": null,
       "fetch_error": null
     }
   }

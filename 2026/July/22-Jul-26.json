@@ -39,6 +39,37 @@
     }
   },
   {
+    "id": "61872c6b-ce63-4f1e-9a6b-cca79db9a0c1",
+    "cluster_id": "56d84f53-6d14-4486-a4e4-35cf8afdec99",
+    "cluster_size": 3,
+    "source": "TechCrunch",
+    "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+    "teaser": "The AI-powered drug discovery sector is booming, marked by massive funding rounds like Chai Discovery's $400M raise and a key OpenAI researcher leaving to launch a new startup.",
+    "summary": "The convergence of AI and life sciences is booming, driving massive investment in deep-tech companies. Dimension Capital announced an $800 million fund, underscoring the sector's vitality. Key players like Chai Discovery raised $400 million at a $3.8 billion valuation to advance AI models for predicting molecular interactions and accelerating drug discovery. Furthermore, Google DeepMind spinout Isomorphic Labs secured a $2.1 billion Series B, and OpenAI researcher Miles Wang is launching a new AI drug discovery startup. This sustained investor confidence highlights the rapid commercial deployment of AI in pharmaceutical and life sciences, moving the field from promise to active development.",
+    "importance": 5,
+    "category": "ai_research",
+    "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+    "date": "2026-07-22T01:27:58Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/MP_2381-2.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Marina Temkin",
+    "content": "While many newer VC firms are still struggling to raise fresh capital, Dimension Capital, founded in late 2022, has been raising increasingly larger funds in quick succession. On Tuesday, the New York firm - which invests at the intersection of science and compute - announced an $800 million fund, which is 60% larger than its $500 million second vehicle announced just 18 months ago. When Zavian Dar and Adam Goulburn - formerly partners at Lux Capital -teamed up with Obvious Ventures alum Nan Li to launch the firm four years ago, they bet that founders would increasingly want to build deep-tech companies that crossed the boundaries of biotech and software. Now, the three partners admit to being impressed by how quickly their thesis has played out. In 2024, they co-led a $30 million seed investment in Chai Discovery. The startup, which is developing open-source AI foundation models for drug development, announced last week that it raised $400 million at a $3.8 billion valuation. The firm also backed anti-aging startup New Limit at its Series A round in January 2025. Earlier this month, New Limit, co-founded by Coinbase CEO Brian Armstrong, completed a Series C at a $3.1 billion valuation. The firm's other notable investments include inference company Modal Labs and Anthropic. Dimension received shares in the AI giant after Anthropic acquired its portfolio company, the drug discovery platform Coefficient Bio this spring for a reported $ 400 million .",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3145093",
+      "rss_tags": [
+        "Biotech & Health",
+        "Venture",
+        "biotech",
+        "Chai Discovery"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "3ad3f92d-879e-43f0-80c7-f10fe1ad1d78",
     "cluster_id": "960de33e-0006-4744-8685-d9746fc9e901",
     "cluster_size": 2,
@@ -103,6 +134,54 @@
       "rss_entry_id": "https://www.theregister.com/a/5275984",
       "rss_tags": [
         "networks"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "1d3f2e4d-011f-4ec1-a8c1-3cc72e4fd732",
+    "cluster_id": "e47858a6-7b9e-4966-9f58-8354dbb698ca",
+    "cluster_size": 6,
+    "source": "WinBuzzer",
+    "title": "ChatGPT to Alert Parents After Teen Violence-Policy Deactivation",
+    "teaser": "AI tech companies are rapidly evolving parental controls: OpenAI alerts parents *after* deactivating a teen's ChatGPT account for violence, while Meta provides real-time warnings for suicide/self-harm signals.",
+    "summary": "Major tech platforms are implementing advanced parental safety features for AI interaction with minors. OpenAI’s system alerts linked parents only *after* violence-policy enforcement deactivates a teen's ChatGPT account, providing the policy category but no conversation history. Conversely, Meta has introduced a more proactive system: parents receive notifications when Meta AI detects possible suicide or self-harm signals in a teen's chats. This process requires human review before notification and is rolling out across the US, UK, Australia, and Canada by the end of 2026. Both systems emphasize privacy, ensuring parents do not gain routine access to ordinary conversations. Separately, Meta also retracted its photorealistic @-mention feature following backlash over nonconsensual AI-made likenesses, a decision welcomed by SAG-AFTRA due to consent concerns.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://winbuzzer.com/2026/07/22/chatgpt-to-alert-parents-after-teen-violence-policy-deactiva-xcxwbn/",
+    "date": "2026-07-22T09:38:47Z",
+    "image_url": "https://winbuzzer.com/wp-content/uploads/2026/07/ChatGPT-teen-accounts-parent-notifications.webp",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Markus Kasanmascheff",
+    "content": "TL;DR Violence Alert: OpenAI will alert parents linked to a teen's ChatGPT account after violence-policy enforcement deactivates it. Privacy Boundary: Parents receive policy-category information but cannot read prompts, responses, conversation history or real-time activity. Linked Profiles: Unlinked teen accounts generate no family notification, even when other safeguards for users under 18 apply. Different Models: Meta's AI assistant uses human-reviewed alerts for suicide or self-harm signals before account deactivation. OpenAI will alert linked parents or guardians after violence-policy enforcement deactivates a teen's ChatGPT account. OpenAI announced the parental-control expansion on July 18 but did not specify a delivery date or geography. Parents and guardians must connect their profile to a teen's profile before they can receive an alert. An unlinked teen profile generates no family notification, even when other safeguards for users under 18 apply. Under the conversation privacy boundary, adults cannot read the teen's prompts, responses, conversation history or real-time activity. OpenAI is widening the linked-parent notification scope rather than creating continuous conversation monitoring. A Learn More option identifies the violence-policy category behind the deactivation, giving families limited information for deciding whether to intervene or seek help. Because the notice follows enforcement, it cannot prevent the conduct behind the account deactivation or serve as an advance warning. How the Alert Works and Where It Stops OpenAI developed the alert with Moonshot , an organization focused on monitoring and countering online violence. Vidhya Ramalingam, Moonshot's founder, framed notification and added policy information as an initial opportunity for families to respond. \"Notifying a parent when a serious concern arises, with a route to more context, is a critical first step in giving families the chance to step in early and seek help.\" Vidhya Ramalingam, Moonshot founder Ramalingam's phrase \"first step\" also captures the feature's limit. A teen's access has already ended when the adult receives the policy category, which cannot identify who was involved or reproduce what was said. Families still need to determine whether a threat remains active before choosing a direct conversation, professional support or emergency assistance, and the category alone cannot prescribe that choice. OpenAI has not disclosed how many profiles will qualify, how quickly alerts will arrive or what recipients do afterward. Delivery speed will affect an adult's opportunity to respond to an ongoing concern. Notification and recipient-response rates would indicate how often violence-policy enforcement reaches linked families, how often adults open the message and whether the category supplies enough information for action rather than merely documenting completed enforcement. Nearly nine in ten teen ChatGPT users use the service for learning, information, skill-building or productivity during a week. Ordinary educational use does not activate the alert, and parents do not gain routine access to those conversations. Only a completed deactivation for violent threats or acts of violence produces the notice for a linked family, keeping the intervention tied to a narrow enforcement outcome rather than general use. Parents can also activate Study Mode and more frequent break reminders while a profile remains active. Study Mode steers ChatGPT toward hints before answers, while longer sessions prompt breaks. Both measures address ordinary use before enforcement and remain separate from the later violence-policy notice. In 2025, OpenAI launched ChatGPT parental controls with linked profiles, usage-hour limits, reduced sensitive content and notifications tied to self-harm concerns. Violence-policy alerts inherit the linked-profile requirement while adding a different post-enforcement message. Families must configure the connection in advance because an account without a linked adult has no recipient for the alert. AI Chatbots Take Different Paths on Teen Safety In comparision, Meta's AI assistant uses human-reviewed parent alerts after a teen references suicide or self-harm. In July, Meta's alerts operated in the United States, United Kingdom, Australia and Canada, with a global rollout planned by year-end. Its model detects a distress signal and sends it for manual review rather than waiting for an account deactivation, creating a different intervention point from OpenAI's post-enforcement notice. OpenAI's approach leaves teen conversations private while giving linked families a narrow intervention route after serious enforcement. Its practical value will depend on alert speed and whether guardians receive enough information to make informed decisions.",
+    "raw_meta": {
+      "rss_entry_id": "https://winbuzzer.com/?p=1953576",
+      "rss_tags": [
+        "WinBuzzer News",
+        "AI Assistants",
+        "AI Privacy",
+        "AI Safety",
+        "Artificial Intelligence (AI)",
+        "Chatbots",
+        "ChatGPT",
+        "Child Accounts",
+        "Child Protection",
+        "Child Safety",
+        "Conversational AI",
+        "Generative AI",
+        "Meta AI",
+        "Moonshot",
+        "OpenAI",
+        "Privacy",
+        "Responsible AI",
+        "Teen Accounts",
+        "Teen Mental Health",
+        "Teen Safety",
+        "Vidhya Ramalingam"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -260,6 +339,37 @@
         "Security",
         "cyberattack",
         "ransomware"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "e19cf71e-8c5c-4a52-9a88-f76d405d3f81",
+    "cluster_id": "34fedeee-b7d2-43c4-8dd4-9fbb7512b879",
+    "cluster_size": 3,
+    "source": "TechCrunch",
+    "title": "OpenAI’s AI spending spree has ballooned to $750B",
+    "teaser": "AI infrastructure spending is booming: OpenAI plans $750B by 2030, while Google bets on massive solar and battery storage to power the future.",
+    "summary": "AI companies are escalating their infrastructure demands, with OpenAI announcing a massive $750 billion spending spree through 2030 for its Georgia data center, Project Camellia. This monumental demand is fueling global tension over power sources, with OpenAI's plans relying heavily on natural gas capacity and local tax abatements. In contrast, Google is pursuing a renewable strategy, making a major investment in Steel River, an Arkansas facility pairing solar and battery storage. This purchase model allows Google to gradually match its growing electricity consumption with clean power by sourcing it directly from the regional grid. The contrast is stark: while Google prioritizes renewables, competitors like xAI continue to operate unpermitted natural gas power plants, highlighting the diverging approaches to powering the AI revolution.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "date": "2026-07-22T16:13:30Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Tim De Chant",
+    "content": "OpenAI announced Wednesday that it will spend $750 billion on infrastructure through 2030, some 25% more than it estimated earlier this year, The Wall Street Journal reported . The renewed blitz comes as its Stargate data center project appears to have stalled . The first salvo in OpenAI's spending spree will be a $20 billion data center campus in Georgia known as Project Camellia. The development will span 1,400 acres northwest of Savannah and will draw at least 3.2 gigawatts of power from Georgia Power, the region's utility. The generating capacity is expected to become available between 2028 and 2032. The AI company said it would \"pay the full cost of the infrastructure and electric-service costs\" for the new data center. The Georgia Public Service Commission (PSC) adopted a rule last year to prevent utilities from passing on costs associated with new users drawing more than 100 megawatts. Georgia Power also said OpenAI will reduce its power draw by up to 1 gigawatt during periods of high demand on the grid. OpenAI is receiving a 50% property tax abatement for 15 years from Effingham County, according to the Effingham Herald. Neither OpenAI nor Georgia Power has said how Project Camellia will be powered. TechCrunch asked both companies for specifics but did not immediately receive a reply. Regulatory filings might provide some clues. In December, Georgia Power received approval from the PSC to produce an additional 9,885 megawatts. The utility told the PSC it expects to have all the capacity contracted by the end of 2026. The OpenAI deal accounts for about a third of that. Based on documents Georgia Power filed with the PSC, most of the new capacity will come from natural gas. The utility said it will build or buy from third parties about 5.8 gigawatts of natural gas generating capacity, about a quarter of which will be from more polluting simple-cycle turbines. Altogether, the new fossil fuel capacity will more than double Georgia Power's natural gas fleet . The remainder will be supplied by grid-scale batteries and solar. While electricity from Georgia Power is expected to start flowing in 2028, OpenAI did not give a timeline for when the first GPU will be turned on. That could happen sooner than 2028 given that OpenAI recently hired Brett Mayo to lead data center construction. Mayo previously worked at xAI, where he oversaw the Colossus data center in Memphis. Colossus was built in record time, but it has allegedly taken its toll on local air quality, according to a lawsuit filed by the NAACP and the Southern Environmental Law Center. The xAI data center has been running dozens of unpermitted natural gas turbines , claiming exemption from federal clean air regulations.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3145288",
+      "rss_tags": [
+        "AI",
+        "Climate",
+        "data centers",
+        "OpenAI"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -953,6 +1063,32 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "2ffc90d4-5d52-4680-a87b-a51fb7a13cfa",
+    "cluster_id": "487ba657-a404-4a5e-8abe-caae7ee807fa",
+    "cluster_size": 2,
+    "source": "thedd",
+    "title": "Who Really Funded Alberta's Separatist Campaign?",
+    "teaser": "A court has frozen $8.52 million in assets belonging to key separatist advocate Jeffrey Rath, adding financial pressure to the Alberta independence movement.",
+    "summary": "Recent reports reveal significant scrutiny regarding the funding and financial operations of Alberta's separatist movement. The Alberta Land Consortium, which has risen to fourth place in fundraising, is found to have the majority (at least 83%) of its contributions stemming from its organizer, Robert Deer, and entities connected to his family. Additionally, the judicial scrutiny has intensified against key advocates. An Alberta judge issued a Mareva order, an extraordinary civil remedy, freezing up to $8.52 million in assets belonging to separatist lawyer Jeffrey Rath and his law corporation. This action heightens the financial dimension of the separatist campaign, pointing to potential conflicts over settlements like the Tallcree First Nation matter.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://link.mail.beehiiv.com/v1/c/W1AOFdaqtLhch3DEwGsVay%2FerHQ3D4JvgGv9jikolNBpKWx%2F1PuRZjKaCmQn%0Ay4PY3vuXKHFSGLRsaplIhs2pxKs8B8vkQM0RnL1cpNwKy3KaGmTr8TfP1Wth%0A%2FjcA5DIVV7qogh98NouzQcg%2BWXmh9ECJgYSVkwu4O9f%2BaKWgHm3YaEgMfB8N%0Atk06lPcbUd62hcr3a58sZvI8m0lPNaO6PQ%3D%3D%0A/fefa0b526efdcbc4",
+    "date": "2026-07-22T21:01:27Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "The Deep Dive",
+    "content": "Sponsored by Emerita Resources Who Really Funded Alberta's Separatist Campaign? Alberta Land Consortium has risen to fourth place among organizations raising money for Alberta's referendum campaign, but at least 83% of its reported contributions came from the group's organizer, his relatives, or companies connected to them, according to corporate searches conducted by The Tyee. Elections Alberta disclosures show the Calgary-based third-party advertiser raised $30,315. The Tyee traced at least $25,150 of that total to Robert Deer, members of his family, or corporations whose directors were connected to Deer. Deer is listed by Elections Alberta as the consortium's primary contact and chief financial officer. You can read more on the matter here . Emerita Resources (TSXV: EMO) is a Canadian mineral resources exploration company dedicated to the acquisition, exploration, research and development of prospective mining properties in the Iberian Pyrite Belt of Spain with a focus on traditional base metals and precious metals. The company owns the IBW project that boasts a resource of 18.96 Mt indicated resource at 3.01% CuEq and a 6.80 Mt inferred resource at 3.00% CuEq. Emerita is also awaiting a final court decision on the Aznalcóllar mine - one of the largest undeveloped zinc assets in the world - that contains the Los Frailes and Aznalcóllar deposits, both former past producing open pit mines. What's going on? Carney Advances Airport Valuation Work Ahead of Investor Summit ( theDeepDive ) Trump's trade rep defends new tariffs on Canada ( CBC ) \"Fat Trudeau\": Doug Ford's Centrist Pivot Fuels Trudeau Comparison ( theDeepDive ) CMHC predicts weak housing market activity for rest of year in updated forecast ( CTV ) Trump Must Open His Books to the BBC, Florida Judge Rules ( theDeepDive ) Iran strikes on CIA facilities prompt questions about possible Russian role ( Reuters ) What Does Trump's Family Get Out of the Saudi Nuclear Deal? ( theDeepDive ) The US has collected about $13bn of Venezuela's oil money. Where is it? ( FT ) Trump Clears Saudi Nuclear Pact Without Enrichment Safeguards ( theDeepDive ) What's the latest? Crypto: The U.S. Senate's updated Clarity Act would ban presidents and other federal officials from issuing or sponsoring cryptocurrencies and digital assets, with violations enforceable by the Department of Justice through fines of up to US$250,000 per day. The bill follows scrutiny of President Trump's crypto ventures, but its passage remains uncertain as Democrats oppose giving the DOJ sole enforcement authority, while Senate leaders expect a vote within the next few weeks. Markets : Canada's TSX rose 116 points to a record high of 35,485, outperforming mixed U.S. markets despite renewed U.S. tariff threats on generic drug imports. The Canadian dollar edged up to US$0.7098, while WTI crude jumped to US$86.83/barrel (+US$2.49) and gold surged to US$4,151.90/oz (+US$75.50). Trade War : The U.S. is negotiating separately with Canada and Mexico on CUSMA, raising concerns that concessions Mexico makes in its more advanced talks could become the benchmark for Canada. After imposing new 50% tariffs on some Canadian goods effective Aug. 19, the U.S. and Canada agreed to intensify negotiations, while Canada says it wants a good deal rather than a quick one and continues to push for the removal of steel and aluminum tariffs. Real Estate : CMHC expects Canada's housing market to remain weak through the rest of 2026, with slow economic growth (0.7%), subdued home sales, declining home prices, and lower housing starts, before a gradual recovery in 2027-2028. The agency says Ontario and B.C. will continue to lag due to affordability and slower population growth, while Western Canada and Quebec should perform better, though U.S. trade tensions and the U.S.-Iran conflict remain key risks that could delay the recovery. Politics: President Donald Trump warned that the U.S. will bomb one Iranian bridge or power plant for every attack on a ship in the Strait of Hormuz, escalating tensions after the ceasefire collapsed, while Iran threatened retaliatory strikes against U.S.-linked infrastructure in the region. The confrontation pushed Brent crude above US$94/barrel (+3.7%) and WTI to about US$87/barrel (+3.5%), as fears of prolonged disruptions to the critical oil shipping route intensified. Gold Cooled Off, But the Bull Market Isn't Over Gold Cooled Off, But the Bull Market Isn't Over. | John-Mark Staude - Riverside Resources The stock market and stuff Mercedes Faces US Sales Ban over Chinese Ownership Stakes ( theDeepDive ) Airbus Acquires Stake In Canadian Drone Firm Landing Zones ( theDeepDive ) Hackers Turn BQ's Blanchet X Account Into Crypto Scam Channel... Again? ( theDeepDive ) Google burned through nearly $6bn in cash last quarter as AI spending surged ( FT ) NovaGold to Consolidate Donlin Gold Project at US$4.2 Billion Equity Value ( theDeepDive ) Lundin Gold Targets Early 2027 Maiden Resource for Sandia After Two New Porphyry Discoveries ( theDeepDive ) In the juniors Avino Sees Silver Equivalent Output Fall 17% as Copper Production Halves in Q2 ( theDeepDive ) Brixton Metals Hits 89,125 g/t Silver Sub-Interval in New Langis Discovery Area ( theDeepDive ) Vox Royalty Sues Lahontan Gold Subsidiaries Over Alleged Breach of 2018 Offtake Agreement ( theDeepDive ) FULL DISCLOSURE: Emerita Resources is a client of Canacom Group, the parent company of The Deep Dive. Canacom Group is currently long the equity of Emerita Resources. The author has been compensated to cover Emerita Resources on The Deep Dive, with The Deep Dive having full editorial control. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security.",
+    "raw_meta": {
+      "gmail_message_id": "1028",
+      "gmail_uid": "1028",
+      "gmail_labels": [],
+      "gmail_msgid": "1871450302128543703",
+      "gmail_thrid": "1871450302128543703"
     }
   },
   {
