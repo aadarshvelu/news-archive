@@ -69,6 +69,39 @@
     }
   },
   {
+    "id": "773f4ab8-5caf-4160-9b01-ae10a12a7818",
+    "cluster_id": "42341f2a-9a1a-43e5-8041-739a54534d70",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "The hacker who humiliated spyware makers and was never caught",
+    "teaser": "The mysterious hacker Phineas Fisher humiliated spyware makers and governments for years, leaving a trail of leaks over 400GB of data but never revealing their true identity.",
+    "summary": "Phineas Fisher is an enigmatic figure renowned as a prolific hacktivist who has successfully targeted major spyware manufacturers and institutions globally without ever being caught. Starting with FinFisher in August 2014, Phineas elevated their profile by hacking Hacking Team the following year. This breach was massive, leaking over 400 gigabytes of sensitive data, which significantly contributed to Hacking Team's eventual collapse and required its CEO to sell the company for only one euro. Beyond spyware firms, Phineas has directed hacks against political entities like Turkey’s ruling party under Recep Tayyip Erdoğan and even police forces (Mossos d'Esquadra). Operating with anarchist ideals, their activity highlights the profound impact hacktivism can have on corporate accountability and global politics.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+    "date": "2026-07-25T20:24:14Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/anonymous-hacktivist-mask.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Lorenzo Franceschi-Bicchierai",
+    "content": "Over the last few decades, several mysterious hackers have captured the public's imagination, but none quite like Phineas Fisher. A decade after their most famous hack, Phineas remains, by most accounts, the most prolific and public hacker never to have been caught . As part of our series on the biggest cybersecurity mysteries of all time, we're delving into the enigma of Phineas, the hacktivist who hacked controversial spyware makers FinFisher and Hacking Team . The latter, an Italian startup, was among the first to turn government spyware into a viable global business, paving the way for spyware makers such as the Israeli NSO Group. Phineas' hack against Hacking Team eventually led to the startup's demise years later . Apart from Anonymous, an amorphous amalgam of hacktivists with a mixed track record of mostly stunt hacks designed to gather publicity rather than have real impact, Phineas is perhaps the most well-known hacktivist in history. Their story is made of impressive hacks and endless unanswered questions. Who is Phineas Fisher? Variously called an anarchist, a cybercriminal, a hacktivist, and a vigilante, the hacker has said they \"use a lot of different names\" for different hacking escapades. The hacks we know about were big enough to turn Phineas into a legend among hackers. \"I would like to meet Phineas Fisher so that I could buy them a seven-course, three-Michelin-star dinner somewhere and listen to them explain how they turned Hacking Team inside out like a gym sock,\" a well-known security researcher once wrote on Twitter. There's even a song about them . Phineas first emerged in August 2014, when they announced they had hacked Gamma Group , the makers of the FinFisher spyware - which is where the nickname comes from. They publicized the hack via a Twitter account cheekily called @GammaGroupPR , leaking stolen data including mobile spyware, product manuals, and a price list. The damage was limited, and FinFisher carried on. Phineas published a post-mortem that doubled as a leftist manifesto, then vanished. A year later, they came back with a bang, hacking Hacking Team , another spyware maker. They took practically everything: more than 400 gigabytes including source code, tens of thousands of internal emails, confidential contracts, and customer lists. The leak allowed journalists to reveal scandals in Ecuador, Mexico, and Panama. Years later, Hacking Team's CEO David Vincenzetti was forced to sell his company for one euro. For some former employees, Phineas' hack was the beginning of the end. Phineas went on to hack the union of the Mossos d'Esquadra , which is the police force of Catalonia, publishing a post-mortem and a 39-minute tutorial video - consistent with their stated anti-police ideals. Their next victim was the ruling party of Turkey's authoritarian president Recep Tayyip Erdoğan, a hack motivated by solidarity with Rojava, a leftist autonomous region in northern and eastern Syria that Turkey was fighting against. Phineas' last known victim was Cayman National Bank's branch in the Isle of Man, a self-governing island between England and Ireland. The hack hinted at a different side of Phineas. \"I look for illegal ways to make money in order to free my time so I can do something useful with it. Once I had that figured out, I started scaling it up and making more money than I need and giving the extra away,\" Phineas said in an interview with activist Freddy Martinez. (Phineas donated at least $10,000 in Bitcoin to Rojava .) Phineas kept the hack - which happened in 2016 - quiet for three years later before announcing the \"Hacktivist Bug Bounty Program,\" an initiative to reward hacktivists who expose companies' illegal and unethical activities. When Cayman National Bank confirmed the hack, it claimed it \"was amongst a number of banks targeted.\" Phineas confirmed they had been hacking several banks for years. That was their last public appearance. Their Twitter and Reddit accounts have long since been deleted, leaving no online trail. FinFisher never contacted law enforcement, according to a former company employee. The Italian authorities' investigation into the Hacking Team hack ended without finding any evidence pointing to Phineas' real identity. What I can say, from my own reporting, is that Phineas is alive and well - they have been in contact with me within the last couple of years. So who is Phineas Fisher? Taking their claims at face value, they're a hacktivist with anarchist ideals, but also a cybercriminal. Could they instead be a fabricated persona controlled by a spy agency - Russia, say, which has a history of inventing hacktivists to muddy the waters after its own hacks? Phineas has denied being a Russian spy, and it's unclear why Moscow would go after all of Phineas' chosen targets. Their origins are equally murky. Phineas has name-dropped Spanish-speaking anarchists, wrote the Hacking Team post-mortem in Spanish, and followed numerous Latin American leftist accounts on Twitter. They told me their first language is neither English nor Spanish, though they have acknowledged living in a Spanish-speaking country. It's all worth taking with a grain of salt. \"Everything I say that contains clues about my identity is half trolling,\" Phineas once told me. \"I'm in the habit of saying misinformation.\" It's also possible that the Phineas persona was passed around between 2014 and 2019 and used by different individuals. But there is no evidence of that, and after 10 years of conversations, my gut says Phineas truly is the hacktivist they claim to be. ASCII art from Phineas' Hacking Team breach post-mortem. (Image: TechCrunch) Image Credits: TechCrunch /",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3143811",
+      "rss_tags": [
+        "Security",
+        "hackers",
+        "cybersecurity",
+        "hacking team",
+        "hacktivist",
+        "Hacking mysteries"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "75cacbf8-8f25-43ee-91ae-0795915cd16c",
     "cluster_id": "e1ddbc98-383d-4c9b-8e9f-89a0892af080",
     "cluster_size": 2,
@@ -218,6 +251,65 @@
         "robotics",
         "Spot Instances",
         "NASDAQ:AMZN"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "88b3413a-6e05-4663-a894-04f6319d9260",
+    "cluster_id": "8b20b36b-1fe9-42b8-ae7a-97f7fd5129d7",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+    "teaser": "Warner Bros. Discovery sues Amazon, alleging the tech giant is illegally poaching key Hollywood executives using lucrative incentives and ignoring long-term contracts.",
+    "summary": "Warner Bros. Discovery filed a lawsuit against Amazon, accusing it of illegal employee poaching and contract interference. The suit centers on accusations that Amazon induced employees to breach their long-term term employment agreements through higher pay packages and legal indemnification assurances. Key figures include HBO Max executive Pia Barlow, whose contract allegedly runs until October 31, 2027, after joining Amazon MGM Studios, and believed target Francesca Orsi. Warner Bros. claims this represents a 'lawless employee shopping spree.' This ongoing dispute reignites significant debate about the enforceability of term employment agreements under established California law, impacting labor practices across the entertainment industry.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+    "date": "2026-07-25T20:55:11Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/warner-bros.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Anthony Ha",
+    "content": "Warner Bros. Discovery filed a lawsuit this week accusing Amazon of interference with contractual relations, breach of contract, and unfair competition. As reported by Deadline , the lawsuit alleges Amazon has been \"hurriedly seeking to pirate away a number of contracted employees,\" including Pia Barlow, an HBO Max marketing executive who recently joined Amazon MGM Studios. Warner Bros. (whose pending acquisition by Paramount has been paused for at least a few months ) said Barlow's employment contract was \"not set to expire until October 31, 2027.\" \"In blatant disregard of established California law, Amazon has gone rogue by attempting to induce Plaintiffs' employees with term employment agreements to breach those agreements with impunity, backed up with the ready assurance that Amazon will defend and indemnify them should they be held to account for their blatantly unlawful acts,\" Warner Bros. said. The company also accused Amazon of seeking to \"tortiously induce another WBD employee to breach their term employment agreement, which was not set to expire until December 2027,\" although that executive (believed to be HBO programming executive Francesca Orsi) ultimately stayed at Warner Bros. Deadline noted that this lawsuit is likely to renew debates about whether term employment agreements are actually enforceable under California law. Amazon MGM Studios declined to comment.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3146746",
+      "rss_tags": [
+        "Government & Policy",
+        "Media & Entertainment",
+        "Amazon",
+        "Warner Bros Discovery"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "784c2e26-55d4-421f-b0a0-a9ea82f54075",
+    "cluster_id": "315aeec8-8ec6-41f4-a288-62adfbca086e",
+    "cluster_size": 1,
+    "source": "Testing Catalog",
+    "title": "Airtap launches text-based AI agent for mobile tasks",
+    "teaser": "Airtap turns your standard text messages into a powerful AI control panel, letting you automate complex mobile tasks—like clipping coupons—without opening any apps.",
+    "summary": "Airtap has launched a novel AI agent that transforms standard text message threads (via iMessage and RCS) into a control surface for everyday mobile tasks. Instead of just answering questions, Airtap operates as an autonomous agent, capable of placing orders, checking accounts, or clipping coupons directly within your message history. This is achieved by navigating and tapping through native mobile apps—a method that circumvents the need for official APIs.\nRequiring no setup or separate installation, users simply send a text to start. Airtap can perform complex routines, such as repeatedly clipping digital grocery coupons weekly without the user opening an app. The tool’s power lies in its ability to access native mobile functionality where most daily errands occur, positioning it as core agent infrastructure for phone-based tasks.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/airtap-launches-text-based-ai-agent-for-mobile-tasks/",
+    "date": "2026-07-25T20:58:48Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/07/Home-Airtap-07-14-2026_05_56_PM.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Nero Soares",
+    "content": "Airtap has introduced a text-based method to manage everyday phone tasks by launching an iMessage and RCS interface. This innovation transforms an ordinary message thread into a control surface for the apps already installed on a phone. Unlike a chat companion that answers questions, Airtap acts as an agent that operates mobile apps on a user's behalf. It can place orders, clip coupons, check account activity, and post to social platforms, all from within the conversation. The message thread itself serves as the interface, eliminating the need for installation or learning a separate dashboard. Getting started is as simple as sending a single text. Any message sent to the Airtap number automatically creates an account, with no signup form, download, or setup command required beforehand. Airtap reports progress back as plain text as it works. A link appears only when the agent genuinely cannot proceed without input, usually for a first-time sign-in to a third-party service such as a store, streaming, or banking account. Each sign-in link is single-use and scoped to one task. Once the user signs in and returns to the thread, the agent resumes its work independently. Check out the official website! Test it! The clearest fit for Airtap is with tasks that are entirely within mobile apps and repeat on a schedule. Clipping digital grocery coupons is one example the product focuses on, as supermarket, big box, and pharmacy apps often hide savings behind manually toggled offers that reset weekly. This task is tedious on a phone and largely absent on desktop. Airtap can work across these apps, clip every available coupon, and repeat the routine weekly without the user opening a single app. This pattern extends to food ordering, class and restaurant booking, and monitoring a limited release until it opens. The agent persists in achieving a goal and escalates until it succeeds, rather than stopping at the first obstacle. The emphasis is on operating real apps that lack usable web equivalents, not on holding a conversation. Airtap is built around a cloud phone model, where the agent navigates a real mobile environment by reading the screen and tapping through app flows as a person would, rather than relying on official APIs that most consumer apps do not expose. This approach allows it to access native apps where a significant portion of daily errands and decisions occur, spanning delivery, fitness, payments, and social feeds. The company has positioned the tool as agent infrastructure for phone-based tasks, with the iMessage and RCS thread serving as the entry point for users who want the capability without technical setup. The product is available via text and automatically recognizes returning users by phone number, ensuring the thread remains continuous across separate tasks.",
+    "raw_meta": {
+      "rss_entry_id": "6a46faa43fac6e0001d3b73c",
+      "rss_tags": [
+        "Sponsored"
       ],
       "fetch_ok": true,
       "fetch_status": 200,

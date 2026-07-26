@@ -356,6 +356,34 @@
     }
   },
   {
+    "id": "a9c390e9-34bd-43ad-97a0-b845786f3c79",
+    "cluster_id": "b42fddb2-cab5-414d-a7bb-3b748e078fba",
+    "cluster_size": 6,
+    "source": "Testing Catalog",
+    "title": "Offloop launches AI Agent Workspace for recurrent work",
+    "teaser": "While publishers assume all visitors have eyeballs, AI agents are bypassing modern web barriers, proving the coming era requires fundamental changes in internet monetization.",
+    "summary": "Multi-agent systems are rapidly maturing, tackling everything from operational workflow to complex web interaction. Offloop launched its agent workspace in private beta, enabling persistent Channels for managing recurring tasks by allowing agents to inherit context and owners. Furthermore, Offloop’s system demonstrated impressive performance on real-world benchmarks like GDPval and JobBench.\n\nTechnically, the development is marked by both complexity and accountability gaps. OpenAI's Codex introduced MultiAgentV2, which encrypts messages between agents for privacy but creates an audit gap because local history lacks readable task delegation records. Simultaneously, these advanced agents are challenging the current web model; they can circumvent publisher defenses (like visiting archived sites) because websites were designed solely for human-viewed advertising models.\n\nThe overall trend suggests a shift toward consumption-based charging or highly sophisticated agent management tools.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/offloop-launches-ai-agent-workspace-for-recurrent-work/",
+    "date": "2026-07-23T15:44:45Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/07/cea210de4ad1519421be83e9d702798d.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Nero Soares",
+    "content": "Offloop has opened its agent workspace in private beta, providing invite-based access to a system that maintains recurring teamwork within persistent Channels instead of restarting it with every prompt. The product is designed for small teams managing launches, customer follow-up, research, feedback, growth, and operations, where progress often stalls not due to hard problems but due to follow-through that no one has time to chase. The unit of work is the Channel. People, agents, messages, files, schedules, signals, tool progress, and finished artifacts are all located in the same place, allowing an agent picking up a task to inherit the context, owners, and permissions that preceded it. Schedules and incoming signals can independently activate an agent, transforming a one-off request into a loop that continues running. In one setup demonstrated by the company, an agent is granted access to a Google Workspace inbox and subsequently activates the Channel with a summary whenever a matching email arrives. Actions remain visible throughout, and individuals can inspect, redirect, approve, or stop a run at any point. Offloop Coordinating several agents within one Channel is managed by D1, a dispatcher model developed by Offloop for this purpose. With multiple agents sharing a workspace, a decision-maker is needed to determine which agent acts at each step and to respond when context shifts or new updates occur, and D1 fulfills this role. Teams can connect their own AI subscription account or utilize inference provided by Offloop. Connectors currently include Notion, GitHub, GitLab, Sentry, Supabase, Vercel, Railway, Cursor, Codex, and ChatGPT, with a macOS desktop app accompanying the workspace. 💡 Use code 6M50DJ and get access to the closed beta! Offloop is also quantifying the multi-agent framework. According to figures released by the company, its multi-agent system scores 84.9 percent on GDPval and 67.2 percent on JobBench, surpassing the frontier multi-agent baselines it tested against, at approximately a fifth of the cost per task. GDPval is OpenAI's benchmark of real-world economically valuable work spanning 44 occupations across nine sectors, while JobBench, published by researchers at the University of Washington, evaluates agents on the tasks professionals wish to delegate. Offloop presents the result as the first multi-agent system to demonstrate its value on real-world benchmarks. The company behind the product is Intelligence Software, Inc., and Offloop states that the team previously developed general-purpose agents at scale and recognized where a single agent reaches its limits. Access is available across three tiers: an invite-only Operator plan for individuals converting recurring work into agent-assisted Channels, a Team Pilot plan that adds shared Channels, team memory, connector setup, and priority onboarding, and an enterprise tier that includes custom connectors, SSO planning, and an audit-friendly runtime. Invite codes for the beta are being distributed through the Offloop site.",
+    "raw_meta": {
+      "rss_entry_id": "6a6157c583266f000139a838",
+      "rss_tags": [
+        "Sponsored"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "bbeb091b-c04a-4d1f-9dac-72caf54d863d",
     "cluster_id": "527d2ce9-538e-44ee-ab08-3c6d25d63d29",
     "cluster_size": 1,
@@ -573,6 +601,32 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "817678ec-3e51-4353-880c-f5e9ea25f1a5",
+    "cluster_id": "6bbb45b5-5ce4-4267-bf36-f618869122b2",
+    "cluster_size": 2,
+    "source": "substack",
+    "title": "Sebastian Raschka, PhD, Michael Spencer, and Arvind Narayanan posted new notes",
+    "teaser": "AI holds transformative power over informal economies, potentially breaking a vicious cycle of low wages and illegibility.",
+    "summary": "The post highlights a critical economic challenge in informal economies, citing India as an example where much commerce relies on uncodified, tacit knowledge. This setup creates a vicious cycle: low wages coupled with extreme illegibility discourage private investment in AI solutions. The authors suggest that while governments or NGOs might be able to help break this cycle—a feat whose impact could surpass rural electrification—the potential for transformation is immense, pointing to digital infrastructure's crucial role.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://substack.com/@rasbt/note/c-295419362?utm_source=feed-email-digest",
+    "date": "2026-07-23T01:54:03Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Substack",
+    "content": "This is one of the most important questions about AI and one that I've thought about. In countries like India, much of the economy is informal - heavily reliant on tacit knowledge that's not written down anywhere, processes never codified, \"I know a guy who knows a guy\" networks, and pervasive corruption. This underground economy is trapped in a vicious cycle: low wages + extreme illegibility → no incentive for private actors to build AI for their use cases → everything stays informal + low productivity. I don't know if governments and/or NGOs can help break this cycle, but if they can, its impact would easily exceed that of rural electrification. India has successfully built and deployed digital infrastructure for legibility in the past...",
+    "raw_meta": {
+      "gmail_message_id": "1030",
+      "gmail_uid": "1030",
+      "gmail_labels": [],
+      "gmail_msgid": "1871468724691519361",
+      "gmail_thrid": "1871468724691519361"
     }
   },
   {
@@ -1122,6 +1176,34 @@
         "Apps",
         "Anthropic",
         "Claude"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "4e61fc64-243d-4be9-8b6e-d29fd89eb0d8",
+    "cluster_id": "34c0731f-bfe6-4f78-bbe6-56ba9aa17f48",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "FCC Chairman Brendan Carr’s war on the First Amendment",
+    "teaser": "FCC Chairman Brendan Carr is pushing to end a limit that prevents one company from owning too many local TV stations, sparking concerns about local journalism's future.",
+    "summary": "The FCC and its Chairman, Brendan Carr, are embroiled in a debate over ending the national ownership cap rule for broadcast television. This rule was designed to prevent media monopolies by limiting how many local stations one company could own (currently capped at 39% of US TV households). Carr argues that modern platforms like social media make this limit obsolete and restricts competition from national programmers. If repealed, proponents argue it allows scale comparable to their streaming rivals. However, opponents warn that eliminating the cap could harm vital local journalism by reducing necessary competition. Democratic Commissioner Anna Gomez questioned if the FCC has the authority to eliminate a limit set by Congress, suggesting only Congress can make such changes.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
+    "date": "2026-07-23T19:46:11Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP211_BRENDAN_CARR_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Kevin Nguyen",
+    "content": "As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation's TV, radio, and internet. But since Donald Trump was elected to his second term, Carr has wielded that power to threaten broadcasters that have exercised their free speech rights to make jokes about the president. He was even able to get ABC to briefly pull Jimmy Kimmel from his late-night show. As The Verge editor-in-chief Nilay Patel has said , Carr's mission is to \"trash the First Amendment.\" We'll be following closely as the FCC chairman attempts to erode Americans' constitutional rights.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?post_type=vm_stream&p=970284",
+      "rss_tags": [
+        "Policy"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
