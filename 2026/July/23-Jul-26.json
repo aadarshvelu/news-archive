@@ -73,6 +73,32 @@
     }
   },
   {
+    "id": "6102e543-86ff-4018-a583-6bb2937a3c91",
+    "cluster_id": "c5fd7922-61e4-4b97-9fe3-a23440d00215",
+    "cluster_size": 3,
+    "source": "Economist - Finance & Economics",
+    "title": "The world’s balance-sheet is out of kilter with its economy",
+    "teaser": "The world's balance-sheet is dangerously out of kilter; analysts warn that restoring economic stability could be painful.",
+    "summary": "Global economic health is characterized by a severe imbalance on the world’s balance-sheet. Experts warn that rectifying this structural financial issue could prove extremely painful for economies worldwide. Furthermore, leaders like Kevin Warsh face significant challenges in reversing the effects of prolonged bond-buying programs implemented by central banks, pointing to deep-rooted issues in global fiscal management.",
+    "importance": 5,
+    "category": "economics",
+    "url": "https://www.economist.com/finance-and-economics/2026/07/23/the-worlds-balance-sheet-is-out-of-kilter-with-its-economy",
+    "date": "2026-07-23T09:42:17Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Restoring balance could be painful",
+    "raw_meta": {
+      "rss_entry_id": "8e2f568d-5bd1-4243-8719-464bb318d278",
+      "rss_tags": [],
+      "fetch_ok": null,
+      "fetch_status": null,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "486e07c9-0335-421e-a480-cce36e3ebcf4",
     "cluster_id": "7ca6f94a-f0df-4742-896a-bca01fbcdaba",
     "cluster_size": 3,
