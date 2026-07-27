@@ -207,6 +207,32 @@
     }
   },
   {
+    "id": "04f83791-0477-4aa4-b483-4b51b0b15738",
+    "cluster_id": "abd2d814-9b84-4a32-bb2e-cdbf25d5ce27",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "The New AI Superpowers: Focus and Followthrough",
+    "teaser": "AI promises 10X productivity, but high efficiency doesn't prevent burnout—it just changes it. The key to thriving is deep focus, not simply doing everything.",
+    "summary": "The rapid efficiency gains from AI (2-100x faster task completion) present a surprising challenge: burnout isn't eliminated, it simply transforms. The author argues that the temptation is to use AI to start dozens of side projects ('horizontal expansion'), leading to managing an overwhelming number of 'open loops.' Instead, he champions adopting a philosophy of radical focus and follow-through—or 'vertical' depth—on fewer core projects. Drawing on analogies like the difference between partial and total eclipses, the piece warns that while AI makes labor easier, humans still have limited time. To achieve maximum impact, one must ruthlessly select what matters and dedicate concentrated effort to deliver truly exceptional results.",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+    "date": "2026-07-26T13:13:03Z",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!R31O!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a57282a-143c-41d8-a777-084d8e097340_498x498.gif",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "mooreds",
+    "content": "Conventional wisdom is that burnout is caused (solely) by overwork. So logically, if AI can help us complete tasks 2-100x faster than before, we should be UNDERWORKED and experiencing ZERO burnout, right? If only it were that simple. You may be too young to recognize this meme, but it's the feeling most people in tech had when AI started accelerating their efficiency. Why? Because for years, all of us had dozens, if not hundreds, of side projects we could have started but had to shelve because there weren't enough hours in a day. Then AI came along and teased us with a seductive lie... Claude: \"But, maybe you can do it all now that I'm here!\" For the past decade, I've been a repeat startup founder + new dad + always ambitious person. I had over 100 article titles + outlines in draft. I had a someday maybe list full of 50 projects to start \"when I had the time.\" I started to dip my toe in the water and YOLO some of these side projects between meetings. Queuing up Claude in 5-minute increments and then letting it rip before jumping to the next call. The crazy thing is it started to work... Things I wanted to try, explore, and write about were working, and this only 10X'd my ambition to start more projects! Spin more plates. ALL THE THINGS! You already know how this ends. Because it always ends this way. There's the quote: \"You can have anything in life, but not everything.\" Even when AI can 100x your productivity on a single task, we humans still have a finite number of seconds in a day. And we're not machines. We're not meant to operate at 100% speed every waking hour. What happened was I started to notice I had something like 40 \"proof of concept\" projects going on, and I was starting to feel that pang of burnout growing inside me. Each project was a new open loop, a new responsibility, and a new thing to tend to. I used AI to reduce my required work, so I invented an endless amount of make-work. Make Work: \"work assigned or done chiefly to keep one busy\" Don't get me wrong, I had fun along the way. But this is a failed strategy I had to course correct. In his book Essentialism, Greg McKeown beats the drum about doing less, but better. I think this is critical in an age of AI. Rather than using AI to expand the number of things you're doing (horizontal), I have come to realize the best strategy is to go way farther on the things that matter (vertical). In short, focus and follow through. I didn't intend to write this article this morning, but I had to to stop myself. I had another one titled \"Sesame Street Simple\" (coming soon) that I was trying to rush out the door. However, as I kept sitting with that article, I realized I wasn't giving it my very best. Maybe it was a solid B/B-, but the topic deserves an A+ effort to have the impact I want it to make. So I stopped. And I decided to give it at least 2-3 more revisions with focused time and attention. Am I being a perfectionist? An overdramatic artisan? I don't think so. Garry Tan penned an amazing article about the difference between a partial and a total eclipse. The main thrust? You think the difference between a 99% and a 100% eclipse is a mere 1%, a rounding error. But visually, it's a 100x difference. A partial eclipse feels like the dimming of a cloud. A full eclipse is like an eerie nighttime befalling the world. The experiences could not be more different in effect. Likewise, things that we love (products, books, movies, etc.) pay the price of that last 1% to deliver that 100% experience. Here's the hard part. That last 1% may feel like 50-90% of the total time, which is why so many people just say \"good enough\" and ship. Now that AI makes things 2-100x more efficient, there's no reason not to pay the price of that last 1%. The only way to do that is to be ruthlessly focused and then follow through on the few open projects that matter. I'm still making lots of mistakes because it's so hard not to chase the shiny (ALL THE THINGS), but the rewards are worth it. To that end, I hope to publish fewer articles, but go deeper on each one. You and I both deserve that. And no one should be experiencing burnout in the age of AI. The entire point was to offload all the hard labor so we could be save time, focus on what matters, and be more human.",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=49057877",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "07c578b3-91a8-4a71-bd4b-f5e974a878c0",
     "cluster_id": "68a194b0-d359-4cb2-80e4-fbdf271d52aa",
     "cluster_size": 1,
@@ -260,6 +286,66 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "40e808bc-3998-48ee-8650-12cff5189f8d",
+    "cluster_id": "44bb2288-10a9-4e01-93b1-c77d942570dd",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "Apple is banking on privacy to set its smart glasses apart",
+    "teaser": "Apple plans for smart glasses, emphasizing extreme privacy: they will rely on on-device processing and avoid controversial features like facial recognition or constant recording.",
+    "summary": "Apple is developing its first smart glasses, expected to debut at WWDC next June and potentially launch by the end of 2027. Concerned about industry backlash, particularly compared to Meta's devices, Apple plans to heavily emphasize privacy as a core differentiator. To maintain its reputation for consumer protection, the company will likely use on-device processing and avoid contentious features like facial recognition or constant recording capabilities (super sensing). Additionally, it is reported that Apple will bypass using customer recordings for AI model training. The hardware may even release versions without cameras, or limited to sensing functions only.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+    "date": "2026-07-26T19:36:38Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "According to Mark Gurman , Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get its privacy features and messaging in order. Smart glasses in general, and Meta's in particular, have ignited controversy over their ability to stealthily capture photos and videos. As Gurman points out: The company has spent more than a decade making privacy one of its defining product messages. Simply entering the same category as Meta risks undermining that reputation, regardless of how Apple's approach differs. Apple is likely to rely on on-device processing and skip out on more controversial features like facial recognition or an always-on-recording similar to Meta's \" super sensing .\" Gurman also believes Apple will avoid using customer recordings to train AI models. Other hardware and software privacy features are also reportedly in the works. It's also possible that Apple could eventually release a version of its smart glasses without a camera, or with a camera that is exclusively for sensing and won't be able to capture video or photos at all, similar to what is rumored for Apple's AI-enabled AirPods .",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=971101",
+      "rss_tags": [
+        "Apple",
+        "Apple Rumors",
+        "Gadgets",
+        "News",
+        "Privacy",
+        "Tech",
+        "Wearable"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "7ab3edac-7817-48f7-8cce-490e8742d767",
+    "cluster_id": "0a07b8db-6888-4b40-8562-6eccc4182792",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+    "teaser": "Math giant Terence Tao discusses how AI influences our understanding of mathematics, emphasizing that deep theoretical inquiry remains paramount.",
+    "summary": "Terence Tao addressed the intersection of pure mathematics and the rapid advance of Artificial Intelligence. He provided a high-level overview suggesting that while modern computational tools from AI can solve complex problems, fundamental mathematical breakthroughs still require deeply insightful human conjecture and theory building. Key concepts discussed include the complementary relationship between brute-force computation (AI) and abstract proof construction (human intuition). Tao's talk likely highlighted areas where mathematicians must adapt their methodologies to leverage computational power without losing theoretical rigor, emphasizing that AI should be viewed as a powerful assistant rather than a replacement for mathematical creativity.",
+    "importance": 3,
+    "category": "ai_research",
+    "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+    "date": "2026-07-26T10:32:35Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Anon84",
+    "content": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf\nComments URL: https://news.ycombinator.com/item?id=49056620\nPoints: 117\n# Comments: 49",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=49056620",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": 200,
+      "fetch_error": "non-html content-type: application/pdf"
     }
   },
   {
@@ -320,6 +406,37 @@
         "Entertainment",
         "Film",
         "News"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "bd77db7c-96ec-4b70-a1ef-faaaa9845df6",
+    "cluster_id": "50003a74-5889-4cd4-8c68-559f58d94d59",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
+    "teaser": "This wild cinematic curiosity features an entire plot involving cults, sex scenes set to songs, and inexplicably bad relationships.",
+    "summary": "This article reviews the cult film \"Champagne and Bullets,\" an example of a 'so bad they're good' movie. The entire production was by John De Hart, who wrote, directed, and starred as Rick Bode. The plot follows cops Bode and Finney after losing their badges, leading to extreme events like prison-related cult formation and the reappearance of ex-girlfriend Cindy, who is fleeing a satanic coven. Reviewers highlight the film's overabundance of awkward material, including three lengthy sex scenes with Pamela Bryant (totaling 12 minutes) set to songs sung by Hart, which contrasts sharply with the scant action and inexplicable character interactions. The movie can be found on Hoopla, Amazon Prime, and Tubi.",
+    "importance": 2,
+    "category": "other",
+    "url": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
+    "date": "2026-07-26T21:24:07Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Champagne-and-Bullets.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "There's something about a movie like The Room , Troll 2 , or Fateful Findings that I find irresistible. These sorts of \"so bad they're good\" films are marvelous curiosities where ambition far outstrips resources, ability, and self-awareness to become something much greater than the sum of their parts. Champagne and Bullets (also released as GetEven and Road to Revenge ) is a film on par with those classics of outsider cinema. The movie is almost entirely the work of one man, John De Hart. Hart wrote, directed, and stars as Rick Bode in the film. He even performs a musical number early in the proceedings - The bizarre \" Shimmy Slide .\" During the performance, Hart, who was reportedly pumped full of painkillers after throwing out his back, is stiff and looks around the room as if he's only performing under threat of violence. And somehow, this lifeless performance of a cringy country rocker isn't the most awkward scene in the movie. The relationships and interactions between characters in Champagne and Bullets are just as inexplicable and unnatural as those in The Room . Bode and his partner Huck Finney are cops who lose their badges five minutes into the movie. This precipitates the alarmingly quick mental decline of Finney, who is also going through a divorce after discovering his wife has been sleeping around. He fires a handgun through his bills, drinks bleach to get out of prison, and seemingly starts a cult. Oh, and speaking of cults, a good portion of the plot revolves around the reemergence of Bode's old girlfriend Cindy, who is fleeing a satanic coven that \"sacrificed a human baby.\" While ostensibly an action film, the fight scenes are few and far between, and staged with all the believability of a theme park stunt show. Hart seemed far more interested in cramming in as much gratuitous nudity as possible. There are three uncomfortably long sex scenes with costar Pamela Bryant, who plays Cindy, all set to songs sung by Hart. In total, they take up 12 minutes of runtime in a movie that is only 90 minutes long. One scene that takes place in a jacuzzi apparently even led Hart's girlfriend at the time to break up with him. (Warning: One scene not involving Hart and Bryant does depict a sexual assault.) If you're a fan of bad movies, cult classics, or the podcast How Did This Get Made , you owe it to yourself to go watch Champagne and Bullets. It's available on Hoopla , Amazon Prime , and Tubi .",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=971103",
+      "rss_tags": [
+        "Column",
+        "Entertainment",
+        "Film",
+        "Movie Review"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
