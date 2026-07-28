@@ -288,6 +288,38 @@
     }
   },
   {
+    "id": "52f33fee-6fe0-4883-8934-743a7cd46a6b",
+    "cluster_id": "86f70f49-56ac-4e86-8a20-af38df20bc6c",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "Google basically confirms the Pixel 11 is getting a price hike",
+    "teaser": "Google confirms that due to supply chain costs, the Pixel 11 will undergo a price hike, with the base model expected to start at $899.",
+    "summary": "Google has signaled an upcoming price adjustment for its next-generation Pixel phones, confirmed by VP Shakil Barkat, citing global economic shifts and high memory costs. The base Pixel 11 is expected to launch at $899 and feature a 256GB storage option (up from 128GB). Regarding the mid-range Pixels, the rumored Pixel 11a will introduce the Tensor G6 processor, notably using a MediaTek M90 modem instead of Samsung's Exynos chips to improve battery efficiency. Furthermore, the 'a' model is slated for an increased display brightness, reaching a peak of 3,350 nits.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+    "date": "2026-07-25T18:13:36Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&strip=all&crop=0,6.913700090708,100,86.172599818584",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete surprise. Companies from Apple to Nintendo , Microsoft to Roku , have all raised their prices in response to the soaring cost of memory. Barkat said that Google had \"shielded our consumers from supply fluctuations for as long as possible,\" but that the \"economics have fundamentally shifted and we're not immune to that.\" He went on to tell 9to5 that the Pixel lineup would see pricing \"adjustments,\" accordingly, that \"will be rolled out dynamically to match supply realities.\" The base model Pixel 11 is expected to cost $899 , but would come with 256GB of storage, instead of 128GB. It's also rumored that the Pixel 11 Pro could go from 16GB of RAM to 12GB. We won't have to wait too long to find out for sure, though. Google's scheduled to announce the next generation of Pixel devices on August 12th .",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=971041",
+      "rss_tags": [
+        "Business",
+        "Google",
+        "Google Pixel",
+        "News",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "88b3413a-6e05-4663-a894-04f6319d9260",
     "cluster_id": "8b20b36b-1fe9-42b8-ae7a-97f7fd5129d7",
     "cluster_size": 2,
