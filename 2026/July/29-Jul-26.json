@@ -1,5 +1,145 @@
 [
   {
+    "id": "efb23d28-abd8-4ab4-86a8-2ede90b2d08e",
+    "cluster_id": "ab06bc45-7e2f-43a4-87fc-2a0b380f7e3e",
+    "cluster_size": 3,
+    "source": "The Register",
+    "title": "Burnham's spanner in the works leaves UK government tech scattered across Whitehall",
+    "teaser": "The UK government scrapped its national digital ID scheme and is fragmenting tech roles, leaving public service modernization without clear leadership.",
+    "summary": "Andy Burnham’s administration is restructuring the UK's tech policy machinery, causing confusion over governance. Key changes include breaking up DSIT's responsibilities and establishing a dedicated Cabinet-level AI minister role to guide AI adoption across public services. Furthermore, Burnham scrapped controversial plans for a national digital ID scheme, citing resource redirection towards cost-of-living support. However, critics note that responsibility for critical areas like modernizing legacy systems and managing commercial relationships with tech giants is now fragmented. This scattering of duties risks creating an incoherent approach to improving government technology despite promises of efficiency through AI.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://www.theregister.com/public-sector/2026/07/29/burnhams-spanner-in-the-works-leaves-uk-government-tech-scattered-across-whitehall/5279437",
+    "date": "2026-07-29T08:30:00Z",
+    "image_url": "https://image.theregister.com/259666.jpg?imageId=259666&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "OPINION A week after becoming the UK's seventh Prime Minister in ten years, Andy Burnham has made some good headlines, but, among the promises to cap bus fares and end rough sleeping, something was missing. The post of a dedicated technology minister is gone. The last serving secretary of state, Liz Kendall, was sacked when Burnham decided the Department for Science, Innovation and Technology (DSIT) should be broken up and its responsibilities divided among the Cabinet Office, the Department for Business, Innovation, Science and Trade (BIST), and the Department for Digital, Culture, Media and Sport (DCMS). A new AI minister role was created and filled by Kanishka Narayan to work jointly with the Cabinet Office and BIST. He will attend Cabinet. It is just the latest merry-go-round for the people charged with using technology to improve the way government works and helping to modernize the public sector's ailing legacy systems . The Government Digital Service was created by David Cameron's Conservative government in 2011 and sat in the Cabinet Office until 2024, when Labour Prime Minister Sir Keir Starmer moved it to DSIT. Now it has its third home in little more than two years with the move to DCMS. With it will travel the Digital Commercial Centre of Excellence, which the Starmer government designed to help public sector organizations stand up to global tech giants such as Microsoft, Amazon, Oracle, and the big four consultancies. As well as saving money, it is also supposed to open opportunities for smaller UK startups in public sector contracts in a bid to boost economic growth. Taking soundings last week, Burnham's decision to tinker with the machinery of government - as Whitehall mandarins like to call it - risks creating an incoherent approach to tech management, procurement, and policy. Ian Murray is the only \"digital\" minister in DCMS, and he does not have a Cabinet position. Government tech is squeezed into his brief between societal problems such as digital inclusion and online harms. That isn't to argue such things are trivial - they're not - but they are very different to making government tech work. And they are likely to be far more emotive and noisier in terms of media attention. Any changes Murray tries to drive through will have to contend with Dame Antonia Romeo, who was appointed as Cabinet Secretary and Head of the Civil Service on February 19. Some people with a close knowledge of Whitehall are not rating his chances. Does it matter? We can only judge by what the government sets out to do. It was only in January that Murray promised Parliament he would \"strengthen and extend our digital and data public infrastructure.\" He said the government would get a view of its digital estate and remove legacy technology, providing common platforms and shared direction. Easier said than done. At the same time, the Roadmap for Modern Digital Government said it would transform how \"the whole of the public sector\" uses technology to help citizens. In that plan, it also said there would be a role for UK tech companies through a Digital Commercial Centre of Excellence that would \"get the best from our suppliers and create opportunities for the UK tech sector.\" The Digital Commercial Centre of Excellence has now moved with GDS from DSIT to DCMS. All this came after the government promised it could find £45 billion in internal efficiency savings through automation and AI, a claim met with skepticism by experts and described as a distraction by MPs. So a lot is at stake if Burnham's changes fail to achieve anything like the things his predecessor promised. But the promises themselves bely a deeper problem. In April 2024, The Register reported on documents from the Cabinet Office's Central Digital & Data Office, which said the government's commercial dealings with the dominant cloud vendors risked \"concentration and vendor lock-in that inhibit the UK government's negotiating power.\" It's hardly a starting position of strength. And adding to that confused messaging, former tech minister Kendall later promised more whole-government deals with industry giants following its £9 billion agreement with Microsoft, seeking to target other cloud service providers. If the tail has been wagging the dog, who's going to stop it? The people who were perhaps in that position have moved departments again and lack Cabinet representation. Meanwhile, The Register has recorded for years that government frequently awards billions in IT contracts to incumbent tech giants, seemingly through lack of investment in commensurate internal technical and commercial skills. In just one example, we reported in January 2025 that the UK tax collector had awarded £3.8 billion to three incumbent tech suppliers - including £591 million without any outside competition - which were part of a £10 billion deal from 2004 that was only supposed to last ten years. Any effort to tackle that problem will now come from within DCMS, and compete for ministerial attention with, for example, decisions about the BBC or the Premier League. Meanwhile, Narayan is set to lead an AI Taskforce housed in the new Office for the Prime Minister and the Cabinet to \"drive the Government's overall strategy on AI and unlock the opportunities it holds for growth, prosperity and public sector transformation.\" The taskforce will also report to Romeo and \"deliver the Prime Minister's AI agenda.\" Murray may be lucky to get a look-in. Maybe Narayan will find a way of standing up to big tech firms while also getting them to invest in the UK. But the temptation will always be there to get a quick publicity hit, as former technology minister Peter Kyle did with an agreement with Google last year, which aimed \"to upskill up to 100,000 civil servants in the latest tech by 2030.\" It turned out the agreement had no contractual teeth . With AI strategy right at the center of government and efforts to better manage suppliers at arm's length, tech companies are likely to see a big opportunity. Some good news has come out of Burnham's arrival in 10 Downing Street. At least he canceled plans for a national digital ID scheme, an uncosted solution looking for a problem. But something is missing at the heart of the changes. Responsibility for getting to grips with legacy systems, public sector data, and commercial relationships with tech giants now sits apart from the mission to use AI to improve prosperity and transform the public sector. Unless the government addresses that schism, Burnham's decision to throw a spanner in the machinery of government could come back to haunt him. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5279437",
+      "rss_tags": [
+        "public sector"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "3798d0c2-84c2-4aa9-838b-06f04ed68c42",
+    "cluster_id": "cdca40bf-fd47-4460-9067-b90252ab6ed5",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "NHS England rapped over inaccurate Palantir patient data disclosure",
+    "teaser": "NHS England admitted failure to disclose that external Palantir staff can view identifiable patient information, causing major privacy alarm.",
+    "summary": "NHS England admitted significant errors in its data protection documentation concerning the use of Palantir's Federated Data Platform (FDP). The quango failed to disclose that external Palantir staff can view identifiable patient information. This was revealed after the NDG requested clarification, leading NHS England to correct its initial statement. Critics warn this failure significantly erodes public trust and violates established data confidentiality principles like those from the Caldicott Principles. Palantir secured a £330 million contract in 2023. The issue highlights urgent calls for greater transparency regarding how third-party tech suppliers access sensitive NHS patient data.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://www.theregister.com/public-sector/2026/07/29/nhs-england-rapped-over-inaccurate-palantir-patient-data-disclosure/5280233",
+    "date": "2026-07-29T10:08:34Z",
+    "image_url": "https://image.theregister.com/4094191.jpg?imageId=4094191&x=0&y=0&cropw=100&croph=95.56&panox=0&panoy=0&panow=100&panoh=95.56&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "PUBLIC SECTOR NHS England rapped over inaccurate Palantir patient data disclosure Privacy guardian warns public trust quickly erodes when supplier access comes as a surprise NHS England has admitted that a data protection document inaccurately stated who could access patient information, failing to disclose that Palantir staff could view identifiable data held within part of its Federated Data Platform. The US spy-tech firm won a £330 million contract to provide the platform in 2023 after it was awarded £60 million in COVID-era contracts without competition. The system is designed to improve data sharing across the NHS in England and help tackle the backlog in patient care. In May, NHS England confirmed that Palantir staff can access identifiable patient information within the platform's National Data Integration Tenant, an arrangement that was not accurately reflected in its Data Protection Impact Assessment (DPIA). Following a request for clarification from the National Data Guardian (NDG), an independent statutory office that advises England's health and care system, NHS England admitted the error. \"We recognize that the DPIA contained an error in how it described supplier access to data so we are correcting that error, and we apologize for any confusion this has caused,\" the quango said in a statement . \"Clarity around supplier access is crucial to our program and we will continue to work closely with the National Data Guardian, the [data protection regulator] Information Commissioner's Office and our governance groups to ensure our information is clear.\" In an updated report , NDG Nicola Byrne said NHS England had confirmed that some external supplier staff supporting the platform can access identifiable patient information for specific technical purposes under its direction. \"NHS England states that this access is technically necessary. As an independent body not involved in the platform's operation, we are not in a position to independently verify that assessment,\" she said. Byrne said the intensity of interest and strength of public feeling on this issue appear to reflect not only how deeply many people care about the use of their data, and its confidentiality, but also continuing concern among some about Palantir's role in the NHS. \"This topic has always been to some extent political. As such, people have a range of views. And public, professional, and media scrutiny has only increased over time. This means that accuracy and transparency must remain central priorities for the NHS FDP programme,\" she said. The NDG is the custodian of the Caldicott Principles, a set of rules the NHS uses to govern patient confidentiality that originated in the 1990s. Byrne said NHS England's error in failing to disclose Palantir's access to patient information \"has shown how quickly confidence erodes if the 'no surprises' Principle is not upheld when it comes to who can access people's data, and why.\" Sam Smith, medConfidential coordinator, told The Register : \"NHS England claims it was little more than a typo, but this is the result of punishing their expert staff away from speaking truth to leadership. It is another example of the culture of fear that NHS England has cultivated around the platform. Palantir is not magic, but it does require competence to lead, manage, and use.\" NHS England commented: \"The NHS has strict policies in place for managing access to patient data, and we are committed to being transparent about its use. We have published a detailed response to the issues raised by the National Data Guardian and are implementing the recommendations in full.\" ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5280233",
+      "rss_tags": [
+        "public sector"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "2801e391-6d07-4861-ac11-0e3a9a110222",
+    "cluster_id": "0dab6ff6-4217-4ab4-bb4b-a6294e61ce31",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "After rewriting SQLite in Rust, Turso turns its sights on Postgres",
+    "teaser": "Turso is rewriting its core infrastructure to become 'the LLVM of databases,' expanding from SQLite compatibility to support fully functional Postgres.",
+    "summary": "Turso is significantly expanding its robust database platform from supporting SQLite to achieving full compatibility with Postgres. Built on Rust, the company developed a Virtual Database Engine (VDBE) running on a VM architecture, aiming to become 'the LLVM of databases.' This foundational model allows it to support various database systems—like Postgres, MySQL, and Redis—from one core layer above storage.\n\nThey launched pgmicro, a Postgres-compatible prototype. Turso aims to provide modern cloud service capabilities by adding features like automatically updated materialized views and eliminating the resource-intensive one-process-per-connection model of traditional Postgres. This makes it appealing as a universal database solution.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/databases/2026/07/29/after-rewriting-sqlite-in-rust-turso-turns-its-sights-on-postgres/5279835",
+    "date": "2026-07-29T11:28:00Z",
+    "image_url": "https://image.theregister.com/1682034.jpg?imageId=1682034&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Having built a SQLite-compatible database from scratch in Rust, cloud database provider Turso is attempting something more ambitious: a Postgres-compatible implementation on the same foundation. \"I don't think there is anything fundamentally wrong with Postgres. If there was something wrong with Postgres, we wouldn't rewrite it,\" Turso CEO Glauber Costa told The Register . But, like SQLite, Postgres could be freshened up for the cloud-native era. Turso has grander ambitions than putting another notch on the Rustbelt. Its SQLite reimplementation, originally codenamed Limbo and later renamed Turso , uses a virtual machine architecture that the company believes can support multiple database frontends. This month, Turso-the-company launched the Postgres effort and suggested that the same architecture could eventually support frontends for systems such as MySQL and Redis. \"Turso is becoming the LLVM of databases. One modern, reliable core; many database frontends compiled down onto it,\" Costa wrote , announcing the release. From fork to rewrite Costa and fellow co-founder Pekka Enberg got the idea for Turso while studying the architecture of SQLite itself. Both had just left technical engineering jobs at ScyllaDB to start a San Francisco startup called ChiselStrike. They needed an online database, and SQLite was an obvious choice, but it needed updating to work as a cloud service. Software developer D. Richard Hipp created SQLite in 2000 as a compact, standalone transactional SQL engine. Hipp has steadfastly kept the scope of SQLite minimal, refusing outside contributors or bloating it with additional features (much like Andrew Tanenbaum kept tight control on Minix, inspiring a young Linus Torvalds to create a much more ambitious Linux). ChiselStrike forked SQLite as libSQL to give the company's developers the ability to modify the database system. It also provided a much-requested avenue for outside contributors to add their own features. At first, contributors added features without making many changes to SQLite's core - not exactly a weekend job, even for an ambitious hacker. More fundamental work, such as introducing a richer type system, would require ChiselStrike to tackle the engine itself. The company therefore launched a complete rewrite, initially codenamed Limbo. By then, ChiselStrike had already pivoted to a SQLite-based cloud service and renamed itself Turso . Limbo later became an official company project, adopted the Turso name - after the mythical Finnish sea creature Iku-Turso - and became the planned foundation for its future database engines. Behind the SQL While rewriting SQLite, the duo focused on its virtual machine architecture and concluded that the same approach could be expanded into a more general database execution engine. The software compiles SQL queries into its own bytecode language, called the Virtual Database Engine ( VDBE ). They built Turso using the same virtual machine design, one based on VDBE. This foundation could work not only to mimic SQLite, but any database system. \"Look close enough, and every SQL database is just a fancy collection of B-Trees with a bunch of Indexes,\" Costa wrote. Any features that Postgres has but SQLite lacks could be written with VDBE. To demonstrate that their VM was sufficiently expressive, the duo built a demo that runs the 1990s classic video game DOOM in WebAssembly, with each rendered frame returned as a result row. There are similar approaches to virtualizing the database. Google's Spanner can offer different modalities, spanning relational, graph, key-value, vector and other formats. Microsoft built the Cosmos database service on a similar premise. Spanner and Cosmos operate higher up on the stack than Turso, Costa explained. Closer to Turso's building block style is Apache DataFusion , also built with Rust. \"The idea of a database that can speak multiple models is nothing new,\" Costa said. \"What is different about Turso is that it sits at the lowest possible level, exactly one layer above the storage engine.\" Postgres on top, Turso under Enberg and Costa put together a Postgres-compatible prototype on top of Turso called pgmicro . Now came the hard work of making it ready for production use. \"Essentially we would offer a database that speaks Postgres, that plays the same role as Postgres, that is familiar to the developers in the Postgres ecosystem, but it's built in a different way underneath,\" Costa said. When sufficiently mature, this Postgres-flavored Turso is intended to run most existing applications without modification, although the company is not promising complete compatibility with the OG Postgres . It also plans enhancements including automatically updated materialized views, a frequent request from the Postgres community. One aspect of the old Postgres that may be jettisoned will be its one-process-per-connection model, which can be very expensive, computationally. \"It's worth a fresh look,\" Costa said. While Postgres will require more work, it's not an order-of-magnitude more work, and the new features can be rolled back into Turso for use in other database variants down the road. On the commercial side, Turso is building out a database-as-a-cloud service that will offer any DB flavor the customer would want, but all running on Turso. Rust and AI on Turso Rewriting open source software in the Rust programming language has become a sport, with official and unofficial rewrites underway of Kubernetes , the Bun JavaScript tool chain, and bits of Linux . Much of this work has been done with AI, which has a pretty good grasp of Rust fundamentals. But for Turso, Costa doesn't ascribe too much significance to the choice of the language for the rewrite. Rust offers memory safety, yet plenty of Postgres bugs have nothing to do with memory safety. Rust works well with AI, which Turso uses quite a bit, but Costa and Enberg chose Rust for Turso before AI coding agents became widespread. \"I never understood the fascination programmers have with programming languages,\" he said, adding: \"For us, Rust is just a tool.\" ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5279835",
+      "rss_tags": [
+        "databases"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "14eca8d8-dda7-4e4e-ab03-01643aae7b64",
+    "cluster_id": "8cd683ea-78a3-475e-a54b-baa3bda8cd1b",
+    "cluster_size": 3,
+    "source": "The Register",
+    "title": "Iran-linked CyberAv3ngers suspected in attacks on Minnesota water systems",
+    "teaser": "Iranian-linked hackers are suspected of disrupting 30+ Minnesota water facilities, mirroring broader US warnings about attacks on critical PLC systems.",
+    "summary": "Tension rises over cyber warfare as Iran-linked actors are suspected of targeting crucial American infrastructure. In a recent incident, more than 30 community water systems in Minnesota were disrupted by what was called a 'coordinated cyberattack' on Operational Technology (OT). While no official has confirmed attribution for the Minnesota event, security researchers suspect the highly active group CyberAv3ngers is responsible.\n\nThis specific attack mirrors an escalating national warning: U.S. agencies like CISA and FBI have cautioned that Iranian hackers are actively targeting programmable logic controllers (PLCs) on internet-connected systems—including those from major manufacturers like Siemens and Schneider Electric. These attacks aim to cause disruptive effects by manipulating data or altering program logic, potentially allowing critical infrastructure to enter unsafe conditions without operators knowing. The concern is amplified because many small facilities lack dedicated cybersecurity resources, leaving them vulnerable.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/security/2026/07/29/iran-linked-cyberav3ngers-suspected-in-attacks-on-minnesota-water-systems/5280357",
+    "date": "2026-07-29T13:49:00Z",
+    "image_url": "https://image.theregister.com/150171.jpg?imageId=150171&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Security Iran-linked CyberAv3ngers suspected in attacks on Minnesota water systems More than 30 facilities disrupted in 'coordinated cyberattack,' though officials have yet to name a culprit Security researchers at Tenable suspect the Iran-linked faux hacktivist outfit CyberAv3ngers was behind the cyberattack that disrupted more than 30 Minnesota water facilities. Neither state-level nor federal officials have made any claims regarding attribution for the attacks, however, Tenable reckons the operational pattern is consistent with the crew's previous raids, noting the timing relative to recent government warnings. The Cybersecurity and Infrastructure Security Agency (CISA) updated an advisory on Iran-linked attackers targeting programmable logic controllers (PLCs) across critical infrastructure on July 22, four days before Minnesota said the attacks targeted its systems. The advisory warned that Iran-linked hackers were attempting to disrupt operations using tactics previously associated with CyberAv3ngers. Government facilities, water and wastewater systems, and energy providers were among those urged to remain on high alert. What happened in Minnesota? On July 26 and 27, more than 30 community water systems across Minnesota were disrupted by what officials called \"a coordinated cyberattack\" targeting operational technology (OT). Minnesota IT Services (MNIT), the state's IT agency, said the Department of Health is working with the affected water facilities to ensure public health is maintained. No cities have yet asked citizens to modify the amount of drinking water they consume, per MNIT's latest update. The agency did not offer many other details about the attacks, other than to mention all the different agencies, organizations, and bodies it is working with as part of the investigation. One of the first cities to report issues, Braham, warned that its water reserves were limited in its initial notice . Citizens were asked not to water their lawns or use water for recreational purposes, although the problems were resolved the same day. No such directives were issued in other affected cities. Maple Plain declared a state of emergency , allowing it greater flexibility to coordinate resources, but did not ask residents to adjust their consumption. The same was true in the Twin Cities suburb of Plymouth and in South St. Paul , which both confirmed cyber-related problems on July 27 but did not ask residents to curb water use. \"Cyberattacks against critical infrastructure require a coordinated, whole-of-government response,\" said John Israel, MNIT assistant commissioner and Minnesota CISO. \"MNIT is working side by side with our partners to share intelligence, support affected communities, and help utilities restore operations safely while strengthening defenses against future attacks. \"This incident demonstrates why Minnesota has invested in strong cybersecurity capabilities and partnerships. Our response worked as intended, enabling agencies at every level of government to rapidly coordinate, contain the incident, and help prevent more serious impacts to critical services.\" What is CyberAv3ngers? First identified around 2020, CyberAv3ngers is widely believed to be linked to Iran's Islamic Revolutionary Guard Corps (IRGC), specifically its Cyber-Electronic Command division (IRGC-CEC). For the first two years, the group began as a \"propaganda persona,\" as Tenable puts it, claiming disruptive attacks on Israeli infrastructure - claims that were later debunked as fabrications. Its first sustained campaign came in November 2023, when it compromised PLCs at the Municipal Water Authority of Aliquippa, Pennsylvania, defacing them anti-Israel messages. Tenable said CyberAv3ngers compromised at least 75 Unitronics Vision Series PLCs across the United States, Israel, the United Kingdom, and Ireland as part of the campaign. They did so by exploiting default passwords. Between 2024 and 2025, the crew developed the IOCONTROL malware kit, built for attacks on OT and Internet of Things (IoT) devices. OpenAI said in 2024 that the group's members used ChatGPT in the development process. CyberAv3ngers stepped up its activity in 2026, targeting US critical infrastructure through Rockwell Automation/Allen-Bradley PLCs from March onward. CISA's July 22 update added Schneider Electric and Siemens equipment to the list of potential targets. In some cases, the attacks - which targeted multiple critical infrastructure sectors - disrupted operations at affected facilities, federal officials said, though they offered no specifics on what those disruptions entailed. CyberAv3ngers is known for targeting small water and municipal facilities, which experts believe are among the lowest-hanging fruit in US critical infrastructure. Many small and rural facilities lack dedicated cybersecurity resources. Tenable said some operators manage OT environments using remote-access software such as TeamViewer and AnyDesk or leave their PLCs exposed to the web. \"These access methods bypass enterprise security controls entirely, creating an attack surface that is invisible to conventional security monitoring,\" Tenable said. Poor segmentation between IT and OT environments can also allow a single intrusion to spread across much of the network. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5280357",
+      "rss_tags": [
+        "security"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "72824702-e1c9-496b-90c1-72293930eafe",
+    "cluster_id": "cc533582-61cc-4e47-98ac-b8bb9b50ac77",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Moscow slaps Telegram founder on wanted list, Durov responds with one-finger salute",
+    "teaser": "Amidst accusations that Ukrainian spies used Telegram's dating bot 'Leo' for sabotage, Moscow slaps Pavel Durov on the international wanted list—and he responded with a defiant one-finger salute.",
+    "summary": "Moscow has accused Telegram founder Pavel Durov of facilitating terrorism, placing him on an international wanted list. The FSB alleges that Ukrainian intelligence utilized the platform—specifically citing the 13-million-user dating bot 'Leo'—to recruit young Russians for acts of sabotage and arson. These fabricated activities allegedly involved phishing schemes where victims were coerced into attacks under the guise of anti-terrorism checks. Despite these claims, Durov, who resides in the UAE, responded with a visible one-finger salute. This latest crisis follows previous charges against him in France (2024) relating to cybercrime and content failures.",
+    "importance": 5,
+    "category": "world_news",
+    "url": "https://www.theregister.com/applications/2026/07/29/moscow-slaps-telegram-founder-on-wanted-list-durov-responds-with-one-finger-salute/5280522",
+    "date": "2026-07-29T15:56:46Z",
+    "image_url": "https://image.theregister.com/5280606.jpg?imageId=5280606&x=0&y=20.83&cropw=100&croph=71.67&panox=0&panoy=20.83&panow=100&panoh=71.67&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "applications Moscow slaps Telegram founder on wanted list, Durov responds with one-finger salute FSB claims Ukrainian spies use chat platform to recruit Russians for sabotage and arson Russia has charged Telegram founder Pavel Durov with facilitating terrorism and placed him on an international wanted list. The country's Federal Security Service (FSB) announced the charges on Wednesday, alleging that Telegram failed to remove channels, chats, and bots used by Ukrainian intelligence to recruit young Russians for sabotage and terrorism. The alleged offenses include armed attacks on law enforcement officers and arson targeting transport, energy, communications, and financial infrastructure. According to an FSB news release, these attacks have resulted in numerous human casualties, including women and children. One focus of the allegations is the popular Telegram dating bot \"Leo,\" which reportedly has more than 13 million users and matches people seeking dates or friendship. The FSB said 46 Russian citizens aged between 12 and 22 have been arrested across the country since July 2025. The FSB alleges they had accepted instructions from Ukrainian intelligence officers to carry out attacks inside Russia. The agency went on to claim that Ukrainian intelligence officers had been using Leo while posing as women to establish contact and build fake romantic relationships with young Russian men. According to the FSB, Ukrainian officials would encourage men to pay for cinema tickets, concert tickets, or gifts through phishing links then blackmail them into carrying out attacks in Russia. \"Subsequently, representatives of Ukrainian intelligence agencies, posing as Russian law enforcement or Rosfinmonitoring officers, contacted the individuals through foreign messaging apps,\" the FSB said . \"The fake law enforcement officials claimed that the transferred funds had been deposited into accounts of the Ukrainian armed forces, and that the transferred coordinates had been used by the enemy to plan missile strikes and drone attacks.\" \"After this, the deceived and intimidated citizens, unable to critically assess the situation due to psychological pressure, were threatened with criminal prosecution and coerced into committing armed attacks and arson, ostensibly as part of an anti-terrorism security check of the targets and participating in other 'pseudo-operational activities.'\" Leo was banned in Russia on December 23, 2025, on the basis that it contained information relating to child sexual abuse material (CSAM) and LGBT propaganda. Russia's Supreme Court designated what authorities call the \"international LGBT movement\" as extremist in November 2023, despite no such formal organization existing, and banned its activities in the country. Russia further accused Telegram of failing to take down content relating to these \"prohibited activities\" as well as the numerous accounts allegedly used by Ukrainian intelligence. The Kremlin has meanwhile been pushing citizens toward the state-backed MAX messenger. Since 2025, smartphones sold in Russia have been required to come with the app preinstalled. However, government agencies still communicate official updates via Durov's Telegram, which remains vastly more popular in Russia. Neither Durov nor Telegram have responded officially, other than the messaging platform's social media post of the founder holding his middle finger to the camera. Durov, 41, left Russia in 2014 and now lives in the United Arab Emirates. He holds Russian, French, Emirati, and St Kitts and Nevis citizenship. Although the UAE reportedly has close ties with Russia, it remains unclear whether Moscow will secure an Interpol notice or ask Emirati authorities to extradite Durov. Like cybercriminals who avoid countries likely to honor US extradition requests, Durov will now need to consider where Russian demands might be enforced. In August 2024, the Telegram founder was arrested by authorities in France, where he also holds residency and a passport. Durov was charged with multiple offenses relating to alleged failures to prevent criminal activity on Telegram, including drug trafficking, cyberbullying, organized crime, and the distribution of CSAM. The French case remains open, although Durov was allowed to return to Dubai in March 2025. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5280522",
+      "rss_tags": [
+        "applications"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "5752f697-6a7d-4a37-8517-3775dc9e052a",
     "cluster_id": "19901a75-c051-4cfa-8745-992c4b1eb6b0",
     "cluster_size": 1,
@@ -22,6 +162,642 @@
       "rss_tags": [],
       "fetch_ok": true,
       "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "866eefaf-6ec4-4d3d-8a09-4977698cce40",
+    "cluster_id": "054eeedb-cdcb-4815-9890-c27457e95717",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Airbus keeps an A350 flying for 24 hours",
+    "teaser": "Airbus records an extreme flight feat: A350-1000ULR flies over 24 hours non-stop from Australia to France.",
+    "summary": "Airbus achieved a flight record with its new A350-1000ULR jet, flying non-stop from Australia to France for over 24 hours. This ultra-long range variant utilizes an additional rear fuel tank, boosting its capacity to nearly 10,000 nautical miles (18,500km/11,500 miles). Qantas, the launch customer, plans to deploy these planes for daily non-stop routes from Sydney to London and New York starting in 2027. These record flights will take up to 22 hours, offering passengers a premium, direct alternative to multi-stop journeys.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/offbeat/2026/07/29/airbus-keeps-an-a350-flying-for-24-hours/5280209",
+    "date": "2026-07-29T06:34:56Z",
+    "image_url": "https://image.theregister.com/5280222.jpg?imageId=5280222&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "offbeat Airbus keeps an A350 flying for 24 hours Ultra long range edition should enable 22-hour nonstop Australia-to-Europe flights next year Airbus yesterday flew the latest variant of its A350 widebody jet from Australia to France, non-stop, on a route that saw it remain aloft for over 24 hours. The variant is called the A350-1000ULR, which stands for Ultra-Long Range. The plane earns its name thanks to its use of an additional rear center fuel tank that can carry 20,900 liters of fuel capacity. That tank gives the plane a range of almost 10,000 nautical miles, or 18,500km/11,500 miles. The launch customer for the plane is Australia's largest airline, Qantas, which wants it so it can fly non-stop from to and from Europe, and to New York. Australia-Europe flights will take up to 22 hours, just two or three hours less than is possible to make the same journey with an intermediate stop. Qantas thinks there's a market for the direct route and that passengers will pay a premium for the privilege of remaining in a carbon fiber tube for almost an entire day, instead of stopping to stretch their legs or buy some duty free en route. Airbus sent the first A350-1000ULR out of the factory and down the runway in June. Several test flights followed, culminating in a 19-hour Toulouse to Melbourne flight that spanned July 23 and 24. Qantas and Airbus went into PR overdrive after that flight, suggesting it was a decent proof of concept for direct Europe-Australia flights. That conveniently ignored the fact that a week earlier, one of Qantas' A380s flew nonstop to Sydney from Dresden, Germany. Dresden is home to one of the few facilities capable of conducting major maintenance on the A380. When Qantas uses it, the airline sends its superjumbos home on a nonstop itinerary but without passengers. The A350-1000ULR carries hardware that simulates the presence of passengers, so is perhaps doing a bit more work than an empty A380. It's harder to quibble about the return Melbourne-Toulouse flight, as it lasted 24 hours and 24 minutes, and saw the plane traverse 23,076 km. That's a distance record for a commercial airliner. Flightradar24 has data about both flights, here . Qantas plans to buy a dozen of the long-legged Airbuses, and to use them for daily nonstop flights from Sydney to London and New York - starting in 2027. The carrier plans to pack the planes full of premium seating, with even economy class divided into three distinct offerings - premium economy, economy with extra legroom, and conventional economy, plus a zone dedicated to standing and stretching. The airline plans special menus, and cunning use of lighting, to make ultra long-haul travel less miserable. In 2015, your correspondent took what was then the world's longest commercial flight , a seventeen-hour hop from Dallas to Sydney - and lived to tell the tale. I've crossed the Pacific about 20 times since and made it to Europe five or six times too. All that flying led me to devise techniques involving strategic use of over-the-counter sleeping pills and making sure I get outdoors to minimize jet lag - mostly with decent success. Yet a 22-hour flight seems daunting. Maybe I'll get to try it one day. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5280209",
+      "rss_tags": [
+        "offbeat"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "4ab065ff-52c4-40c9-9ba6-552eebff9121",
+    "cluster_id": "7bdcad24-b554-42f1-939c-8f4e34813403",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "AI digs through 3,700 accounts of dreams and waking life, finds method in the madness",
+    "teaser": "AI analysis of 3,700 dream accounts reveals that the sleeping brain doesn't just replay reality—it dynamically 'rebuilds' it from recycled memories.",
+    "summary": "Using AI and natural language processing (NLP), researchers analyzed over 3,700 accounts of dreams and waking life. The study found that human dreams are not random noise nor mere replays of the day's events; instead, the brain appears to dynamically 'rebuild' reality by recombining memories, emotions, and familiar elements into novel scenarios. Findings indicate that individuals who consider their dreams personally meaningful often report more vivid experiences. Furthermore, dream reports from the COVID-19 era reflected heightened themes of confinement and restriction. The research demonstrates AI's potential in large-scale psychological studies by efficiently spotting previously undetectable patterns.",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://www.theregister.com/offbeat/2026/07/29/ai-digs-through-3700-accounts-of-dreams-and-waking-life-finds-method-in-the-madness/5279775",
+    "date": "2026-07-29T09:15:00Z",
+    "image_url": "https://image.theregister.com/232487.jpg?imageId=232487&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "OFFBEAT AI digs through 3,700 accounts of dreams and waking life, finds method in the madness Researchers uncover patterns in how sleeping minds recombine memories, people, and places Your brain apparently spends the night remixing reality rather than simply replaying it, according to researchers armed with AI and more than 3,700 accounts of dreams and waking life. Researchers at Italy's IMT School for Advanced Studies Lucca used natural language processing (NLP) to analyze more than 3,700 reports of dreams and waking experiences from 287 adults and found dreams are neither random mental noise nor faithful replays of the day's events. Instead, the sleeping brain appears to recycle memories, emotions, familiar places, and imagined possibilities into entirely new scenarios. Published in Communications Psychology, the study combined two weeks of dream and daily experience diaries with data on participants' personalities, sleep quality, cognitive abilities, and psychological traits. Researchers used NLP to compare the semantic structure of the waking and dream reports. Everyday settings such as workplaces, hospitals, and classrooms were combined with unrelated places, shifting viewpoints, or unfamiliar surroundings, while different parts of a person's life could merge into a single scene. The findings suggest dreams do not replay reality so much as rebuild it from familiar parts. Dream reports also varied with participants' traits and attitudes. Those prone to mind-wandering tended to report dreams that jumped quickly from one scene to another, while those who said dreams were personally meaningful generally described more vivid and immersive experiences. The researchers also looked at dream reports collected during the COVID-19 lockdown by a separate team at Sapienza University of Rome. Compared with more recent reports, those dreams contained more references to confinement, barriers, restrictions, and heightened emotions, reflecting the reality people were living through at the time. \"Our findings show that dreams are not just a reflection of past experiences, but a dynamic process shaped by who we are and what we live through,\" said lead author Valentina Elce. \"By combining large-scale data with computational methods, we were able to uncover patterns in dream content that were previously difficult to detect.\" The work also hints at a new role for AI. Rather than asking researchers to read and categorize thousands of dream reports themselves, the team used NLP to spot patterns across the entire dataset. The software's assessments closely matched those of independent human reviewers, suggesting it could make large-scale dream studies far less laborious. Before you ask ChatGPT why your dentist turned into your boss, the research has some obvious limitations. It relies on people remembering and accurately describing their dreams, and it doesn't explain why we dream in the first place. However, it does suggest dreams have more structure than random neural noise - even if your brain still insists on making you sit an exam you forgot to revise for. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5279775",
+      "rss_tags": [
+        "offbeat"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "2236a307-182b-4bdc-8296-a394623b3f9f",
+    "cluster_id": "e5c032bb-1325-4808-a5c1-3f6f2a84002a",
+    "cluster_size": 2,
+    "source": "TLDR AI",
+    "title": "Apple smart home 🏠, Anthropic cracks encryption 🔒, orchestrator's tax🤖",
+    "teaser": "AI finds flaws in military-grade encryption, speeding attacks by 1000x—a wake-up call for global cybersecurity.",
+    "summary": "In a major cybersecurity development, Anthropic's Claude Mythos Preview demonstrated that an advanced AI model can find significant theoretical flaws in cryptographic standards like AES-128 and the HAWK algorithm. The system accelerated cryptanalysis by up to 1,000 times by identifying mathematical shortcuts. While this capability is highly alarming for security experts, Anthropic stressed that neither finding compromises current deployed systems, as production AES uses different parameters and HAWK is not yet standardized.\nSeparately, Apple is preparing a major push into the smart home market with new devices, including a hub built around its advanced Siri AI assistant. The report highlights how sophisticated generative AI capabilities are rapidly moving from pure research to impactful consumer products.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FSlZrsw/1/0100019fad6f99ea-1a5edc81-2db0-42b8-8056-f94ab3411a8c-000000/md54Pg8GIEWYW9-eW_0uOU0Nu_ziUIe7XXPLsQ38OzU=452",
+    "date": "2026-07-29T10:33:20Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "TLDR",
+    "content": "Anthropic AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms (6 minute read) Claude Mythos Preview found flaws in a watered-down version of an algorithm for Advanced Encryption Standard (AES), a ubiquitous protocol that protects web traffic, wireless networks, data storage, and many other technologies. Anthropic claims the assault was 200 to 1,000 times faster than what previous human research had managed to do. The attack was devised almost entirely autonomously - the model needed aid as it originally believed the problem was impossible. Claude Mythos Preview worked on the problem for about a week before engineering its attack, and two human researchers worked for nearly a month to verify that the method appeared correct. Apple Set to Make Big Smart Home Push With Siri AI at Center (4 minute read) Apple is preparing a new push into the smart home category with a wave of home products. It will start with a hub device built around the new Siri AI assistant. Apple is also preparing to release a new TV set-top box and a refreshed HomePod mini. All three devices are nearly ready to launch. Apple is also working on a higher-end, robotic version of the home hub and an advanced in-home security camera. Science & Futuristic Technology Why haven't organoids solved all of drug discovery? (33 minute read) Organoids are clumps of human cells that show some type of organ-specific function. In theory, they seem like a good tool for drug discovery, but the reality is that the technology is still not reliable enough. There are many people working to fix the issues with organoids, but they are still methods in progress. Organoids have not dramatically altered medicine yet, but they have already been used for some unarguably useful things. Tau's humanoid cleaning service (1 minute read) Tau's humanoid service is now available in San Francisco. Access is initially invite-only. The service costs $30 per hour. Each humanoid will be jointly controlled by a human operator and AI. Video of the robot in action is available in the article. Programming, Design & Data Science The Orchestrator's Tax (17 minute read) Every token in the orchestrator's context is competing for its attention. The real value of a subagent is what it keeps out of that context. Subagents should be treated as a tool for protecting the orchestrator's working memory, offloading reasoning it doesn't need to hold onto. Doing this well means giving the orchestrator explicit ground rules for when and how to delegate. MCP 2026-07-28 is live (2 minute read) MCP 2026-07-28 is the largest update to the protocol since launch. It is now easier to deploy and scale remote servers. MCP is now stateless, so it can be deployed on serverless and edge infrastructure, or scaled horizontally behind any load balancer. There is now a formal path to extend the protocol. The AI Future Is for Everyone (6 minute read) As AI continues to improve, the question isn't whether superintelligence will exist, but who will have access to it. The technology could be centralized and restricted to a few institutions, or it could be used to empower everyone. The notion that AI is such a threat that the only safe path is an extreme concentration of power seems dangerous. Historically, hoping that an absolute power will benevolently provide for humanity if sufficiently enlightened hasn't led to safe or positive outcomes. A Backlash Against Anthropic Is Brewing in Silicon Valley (11 minute read) Anthropic has drawn criticism after releasing tools on the market that compete with those offered by partner companies. For example, Claude Design directly competes with offerings from partner design company Figma. Anthropic's data retention policies have also been criticized, but the company has pledged it won't use conversation data from Fable and Mythos - but not other models - to train new models. Researchers are calling for more transparency in AI systems.",
+    "raw_meta": {
+      "gmail_message_id": "1099",
+      "gmail_uid": "1099",
+      "gmail_labels": [],
+      "gmail_msgid": "1872044963558323426",
+      "gmail_thrid": "1872044963558323426"
+    }
+  },
+  {
+    "id": "62cf41db-b3ba-4100-a52f-f614186af8bf",
+    "cluster_id": "e71df97c-b0ab-4372-addb-c4a90c6f2607",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Fast Metals is treating waste with more waste to extract critical minerals",
+    "teaser": "Fast Metals treats toxic aluminum waste ('red mud') as a treasure trove, recovering critical minerals and raising $4.3M on its innovative process.",
+    "summary": "Fast Metals is pioneering a sustainable solution by treating tons of aluminum refining waste, known as red mud. Red mud, which historically has been ignored due to high separation costs, is actually rich in critical minerals like titanium and rare-earth elements. The startup, led by co-founder Sumedh Gostu, developed a novel process that incorporates another industrial waste stream, making extraction highly economical. Following a $4.3 million pre-seed funding round, Fast Metals plans to scale up its operations. They have secured a commercial contract with Metalox to treat one ton of the mixed waste weekly, aiming to monetize valuable elements like scandium oxide.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
+    "date": "2026-07-29T12:00:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/red-mud-fast-metals.jpeg?resize=1200,817",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Tim De Chant",
+    "content": "Aluminum has left an indelible mark on the world - more than 3 billion tons of red mud, a waste product of the refining process, are currently stored in open-air ponds or mounds. But to Sumedh Gostu, co-founder and CEO of Fast Metals , there's treasure in the caustic waste. \"It is a very rich resource,\" he told TechCrunch. \"If you attack with the right chemistry, it can be very profitable.\" Gostu thinks Fast Metals has found that chemistry, which just so happens to be partially comprised of another waste stream, also produced from alumina refineries. The startup recently raised a $4.3 million pre-seed round led by New Climate Ventures with participation from Azolla Ventures, Astor Swiss, and Rio Tinto's accelerator, Founders Factory. Red mud's vermillion hue comes largely from rusted iron, which is the most common compound in the mix. But the byproduct also contains critical minerals , including titanium, aluminum, and rare-earth elements. Despite its mineral riches, red mud has largely been ignored because it has been too expensive to separate those minerals from the iron oxide, Gostu said. \"We are removing that impediment,\" he said. Gostu had designed most of the process during his doctoral studies at the Colorado School of Mines. But one piece was missing, until one day, while talking with his fellow co-founder Anthony Staley, things fell into place. \"We were like, 'oh wait, there's a waste stream which can make the whole process very economical, and it's lying right there,'\" Gostu said. Fast Metals applies this waste stream, along with other chemicals, to red mud over six different steps. Different minerals fall out along the way, each of which can be sold. \"Iron pays for the OpEx, and the other stuff is profit,\" Gostu said. The profit potential is significant. Titanium dioxide sells for around $2.50 to $3 per kilogram, while scandium oxide sells for about $750 per kilogram . With the fresh funding, Fast Metals plans to scale up its process. The startup has a commercial contract with Metalox, a mineral processor, to treat one ton of red mud and refinery waste per week later this year.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3147597",
+      "rss_tags": [
+        "Climate",
+        "critical minerals"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "1540020d-8c13-438d-bf5f-71cd009539ae",
+    "cluster_id": "7be09afd-003d-441a-a1ea-8e9842faf0a8",
+    "cluster_size": 1,
+    "source": "Testing Catalog",
+    "title": "Google is working on interactive Apps for Gemini Notebook",
+    "teaser": "Google is set to transform study materials into interactive apps (like games/dashboards) directly within Gemini Notebook.",
+    "summary": "Google is developing a major upgrade to Gemini Notebook: an 'App' tile that can convert uploaded source materials into functioning interactive applications. This allows users to generate outputs like dashboards, study aids, or even lightweight educational games simply by providing a prompt. The functionality builds on previous updates, including the renaming of NotebookLM to Gemini Notebook (16 July) and expanding the underlying compute capability to AI Pro. Beyond apps, refinements include a manual add-note button for 'AI Notes' and a watermarking toggle for exported content like slides and videos. These tools are designed primarily for students, academics, and analysts.",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://www.testingcatalog.com/google-is-working-on-interactive-apps-for-gemini-notebook/",
+    "date": "2026-07-29T12:08:04Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/07/TestingCatalog-Latest-AI-Model-Releases-and-Agent-News-Gemini-Notebook-07-29-2026_12_28_AM.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Alexey Shabanov",
+    "content": "Google is preparing a new artifact type for Gemini Notebook that would turn a set of sources into a working interactive app. A tile marked \"App\" has surfaced in the Studio panel next to the still-unreleased Canvas and Lit Review options, described as generating interactive applications from a notebook's material. It accepts a prompt, so the output could be a dashboard, a study aid, or a lightweight game built from a book. Nothing here is live for anyone yet, and no release window has appeared. The timing lines up with what Google shipped this month. On 16 July, it renamed NotebookLM to Gemini Notebook and extended the per-notebook secure cloud computer to AI Pro on the web, after an Ultra-first rollout in June. That sandbox writes and runs code against uploaded sources, the substrate any generated app would need to execute at all. Smaller changes sit alongside it. AI Notes keep getting refined, with a manual add-note button joining the previously spotted option to have the model draft one. A watermarking toggle has also turned up, which may govern the visible Google branding stamped on exported videos, slide decks and infographics, though its scope stays unclear. Notice labels point to a model upgrade for the notebook and to web sourcing pulled mid-chat, with those results savable as sources afterward. Which model is not stated; the flagship Pro tier has slipped repeatedly, while a newer Flash release landed on 21 July. Students, academics, and analysts are the obvious audience. Google has spent a year turning Gemini Notebook into an output factory: audio and video overviews, infographics, slide decks, flashcards, data tables, and an App tile would give it the first artifact a reader can operate rather than only consume.",
+    "raw_meta": {
+      "rss_entry_id": "6a69aed0c3dec700011eb6eb",
+      "rss_tags": [
+        "NotebookLM"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "6311933d-93c3-499a-952b-cb3781f7765a",
+    "cluster_id": "a836e54b-2b44-455b-a15c-7ef7f2cd5d35",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Microsoft faces competition probe over Copilot subscription price hike",
+    "teaser": "Microsoft faces a probe from the UK watchdog over Copilot's mandatory inclusion, raising prices by £25/year if customers aren't clearly warned about cheaper options.",
+    "summary": "Microsoft is under scrutiny by the UK's Competition and Markets Authority (CMA) over how it changed its 365 subscriptions. The probe focuses on whether customers were misled regarding new Copilot-equipped plans starting in January 2025. At renewal, users automatically shifted to a costly tier containing AI features, increasing costs by £25 per year compared to the 'Classic' plan. The CMA is investigating if Microsoft clearly communicated alternative options and price differences. Consumer protection experts emphasize that businesses must provide clear, timely information during subscription changes. Microsoft has committed to transparency while reviewing the CMA’s claims.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/software/2026/07/29/microsoft-faces-competition-probe-over-copilot-subscription-price-hike/5280474",
+    "date": "2026-07-29T12:45:52Z",
+    "image_url": "https://image.theregister.com/5280496.jpg?imageId=5280496&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "SOFTWARE Microsoft faces competition probe over Copilot subscription price hike Watchdog asks whether customers were clearly told how to avoid the costlier AI-equipped plans Microsoft faces an investigation by the UK's competition watchdog over whether customers were misled when it added features to Microsoft 365 subscriptions and raised prices. The issue dates back to January 2025, when Microsoft added new features, including Copilot, to its consumer package. At renewal, customers were automatically moved onto a more expensive tier containing those features unless they switched plans or canceled altogether. Existing customers could switch to a cheaper \"Classic\" plan without the new features. Remaining on the Copilot-equipped version cost £25 more per year. The Competition and Markets Authority (CMA) is scrutinizing whether Microsoft's communications misled customers about their options. The regulator said: \"The investigation will examine whether customers were given key information about the plans and the difference in cost to understand the options available to them before making a decision.\" A Microsoft spokesperson told The Register : \"Consumer trust and transparency are priorities for Microsoft, and we are reviewing the CMA's claims in detail. We remain committed to working constructively with the regulator as their inquiry progresses.\" We documented the change at the time. Microsoft also explained how existing subscribers could switch to a Classic plan and avoid both Copilot and the price increase. The CMA said it is \"strongly supportive of AI adoption and the benefits this could bring to real people's lives across the UK but has emphasised that no one should be treated unfairly.\" The investigation is at an early stage, and the CMA has not ascertained if Microsoft broke consumer law. Last year, the UK's Science, Innovation, and Technology Committee questioned Microsoft about the increases and the need to opt out of the more expensive Copilot plan. Australian regulators later squeezed an apology from the company's local tentacle for failing to communicate the cheaper Classic option clearly. Hayley Fletcher, senior director for consumer protection at the CMA, said: \"When a business changes its subscription plans, customers need clear and timely information about their options. Our investigation will consider whether Microsoft customers were misled and ended up paying more as a result.\" ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5280474",
+      "rss_tags": [
+        "software"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "ea1270f6-7e7e-4e59-ab32-8f103499669f",
+    "cluster_id": "28e93f60-03fb-4fb2-a540-e1dec94c5a89",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "DoorDash is building its own drone delivery business",
+    "teaser": "DoorDash isn't just building drones; it's developing an entire autonomous 'full stack' operating system to manage all future deliveries via bots, drones, and human couriers.",
+    "summary": "DoorDash is fundamentally transforming its logistics model by building an end-to-end autonomous delivery network, headlined by 'DoorDash Air,' its own drone operation. Having secured a Part 135 air carrier certification from the FAA, DoorDash plans to integrate proprietary drones with its existing sidewalk bots (Dot) and human couriers. Co-founder Stanley Tang highlights that their advantage is solving the entire 'full stack' challenge: the Autonomous Delivery Platform acts as a central operating system that determines which mode—drone, bot, or person—is best for any delivery. This comprehensive approach allows DoorDash to tackle complex logistics problems far beyond just deploying hardware.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
+    "date": "2026-07-29T13:00:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/doordash-aircraft-nose.jpeg?resize=1200,675",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Kirsten Korosec",
+    "content": "DoorDash is building a drone delivery business, including its own aircraft, as part of an effort developed by its robotics and autonomy team, which will eventually operate within the company's delivery app. The company unveiled the new business, called DoorDash Air, after receiving a Part 135 air carrier certification from the U.S. Federal Aviation Administration. The certification allows the company to legally operate a commercial drone delivery service in the United States. This does not mean DoorDash's custom-built drones will be delivering burritos tomorrow, or even next month. The company didn't provide a detailed timeline for when its aircraft would be used in operations. But before they do, it will likely begin with limited pilot programs in which the unmanned aircraft will travel short distances while remaining within the line of sight of the operator. If DoorDash wants its drones to fly autonomously over longer distances, it will need the FAA to approve its Beyond Visual Line of Sight technology, a certification that companies like Amazon , Wing, and Zipline have received in recent years. Despite the new program, the food and grocery delivery company is maintaining its existing partnerships with Wing and Flytrex. DoorDash partnered with Alphabet's Wing in 2022 for a drone delivery program in Australia, and later expanded the partnership to a couple of U.S. cities, including Dallas-Fort Worth, in 2024. DoorDash Air was developed within DoorDash Labs, the R&D team behind Dot, the autonomous sidewalk delivery bot the company introduced in September 2025. The delivery bot is now operating in the Phoenix suburbs of Tempe, Mesa, Gilbert, and Chandler, as well as in Fremont, California. The company's foray into sidewalk bots and drones may seem well outside its core business model - an app that connects restaurants and customers with contractors who pick up food and deliver it to people's doors. But DoorDash's co-founder and chief product officer Stanley Tang said there is a common thread. \"We didn't start with the question, 'What's the coolest autonomous tech we could make?' We started from first principles: What's the actual customer problem that needs to be solved?\" Tang wrote in a blog post on Wednesday announcing DoorDash Air. In the company's view, drones and sidewalk bots are part of the broader delivery network it is building. The physical hardware - for instance, a 350-pound sidewalk bot or a drone - is important to this expanded view. But Tang argues that the operating system, particularly the software that can correctly determine what mode is used to deliver that burrito, sushi, or pad thai, is just as critical. DoorDash Labs has already developed software, called the Autonomous Delivery Platform, to handle the coordination challenge, according to Tang, and this operating system works with Dot, human delivery drivers, and, soon, the drone. He noted that the company is tackling the full stack of challenges, from hardware and embedded systems to routing algorithms, and deciding in real-time whether human drivers, drones, or a sidewalk bot is the best option to dispatch a delivery. This complexity was part of Tang's recruitment pitch to engineering hires in the blog post. \"Most autonomy companies work on one layer. At DoorDash, you're working on all of them simultaneously; nobody else is running all these systems on one network,\" he wrote. \"DoorDash is where the most interesting problems in autonomy are being solved today.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3147693",
+      "rss_tags": [
+        "Transportation",
+        "DoorDash",
+        "drone delivery"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "45fbe815-4c6a-499d-a2b8-8694176e1ee4",
+    "cluster_id": "cf65cdab-7a03-44b9-846b-8d48c203bffe",
+    "cluster_size": 1,
+    "source": "SiliconANGLE",
+    "title": "SnapLogic transforms SnapGPT into a high-powered agentic assistant for the entire integration lifecycle",
+    "teaser": "SnapGPT transforms from an assistant to a fully autonomous agent, mastering the entire integration lifecycle—from planning to operation.",
+    "summary": "SnapLogic has significantly upgraded its AI copilot, SnapGPT, into a fully autonomous 'agentic assistant' for enterprise data integration. This shift allows users to manage the entire integration lifecycle—from initial planning through operation. The agent can validate requirements using 'Plan Mode,' generate production-ready code by analyzing existing assets, and guide teams in complex scenarios, such as synchronizing data between NetSuite Inc. and Salesforce Inc. This advancement reflects the industry's move toward AI that offers comprehensive outcome delivery rather than just development assistance.",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://siliconangle.com/2026/07/29/snaplogic-transforms-snapgpt-high-powered-agentic-assistant-entire-integration-lifecycle/",
+    "date": "2026-07-29T13:00:14Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/A-programming-sitting-in-front-of-a-keyboard-in-a-dark-office-as-an-AI-agent-appears-on-a-screen-ass.jpeg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Kyt Dotson",
+    "content": "Enterprise data integration and automation firm SnapLogic Inc. today announced a significant update to SnapGPT , the company's artificial intelligence copilot for enterprise data automation, transforming it into an agentic assistant. Launched in 2023, SnapGPT provides assistance for users building data automation and creating enterprise-ready integrations. The new SnapGPT updates shift it from a copilot to a fully autonomous assistant for the integration lifecycle, combining platform knowledge, integration-specific reasoning and guidance capabilities with the ability to take conversations about intent and turn them into production-ready solutions. \"Three years ago, we pioneered generative integration with the industry's first GenAI-powered integration copilot, enabling users to create integrations through natural language,\" said Chief Technology Officer Jeremiah Stone. \"Today, SnapGPT brings that vision forward into the era of Agentic Integration, helping teams across the entire engineering lifecycle...\" The company said that SnapGPT now enables companies to begin from scratch, build a full integration lifecycle and implement it. It is capable of planning, building, understanding and operating the pipeline after it is in place. Beginning with Plan Mode, the agent helps teams validate requirements, explore approaches, refine workflows and identify issues before development starts. Once a plan is brought together, the agent can generate high-quality, production-ready integrations in tandem with on-site developers, engineers and business users, who can guide the process. It does this by analyzing existing assets, explaining the outcome of the work, and providing additional insights that teams might have missed within complex integrations. For example, a team might want to synchronize data between business management in NetSuite Inc. and customer relations handled by Salesforce Inc. It is a common need for businesses to combine enterprise resource planning and customer relationship management. A data integration could automatically read updated records from NetSuite, map fields and information into a format that can be ingested easily, then update records or write new entries in Salesforce to keep sales and finance on the same page. \"The integration market is evolving beyond AI-assisted development toward AI that helps teams deliver successful outcomes across the entire integration lifecycle,\" said CEO and Lead Analyst of Aragon Research Jim Lundy. As more organizations look to combine domain expertise with automation, more enterprise teams are looking to generative AI and agentic solutions that can take their knowledge on page and transform it into production-ready work. Lundy said that today's enhancement to SnapGPT reflects this shift by extending the AI beyond acting immediately to a type of ongoing teamwork that involves planning, understanding and operational guidance. The new SnapGPT capabilities are available today as part of the company's SnapLogic Agentic Integration Platform. Plan Mode and visibility into AI-assisted development activity are generally available; monitoring insights with AI assistance into production with diagnostic intelligence will roll out in August. Image: SiliconANGLE/Microsoft Designer A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=798156",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "artificial intelligence",
+        "Jeremiah Stone",
+        "Jim Lundy",
+        "SnapGPT",
+        "SnapLogic"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "817fb27b-c47a-4028-9cf9-dae135634145",
+    "cluster_id": "21d633ff-3dfe-452d-be41-c9ee7d5328ea",
+    "cluster_size": 1,
+    "source": "SiliconANGLE",
+    "title": "Nimble launches Web Search Agents to cut AI research token costs",
+    "teaser": "Nimble launches Web Search Agents to cut AI research token costs by 51%, giving agents superior domain-specific insights.",
+    "summary": "Web search platform Nimble has launched Web Search Agents, a specialized tool for enterprise AI teams that runs complex web research tasks tailored to a company's specific domain. General web searches are often too 'blunt,' wasting tokens on irrelevant data. Nimble’s agent self-learns the required knowledge work and combines proprietary indexes with live sites to provide highly granular information. Benchmarks confirm its efficiency, showing a 21-point boost in answer quality and a 51% reduction in token usage per query. Company leaders stress that for critical business research, accuracy and cost are paramount. The agents check their own work as they go, allowing developers to integrate the capability via API or SDK.",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://siliconangle.com/2026/07/29/nimble-launches-web-search-agents-cut-ai-research-token-costs/",
+    "date": "2026-07-29T13:00:19Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/nimblewebsearchagent.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Duncan Riley",
+    "content": "Web search platform company Nimble today launched Web Search Agents, a product that learns a customer's domain and then runs complex web research tasks on its own. The company is aiming the release at teams that have found general-purpose web search too blunt for production agents. Generic tools return a wide, unstructured set of results and leave the agent to work out what is actually relevant, an approach that burns tokens on unnecessary tool calls and on processing pages that do not matter. Nimble's pitch is that a market research agent and a lead enrichment agent should not get the same product. Its harness self-learns the knowledge work involved in a task and adapts retrieval strategies to it, combining proprietary indexes with real-time retrieval from live sites to pull what the company describes as the freshest and most granular information available. Benchmark testing published by Nimble showed a 21-point increase in answer quality and 51% fewer tokens spent per query. \"For enterprises, the real bottleneck is accuracy and cost,\" said Uri Knorovich, chief executive and co-founder of Nimble. \"Agents need the right live web context without wasting tokens or relying on generic search results.\" Speed is not the pitch. Nimble is going after agents that run for hours on business-critical research, where a missed source costs more than a slow answer. The harness checks its own work as it goes, which the company says leaves less for the team behind it to redo. Rox, an AI-native customer relationship management company, reported a 20-fold reduction in token costs after adopting the service, alongside better quality and completeness in the information reaching its agents. Almog Lavi, head of product at code integrity startup Qodo, said in the announcement that Nimble let his team tune a Claude Managed Agent to surface the competitor signals that mattered to them rather than a generic market summary. Web Search Agents is available through Nimble's application programming interface, its software development kit and Model Context Protocol, with a free trial. Developers can wire it in as a tool inside an existing agent or build applications on top of it, from low-latency search through to deep research and structured dataset generation. Nimble says the platform is fielding more than 90 million searches a day. Its customer base takes in Fortune 500 enterprises as well as younger AI-native firms. Founded in 2021, Nimble is a venture capital-backed company that most recently raised $47 million in a February Series B round led by Norwest Venture Partners LP. Databricks Ventures, Target Global Management GmbH, Square Peg Capital Pty. Ltd., Hetz Ventures, Slow Ventures, R-Squared Ventures, J-Ventures and InvestInData also participated. The New York company has raised $75 million to date. Image: SiliconANGLE/Ideogram A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=798244",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "agentic AI",
+        "AI agents",
+        "AI infrastructure",
+        "Databricks Ventures",
+        "enterprise AI",
+        "Model Context Protocol",
+        "nimble",
+        "Norwest Venture Partners",
+        "Qodo",
+        "Rox",
+        "token costs",
+        "Uri Knorovich",
+        "web data",
+        "web search",
+        "Web Search Agents"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "fd1f797f-91ad-41d5-a48f-395949588167",
+    "cluster_id": "949b660c-c8fe-48fb-a236-e5ed4812347f",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "teaser": "Encore AI’s new agents learn more than data—they adopt the specific jokes and playbooks from successful human customer calls.",
+    "summary": "Encore AI raised $30 million in a Series A round to expand its AI platform. The company specializes in deploying advanced voice agents that learn optimal customer interaction tactics through a process called \"interaction mining.\" This system analyzes vast amounts of data—including call recordings, emails, and texts—to identify the most successful 'playbooks' used by human employees. These agents then replicate these specific conversational patterns (like jokes or anecdotes) to optimize sales and support processes. Already serving over 40 enterprise clients, primarily financial institutions, Encore plans to use the funds to expand its U.S. presence.",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "date": "2026-07-29T14:41:06Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/ENCORE-0321a.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Ram Iyer",
+    "content": "Encore AI , a startup that studies companies' customer interactions to train and deploy AI voice agents that can work alongside customer support and sales teams, or operate autonomously, has raised $30 million in a Series A round led by Team8. Founded in 2022 as Insait IO by CEO Dvir Ginzburg, the company started out building recommendation software for financial advisers and relationship managers. Now rebranded as Encore AI, the startup has expanded that system into a platform that analyzes conversations between a company's employees and customers to identify which approaches resulted in successful outcomes, and uses those findings to train its AI agents. The result, according to Ginzburg, is an AI agent that leverages the strongest parts of the playbooks used by an organization's employees. \"Sometimes our agents even tell the jokes that the relationship managers are telling, or give the anecdotes or examples that the relationship managers are giving, because we literally run by the playbooks that we see working [...] The agent we build is a package of many different playbooks that have worked throughout the process,\" he told TechCrunch in an exclusive interview. Ginzburg calls the process \"interaction mining.\" The company's platform collects call recordings, emails, and text messages, and connects that info with CRM systems. It then divides the customer interactions into stages and tries to find out which parts of a conversation helped move the process along, and which failed. This lets Encore's agents, and consequently its customers, learn what works best for any particular client or interaction, as different employees may be either more or less effective at different points during a sales or customer success process, Ginzburg told TechCrunch. The company's platform also lets companies identify where their existing customer support and sales processes are falling short, identify inefficiencies and friction points, and find key issues. A screenshot of Encore AI's interaction mining tool Image Credits: Encore AI Encore says its agents can communicate directly with customers by voice or text, as well as act as assistants to employees, recommending responses and tactics during conversations. The company has more than 40 enterprise customers globally, the majority of which are financial institutions, according to Ginzburg. He said Encore's annual recurring revenue has increased more than 5x since it raised its seed round less than 18 months ago, though he declined to disclose exact revenue numbers or valuation. Encore's early to this market, but its share may become harder to defend as large CRM providers like Salesforce, SAP, Zoho, and HubSpot can build similar AI capabilities around their customers' data. But Ginzburg contends that access to data alone isn't enough, as established vendors would need to overhaul their processes to make historical customer conversations the foundation of their agents like Encore does. \"The biggest players that we are competing against, they don't see [conversational] history as a data point that they are utilizing. For them to start asking for conversational data with their current employees will require changing their entire implementation stack and technological stack,\" he said. Planven, Lukatz, and Garage also participated in the round, as did some banks and insurers. Encore said some of the financial institutions participating in the round first used its product before deciding to invest. The startup plans to use proceeds from the Series A to expand its U.S. sales operations and deploy its platform with more large financial institutions.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3147736",
+      "rss_tags": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "customer relationship management",
+        "Encore",
+        "Team8 Capital"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "ddd025ba-5246-4eaa-9230-1b5752f0b166",
+    "cluster_id": "644f83ec-9e90-405c-be1a-46f0781a6c6b",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
+    "teaser": "After a multiyear legal battle, Elon Musk's X settles with the World Federation of Advertisers (WFA), ending claims that advertisers illegally boycotted the platform over brand safety issues.",
+    "summary": "Elon Musk’s social network, X, has settled its long-standing legal dispute with the advertising trade group WFA. The settlement puts past litigation involving the Global Alliance for Responsible Media (GARM) behind both parties. X had accused WFA of orchestrating a 'systematic illegal boycott' after Musk's 2022 takeover, alleging advertisers pulled spending due to brand safety concerns. Advertisers countered that brands should have autonomy in ad spending. Previously, a federal court dismissed X's lawsuit for failing to prove harm. Following the settlement, WFA announced it has discontinued GARM and affirmed its commitment to free speech, resetting the contentious relationship between the two organizations.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
+    "date": "2026-07-29T15:36:48Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183887189.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Aisha Malik",
+    "content": "Elon Musk's X has settled its multiyear legal battle with advertising trade group the World Federation of Advertisers (WFA), the two organizations said on Wednesday. The settlement ends Musk's aggressive attempt to hold advertisers legally responsible for pulling spending from X over brand safety concerns. X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network in 2022. Companies X accused of doing so included Mars, CVS Health, Shell, Lego, and more. The advertisers rejected the allegations and argued that brands are free to decide where to spend their advertising dollars. A federal court dismissed the lawsuit in March after a judge said X had failed to demonstrate that it had suffered any harm under federal competition laws. X had appealed the decision in April. \"Today the World Federation of Advertisers (WFA) and X Corp. are putting the litigation involving the Global Alliance for Responsible Media (GARM) behind them,\" the joint statement reads. \"This resets the relationship between the two organizations.\" X had alleged that advertisers reduced their spending because of guidelines developed by the WFA's Global Alliance for Responsible Media, a coalition of brands and advertising agencies that was established to develop standards aimed at preventing ads from being displayed alongside harmful online ⁠content. Advertisers were concerned that their brands would appear alongside harmful content on the social network after Musk overhauled the platform's content moderation policies. \"WFA reiterates its commitment to freedom of speech, a principle first included in WFA's founding constitution back in 1953, and a principle it shares with X,\" the statement reads. \"On August 9, 2024, WFA discontinued GARM. WFA will not form or restart GARM or a similar initiative. WFA and X are fully aligned in the view that brands, platforms, and consumers will all benefit from brand-safety innovation.\" The lawsuit wasn't the only time Musk clashed with advertisers. After acquiring X, he told advertisers who paused spending on the platform to \"go f*** yourself.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3147792",
+      "rss_tags": [
+        "Apps",
+        "Social",
+        "Elon Musk",
+        "X"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "4207d41d-d93d-47fb-bd0b-bed9e52ea543",
+    "cluster_id": "cafa6489-e4f3-4e74-884b-e32e07a41123",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Full school day cellphone bans are more popular than ever",
+    "teaser": "Support for full school day cellphone bans is soaring, reaching 48% of US adults—a significant jump from just 36% two years ago.",
+    "summary": "A new Pew Research Center survey indicates strong, increasing national support for banning cellphones in schools. Seventy-seven percent of US adults back a ban in middle and high school classes, with 48% supporting an all-day ('bell-to-bell') restriction. This represents a sharp increase from the 36% support seen two years ago. Support is broadly bipartisan (Republicans: 55%; Democrats: 44%), and over 20 states have already adopted these bans. Research suggests mixed effects: some studies note positive student well-being outcomes and fewer unexcused absences, while others show no direct impact on test scores.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever",
+    "date": "2026-07-29T16:42:44Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK461_INTERNET_CHILD_SAFETY_Stock_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Lauren Feiner",
+    "content": "As schools across the country continue to implement cellphone bans, a new Pew Research Center survey shows they continue to gain support. Seventy-seven percent of US adults support banning cellphones in middle and high school classes, and 48 percent support banning them for the entire school day. That's the first time more Americans have supported, rather than opposed, so-called bell-to-bell bans. Two years ago, just 36 percent of American adults supported an all day ban. Across all age groups over 18 that were surveyed, most respondents support in-class bans. That support is lower but still at least half for all-day bans across most age groups, except for ages 18-29, where support for a bell-to-bell ban drops to just 28 percent. Republicans were slightly more likely to favor both in-class and all-day bans, at 81 percent and 55 percent, respectively. But Democrats were also broadly supportive of in-class bans at 74 percent, and all-day bans at 44 percent. More than 20 states havre already adopted bell-to-bell cellphone bans , and early studies show mixed impacts. One report found positive long-term effects on students' well-being, but no evidence of an impact on test scores. Another found higher suspension rates in the first year of a ban, that later returned to normal levels, and a decrease in unexcused absences.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=972607",
+      "rss_tags": [
+        "News",
+        "Policy",
+        "Politics",
+        "Regulation"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "7a5a6d52-169a-4d37-be72-aa4fceeee2c2",
+    "cluster_id": "b0213aeb-6f3d-4200-b990-63320036aed7",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Google brings its age-assurance technology to Android developers worldwide",
+    "teaser": "Google is rolling out a new 'Play Signal API' that lets developers screen apps for appropriate content by reading an opt-in age range, enhancing child safety globally.",
+    "summary": "To enhance child safety, Google announced it is rolling out its Play Signal API, an age-assurance technology for Android developers globally by the end of 2026. This tool allows developers to provide safer, age-appropriate experiences by identifying a user's general age range without accessing sensitive personal data like date of birth. Initially expanding to Australia and Canada by mid-August, the feature centralizes parental controls within Family Link. Crucially, sharing this information is opt-in, requiring parents to actively enter their child’s age range. This development aligns with global regulatory pressure (like Apple's tools) to better protect minors in app ecosystems.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
+    "date": "2026-07-29T17:00:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/google-play-store.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Sarah Perez",
+    "content": "Google is expanding its answer to Apple's age-assurance tools with Wednesday's news that it will bring its Play Signal API to users worldwide by the end of 2026. The technology, already available in Brazil, allows Android developers to identify younger users of their apps in order to provide safer, age-appropriate experiences. The expansion will initially bring the API to Australia and Canada by mid-August, before rolling out globally to all markets by the end of the year. Its arrival comes as lawmakers and regulators around the world are increasingly pressuring app stores to provide better protections for minors. Apple, for instance, launched its age-verification tools globally in February to comply with the growing number of age-verification laws. Image Credits: Google Like Apple, Google's technology allows developers to obtain a user's age range without needing to access personal information, like their date of birth. Instead, it enables parents to share their child's age range directly with apps. It also lets adults share their age when prompted by app developers as well, allowing for customized experiences. Parents won't have to manage sharing this information on an app-by-app basis, either. To make it easier, Google centralizes these controls inside its parental controls dashboard, Family Link . Once entered, any developer that chooses to incorporate age-range information can access this signal to customize their apps accordingly. Google notes, however, that the age ranges are not shared by default - parents must opt in by entering that information. The feature joins other safety tools on Google Play, including those that let developers restrict a child's ability to discover their apps. Parents, meanwhile, can continue to use Google Play's Family Link app to manage their child's screen-time limits, approve app downloads, or set PIN-based content filters for specific apps.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3147848",
+      "rss_tags": [
+        "Apps",
+        "Android",
+        "Google",
+        "Google Play"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "118c8873-4c94-4330-bfb0-a38d22f1b96a",
+    "cluster_id": "b19fddaa-2fcb-4db3-a49a-9d317bb73e5e",
+    "cluster_size": 1,
+    "source": "thedd",
+    "title": "Cruz’s Attack Raises Questions for Trump",
+    "teaser": "Senator Ted Cruz labeled NYC Mayor Zohran Mamdani 'full-on communist' for advocating socialist policies, leading to political firestorm.",
+    "summary": "Senator Ted Cruz criticized NYC Mayor Zohran Mamdani on Fox News, framing his plans—such as taxing expensive second homes and implementing subsidized grocery stores—as communist policies. Cruz argued that leaders of communist regimes are historically wealthy ('Fidel Castro was a billionaire,' 'Putin is a billionaire'), suggesting they steal from the governed. Beyond politics, global markets saw volatility: U.S.-Iran tensions caused Brent crude to jump 6.7% to $87.55/barrel, leading to sharp drops in major US indexes and raising inflation concerns. Meanwhile, large energy deals were reported, such as Uniper securing a 20-year LNG purchase agreement between Canada and Germany.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://link.mail.beehiiv.com/v1/c/0X3ubzGmnXye2mfAw9ulIS%2Fzq0YMPpK4JbL5liShf%2B0jFqTDUCTCD7VstL%2FG%0AuvCwdTdt6%2BFI5jExXDSLjeG2fucwDIlVQ%2FZG5lbuvXdCCLB9bs0bmhJkkPLA%0As%2BcQIZTdIAR%2BsArHjVp4gpOP%2FRgB80%2BzioSvILDO1CA5nfw3TN%2FX4K%2FbErOO%0A1L6LmGkrmM6dhYHi1cMUtXDYMYW92gfRog%3D%3D%0A/069516cc48c5e21a",
+    "date": "2026-07-29T17:33:50Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "The Deep Dive",
+    "content": "Sponsored by Mercado Minerals Cruz's Attack Raises Questions for Trump Sen. Ted Cruz intended to argue that socialism allows political leaders to enrich themselves while the public bears the cost. Instead, the Texas senator produced a definition of corrupt political wealth that could be redirected almost immediately toward the billionaire president leading his own party. The complete exchange of his interview shows he was targeting New York City Mayor Zohran Mamdani. Appearing on Fox News' Hannity Cruz called Mamdani a \"full-on communist\" while discussing the mayor's tax on expensive second homes and plans for subsidized grocery stores. \"Fidel Castro was a billionaire. Putin is a billionaire. The leaders of communist regimes are always rich. They steal and rob from those they govern,\" he explained. You can read more on the matter here . Mercado Minerals Ltd. (CSE: MERC) is a silver-focused exploration company targeting the next world-class discovery in Mexico's emerging Western Silver Belt, part of the prolific Sierra Madre Occidental mining district. With a proven team boasting extensive experience in Mexican exploration, Mercado is actively advancing multiple projects across more than 3,000 hectares. The Company is committed to creating shareholder value through disciplined exploration, strategic growth, and discovery-driven results. What's going on? Former Harper Minister Challenges Chow In Toronto Mayoral Race ( theDeepDive ) Trump vows to deliver 'beating' to Iran in retaliation for latest attack ( FT ) Congress Can Force Fauci to Talk but at a Price ( theDeepDive ) Fauci refuses to answer questions at U.S. Senate hearing on COVID-19 ( Globe ) Nevada Judge Rules Against Kash Patel in Stewartson Defamation Case ( theDeepDive ) Germany's Uniper firms up 20-year LNG purchase deal with Canada ( Reuters ) DOJ Joins Trump in Asking Supreme Court to Toss $83 Million Carroll Verdict ( theDeepDive ) OpenAI CEO Sam Altman Discusses Next AI Model With US Lawmakers ( Bloomberg ) Kyiv and Tehran Step Back From the Brink After Tense Phone Call ( theDeepDive ) What's the latest? Energy: Uniper signed a 20-year agreement to buy 2 million tonnes of LNG per year from Ksi Lisims LNG, with deliveries expected to begin in 2032, marking the first major long-term LNG supply deal between Canada and Germany. The C$10B project in northern British Columbia aims to export up to 12 million tonnes annually, strengthening Canada's position as a long-term LNG supplier to Europe. Markets : U.S. stocks fell sharply as renewed U.S.-Iran hostilities pushed Brent crude up 6.7% to US$87.55/barrel, reigniting inflation concerns ahead of the Federal Reserve's rate decision. The Dow dropped 878 points (-1.7%), the S&P 500 fell 1.0%, and the Nasdaq lost 1.2%, led by AI chip stocks including Nvidia (-2.8%), AMD (-6.1%), and Micron (-6.3%), while markets priced a 34% chance of a Fed rate hike. Politics : President Trump said the U.S. will launch heavy retaliatory strikes on Iran after Iran fired ballistic missiles at U.S. forces, though all missiles were intercepted with no reported damage. The renewed fighting ended a brief pause in hostilities, prompted U.S. and Saudi strikes on Iran-aligned militias in Iraq, and pushed oil prices higher again as concerns grew over potential disruptions to key Middle East shipping routes, including the Strait of Hormuz and Bab el-Mandeb. Economy : Canada's labour market stabilized in Q2 2026, with the working-age employment rate reaching its highest level since mid-2024, helped by slower population growth rather than stronger hiring. Indeed expects job growth to remain modest through the rest of 2026 as immigration slows and retirements increase, while long-term unemployment remains elevated and job postings are generally flat, with health care and education showing signs that labour shortages are easing. Tech: Microsoft's earnings are expected to trigger a 6.6% move (about US$190B in market value)-far larger than its typical earnings reaction-as investors look for proof that the company's billions in AI investments are translating into stronger growth. Markets will focus on Azure cloud growth, adoption of Microsoft's AI tools, and whether rising AI spending can be justified, while Meta's earnings are also in focus, with options implying a 7.8% stock move as investors scrutinize its AI spending and advertising performance. The Quiet Money Printing Has Already Started The Quiet Money Printing Has Already Started - Jesse Day The stock market and stuff BMW Asks Employees to Voluntarily Leave As Part Of 8,000-Job Cut Move ( theDeepDive ) Centerra Raises Öksüt Guidance, Doubles Down on Buybacks After Strong Quarter ( theDeepDive ) Glencore Traders Turn Commodity Turmoil Into $3.3B Haul ( theDeepDive ) First Quantum Books Q2 Profit as Copper Climbs and Costs Run Hot ( theDeepDive ) Shein Now Reveals FTC Probe Ahead Of Hong Kong IPO Debut ( theDeepDive ) In the juniors Zijin's Allied Gold Buyout Collapses, Replaced by Minority Investment ( theDeepDive ) Newcore Gold Drilling Intersects 3.67 g/t Gold over 25.3 Metres, at the Enchi Gold Project, Ghana ( JMN ) Mercado Minerals Extends Copalito Drilling With Fresh El Pilar Silver Hits ( theDeepDive ) FULL DISCLOSURE: Mercado Minerals is a client of Canacom Group, the parent company of The Deep Dive. Canacom Group is currently long the equity of Mercado Minerals. The author has been compensated to cover Mercado Minerals on The Deep Dive, with The Deep Dive having full editorial control. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security.",
+    "raw_meta": {
+      "gmail_message_id": "1107",
+      "gmail_uid": "1107",
+      "gmail_labels": [],
+      "gmail_msgid": "1872071419467926044",
+      "gmail_thrid": "1872071419467926044"
+    }
+  },
+  {
+    "id": "0001356a-ebe0-4189-9006-edb01c40fa82",
+    "cluster_id": "c2dd1cf3-2b22-4d38-8be5-460315b9737d",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
+    "teaser": "Despite initial hate, Ferrari's polarizing debut EV, the Luce, hit its sales target fast, showing strong demand from China.",
+    "summary": "Against initial critical backlash and predictions of failure, Ferrari's first electric vehicle (EV), the Luce, has exceeded expectations. Initially criticized for its polarizing design, the car was largely designed by Jony Ive/LoveFrom. Despite early setbacks, sales reports indicate that Ferrari reached its projected target for the Luce quickly. This success is reportedly fueled by strong demand from China and wealthy buyers in tech hubs like Silicon Valley. Priced around €555,000, the company plans to sell approximately 2,500 units by 2030, marking a significant pivot into the EV market.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
+    "date": "2026-07-29T17:57:45Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/ferrari-luce-1.jpeg?resize=1200,1006",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Tim De Chant",
+    "content": "Sometimes the crowd isn't so wise. When Ferrari revealed the Luce - its first EV - to the public in May, the internet reacted. And not in a positive way. Critics compared the wedge-shaped Luce with a Nissan Leaf and said Chinese EVs would outperform it while undercutting it on price. Even former Ferrari chair Luca Cordero di Montezemolo was among the haters. Ferrari's stock dropped 8% the day after the reveal. Their conclusion: the Luce would be a dud. It turns out, the armchair auto executives were wrong about the five-seater that was largely designed by Jony Ive and his firm, LoveFrom. Ferrari hit this year's sales target for the Luce in just two months, according to a report by the Financial Times. The automaker was hoping to sell just under 500 of the €555,000 EVs ($630,000), and based on previous reports , it sounds like at least 20% will make their way to China. That's not surprising, given that the Luce seems tailor-made for the Chinese market , which favors fast, sleek four-door EVs. TechCrunch has reached out to Ferrari to confirm the figures, and we'll update this article if we receive a reply. Much of the internet's hate was directed at the Luce's styling, which hewed to some Ferrari norms while throwing others out the window. Appearance is subjective, and I've seen enough cars in my day to know that some designs don't translate well on screen. Maybe seeing one in person tipped buyers into placing an order. What's more, Ferrari has an enthusiastic and price-insensitive customer base. The company sold more than 13,000 cars last year, which is a lot for an automaker that specializes in six-figure vehicles. Ferrari buyers tend to own several models, so it's also not difficult to imagine 500 of them wanting a practical vehicle that's also a Ferrari. Is the Luce worth the price of admission? Early reviews suggest that it drives like a Ferrari should. Plus, it has the prancing horse on the hood. That appears to be all Ferrari needs to succeed.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3147864",
+      "rss_tags": [
+        "Climate",
+        "Transportation",
+        "electric vehicles",
+        "Ferrari",
+        "ferrari luce"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "a7fb0d2a-a0bf-4bea-af28-b6cb97ea0654",
+    "cluster_id": "a28a3c32-9d2a-43f1-88c9-df81b377454a",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "The US government just banned Roombas",
+    "teaser": "The new robot ban is far broader than humanoids: it threatens vacuum cleaners and delivery bots if they aren't built using US components.",
+    "summary": "The FCC is banning new imports of 'advanced robotic devices,' citing national security risks linked primarily to foreign (especially Chinese) manufacturing. While headlines focused on humanoid robots, the ban's definition is much broader: it covers any ground-traveling, wireless robot weighing over 4.4 pounds—encompassing vacuum cleaners and delivery bots alike. The policy effectively impacts most roborobotic companies because top players are largely China-based. Companies seeking waivers must commit to local US manufacturing processes and design. Crucially, the FCC confirmed that existing devices already in use, such as current Roombas or routers, remain unaffected by the ban.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
+    "date": "2026-07-29T18:13:09Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB341_IROBOT_CVIRGINIA_A_514bad.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Sean Hollister",
+    "content": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States , the headlines were all about humanoids . But spying doesn't require legs - and neither does the FCC's robot ban. The robot ban will sweep up robot vacuum cleaners too , FCC media relations director Katie Gorscak confirms to The Verge. It's not coming for your existing Roomba, and companies can keep importing and selling already approved ones. But the government claims that future foreign robots pose a national security risk, and even robovac companies are suddenly being asked to commit to US manufacturing. While the government did include \"humanoid robots\" and \"quadrupeds\" among the bots it wants to ban, the ban is far broader than that. It covers almost any new software-controlled robot that travels over the ground, weighs more than 4.4 pounds (including any dock), can perceive its environment, and has wireless connectivity. By that definition, the FCC is banning future robot lawnmowers, sidewalk delivery robots, and the robots that crate around packages at your local Amazon warehouse. How the government defines the \"advanced robotic devices\" that will be banned from import. Image: FCC It was already clear from the government's ban announcement that it was thinking about robot vacuums. In the National Security Determination that the FCC is using to justify the ban, the government explicitly calls out my reporting on the incredibly poor security that let one man access 7,000 DJI robovacs around the world . But like the consumer router ban , the FCC isn't actually targeting companies with poor security. It's targeting basically every robovac company, regardless of their security practices - because basically every robovac is manufactured outside the US. The FCC is literally demonizing human and dog-shaped robots in this image tweeted by chair Brendan Carr. But that's the tip of the iceberg. Image: FCC Even before the US-based maker of the Roomba went bankrupt , its robots were built by a Chinese company. Just like Apple and Google and most every other gadget brand, these things are not produced domestically. Today, the vast majority of robot vacuums are designed by Chinese companies, too - all of the top five, including Roborock, Ecovacs, Dreame, Xiaomi, and Narwal, are Chinese entities. Even Dyson is turning to Chinese manufacturers . Following bankruptcy, the Roomba brand is now owned by its former China-based contract manufacturer Picea . \"There are very few non-Chinese brands these days and their share is so small that it's difficult to track,\" IDC analyst Jitesh Ubrani tells The Verge . Even Matic, our top robovac pick that's assembled in California, may have to apply for a waiver for new models. It doesn't yet source 65 percent of components from the United States, co-founder and CEO Mehul Nariyawala tells The Verge . Because yes, even US companies need to swear their robots are made in the US to get the government's waiver. Meanwhile, foreign companies will need to swear they're investing in US manufacturing - or lie, like that DJI front company I wrote about . If Trump and Carr were focused on actually protecting US citizens from the incredibly worrying security practices of smart home companies, I might argue that the FCC shouldn't exempt cleaning robots, as they can spy just as effectively as a humanoid. The DJI Romo robovac was a chilling example, letting someone on the other side of the planet map out my colleague Thomas Ricker's home , but it gets much worse - read about the robot lawnmower that ran me over to hear how. But again, the government isn't asking these companies any questions about security - not one - to get the waiver that lets them through. The FCC only wants to know where they're designed and made and assembled and tested and influenced, and get a specific commitment to start manufacturing them in the US instead. Even then, it appears the FCC will simply preference US companies without any new commitments to security or US manufacturing, like it did when it almost immediately let Netgear off the hook - even though Netgear's routers were among those targeted in the Volt Typhoon incident that helped justify the router ban to begin with. Four unnamed sources told Reuters that \"the FCC is expected to exempt many non-Chinese suppliers from the restrictions.\" The government isn't de facto banning every type of robot made outside the US without its special waiver. It already has exceptions for self-driving cars and trains, unmanned aircraft and underwater vehicles, surgical robots, wheelchairs, and fixed robot arms for industrial and medical use. But most robots now have an uncertain future in the United States. It's also worth repeating that the FCC is not coming for your existing robots, just like it isn't coming for your existing routers or drones. But it's also worth repeating that if these gadgets truly pose a national security risk, it's kind of silly to do nothing about the ones we've already purchased. Jennifer Pattison Tuohy contributed reporting. Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Sean Hollister News Policy Report Robot Tech",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=972312",
+      "rss_tags": [
+        "News",
+        "Policy",
+        "Report",
+        "Robot",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "5644d75f-81e9-485f-bdd8-00b2a6086166",
+    "cluster_id": "3a5ed05f-b85e-42fb-b899-d734e722a9bc",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "The Nothing Ear 3A look great… and sound good enough",
+    "teaser": "The Nothing Ear 3A earbuds offer robust audio customization for just $99, despite minor flaws in ANC stability and call clarity.",
+    "summary": "Reviewing the Nothing Ear 3A earbuds, the author highlights their transparent design and impressive value at $99. While the default sound is overly bass-heavy, the extensive parametric EQ (with four presets and an advanced 3-band/8-band options) allows for deep customization, significantly improving audio balance. Performance features include support for high-res LDAC codec and improved ANC, which filters out low drones effectively. However, the review notes minor performance flaws: adaptive ANC can exhibit sudden, disorienting intensity adjustments, and call quality is unreliable in noisy environments (e.g., sounding 'dark' when ambient noise increases). Despite these issues, the overall value—especially with enhanced controls via the Nothing X app—makes them highly recommended for their price point.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/tech/972254/nothing-ear-3a-earbuds-review",
+    "date": "2026-07-29T12:30:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268654_Nothing_Ear_3A_JHiggins_0014.jpg?quality=90&strip=all&crop=0%2C14.488902354413%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "John.Higgins",
+    "content": "Nothing has had a strong visual identity since the Ear 1 were released in 2021 for $99 and challenged the notion that a highly featured headset requires a high price. The Ear 3A have the same transparent look as Nothing's previous earbuds, with a clear case and stem design accented by a solid-colored body - this time adding a striking pink alongside yellow, black, and white options. And Nothing continues to improve both ANC and audio performance. But the Ear 3A also share the buggy performance that has plagued Nothing earbuds. While $99 is an attractive price for them, be ready to deal with some minor adaptive ANC and call quality issues. $99 The Good Great overall performance for the price Robust EQ The Bad Default sound is bass-heavy Some inconsistencies with adaptive ANC The Ear 3A have 12mm dynamic drivers and support the high-res LDAC codec, along with SBC and AAC. Their default sound is very heavy on the bass, and while it gives bass lines extra punch, the midrange - which includes vocals and guitars - gets covered by the excessive low end. Bassheads might enjoy it, but it's far too much for my taste, and I expect that will be the same for most people. Where I might ding some points for this on other earbuds, the Nothing 3A save themselves from that because of the robust EQ in the app. There's a simple interface with four presets and a custom 3-band EQ, a nice 8-band parametric EQ that gives you more advanced adjustments, and some additional EQ profiles from users curated by Nothing. In less than a minute I was able to adjust the EQ to something far more balanced to my ear (I added a downward slope to the bass below 115Hz, mid boost between 220-540Hz, another slight cut to the shouty frequencies between 2-3.5kHz, and some extra highs above 6.6kHz for a more open sound). It gave Chris Robinson's voice more presence on \"Thorn in My Pride\" and his brother Rich and Marc Ford's guitars nice crunch and bite as the song builds through the solo. And even with the cut to the low end, Johnny Colt's bass supports the band throughout. Nothing added a pink color to go along with yellow, white, and black options. ANC performance is improved over previous Nothing earbuds, with solid cancellation particularly in the lower mids and bass range, so low drones like air conditioners or plane cabin noise get filtered out very well. For $99, they also do a decent job with higher frequencies, but if you plan to use them consistently in a coffee shop you'll still hear orders being called out a bit. And if the high ANC setting is too much for you, there are mid and low settings that let in a bit more of the low end to ground you in reality. There's also an adaptive ANC setting, but here's where some of the minor issues I encountered started. While out on walks around the neighborhood, occasionally (maybe two or three times during an hour walk) the ANC intensity would quickly adjust to let in much more ambient noise and then switch back to its previous level. The whole experience lasted maybe two seconds each time and was disorienting. I tried to take note of what might have triggered it, but couldn't find a consistent situation that would cause it to happen. In general, whenever the adaptive ANC makes a change to the intensity, it's sudden instead of the more gradual change that my Apple AirPods Pro 3 or Sony WF-1000XM6 do - for hundreds of dollars more. The one issue I was able to figure out, also about volume attenuation, was with my call quality. While talking to a friend I regularly call when testing earbuds, if I was just listening to him, he couldn't hear anything from my side at all. No traffic, no wind, no breathing, nothing. At one point he wondered aloud if the call had disconnected. When I was talking, I sounded clear and natural to him if I started talking when there wasn't a lot of ambient noise around me. When the sound around me got louder - such as more cars driving by - a bit of that sound leaked through, although my voice still sounded natural. But if I started talking while there was a lot of noise around me, my voice sounded dark as the earbuds strongly filtered out upper-mid and high frequencies, including doing a great job tamping down the loud ambient sound. The Ear 3A have the same transparent design Nothing has used since the introduction of the Ear 1 in 2021. The Nothing X app includes controls for ANC intensity, a great parametric EQ, and customized controls. Both the ANC and call quality issues could be addressed with future firmware updates (my testing was with firmware 1.0.1.59), and if you use one of the static ANC settings instead of adaptive ANC, or don't plan on making calls in noisy areas, then they're a nonissue anyway. The Nothing Ear 3A also include 32MB of on-device storage, allowing them to record up to two hours of a call or take an audio snapshot (Nothing's term) of up to one minute. When you then access the app, you can transfer the recordings onto your device. When beginning a call recording, a message plays to notify everyone. I can easily see the use of recording an important call to make sure you don't miss any information (although this can also easily be done through your phone), but I have yet to find a reason for the audio snapshot. It only records up to a minute of what you're listening to, not anything around you using the earbuds' microphones, at lower fidelity. It's unique to the Nothing 3A, but also gimmicky. I'm glad the Nothing Ear 3A returned to a price under $100 after the $179 Ear 3. Nothing is at its best when it's challenging what can be done for less - and I'm more forgiving of its minor flaws. While the sound wasn't my taste out of the box, the fact you can make meaningful adjustments and tune it to your preferences makes them more versatile than most earbuds at the same price. Photography by John Higgins / The Verge Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. John Higgins Headphone Reviews Reviews Tech",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=972254",
+      "rss_tags": [
+        "Headphone Reviews",
+        "Reviews",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "631b92c8-5a12-44fc-9a20-93b3b2b83bd6",
+    "cluster_id": "c871bddd-0708-4129-a589-31c602d28734",
+    "cluster_size": 1,
+    "source": "WinBuzzer",
+    "title": "IT Services in Schaumburg, IL: What Local Businesses Actually Pay, Get, and Should Ask For",
+    "teaser": "Schaumburg IT costs: Businesses should budget $100-$250 per user monthly, but must track separate fees for hardware & major projects.",
+    "summary": "For businesses in Schaumburg, IL, understanding managed IT costs is crucial due to the area's dense mix of corporate offices, manufacturers, and healthcare providers. Comprehensive managed IT typically costs $100-$250 per user monthly. While service agreements cover essential operations (monitoring, help desk, security), they generally exclude major capital expenditures like hardware or large migrations. Beyond standard recurring support, businesses must factor in compliance needs (HIPAA, PCI-DSS) and potentially pay for professional labor ($150-$250/hour). The article advises separating recurring support from products and project work to ensure accurate budgeting.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://winbuzzer.com/2026/07/29/it-services-in-schaumburg-il-what-local-businesses-actually-pay-get-and-should-ask-for-xcxwgp/",
+    "date": "2026-07-29T14:21:19Z",
+    "image_url": "https://winbuzzer.com/wp-content/uploads/2025/11/MALEOF1.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Contributor",
+    "content": "Schaumburg has nearly 5,000 businesses and more than 80,000 workers, making it one of the Chicago suburbs' largest employment centers. For companies evaluating outsourced IT, industry pricing guides put comprehensive managed IT at roughly $100-$250 per user per month , with the final cost driven by security requirements, support hours, infrastructure complexity, and compliance obligations. Why IT services matter more in Schaumburg than in most suburbs? Schaumburg's concentration of corporate offices, manufacturers, professional firms, warehouses, retailers, and healthcare organizations creates unusually high dependence on business IT. An outage can affect office users, cloud applications, warehouse systems, customer transactions, remote employees, and communications at the same time. The local economy combines the Woodfield business district, industrial properties near the I-90/IL-53 corridor, and companies connected to the broader O'Hare logistics belt. Zurich North America maintains its headquarters at 1299 Zurich Way beside I-90, while Motorola Solutions, whose global headquarters occupied Schaumburg for five decades before moving to Chicago in 2016, still maintains offices in the village. That business mix creates very different technical requirements within a relatively small geographic area. A 40-person law firm may depend primarily on Microsoft 365, document management, Microsoft Entra ID, secure remote access, and reliable backup. A 100-user warehouse may also depend on industrial Wi-Fi, scanners, shipping stations, shared workstations, VPN connections, printers, switches, and line-of-business applications. Manufacturing and logistics businesses along the I-90 corridor may operate outside a standard 9-to-5 schedule, making monitoring and after-hours incident handling more important. Accounting firms may face FTC Safeguards Rule requirements, healthcare practices may need HIPAA-related controls, and organizations accepting card payments may need to account for PCI-DSS requirements. For businesses with 10-200 employees, the practical question is therefore not simply whether an IT provider can fix computers. The provider needs to support the specific mix of endpoints, identity systems, cloud applications, networks, cybersecurity controls, backups, and compliance requirements that keeps the organization operating. What managed IT services include (and what they don't)? A comprehensive managed IT agreement normally covers recurring IT operations: monitoring, help desk support, endpoint security, patching, backup monitoring, and Microsoft 365 or Google Workspace administration. It usually does not mean that hardware, software licenses, major migrations, cabling, or every technology project is included in one flat monthly fee. Industry-standard managed services usually start with 24/7 remote monitoring and management . An RMM platform such as NinjaOne can monitor workstations, servers, system health, services, and patch status while allowing technicians to manage endpoints remotely. Help desk support typically covers recurring user issues such as password problems, Microsoft 365 errors, printer connections, application troubleshooting, workstation issues, and basic network access problems. Contracts described as \"unlimited help desk\" should still define which users, devices, applications, and hours are covered. Endpoint security should also be defined by function rather than by a generic statement such as \"antivirus included.\" A modern security stack may use Bitdefender GravityZone for NGAV, EDR, XDR, or MDR capabilities; Microsoft Entra ID for identity, MFA, and SSO; SonicWall for firewall security; and Microsoft Intune for mobile-device and endpoint management. Patch management normally covers supported operating systems and selected third-party applications. The provider should be able to report patch compliance rather than simply state that automated updates are enabled. Backup services require similar precision. Platforms such as N-able Cove and Veeam can protect servers, endpoints, virtual machines, and cloud workloads, but the contract should specify what is backed up, how often backups run, how long data is retained, whether immutable copies exist, and how recovery is tested . Microsoft 365 or Google Workspace administration may include account provisioning, mailbox administration, security configuration, permissions, user changes, and licensing management. The recurring service fee does not necessarily include the actual Microsoft 365 or Google Workspace license cost. A useful managed-services proposal therefore separates recurring support from products and project work. That distinction makes two competing monthly prices much easier to compare. What's usually NOT in the flat fee? Managed IT flat fees usually exclude irregular or capital-intensive costs such as hardware, third-party software licenses, major migrations, office moves, structured cabling, and large infrastructure projects. After-hours project work and emergency support may also be charged separately depending on the provider's contract. Industry pricing guides commonly place out-of-scope professional-services labor around $150-$250 per hour . A Microsoft 365 migration, server replacement, firewall redesign, office relocation, or major network upgrade may therefore be quoted as a separate project. Onboarding is another common additional cost. Industry pricing guides often place onboarding at approximately 1-2 months of recurring service , although the amount depends on documentation quality, endpoint count, security remediation, network complexity, and the amount of tooling that must be deployed. Hardware is normally separate because a managed-service fee pays for ongoing operations rather than ownership of laptops, servers, switches, access points, and firewalls. Software licenses may also appear as separate line items even when the provider manages those applications. Before signing, ask the provider to place every service into one of four categories: included in the monthly fee, separately licensed, billable project work, or excluded . That classification is more useful than a vague promise of \"all-inclusive IT.\" How much do IT services cost in Schaumburg? A Schaumburg business should generally budget about $100-$250 per user per month for comprehensive managed IT. Industry pricing guides commonly place total monthly spending for a typical 10-50-employee company around $1,500-$5,000, with cybersecurity, compliance, multiple sites, and complex infrastructure pushing costs higher. The pricing structure matters because two providers can quote similar monthly totals while including very different services. Pricing model Typical market range Best fit Per-user $100-$250/user/month Office-heavy businesses where employees use multiple devices and Microsoft 365 Per-device About $30-$150/device/month Businesses with shared PCs, warehouse stations, servers, kiosks, or specialized endpoints Tiered Varies by service tier and security scope Companies choosing predefined basic, standard, or security-focused packages Co-managed Varies substantially by retained internal IT responsibilities Businesses with internal IT staff outsourcing selected functions These figures are budgeting benchmarks rather than standardized tariffs. Per-user pricing is easier to compare across industry pricing guides, while per-device, tiered, and co-managed pricing depends more heavily on the number of supported systems and the exact division of responsibility. A 30-user accounting firm near Woodfield may pay more per user than another 30-person business if the agreement includes advanced email security, immutable backups, Microsoft Entra ID controls, endpoint detection and response, and FTC Safeguards Rule support. A 100-user warehouse near the I-90/IL-53 corridor may create a different cost structure. Its environment may include 100 employees but 160 managed devices, shared terminals, scanners, warehouse Wi-Fi, switches, firewalls, printers, shipping systems, and multiple operational shifts. The monthly figure therefore matters less than the scope behind it. A $125-per-user contract that excludes backup, security operations, after-hours incidents, and Microsoft 365 administration may cost more in practice than a $190-per-user agreement that includes those functions. Managed IT vs hiring in-house in the Chicago suburbs For many businesses below roughly 75 employees, outsourced IT can provide broader technical coverage than hiring one internal generalist. One in-house IT employee commonly represents roughly $80,000-$120,000 per year in salary and employment overhead while still providing only one person's working hours, experience, and availability. One internal administrator may be capable of handling Microsoft 365, endpoints, basic networking, user support, and vendors. That same person is unlikely to be equally specialized in cybersecurity, backup architecture, identity management, firewall engineering, compliance, cloud infrastructure, and disaster recovery. Availability creates another difference. One employee normally provides approximately 40 working hours per week , minus vacation, sick leave, meetings, and training. A managed-services provider can distribute tickets and escalations across multiple technicians and disciplines. In-house IT becomes easier to justify as organizations grow. Around 75+ employees , daily ticket volume, application ownership, vendor coordination, internal projects, and company-specific knowledge can create enough continuous work for dedicated internal staff. That does not make managed services unnecessary. A 100- or 150-employee company may employ an IT manager while outsourcing endpoint monitoring, EDR, backup operations, after-hours coverage, help desk overflow, or infrastructure engineering. The real comparison is therefore not simply \"MSP versus employee.\" Businesses should compare the cost and capabilities of the entire IT operating model required to support their users. Fully managed vs co-managed: which model fits your business? Fully managed IT gives an outside provider primary responsibility for day-to-day IT operations, while co-managed IT supplements an existing internal IT team. The core difference is ownership and control: fully managed service replaces the internal IT function, while co-managed service divides responsibilities between internal staff and the provider. Responsibility Fully managed Co-managed Help desk Primarily MSP Internal team, MSP, or shared Monitoring and patching Primarily MSP Often MSP Cybersecurity operations Primarily MSP or security partner Shared or selectively outsourced Business-specific applications Shared with management/application vendors Often led internally IT strategy MSP with business leadership Internal IT leadership with MSP input Escalation engineering MSP MSP supports internal IT A 35-person construction company without an IT employee may be a strong fit for fully managed service. The provider can take primary responsibility for workstations, Microsoft 365, identity, mobile devices, backup, patching, endpoint security, firewall management, and user support. A 120-person manufacturer may have different requirements. An internal IT manager may understand ERP workflows, production systems, vendor relationships, and operational priorities better than an external provider ever could. Co-managed IT allows that internal manager to retain control while outsourcing selected functions such as 24/7 monitoring, EDR, backup infrastructure, patching, help desk overflow, or complex Microsoft 365 work. The division must be documented. A written responsibility matrix should identify who owns endpoint security, user onboarding, Microsoft 365 administration, firewall changes, backup testing, vendor management, procurement, projects, and incident response. Shared responsibility without named ownership creates gaps. During a ransomware incident or major outage, \"we thought the other team handled it\" is not an acceptable operating model. How to choose an IT services company in Schaumburg? 7 criteria A Schaumburg business should evaluate an IT provider across 7 areas: response performance, security architecture, contract terms, engineering depth, local service capability, compliance experience, and reporting. Each area should be supported by measurable service levels, named technologies, documented processes, or verifiable technical credentials. Criterion 1 - Measure response performance A provider that advertises 24/7 support should define what 24/7 actually means. Ask for average response times, SLA targets by severity, first-contact resolution rates, escalation procedures, and whether the first responder is an engineer or an intake agent. Criterion 2 - Require a named security stack A provider should be able to identify the technologies protecting endpoints, identities, networks, and backups. Examples include Bitdefender GravityZone for NGAV/EDR/XDR/MDR, SonicWall for firewall security, Microsoft Entra ID for MFA and SSO, and Microsoft Intune for device management. Criterion 3 - Compare contracts, not monthly prices A $140-per-user proposal and a $190-per-user proposal cannot be compared without examining scope. Review contract length, termination rights, onboarding fees, after-hours charges, project rates, hardware exclusions, licensing, SLA commitments, and documentation ownership. Criterion 4 - Verify engineering depth A 100-user organization should not depend on one technician for desktops, networks, cybersecurity, Microsoft 365, backups, and cloud systems. Certifications such as Microsoft and CompTIA credentials provide one verifiable signal, while a documented escalation structure provides another. Criterion 5 - Test local service capability A provider serving the Woodfield area, I-90/IL-53 corridor, and Schaumburg industrial districts should explain where technicians are based and how on-site work is dispatched. A local telephone number does not prove that a provider has practical field coverage in the northwest suburbs. Criterion 6 - Match compliance knowledge to your industry Healthcare practices may need HIPAA-related safeguards. Businesses handling payment-card data may need PCI-DSS controls. Financial organizations and certain accounting environments may fall under the FTC Safeguards Rule, while other organizations may map security controls against NIST CSF or SOX requirements. Criterion 7 - Require measurable reporting and planning Useful reports should quantify patch compliance, backup status, endpoint-security coverage, recurring ticket categories, asset lifecycle, and SLA performance. Strategic reviews should convert those metrics into a 12-36-month plan for hardware replacement, security improvements, cloud changes, and business growth. A worked example: how one local MSP checks these boxes? RIT Company provides one worked example of applying these criteria to a provider serving Schaumburg from nearby Addison , about 15 minutes away, with typical on-site travel of 20-25 minutes. Its managed IT services in Schaumburg include NinjaOne for 24/7 RMM, Bitdefender GravityZone NGAV with EDR/XDR/MDR, SonicWall, Cytracom ControlOne, Microsoft Entra ID, NinjaOne MDM and Intune, plus NinjaOne Backup, N-able Cove immutable cloud backups, and Veeam. The company reports an average help-desk response under 15 minutes, 70-80% first-contact resolution, a 99.9% uptime SLA measured monthly, month-to-month contracts, 80+ business clients, approximately 1,000 managed endpoints, and Microsoft- and CompTIA-certified engineers with more than 100 years of combined hands-on experience. Its stated compliance support covers HIPAA, PCI-DSS, SOX, the FTC Safeguards Rule, and NIST CSF, giving a prospective buyer concrete service, security, contractual, and compliance claims to verify during due diligence. Red flags when hiring IT support in Schaumburg The biggest warning signs are undefined service scope, vague cybersecurity claims, weak contract exit terms, no measurable response data, unclear backup ownership, and dependence on a single technician. Any provider that cannot explain these areas in writing creates operational and financial risk before the contract begins. Red flag What to ask \"We handle cybersecurity\" without named controls Which EDR, MFA, firewall, backup, and monitoring products are deployed? \"Unlimited support\" without defined exclusions Which requests become separately billable projects? Long contract with difficult termination What are the termination rights after month 6 or month 12? \"24/7 support\" without response metrics What are the response targets for critical and normal tickets? \"Backup included\" without recovery targets What are the RPO, RTO, retention, immutability, and restore-testing procedures? One technician without an escalation map Who handles security, networking, Microsoft 365, backup, and after-hours escalation? Credential ownership is another important warning sign. The client organization should retain appropriate ownership or administrative control over domains, Microsoft 365 tenants, cloud subscriptions, firewall configurations, backup data, and other business-critical systems. Documentation should also be portable. A company changing providers should be able to obtain an asset inventory, network documentation, licensing information, administrative credentials, vendor records, and relevant configuration details without a prolonged dispute. Ask how offboarding works before signing the original agreement. A responsible provider should be able to describe the process for transferring credentials, documentation, licenses, and operational knowledge to another provider. Security claims deserve the same scrutiny. Statements such as \"100% protected,\" \"unhackable,\" or \"zero risk\" are not credible cybersecurity commitments because no technical control eliminates all risk. FAQ 1. How much should managed IT services cost for a small business in Schaumburg? Industry pricing guides put comprehensive managed IT at roughly $100-$250 per user per month . A typical business with 10-50 employees may spend approximately $1,500-$5,000 monthly , with higher costs for 24/7 operations, advanced cybersecurity, compliance obligations, multiple locations, or complex network infrastructure. 2. What do managed IT services include? A typical full-service agreement includes 24/7 monitoring , remote help desk support, endpoint security, patch management, backup monitoring, and Microsoft 365 or Google Workspace administration. More comprehensive agreements may also cover firewalls, EDR/XDR, Microsoft Entra ID, Intune, cloud systems, and monthly or quarterly strategic reviews. 3. What is not included in managed services? Hardware, third-party software licenses, major migrations, office moves, structured cabling, and large infrastructure projects are commonly excluded from flat fees. Industry pricing guides often place separate project work around $150-$250 per hour , while onboarding can cost approximately 1-2 months of recurring service . 4. Is managed IT better than in-house IT? For many companies below approximately 75 employees , managed IT can provide broader technical coverage than one generalist. One internal IT employee may cost roughly $80,000-$120,000 annually with salary and employment overhead , while larger organizations may gain more value from combining internal IT leadership with an external provider. 5. What is the difference between managed and co-managed IT services? Fully managed IT makes the provider primarily responsible for help desk, monitoring, security, patching, and other recurring operations. Co-managed IT supplements internal staff. A 120-employee manufacturer , for example, may retain 1 internal IT manager while outsourcing 24/7 monitoring, EDR, backups, or escalation engineering. 6. How do I choose an IT service provider in Schaumburg? Evaluate at least 7 areas : response performance, security stack, contract terms, engineering depth, local service capability, compliance experience, and reporting. Ask for written SLAs, support exclusions, backup responsibilities, escalation procedures, and termination terms rather than choosing solely on the lowest monthly per-user price. Choosing an IT provider should start with a documented scope rather than a sales presentation. Compare 2-3 providers using the same employee count, locations, security requirements, support hours, compliance needs, and project assumptions, then review exclusions and SLAs line by line. A free 15-minute discovery call, including the one offered by RIT Company, is a low-risk way to evaluate whether a provider asks the right operational questions before recommending a contract. About the author Sid Rothenberg is a Co-Founder & CEO of Reliable Information Technology, Inc. Managed services provider in the Greater Chicago area. He has been providing full-service IT support to businesses with 5 to 70 users in the Greater Chicago area for over 15 years",
+    "raw_meta": {
+      "rss_entry_id": "https://winbuzzer.com/?p=1953719",
+      "rss_tags": [
+        "Contributions"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "c60778f8-40b1-4ed9-bea4-bab0ee6b801e",
+    "cluster_id": "d803121b-46fc-4389-9758-107e4cea9b10",
+    "cluster_size": 1,
+    "source": "Planet Money (NPR)",
+    "title": "How to beat the resource curse in Norway (Summer School)",
+    "teaser": "Discover how nations can avoid the economic pitfalls of resource abundance—a challenge known as the 'resource curse'.",
+    "summary": "This conceptual summary outlines challenges faced by resource-rich economies, such as Norway's experience. The core issue is the 'resource curse' (or 'Dutch disease'), which describes how an overreliance on natural resource extraction can destabilize or hinder a nation’s non-commodity sectors. Key economic issues discussed include the 'paradox of plenty,' where abundant resources do not guarantee sustainable development, alongside systemic challenges like the 'coordination problem' and the 'free-rider problem.' Effective governance is required to ensure that resource wealth benefits the broader economy rather than causing structural imbalances.",
+    "importance": 2,
+    "category": "economics",
+    "url": "https://www.npr.org/2026/07/29/nx-s1-5909323/summer-school-norway-glut-resource-curse-oil",
+    "date": "2026-07-29T07:30:00Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Resource curse / Dutch disease / paradox of plenty\nCoordination problem\nFree-rider problem",
+    "raw_meta": {
+      "rss_entry_id": "840c0c66-7c50-4de2-909a-e50d5ce84a0e",
+      "rss_tags": [],
+      "fetch_ok": null,
+      "fetch_status": null,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "2313308c-8228-4c38-b76b-25d1b0215d59",
+    "cluster_id": "292e4181-4300-46a7-ad24-390d69ca5823",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Remarkable’s refurbished bundle is an awesome deal that’s over $350 off",
+    "teaser": "Score a Remarkable Paper Pro bundle for $449.99—a massive save of $368 off its standard $629 price!",
+    "summary": "The highly praised Remarkable Paper Pro is currently available at a significant discount via Woot. Normally priced at $629, the refurbished bundle—which includes the tablet, Marker Plus stylus, and Book Folio—is offered for $449.99 through July 31st, representing savings of $368 compared to purchasing new.\n\nThe 11.8-inch Paper Pro offers a realistic paper-like writing experience and features a rich color display designed for productivity (e.g., reviewing slide decks). Its specialized software allows users to organize notes with tags, write directly on PDFs, and even convert handwritten scribbles into typed text. While the optional Type Folio keyboard expands functionality, dedicated artists might prefer an iPad Pro.",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/972219/remarkable-paper-pro-twelve-south-airfly-2-pro-deluxe-deal-sale",
+    "date": "2026-07-29T15:09:24Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VERGE-DEALS-DAILY-IMAGE.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Sheena Vasani",
+    "content": "A lot of us here at The Verge are fans of Remarkable's digital note-taking tablets, and right now one of its higher-end options is much cheaper than usual. The Remarkable Paper Pro normally sells for $629 on its own, but Woot is currently offering a refurbished bundle for $449.99 through July 31st. It includes the tablet, a Marker Plus stylus, and a Book Folio, saving you $368 compared to buying new. The same refurbished bundle costs $649 from Remarkable and comes with a longer one-year warranty versus Woot's 90-day warranty. The 11.8-inch Paper Pro offers a paper-like writing experience, along with a rich color display. Unlike the monochromatic Paper Pure -Remarkable's latest tablet that retails for $399 - it features an adjustable front light, making it easier to read and keep working after the lights go down. It also supports (but does not include) the optional $229 Type Folio keyboard , allowing you to switch between handwriting and typing. Writing feels remarkably smooth - more so than similar devices from Boox, Kobo, and even Kindle Scribe models - while Remarkable's software lets you organize notebooks with folders and tags, write directly on PDFs, and quickly convert handwritten notes into typed text. Although it supports basic sketching features like layers and shading, an iPad Pro is a better tablet if you're serious about drawing. The Paper Pro's color display was made with productivity in mind, serving as a distraction-free experience for reviewing slide decks, marking up reports, editing text, and organizing color-coded notes.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=972219",
+      "rss_tags": [
+        "Deals",
+        "Gadgets",
+        "Tech",
+        "Verge Shopping"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "a6a760e5-222b-40c8-a3d7-bcd6847b2f2f",
+    "cluster_id": "104f56af-e8ee-461b-926e-8d14c3bfaa70",
+    "cluster_size": 1,
+    "source": "Matt Levine - Bloomberg Money Stuff",
+    "title": "SpaceX Crash Insurance",
+    "teaser": "Financial markets face a confluence of complex instruments, including structured notes, sports index futures, and ETF proliferation, alongside concerns over excessive AI hype.",
+    "summary": "The article highlights several prevailing themes in modern finance and technology. These areas include the complexity of structured notes and the growth of market tools like sports index futures and broad ETF proliferation. Additionally, there is concern raised regarding 'AI slop,' suggesting an excess or lack of genuine innovation within artificial intelligence applications. The text points to a complex financial landscape mixed with tech over-saturation.",
+    "importance": 2,
+    "category": "economics",
+    "url": "https://www.bloomberg.com/opinion/newsletters/2026-07-29/spacex-crash-insurance",
+    "date": "2026-07-29T17:56:24Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Matt Levine",
+    "content": "Structured notes, sports index futures, ETF proliferation and AI slop.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.bloomberg.com/opinion/newsletters/2026-07-29/spacex-crash-insurance",
+      "rss_tags": [
+        "world"
+      ],
+      "fetch_ok": null,
+      "fetch_status": null,
       "fetch_error": null
     }
   }
