@@ -1,0 +1,28 @@
+[
+  {
+    "id": "5752f697-6a7d-4a37-8517-3775dc9e052a",
+    "cluster_id": "19901a75-c051-4cfa-8745-992c4b1eb6b0",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "teaser": "Andrew Ng's new venture, LearnVector, aims to revolutionize education by moving from 'one-to-many' courses to hyper-personalized 'one-to-one' AI learning guides.",
+    "summary": "Andrew Ng launched LearnVector to solve the problem of standardized education, which has historically been one-size-fits-all. The platform leverages advances in AI to create customized learning paths for each individual. Unlike simple chatbots, which may lead to 'cognitive offloading' (making students less skilled), LearnVector will adapt to the user’s pace and patiently guide them until mastery is achieved. Founding with investment from Coursera, LearnVector plans to merge Coursera's trusted library of authoritative content with its advanced adaptive AI tutoring system, aiming to accelerate human development by making learning accurate, relevant, and trustworthy.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://learnvector.ai/",
+    "date": "2026-07-29T01:49:19Z",
+    "image_url": "https://learnvector.ai/assets/social-card.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "ajhai",
+    "content": "Fifteen years ago, Coursera and online courses changed education. It worked better than\n almost anyone expected, expanding access by opening up where you can learn. But how you learn remains largely the same as it has for centuries: it is one-size-fits-all\n courses, taught the same way to each person who shows up. We now have an opportunity to change how learning happens. With advances in AI, we can \n now build a custom learning guide for each person. We will turn learning from\n one‑to‑many to one‑to‑one. I'm starting LearnVector to invent this\n next generation of learning. We are starting with an investment from Coursera, and plan to\n collaborate closely with Coursera and Udemy. Good learning needs much more than just a chatbot. Research shows that chatbots without guardrails harm learning .\n They help complete tasks\n and enable students to do better on homework. But cognitive offloading to a chatbot results\n in them being less skilled. In contrast, LearnVector will plan a path with you, adapt to how you learn, and patiently\n stay with you until you've mastered new skills. One thing has not changed in all this time. People want learning they can trust: material\n that is accurate, relevant, and worth the effort you put into it. Anything less wastes the\n most valuable thing a learner has: time. Coursera has a trusted library of materials from\n authoritative sources. LearnVector plans to work with Coursera to bring this trustworthy\n learning to everyone. I'm grateful to Greg Hart and the entire Coursera team for supporting\n LearnVector. I look forward to working with our talented team to change how we learn, and accelerate\n human development. Andrew Ng Founder & CEO, LearnVector",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=49092499",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]
