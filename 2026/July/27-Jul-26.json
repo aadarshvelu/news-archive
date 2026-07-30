@@ -1023,6 +1023,38 @@
     }
   },
   {
+    "id": "5870fea2-c840-4652-8f9b-eb57e00344e2",
+    "cluster_id": "78ab95b7-fbba-4d49-a63a-c0ad50c8aff5",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
+    "teaser": "Budgeting under $300 is achievable for premium QD-OLED gaming monitors like Samsung's G50SF ($299.99).",
+    "summary": "The market for QD-OLED gaming monitors is becoming more affordable, according to this comparison between Samsung and LG models. Samsung’s 27-inch G50SF QD-OLED monitor can be found for $299.99, offering a thin design and fast performance (0.03ms response time). Meanwhile, the LG 27GX704A-B WOLED monitor, currently on sale for $379.99, provides a more feature-rich alternative. The LG unit supports up to 240Hz refresh rate, features a glossy coating for vibrant colors, and includes superior connectivity (two HDMI 2.1 ports) and full adjustability.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
+    "date": "2026-07-27T14:56:38Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsungg50sf.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Cameron Faulkner",
+    "content": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung's 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon . Finding a good QD-OLED monitor under $500 these days is pretty easy, but under $300 is pretty rare. Its G50SF debuted at $499.99, but has spent the past six months bouncing back and forth between $350 and $450. Despite being cheaper than Alienware's awesome $350 AW2726DM and some competitors, the Samsung G50SF doesn't make a ton of compromises. It has a thin design, variable refresh rate support, and the same fast .03-millisecond response time we expect from these panels. It has a DisplayPort port plus HDMI 2.0 and a headphone jack (most competing monitors have two HDMI ports). Unless you're keen on getting a monitor that has a 240Hz or faster refresh rate, you may not mind that this one tops out at 180Hz (via DisplayPort), or 144Hz via HDMI.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=971332",
+      "rss_tags": [
+        "Deals",
+        "Gadgets",
+        "Gaming",
+        "PC Gaming",
+        "Verge Shopping"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "0413c27a-4080-4e74-9daf-cfa830ae76c8",
     "cluster_id": "6b1bd2ae-12cd-4909-a958-83ea10fc68ca",
     "cluster_size": 1,
