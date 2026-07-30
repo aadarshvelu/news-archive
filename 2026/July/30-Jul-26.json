@@ -1,0 +1,69 @@
+[
+  {
+    "id": "afb8896d-cea9-4220-875c-8413e9a5a6df",
+    "cluster_id": "2c16dcca-5d21-46a3-b854-4fe49fb4e0de",
+    "cluster_size": 1,
+    "source": "SiliconANGLE",
+    "title": "Cloud observability startup Groundcover raises $100M in funding",
+    "teaser": "Groundcover raised $100M, offering enterprise observability that monitors workloads without triggering costly usage fees or requiring invasive code changes.",
+    "summary": "Cloud observability startup Groundcover Inc. announced a $100 million Series C funding round, valuing the company at $500 million. The platform addresses major issues in cloud monitoring: costly data ingestion models that force companies to limit scope, and complex kernel modifications. Groundcover uses eBPF—a component of Linux's operating system kernel—to collect full-fidelity telemetry from the Linux kernel within an isolated sandbox, solving common reliability and security risks.\n\nCrucially, its model is not tied to data volume, allowing monitoring of low-priority workloads. The platform captures logs, metrics, and traces with no code changes for applications. Furthermore, it allows customers to store telemetry in their own public cloud deployments, enhancing cybersecurity while enabling cost-saving strategies like moving historical data to cold storage.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/29/cloud-observability-startup-groundcover-raises-100m-funding/",
+    "date": "2026-07-30T01:14:45Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Groundcover.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Groundcover Inc., a startup with a platform for monitoring cloud environments, today announced that it has raised $100 million in funding. One Peak led the Series C round. It was joined by Morgan Stanley, Zeev Ventures, Angular Ventures, Heavybit and Jibe. CTech reported that the deal values Groundcover at $500 million. Many observability tools charge users based on the amount of telemetry they collect. That pricing model often leads companies to limit the number of workloads they monitor in the interest of lowering costs. For example, a software startup might decide not to monitor a development environment that doesn't contain any sensitive data. Troubleshooting an outage without telemetry about the affected workload can be challenging. Furthermore, visibility gaps make it more difficult to spot cyberattacks. According to Groundcover, its observability platform addresses those challenges with a pricing model that isn't tied to the amount of data users ingest. That makes it possible to collect telemetry from low-priority workloads which would otherwise be too expensive to monitor. Under the hood, Groundcover collects telemetry using a technology called eBPF. It's a component of Linux, the operating system that powers most public cloud environments. The core components of Linux are stored in a module known as the operating system kernel. The kernel plays a role in practically every action that the applications running on top perform. As a result, it possesses detailed data about those applications. Groundcover uses eBPF to collect the observability data that the Linux kernel generates. Turning the Linux kernel into an observability mechanism requires developers to extend it with custom code. Usually, the task is prohibitively complicated because operating system modifications often lead to reliability and cybersecurity issues. That's where eBPF comes into the picture. It runs kernel extensions in an isolated sandbox that mitigates common reliability issues. Groundcover says that its eBPF-powered telemetry collection sensor can be installed in a few minutes. Furthermore, developers don't have to modify the applications they wish to monitor. Customers can optionally enrich their eBPF data using OpenTelemetry, a popular observability tool that does require code modifications. \"We offer full-fidelity telemetry, unsampled, across infrastructure, applications, and AI workloads, captured by an eBPF sensor with no code changes and no instrumentation,\" Groundcover Chief Executive Officer Shahar Azulay (pictured, right, with Chief Technology Officer Yechezkel Rabinovich) wrote in a blog post . Groundcover's platform can ingest telemetry data at a rate of several gigabytes per second. It collects logs, metrics and traces. The software organizes the data in a format that makes it simpler to determine which record describes what application. Some observability platforms keep telemetry in a managed storage environment. By contrast, Groundcover enables customers to keep telemetry in their own public cloud deployments. The company says that its approach improves cybersecurity and creates opportunities to lower costs. In particular, customers can keep new logs in high-performance flash drives and move historical data to less expensive cold storage. Groundcover says that its platform is used by more than 250 organizations. Several of those customers signed seven-figure deals with the software maker in the past year. Groundcover will use much of its newly raised funding to accelerate its go-to-market efforts in North America. Additionally, the company plans to grow its international presence and enhance its partner program. Groundwork's efforts in the latter area will place particular emphasis on joint sales initiatives with cloud providers. Photo: Groundcover A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=798549",
+      "rss_tags": [
+        "Cloud",
+        "NEWS",
+        "The-Latest",
+        "AI",
+        "CLOUD",
+        "eBPF",
+        "funding round",
+        "Groundcover",
+        "investment",
+        "Linux",
+        "observability",
+        "startup"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "1912ba0d-2a56-40ca-8891-fc3f60d9edb5",
+    "cluster_id": "fd470d86-7176-4bdf-bba0-2cc15a7dc54d",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Curiosity rover spots field of giant honeycomb on Mars – but no giant space bees",
+    "teaser": "Curiosity rover spots a giant field of 'honeycomb' textures on Mars—but scientists say it’s not space bees, but evidence of dried mud.",
+    "summary": "NASA's Curiosity rover recently captured images revealing a large 'field of honeycomb textures' in a Martian valley nicknamed \"Valle Grande.\" These polygonal features, averaging four to eight centimeters across, are believed by scientists to be the result of cracked mud drying out during ancient Martian events. The discovery suggests that Mars was once an environment capable of supporting liquid water or oases, reinforcing previous ideas about its geological past. While the rover found similar small patches previously, nothing at the scale observed in Valle Grande. The images were taken on June 19 and 20 (the 4,930th and 4,931st Martian days), documenting Mars' continued history of scientific exploration.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/science/2026/07/30/curiosity-rover-spots-field-of-giant-honeycomb-on-mars-but-no-giant-space-bees/5280862",
+    "date": "2026-07-30T03:38:49Z",
+    "image_url": "https://image.theregister.com/5280875.jpg?imageId=5280875&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "SCIENCE Curiosity rover spots field of giant honeycomb on Mars - but no giant space bees Posisbly cracked mud, therefore more evidence Red Planet was once less horrible NASA has shared new snaps captured by its Curiosity rover that show a large \"field of honeycomb textures\" on Mars. Here's the best of the images Curiosity captured. It shows the honeycomb field, each element of which is four to eight centimeters across. A close-up of the polygon fractures discovered by NASA's Curiosity Mars rover highlights their honeycomb-like textures NASA/JPL-Caltech/MSSS NASA doesn't know how the honeycomb formed, but The Register is willing to rule out space bees because Curiosity has seen this sort of thing before and scientists are pretty sure the patterns are the result of mud drying and cracking during some unknowably distant Martian event. Curiosity spotted the polygonal features after starting its climb up a Martian valley that mission scientists have nicknamed \"Valle Grande.\" NASA's post about the find says the rover has seen \"small patches of these geometric shapes several times before, but nothing at the scale discovered in Valle Grande.\" The Rover snapped the honeycomb field on June 19 and 20, the 4,930th and 4,931st Martian days of its very extended mission. Curiosity reached Martian soil on August 5, 2012, and was the first probe to land under a \"sky crane\" - a hovering craft that lowers rovers to the ground. Previous Mars landings relied on bouncing airbags that space agencies hoped would protect probes as they landed at speeds exceeding 70 km/h. Curiosity has travelled about 35 kilometers since arriving on Mars and has made myriad fascinating observations along the way, some of which suggest Mars was once home to intermittent oases or even a large lake . The journey was hard, with damaged tires a persistent problem. The rover's drill got stuck in a Martian rock . NASA took a leaf from the Taylor Swift playbook and found a way to shake it off. The space agency has also remotely reprogrammed the rover to conduct different experiments and uploaded major software upgrades to keep it rolling. Field of Martian Polygons discovered by NASA's Curiosity rover NASA/JPL-Caltech/MSSS The rover is currently carrying out its fifth extended mission. NASA typically extends missions for as long as its robots gather enough data to justify the cost of operating them. Curiosity continues to meet those criteria very comfortably! ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5280862",
+      "rss_tags": [
+        "science"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]

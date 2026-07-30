@@ -140,6 +140,163 @@
     }
   },
   {
+    "id": "bc46bfdb-dab8-480f-b6c5-ed48bf16f265",
+    "cluster_id": "768c0a7d-ed49-4d25-a9e4-31ff71f17333",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "What’s the catch with the Apple Upgrade program?",
+    "teaser": "⚠️ The Apple Upgrade Program is just a loan, not ownership! Users risk missing out on major resale values and face steep fees for early exits.",
+    "summary": "Apple's new Upgrade program lets customers lease select devices (iPhones, iPads, Macs) with low monthly payments. While seemingly an amazing deal, the service is fundamentally a loan through Klarna, meaning users do not gain immediate ownership. At the end of the contract, options include purchasing the device by paying a remaining difference, upgrading to new gear, or simply returning it. The primary catches involve financial risks: failure to pay can lead to account termination and demands for the full outstanding balance; early exits incur fees that negate potential resale value. Experts warn that opting to upgrade rather than buying outright means losing out on significant cash that could be earned by selling a used device.\n",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
+    "date": "2026-07-29T18:40:06Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/apple-upgrade.png?quality=90&strip=all&crop=0%2C6.5752975720548%2C100%2C47.838007384337&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Emma Roth",
+    "content": "Apple's new Upgrade program is here, allowing you to lease select models of iPhones, iPads, Macs, and Watches with a relatively low monthly payment. The company promises you won't pay more than the full price of the device over the course of the one- to three-year lease, and in some cases, you'll pay hundreds of dollars less. The basics of the program make it sound like an amazing deal... so surely there must be a catch, right? The answer basically depends on how you use the Upgrade Program. At least with current pricing, a diligent user really should be able to make a monthly payment, swap in their phone a year or more later, and move along. But like any program involving monthly payments and trade-ins, there are caveats to be aware of - the most important of which is your ability to keep paying on time throughout the length of the contract. The basics of the program work like this: You'll pay the same monthly fee throughout the course of your contract. At the end of your lease, you have three choices. One of those options is to purchase the device by paying the difference between what you've paid and its remaining cost. For example, if you pay $695.76 to lease an iPhone Air for two years, you'd have to pay an extra $303.24 to purchase it at its $999 price tag. Here's a breakdown of how much you'd pay for the devices included in the Apple Upgrade program, as well as how much more you'd pay to purchase the devices outright at the end of your lease: Then there are the other two options. At the end of your lease, you can also choose to simply end the contract there, though you'll then have to return the device and lose any potential resale or trade-in value. Or you can upgrade to another device immediately and switch to whatever monthly payment that new device demands. The single biggest catch of the Upgrade Program is that it's ultimately just a loan, and like any loan, there's a contract, along with possible fees and terms you have to abide by. Apple says there aren't any late fees or interest on the loans, which are offered through the buy now, pay later service Klarna. In a statement to The Verge , Klarna spokesperson Clare Nordstrom says if a person misses three payments in a row, the company \"will terminate the lease agreement and the customer will need to pay the full outstanding balance.\" Klarna doesn't say what will happen if you don't pay the outstanding balance. However, a support page about payments with Klarna says if a payment \"is not registered by the last reminder due date, the debt is transferred to debt collection,\" though it's unclear whether this applies to the Apple Upgrade program. The Verge reached out to Klarna for more information but didn't immediately hear back. And while 9to5Mac spotted code that suggested Apple could put your phone in \"Restricted Mode\" for missing payments , Apple spokesperson Brian Bumbery confirmed that \"there will be no limitations put on device functionality due to missed payments or default with the Apple Upgrade program.\" Apple Upgrade payments can also pile upon the other bills and subscriptions you probably have. The possibility of accruing debt is a major issue with BNPL services like Klarna, with nearly half of all users paying late on one of their loans in 2025, according to LendingTree . Klarna also uses customer data to sell personalized ads . During the lease, Klarna owns your device. You're responsible for any damage, and will get charged a fee if you don't return the device in \"good condition.\" That's why Apple is encouraging customers to sign up for an AppleCare subscription that could drive up the cost of your lease even more. AppleCare costs $9.99 / month and up to protect iPhones, while iPad protection starts at $5.49 / month; Mac coverage starts at $3.99 / month; and protection for the Watch Series 11 and up is priced at $4.99 / month. You can also pay $19.99 / month to protect up to three devices. Apple also notes that you'll have to pay an early termination fee if you want to return the device before your lease ends or if you want to upgrade early. Additionally, Apple says that you'll have six months to decide whether you want to upgrade and return your current device after the loan, exit the program, or buy your device outright. You'll still be charged your monthly payment during this period, which makes the program less of a good deal if you don't choose an option right away. But even with the lower monthly payments for leasing a device, you'll likely be losing out on some extra cash if you choose to upgrade your device instead of purchasing it outright. Let's say you lease the iPhone 17 and pay $551.76 over the course of a two-year lease. If you choose to upgrade to the next iPhone instead of paying the additional $247.24 to buy the iPhone 17 at its original price of $799, you'd be missing out on the cash you could earn by selling the device or trading it in. Data from the price comparison site SellUp suggests that iPhones lose around 35 to 40 percent of their value two years after they launch. If we apply that logic to the iPhone 17, that means you could resell a used, two-year-old device for around $520 if it loses 35 percent of its value. In other words, you would've only spent $279 to use the phone for two years. You would get a little less back from trading in a device through Apple or Back Market, but either way, if you upgrade a leased device right away, you won't be able to get any of your cash back. With all this in mind, Apple's Upgrade program might not be the best way to get ahold of the company's latest products, especially if you need or want the flexibility to move on from your device freely. But with the prices of new phones, tablets, and laptops climbing, it is an alternative for people who can't afford to buy a new device outright or would prefer monthly payments lower than the ones offered through Apple, as long as they're aware of the risks. Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Emma Roth Analysis Apple iPhone macOS Report Tech",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=972583",
+      "rss_tags": [
+        "Analysis",
+        "Apple",
+        "iPhone",
+        "macOS",
+        "Report",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "8af123cd-11f8-45f3-986a-02a6aafe440f",
+    "cluster_id": "a4c37c0e-886e-4881-9b12-1328bafd45fc",
+    "cluster_size": 3,
+    "source": "Testing Catalog",
+    "title": "Vellum adds Voice Mode to personal AI assistant",
+    "teaser": "Major AI players (Vellum, Anthropic, OpenAI) are dramatically upgrading their voice agents, integrating complex tasks and advanced LLMs into seamless spoken interactions.",
+    "summary": "Leading AI developers are aggressively enhancing personal assistant experiences by improving voice capabilities. Vellum introduced Voice Mode using Deepgram for speech-to-text and ElevenLabs for synthesis, maintaining a classic 'agent loop' architecture that enables tools, memory, and complex multi-step tasks across various devices (macOS, iOS). OpenAI updated ChatGPT Voice to its desktop app via ChatGPT-Live, allowing users to execute complex commands and interact with local computer apps like Appshots. Anthropic is also upgrading Claude Voice Mode by routing conversations through powerful models like Opus and Sonnet, enhancing reasoning for tool-heavy requests while sticking to a conventional voice stack. While approaches vary—OpenAI uses a dedicated live model, Vellum custom engineers the agent loop, and Anthropic focuses on model selection—the trend confirms that advanced agency and contextual understanding are moving from text chat into fluid conversational interfaces.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/vellum-adds-voice-mode-to-personal-ai-assistant/",
+    "date": "2026-07-29T19:34:09Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/07/Screenshot-2026-07-29-at-21.31.51.webp",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Nero Soares",
+    "content": "Vellum has introduced Voice Mode for its personal assistant, enabling spoken conversation to be processed through the same agent loop that powers text chat. Speech is transcribed using Deepgram, processed by the assistant with full access to its tools, memory, and skills, and then spoken back through ElevenLabs. The assistant can browse the web, read files, run code, send messages, and manage a calendar while the conversation is ongoing, maintaining the same identity across both text and voice interfaces. Vellum opted to retain the classic cascade architecture instead of transitioning to a native speech-to-speech model. This decision was based on the belief that a closed audio-in, audio-out model does not allow for an agent loop, tools, memory, or approvals. The engineering effort focused on seamlessly integrating these components. A speculative launch mechanism initiates the agent's response as soon as the voice detector identifies trailing silence, running the endpoint decision concurrently with the time to first token, and rolling back the turn if the speaker was merely pausing mid-thought. Each turn first engages a fast front model that either responds directly, remains silent if the speaker seems unfinished, or escalates to a more robust model while delivering a brief holding phrase audibly. During lengthy tool calls, the assistant narrates progress in audio only, ensuring that this narration does not persist in the transcript. Interruption handling is a feature Vellum describes as custom engineering rather than an API flag. Interruptions such as cutting in mid-sentence, redirecting, or adding information while the assistant is processing are managed effectively, with the assistant yielding and maintaining context. A guard mechanism waits for a quarter second of sustained speech before yielding, preventing the assistant's audio from being misinterpreted as an interruption due to browser echo cancellation. Synthesis operates seamlessly, with the opening clause spoken as soon as it is ready and a prefetch pump ensuring the next segment is ready behind the current playback. Voices are managed through a Vellum Managed Voice option that automatically handles ElevenLabs voices, with the option to provide an ElevenLabs key for custom voices. If no key is provided, the system defaults to managed voices. Voice continuity is maintained across devices, allowing a task started on a phone to continue on a Mac with the same assistant and memory. Complex multi-step processes automatically transition to text chat when text becomes the more suitable medium. Vellum's personal assistant is designed with its own identity, memory, and skills, operating on macOS, iOS, web browsers, Slack, Telegram, and more! There are also plans for future Android and Windows support. The assistant comes equipped with over 60 skills, a permission system ranging from strict to full access, and credentials stored in the macOS Keychain when self-hosted or in an isolated vault on the managed platform. The core assistant is open source, and the company is led by Chief Executive Akash Sharma, alongside Co-Chief Technology Officers Noa Flaherty and Sidd Seethepalli.",
+    "raw_meta": {
+      "rss_entry_id": "6a67da6a6f87a30001751770",
+      "rss_tags": [
+        "Sponsored"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "a5fc6cfe-4dbe-4e49-9803-7beaffbdb33d",
+    "cluster_id": "f41e42fb-6a1b-4708-bbe8-4b4e081ff521",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "GlobalFoundries to receive $300M in federal funding for silicon photonics research",
+    "teaser": "The U.S. government invests $300M in GlobalFoundries to boost silicon photonics—the crucial technology powering massive AI data centers.",
+    "summary": "GlobalFoundries secured $300 million in federal funding from the U.S. Commerce Department to accelerate its silicon photonics research, a technology vital for powering modern AI data centers. The government's investment comes with a mandatory 1% stake in GlobalFoundries.\n\nThe focus is on developing Co-packaged Optics (CPO), which solves major power and cost issues by integrating light transceivers directly into switch processors rather than having the data travel through multiple intermediate components. With this funding, GlobalFoundries will prioritize novel optical materials and advanced packaging methods like 3D hybrid bonding.\n\nThe company aims to develop hardware supporting connections with 400 gigabits per second of bandwidth while achieving five times better energy efficiency than current products, positioning silicon photonics as a key element in the next generation of computing infrastructure.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/29/globalfoundries-receive-300m-federal-funding-silicon-photonics-research/",
+    "date": "2026-07-29T21:00:21Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/GlobalFoundries.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "The U.S. government will provide GlobalFoundries with $300 million in funding to support its silicon photonics research. The U.S. Commerce Department committed to providing the capital in a letter of intent that was announced today. As part of the transaction, the government will take a 1% stake in GlobalFoundries. The development comes two months after the chipmaker secured a separate $375 million federal grant for a new quantum chip foundry. GlobalFoundries operates fabs that produce chips based on customer-provided designs. One of the company's specialties is making low-power processors that don't require the latest manufacturing technologies. Additionally, GlobalFoundries produces auxiliary chips optimized for tasks filtering Wi-Fi inference. Silicon photonics, the focus of the company's agreement with the Commerce Department, is an umbrella term for the chips that power fiber-optic networks. Such networks power many of the world's artificial intelligence data centers. GlobalFoundries will use the federal funding to accelerate its silicon photonics research and development efforts. The initiative will place particular emphasis on a technology known as co-packaged optics, or CPO. Server switches represent the data traffic they process as electrical signals. They use a device called a pluggable transceiver to turn the electrical signals into light beams that can be transmitted over an optical network. Once the light arrives at its destination, another pluggable transceiver turns it back into electrical signals. The path through which traffic travels from a switch to the attached transceiver involves multiple pit stops. First, the traffic must move from the switch's processor to its substrate, a kind of stand on which the processor sits. The traffic is then routed to the switch's motherboard, which in turn forwards it to a network port. That port is the point where traffic leaves the switch and starts making its way to a pluggable transceiver. Moving traffic through multiple hardware components consumes a significant amount of power. Additionally, it often leads to traffic errors. That makes it necessary to include error correction chips in pluggable transcribers, which increases the cost of building optical networks. The CPO technology that GlobalFoundries is developing addresses those challenges. It integrates a transceiver directly into switch processors, which removes the need for traffic to travel through multiple intermediate components. The result is a significant reduction in both power consumption and hardware costs. In May, GlobalFoundries debuted a CPO manufacturing technology called SCALE. The company also makes other transceiver components including photodiodes, which generate the light that optical networks use to move data, and modulators. The latter components encode information into light beams by changing their physical properties. GlobalFoundries will use the federal funding to develop new optical materials, photonic wafer technologies and advanced packaging. The company's efforts in the latter field will prioritize 3D hybrid bonding. That's a manufacturing method used to stack silicon dies atop one another. \"Silicon photonics is essential to AI infrastructure,\" said GlobalFoundries Chief Executive Officer Tim Breen. \"For a decade, the industry talked about the shift from copper to optical as something that was coming - today it is here, moving data at higher bandwidth and improved power efficiency as workloads grow more complex.\" GlobalFoundries plans to develop silicon photonics hardware that can support connections with 400 gigabits per second of bandwidth. Furthermore, the company has set a goal of delivering five times better energy efficiency than current products. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=798351",
+      "rss_tags": [
+        "Infra",
+        "NEWS",
+        "The-Latest",
+        "Top Story 4",
+        "co-packaged optics",
+        "Commerce Department",
+        "CPO",
+        "GlobalFoundries",
+        "silicon photonics",
+        "NASDAQ:GFS"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "6871b626-e1fa-4378-8873-4e540069cb54",
+    "cluster_id": "8879afcb-27be-4c1d-892d-7689368d9f7c",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+    "teaser": "Facing global scrutiny, xAI is sued over a Minnesota law while San Francisco demands Apple and Google remove 13 deepfake apps, exposing an epidemic of AI nonconsensual imagery.",
+    "summary": "Multiple legal and regulatory actions highlight the urgent global problem of AI-generated deepfakes and nonconsensual intimate imagery. xAI is suing Minnesota over its anti-'nudification' law, arguing it is an unconstitutional and overly broad restraint on speech. Separately, San Francisco City Attorney David Chiu demanded that Apple and Google remove 13 problematic apps and restructure their platforms to restrict payment ties for such services.\n\nThese actions underscore the inadequacy of current safeguards. Reports show generative AI tools like Grok can rapidly produce millions of sexualized deepfakes, including thousands depicting minors. Experts argue that robust regulation must target not just the apps themselves, but also platform search functions and revenue streams to curb this harmful technology.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+    "date": "2026-07-29T21:06:52Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Sarah Jeong",
+    "content": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, Grok flooded the internet with millions of sexually explicit deepfakes , including images of minors . In another era, a content moderation disaster of this magnitude would have had the CEO flipping the kill switch on the product within hours. But in Elon Musk's brave new world, the chatbot was left to pump out pornographic images for days. \"Grok now hitting #1 on the App Store in one country after another!\" he posted in the midst of the deepfake epidemic. Something had gone wrong. Was the law simply not up to the task of curbing an explosion of nonconsensual nudes? Governments around the world were asking fairly similar questions. The EU launched an investigation , as did the United Kingdom . There was backlash from French, Indian, and Malaysian government officials . And while the American federal government was noticeably quieter on the issue, blue states like California and Minnesota took a harder line. In Minnesota, the state legislature passed a law targeting \"nudification\" technology, prohibiting site owners from allowing people to \"access, download, or use\" such software. (The law makes a carve-out for tech that \"requires the technical skill of a user to nudify an image or video\" - so bespoke sexual harassment through Photoshop is in the clear.) The statute creates a civil cause of action for private individuals who may wish to sue, and also authorizes the state attorney general to seek penalties of up to $500,000 per violation. The law, touted as the first of its kind, was signed by Gov. Tim Walz in May, and is meant to go into effect on August 1st. It's a bit of a mystery as to why xAI did not file a lawsuit in the last three months, and instead sued just a couple of days before the statute went into effect. It's the kind of delayed reaction that makes you wonder if someone at xAI suddenly noticed last week that they were about to be in violation of a fairly punitive law, and then spent the next few days trying to find a law firm willing to work overtime on behalf of a nonconsensual deepfake generator. One can only hope that the lawyers involved are making an absolute killing. The complaint is pretty reasonable, all things considered. The Minnesota law is overbroad, it argues, because it imposes liability even for images that are consensually generated, or images of adults that are merely sort-of kind-of sexy, or images with \"humorous\" or \"artistic\" merit. The First Amendment dictates that laws must be narrowly written so as to avoid banning social and political commentary like this deepfake of Chris Christie and JB Pritzker sumo wrestling. A real excerpt from page 20 of the lawsuit. \"Liability also attaches ... even if the company has deployed near-perfect, state-of-the-art technical controls to prevent the generation of nude images,\" the lawsuit states with an excruciating degree of earnestness. Elsewhere, it bemoans the strict liability that attaches for the unsanctioned conduct of its users - \"images and videos that users might manage to create in violation of Grok's terms of service, which is possible only by evading sophisticated, state-of-the-art controls that xAI employs.\" \"xAI takes violations of its terms of service seriously,\" the lawsuit states, pointing out that the company has since sued one of its users for using Grok to generate CSAM . (The lawsuit against the alleged CSAM-maker was filed over two months after the Minnesota statute was passed.) xAI's lawyers might have a point, but their lawsuit reads like a missive from another planet. They claim, for instance, that existing Minnesota and federal law (like the TAKE IT DOWN Act ) already prevents the nonconsensual dissemination of nude deepfakes. These statutes, the lawyers argue, are written in a constitutional way - the nudification law, on the other hand, is not. And as with any laws in America that target speech based on its content, these statutes must be written in as unrestrictive a way as possible while still addressing a \"compelling\" government interest. But that's of course the crux of the problem with the Grok deepfake-ocalypse. If existing law was up to the task, the entire month of January 2026 wouldn't have been awash with nonconsensual porn. When the Center for Countering Digital Hate analyzed an 11-day period from December 29th to January 8th, it found that Grok had generated around 3 million sexualized images. Around 23,000 of those images depicted children. \"That is a shocking rate of one sexualized image of a child every 41 seconds,\" the report read. A lot of those images might not even be actually illegal. For instance, it's not clear that a suggestive deepfake of a minor in a bikini is CSAM, although one expert previously told The Verge that other images Grok generated - like ones showing minors' faces covered in semen - probably did violate existing law. Either way, the mere fact that a multibillion-dollar company allowed Grok to run unchecked for that long would suggest that the law was not motivating the relevant parties to behave in the right way. Maybe Minnesota's HF 1606 is a bad law. But what does that mean when the \"good\" laws aren't even working? Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Sarah Jeong AI Policy Speech xAI",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=972850",
+      "rss_tags": [
+        "AI",
+        "Policy",
+        "Speech",
+        "xAI"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "be832af7-f6d7-49d7-96e1-16889efeedc9",
+    "cluster_id": "86d2ffc2-6580-4144-9c9f-1581fe21e74d",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
+    "teaser": "Microsoft's AI push drives revenue sky-high: Azure hits $100B milestone amid record capital spending.",
+    "summary": "Microsoft reported strong quarterly earnings of $90 billion, fueled by massive growth in its cloud and AI segments. Cloud revenue reached $59.3 billion (up 27%), with Azure significantly growing 43%, crossing the $100 billion mark for the first time. AI adoption is evidenced by Microsoft 365 Copilot's paid user base, which saw a 50% increase, hitting over 30 million seats. While capital spending (Capex) was high at $41 billion, demonstrating investment in future buildout, struggling segments like Xbox and Windows devices countered the cloud's momentum. CEO Satya Nadella stated that while current challenges exist, Microsoft expects a return to growth across all business areas by fiscal 2027.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
+    "date": "2026-07-29T23:17:56Z",
+    "image_url": "https://image.theregister.com/256704.jpg?imageId=256704&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "SOFTWARE Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest Capex spending? What? Me worry? Microsoft on Wednesday reported $90 billion in revenue for the quarter ended June 30, an increase of 18 percent, lifting its stock more than 7 percent in after hours trading. The cash intake was more than Wall Street analysts anticipated, and showed up where it counted - the company's cloud business and AI services. Microsoft Cloud revenue reached $59.3 billion, up 27 percent year-over-year, and its Azure business revenue grew 43 percent. Meanwhile, Microsoft 365 Copilot's paid user base increased 50 percent from the previous quarter . \"We are advancing the frontier on the cost-to-outcome curve, ensuring every customer can turn tokens into business results,\" said Satya Nadella, chairman and chief executive officer of Microsoft, in a statement celebrating the results for the final quarter of Microsoft's 2026 fiscal year. \"This year, Azure revenue surpassed $100 billion for the first time, and Microsoft 365 Copilot reached over 30 million paid seats, reflecting the confidence customers are placing in us to power their AI transformation.\" Thirty million out of an estimated 450 million Microsoft 365 commercial customers isn't an overwhelming vote of confidence in Copilot AI, but it's something, particularly given Microsoft's imposition of usage-based billing on top of seat-based charges. Operating income for the quarter came to $40.6 billion (+18 percent). And net income was $35.8 billion (+31 percent), for diluted earnings per share of $4.81 (+32 percent). Microsoft's investment in Anthropic accounted for a gain of about $3.2 billion this quarter. For the full fiscal year that ended June 30, 2026, revenue reached $331.8 billion, up 18 percent, with operating income at $155.2 billion (+21 percent), net income at $133.7 billion (+31 percent), and $17.95 EPS (+32 percent). The results were enough to assuage concerns about Microsoft's enthusiastic capital spending, which reached $41 billion , up 70 percent from a year earlier and about 28 percent more than $31.9 billion reported last quarter . Some of the shareholder optimism may be attributable to Microsoft's use of finance leases, which allow the company to invest in datacenters without paying immediately. During Microsoft's investor conference call, CFO Amy Hood said that about two-thirds of the company's capex took the form of short-lived assets like CPUs and GPUs. Finance leases accounted for about $5.6 billion of capex, she said. Microsoft claims to have a lot of potential customers waiting in the wings to use datacenters it is currently building. \"Commercial remaining performance obligation grew 84 percent to $678 billion,\" said Hood, noting that customer demand for cloud services exceeds available capacity. \"Microsoft's capex number is arguably the most closely watched line in this report, and it arrived with a case for optimism rather than alarm,\" said Emarketer analyst Gadjo Sevilla in a statement provided to The Register . \"Microsoft spent $35.80 billion on property and equipment during fiscal Q4, more than double the $17.08 billion in the year-ago quarter, bringing full-year capital expenditures to $115.95 billion - up nearly 80 percent from $64.55 billion in fiscal 2025. Despite that spending pace, the company still generated $55.44 billion in quarterly operating cash flow, up 30 percent YoY, a positive sign the AI buildout isn't cannibalizing the core business.\" While Microsoft enjoys strong revenue, concern about potentially unrequited AI spending - exemplified by Meta's disappointing financial results - continues to linger. Fitch Ratings on Monday warned that the possibility of an AI market correction has emerged as a major credit risk. \"The combination of revenue uncertainty and the extent to which capital markets and economies have become intertwined with AI have created a vulnerability for credit in the event of a re-evaluation of long-run returns potential,\" the financial biz said. \"Very short-term spikes in market volatility for individual equities and tech-heavy stock indices have already occurred, but a larger, more protracted correction could have wider market, macro and credit effects depending on its scale, duration and contagion.\" ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5280798",
+      "rss_tags": [
+        "software"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "5752f697-6a7d-4a37-8517-3775dc9e052a",
     "cluster_id": "19901a75-c051-4cfa-8745-992c4b1eb6b0",
     "cluster_size": 1,
@@ -659,6 +816,183 @@
     }
   },
   {
+    "id": "dfbb69e3-0808-44ba-bb12-a9d361485b5d",
+    "cluster_id": "7327ad8c-0b82-4f22-a5c9-95c823be98bf",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Big vacuum is watching as robo-cleaners put humans behind the wheel",
+    "teaser": "Robot maid services are here, but beware: they require joint human/AI control and record *all* private activity for AI training.",
+    "summary": "San Francisco residents can hire specialized cleaning robots from Tau Robotics for $30/hour. Though showcasing advanced capabilities via models like 'Chelsea' and 'Elon,' the service is not fully autonomous; it requires joint control between an AI policy and a human operator who guides the tasks, much like automated driving today. While Tau claims robust technology (using parts from Unitree), privacy remains a major concern. Robots capture full video of every person in the home for training their AI models, which are stored indefinitely.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/offbeat/2026/07/29/big-vacuum-is-watching-as-robo-cleaners-put-humans-behind-the-wheel/5280674",
+    "date": "2026-07-29T20:44:00Z",
+    "image_url": "https://image.theregister.com/5280762.jpg?imageId=5280762&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "offbeat Big vacuum is watching as robo-cleaners put humans behind the wheel Like a Waymo mated with a Roomba The dream of having a mechanical maid to clean your home is real ... sort of. San Francisco residents can now hire a robot cleaner for just $30 an hour, but there's a catch. The robots are at least partially controlled by humans who are watching your home remotely. Tau Robotics cofounder and CEO Alexander Koch announced in a post on X Tuesday that his company was launching the waitlist for its invite-only cleaning services on Tau's website . Bereft of details like the specifics of the robot's capabilities, Tau's website is instead largely devoted to videos of the diminutive, router-headed, frog-eyed robot doing stuff. It's shown in various videos and still shots hopping out of a minivan and grabbing its work bag, wiping down the inside of a refrigerator, cleaning surfaces, vacuuming, and emptying trash cans with its pincer-like hands. The site also presents three featured house-cleaning robots for San Francisco: \"Chelsea,\" which specializes in cleaning kitchens and bathrooms; \"Elon,\" which Tau says learns where household items belong after a few recurring visits and returns them there; and \"Tony,\" a deep-cleaning specialist. Koch claimed on X that none of the videos of the robot are sped up to make it look more natural, giving it a weirdly human way of moving that suggests Tau has developed a pretty robust robot - if the company is the one that actually designed it. That doesn't appear to be the case, however. Koch told us that the robot's cameras, claws, and onboard compute system were designed in house, but the rest of the hardware comes from Chinese robot maker Unitree. Hopefully Tau has enough spares lying around since the Trump administration just banned imports of foreign robots. Peek-a-boo: Tau operators see you There's also a big catch to this entire thing, as Koch notes in his post: It ain't exactly autonomous. \"Each humanoid is jointly controlled by a human operator and AI,\" the Tau CEO said. An AI policy is always controlling the robot's motors, Koch explained in a LinkedIn chat, but there's always a human involved, too. \"A human operator is always guiding that [AI] policy, sometimes directly and sometimes through higher-level instructions,\" Koch said. \"The balance varies by task.\" The Tau CEO went on to tell us that he sees the project as \"conceptually similar to autonomous driving,\" meaning that human operators are fully behind the wheel for now, and over time will only be there for safety before eventually being phased out entirely. As explained further in the company's service privacy policy , each robot is controlled in real time by a human operator during cleaning visits, although Tau says the robots are jointly controlled by AI and a human operator. Some operators are Tau employees and some are placed through a staffing agency, but all of them are working on-site at Tau's facility and have been background checked and trained by Tau, the company claims. \"We plan to enable remote supervision from other locations in the future,\" Koch told us. That said, the robots are still capturing video to train Tau's AI cleaning models that the company said it hopes \"will eventually do the job without a human operator.\" That video is stored indefinitely unless customers request it be deleted. Operators, support staff, engineers, and third-party service providers all have access to those videos even if Tau doesn't sell them or share anything for advertising purposes, and the company said recordings will include full video of every person in the home as well. Be sure to put some pants on before the thing visits, in other words. If you're still keen to let a human-operated robomaid into your house, you'd better get in line: Koch told us that each cleaning session is just one hour and so far \"several hundred people\" have signed up to be granted a spot. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5280674",
+      "rss_tags": [
+        "offbeat"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "e8c8e191-b26a-44de-959f-8ae4626a4d9a",
+    "cluster_id": "ad786d35-8f6a-419a-ac7d-d156b6c09240",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "NOAA ditches weather-predicting supercomputers for Google Cloud",
+    "teaser": "NOAA is abandoning its own weather-predicting supercomputers for Google Cloud, marking a major shift in how critical national forecasts are generated.",
+    "summary": "The U.S. National Oceanic and Atmospheric Administration (NOAA) plans to migrate its core weather forecasting system from proprietary supercomputers to Google Cloud by December 2027. Previously run on HPE Cray machines (like Dogwood and Cactus), this move transitions critical operations to the commercial cloud, making model forecasting more nimble. Experts note that while this development reduces the reliance on government-funded in-house HPC systems, it allows NOAA flexibility—such as scaling compute power for tropical storm season. The agency will leverage Google Cloud H4D VMs (built on AMD Epyc processors) and integrate DeepMind's AI tools to build an AI Global Forecast System, promising highly accurate forecasts using fewer computer cycles and generating results in minutes rather than hours.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/hpc/2026/07/29/noaa-ditches-weather-predicting-supercomputers-for-google-cloud/5280697",
+    "date": "2026-07-29T21:02:00Z",
+    "image_url": "https://image.theregister.com/5280759.jpg?imageId=5280759&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "HPC NOAA ditches weather-predicting supercomputers for Google Cloud Government agency will use Google Cloud H4D VMs to replace HPE Cray machines Uncle Sam will no longer be hosting his own supercomputers to predict the weather. The U.S. National Oceanic and Atmospheric Administration has picked Google Cloud to provide the infrastructure for its weather forecasting operations. In an announcement, NOAA boasted that it will be the first national weather prediction center to run on the commercial cloud, though the UK's Met Office is also in the process of moving its own weather prediction system to Microsoft Azure in a hybrid setup. Weather operations are typically run on in-house or government-funded supercomputer systems , which helps drive the HPC (high performance computing) market . General Dynamics held the previous contract for managing NOAA's weather predicting machines, which most recently were HPE Cray supercomputers running in data centers in Virginia and Arizona. Those machines - Dogwood and Cactus - could crank almost 14 PFlops of weather-predicting prognosis. The plan is to move NOAA's Weather and Climate Operational Supercomputing System, run by the National Weather Service (NWS) division, over to the cloud by December 2027, along with the software that generates NWS weather data for analysis. Don't say global warming The agency is hoping that the cloud will make model forecasting more nimble, resulting in earlier predictions and better warnings for all the extreme weather events that seem to keep occurring these days. It was the in-house systems that were holding things back, evidently. \"Cloud-based high-performance computing will accelerate the transition of research into operations by eliminating traditional bottlenecks of on-premise systems,\" said NOAA Administrator Neil Jacobs in a statement . Jacobs noted that the cloud's flexibility for providing large amounts of compute is advantageous: the agency can ramp up cycles during tropical storm season, then wind them down during calmer periods. Under the contract, NOAA can also avail itself of Google's DeepMind set of AI tools to help build out its first AI-driven weather forecasting system, the AI Global Forecast System, which promises to offer accurate weather forecasts using 99.7% fewer computer cycles and take minutes, rather than hours, to produce a forecast. NWS has already been upgrading the software downstream from GFS and GEFS to also work in the cloud. In March, it awarded contracts to Accenture and Booz Allen Hamilton to oversee the development of cloud-based software (HIVE and CIRRUS) for the field offices to analyze data and push out alerts, replacing the in-house software doing these tasks currently. For the job, Google plans to use Google Cloud H4D VMs , built on AMD Epyc processors. Google labels these instances as \"virtual machines\" because they run under a hypervisor that integrates Google's networking and orchestration tools. As a result, they can be synchronized to run large jobs the same way supercomputers do. According to Google, customers can access H4Ds for as low as 3 cents per core-hour without long-term commitments. For supercomputing jobs, they can also use Cluster Toolkit to deploy clusters and Cluster Director to maintain them. Google Cloud's Batch can handle the queuing, scheduling, and resource provisioning. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5280697",
+      "rss_tags": [
+        "hpc"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "d816eccf-8e78-4577-946d-ff8f871092b8",
+    "cluster_id": "b09c2e85-cf65-4e09-8b6e-6dac5db59971",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "teaser": "Lilian Weng stepped down from Thinking Machines citing health issues, but immediately rejoining OpenAI to spearhead research on 'recursive self-improvement.'",
+    "summary": "Lilian Weng, co-founder of Thinking Machines, announced her departure due to health concerns, stating the startup's high workload was unsustainable. Despite this declaration, she has rapidly rejoined OpenAI, where she previously served as VP of AI Safety Research. At OpenAI, Weng will lead a top-level team accelerating internal research focused on 'recursive self-improvement'—a key concept in advanced AI allowing systems to iteratively enhance their own power. This high-profile move is notable amid the intense competition for talent among major AI labs.",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+    "date": "2026-07-29T21:07:48Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Amanda Silberling",
+    "content": "Lilian Weng, co-founder of Thinking Machines , announced this week that she would step down from her role, citing health issues. \"I don't feel I'm able to continue at the pace a startup requires,\" she wrote in an internal Slack message, which she also shared on X. \"After thinking about it for several months, I ultimately have to admit that the amount of consistent stress and workload have pushed me beyond what my health can sustain physically.\" On Wednesday, OpenAI told TechCrunch that Weng would be rejoining the company, where she previously served as the VP of AI Safety Research. According to a company spokesperson, Weng will lead a top-level team focused on accelerating OpenAI's internal research. This team will support cross-research work on recursive self-improvement, a process that would allow an AI system to iterate on itself to become more powerful. This move could be read as contradictory to Weng's statements about the impact of working at a fast-paced startup on her health - however, she likely won't face as much direct pressure while working at a company where she isn't a co-founder. Still, in a time of fierce competition for talent among AI labs, this high-profile departure is notable. Thinking Machines co-founder and former OpenAI CTO Mira Murati replied to Weng's X post earlier this week and expressed support for her decision to focus on her health. It is unclear if Murati was aware that Weng would rejoin OpenAI. \"We'll miss you, it's been wonderful building Thinky together. I'm glad that you're putting your health first. Thank you for everything,\" Murati wrote in response to Weng's post.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3147986",
+      "rss_tags": [
+        "AI",
+        "TC",
+        "In Brief",
+        "OpenAI",
+        "Thinking Machines"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "194569d7-8a52-45bf-b2b1-a58108114eed",
+    "cluster_id": "9b37f0f7-cfb3-4d1c-a20b-0751f3c0aceb",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "AI's top startups are barely publishing their research",
+    "teaser": "A study found that over half of AI startups have barely published research, raising concerns about validation and reproducibility in the booming sector.",
+    "summary": "Despite making bold promises, major AI companies struggle with scientific documentation. A new analysis of 317 'AI unicorns' (private firms valued at over $1B) from 1998-2025 revealed that more than half have never been a leading author on a qualifying paper. This lack of publishing makes it difficult to verify and reproduce AI claims, prompting questions about scientific rigor. Experts suggest this reflects corporate incentives—where the goal is advancing money rather than science—or the need for faster timelines, leading companies to embrace 'blogification' over academic journals. The top 5% of firms account for over 90% of citations, with OpenAI responsible for nearly 40%. While China-based firms are noted for open-source models, the overall industry challenge remains: how to ensure safety and accountability without proper documentation.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+    "date": "2026-07-29T21:25:40Z",
+    "image_url": "https://www.science.org/cms/asset/03d74a18-21df-4ccd-9e85-d43fa4278511/_20260724_on_ai_unicorn.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "YeGoblynQueenne",
+    "content": "Today's biggest artificial intelligence (AI) startups make no shortage of bold promises. Their technologies, some boast, will revolutionize software development, drug discovery, and scientific research. Yet a new preprint posted on 16 July on bioRxiv suggests many of these firms barely participate in one of science's most fundamental practices: publicly documenting discoveries in scientific literature so other researchers can evaluate and build on them. More than half of AI unicorns-private companies valued at more than $1 billion-have never played a leading role in publishing a scientific paper or preprint, according to the new analysis. Collectively, they accounted for just one in every 1000 AI papers published in 2025 . \"For a field that is supposedly reshaping science and is so advanced in terms of scientific potential, not having any scientific documentation seems like a very weird paradox,\" says paper co-author John Ioannidis, a metascientist at Stanford University. \"How can you judge that what they say is real, validated, and reproducible?\" The scarcity of publications, others say, also makes it harder to assess AI's social impacts, including energy use and safety. But University of Alberta AI ethicist Mohamed Abdalla says the findings reflect the incentives facing commercial AI developers, rather than solely a failure to uphold scientific norms. \"It's not the company's job to advance science, right?\" he says. \"The company's job is to advance money.\" Ioannidis has long studied how unicorns, particularly in biotech, engage with the scientific literature. (In 2015, he was the first to publicly scrutinize the lack of peer-reviewed studies produced by Theranos , the blood testing startup that proved to be based on fraudulent data.) He wondered whether AI unicorns would show similar patterns. To find out, he and his team first identified all 317 unicorn AI companies that have existed from 1998 to 2025. Then, they searched for publications affiliated with these startups-including journal articles, conference papers, reviews, and preprints. They selected those where a company researcher played a leading role as a first or last author, indicating the startup had made a substantial contribution to the work. The final data set included 2077 final publications, comprising 1389 peer-reviewed papers and 688 preprints. More than half of the startups had never produced a single qualifying paper, the analysis revealed. Scientific influence proved even more concentrated, with the top 5% of firms accounting for greater than 90% of all citations. OpenAI alone was responsible for nearly 40% of all citations in the data set, followed by the Chinese computer vision company Megvii and the platform Hugging Face. And even at the most prolific companies, much of the output came from the same small group of repeat authors. For example, despite OpenAI employing roughly 4500 people, only eight researchers had authored five or more qualifying papers. The findings are unsurprising to some AI researchers given how the industry is structured. For example, unlike the pharmaceutical industry, where published discoveries can be protected by patents, AI companies have learned they often gain little from publicly disclosing technical advances, says Nur Ahmed, an AI researcher at the University of Arkansas. Google's landmark 2017 paper on the transformer-the architecture that underpins today's large language models-has become a classic cautionary example, Abdalla adds. Although Google patented aspects of the technology, \"I don't think anybody's paying Google for that,\" he says. Startups also operate on much faster timelines than academia, where peer review can lumber on for months or even years. That's why many AI companies have embraced what Avijit Ghosh, an AI policy researcher at Hugging Face, calls the \"blogification\" of research: announcing new models and releasing code or data sets through blog posts and technical reports rather than scientific journals. The new analysis didn't track those outputs, he points out. For Ghosh, the debate shouldn't center on publishing in journals versus blogs. What matters is whether companies are releasing enough code, data sets, or model weights (the numbers that determine how a model interprets and responds to a prompt) for others to independently verify and build on their work, he says. The preprint also found that firms based in China consistently published more papers than their counterparts based in the United States. Whereas leading U.S. frontier labs have increasingly kept the details of their most capable models secret or \"closed sourced,\" leading Chinese companies have embraced \"open-source\" models. Moonshot AI, one of the Chinese startups included in the study, recently unveiled Kimi K3-one of the strongest open models to date-and publicly released its model weights through Hugging Face today. But whether models are open or closed, the rapid pace toward increasingly powerful generalist AI worries Emma Pierson, a computer scientist at the University of California, Berkeley. She argues AI research-whether published freely or kept secret-risks accelerating models that pose serious societal and safety concerns, including supercharging cyberattacks . \"If we were racing forward on cancer-curing AI, I would be like, 'Fantastic, full steam ahead,'\" she says. \"But that's not what we're racing toward, right?\" Update, 29 July, 9:40 a.m.: This story was revised to clarify Emma Pierson's views. Science 's AI in Science reporting initiative is supported by Ray Rothrock & family.",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=49103285",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "a4b69bb3-28ec-4947-af1c-ebba7912b982",
+    "cluster_id": "42a51f41-7f8d-4901-8a62-85a0afafa1a9",
+    "cluster_size": 1,
+    "source": "SiliconANGLE",
+    "title": "OpenAI opens new ChatGPT for Academic Researchers program to 100,000 scientists",
+    "teaser": "OpenAI is giving free access to advanced ChatGPT features for 100,000 academic researchers as part of a $250 million initiative.",
+    "summary": "OpenAI has launched 'ChatGPT for Academic Researchers,' a $250 million initiative providing free access to advanced AI tools for 100,000 scientists. The program ensures users receive specialized versions of ChatGPT featuring higher usage limits and larger context windows.\nKey components include the GPT-5.6 Sol Pro model—optimized for complex queries—and supporting tools like ChatGPT Work, which automates multi-step tasks (e.g., summarizing findings into a graph). Initially opening to 10,000 users at select universities, researchers can onboard four colleagues at no charge. The initiative also includes comprehensive training and integration support.",
+    "importance": 4,
+    "category": "ai_research",
+    "url": "https://siliconangle.com/2026/07/29/openai-opens-new-chatgpt-academic-researchers-program-100000-scientists/",
+    "date": "2026-07-29T23:20:49Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/OpenAI1.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "OpenAI Group PBC today launched a program that will give 100,000 researchers free access to ChatGPT's advanced features. ChatGPT for Academic Researchers is part of a $250 million OpenAI initiative designed to support scientific projects. The initiative also includes several other programs. Last May, OpenAI made $50 million worth of artificial intelligence resources available to a group of universities. This month, it announced plans to support multiple U.S. Energy Department research projects. Scientists can apply to ChatGPT for Academic Researchers via a form on OpenAI's website. Initially, the program will be open to 10,000 users at a limited number of universities. OpenAI plans to onboard 90,000 more researchers over time. According to the company, participants will receive access to a version of ChatGPT with \"higher usage limits and larger context windows.\" OpenAI also plans to provide an \"expanded\" edition of the chatbot service's deep research feature. The capability, which debuted last February, can collect information from hundreds of websites to answer user questions. Researchers can alternatively configure it to focus on specific sources such as scientific journals. A scientist who is invited to OpenAI's new program can onboard four colleagues from the same academic institution. Those researchers receive access to the same set of features at no charge. According to OpenAI, the version of ChatGPT offered through the program ships with its latest large language models. The includes the company's flagship GPT-5.6 Sol algorithm. In particular, scientists will receive access to a version of the LLM called GPT-5.6 Sol Pro that is optimized for difficult queries and long-running tasks. The program also includes Codex and ChatGPT Work. The latter tool, the latest addition to OpenAI's lineup of productivity features, can automate sequences of relatively complex tasks. For example, a user could ask ChatGPT Work to summarize a set of customer support requests, turn the key findings into a graph and then embed the graph in a slide. The program also includes certain supporting resources. OpenAI will provide training on how to apply ChatGPT to complex research tasks. Additionally, the company's employees will help scientists integrate the service with their other scientific applications. OpenAI first moved into the higher education sector in 2024 by launching a ChatGPT plan called Edu. It includes cybersecurity controls, a usage analytics dashboard and other administrative features. ChatGPT for Academic Researchers could prove conducive to OpenAI's revenue growth efforts in the sector. If a small number of researchers at an academic department sign up to the program and start using ChatGPT, some of their colleagues may follow suit. Those users, in turn, might purchase ChatGPT subscriptions or develop software that connects to OpenAI's paid application programming interface. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=798408",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "ChatGPT Edu",
+        "ChatGPT for Academic Researchers",
+        "GPT-5.6",
+        "LLM",
+        "OpenAI"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "95e40115-b75a-4256-893b-ba9163db3c60",
+    "cluster_id": "1eb388ad-ea6e-4bfd-9af0-c21a5f1e9851",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Back of the NetApp: Latest exec signing scores $34M compensation package",
+    "teaser": "NetApp’s exec salaries hit record highs, with one chief scoring $34.27M—fueled by surging demand for AI infrastructure.",
+    "summary": "NetApp’s recent executive pay package, notably Chief Product Officer Syam Nair’s $34.27 million compensation for fiscal 2026, underscores the high costs of talent at major tech firms. This spending is supported by robust company performance: NetApp's American storage unit grew revenue 5.4% to $6.93 billion, and overall operating income increased 25% to $1.67 billion. The company has logged over 1,100 AI and data preparation deals, driving its share price up roughly 60% year-to-date. Even CEO George Kurian received significant compensation ($22.16 million). Investor support remains strong, highlighted by the 'say-on-pay' vote receiving 94% approval at the last annual meeting.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/storage/2026/07/29/back-of-the-netapp-latest-exec-signing-scores-34m-compensation-package/5280307",
+    "date": "2026-07-29T10:45:00Z",
+    "image_url": "https://image.theregister.com/228334.jpg?imageId=228334&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Storage Back of the NetApp: Latest exec signing scores $34M compensation package Product chief shoots straight to the top of the pay league, out-earning CEO in fiscal '26 The World Cup may be over but a reminder of the staggering sums footballers are paid has emerged from an unexpected quarter: NetApp's latest signing to its squad of execs. Chief Product Officer Syam Nair, who succeeded Harvinder Bhela in July last year after moving from Zscaler, is being made to feel very welcome, judging by the sums involved. According to NetApp's proxy statement ahead of its annual shareholder meeting in September, Nair received total compensation of $34.27 million in the fiscal year ended April 24, despite joining in July. Nair's reported compensation included $30.68 million in stock awards, derived from a $31.85 million target equity grant described by NetApp as a \"make-whole\" award for equity forfeited when he left Zscaler, where he was CTO. He was also promised a $5 million signing bonus, half of which was paid during fiscal 2026 and included in the total. The second half was due after his first anniversary, with repayment provisions applying if he leaves within 24 months. As The Reg has previously pointed out, it's tough at the top for both the overpaid superstars of the beautiful game and the prima donnas who professionally kick a ball around a field. Still, unlike many football teams that are losing money, at least NetApp was in the black in fiscal 2026. The American storage biz grew revenue 5.4 percent to $6.93 billion, and operating income bounced 25 percent to $1.67 billion. Like some of its peers, NetApp's share price is riding high - up roughly 60 percent in the year to date - amid surging demand for AI-ready infrastructure. More than 1,100 AI and data preparation deals were logged in the year, with 500 coming in the final quarter. That trading performance and buoyant market sentiment flowed directly into the C-suite's coffers. The star striker - sorry for the labored football analogy; let's kick that into touch - CEO George Kurian had to make do with $22.16 million. NetApp says 95 percent of his target direct compensation is \"at risk,\" taking the form of cash incentives and equity awards rather than guaranteed salary. Kurian's base salary of $1 million hasn't moved in years, and most of the uplift came from annual incentive payouts and long-term equity awards. The compensation committee added an \"individual performance modifier\" in fiscal 2026 that lets it adjust each exec's incentive payout by plus or minus 15 percent based on personal contribution, layered on top of NetApp's financial results. President Cesar Cernuda received the maximum 15 percent upward adjustment to his annual incentive payout, with NetApp citing customer wins and revenue growth. His total compensation came to $11.13 million. CFO Wissam Jabre, another relative newcomer who joined from Western Digital in March 2025, received $11.49 million , lower than the $18.26 million he received the year before when he got a \"make-good\" bonus of $6.56 million. Exec pay doesn't seem to be a cause of ire for NetApp investors. At the 2025 annual meeting, the advisory \"say-on-pay\" vote passed with roughly 94 percent support. NetApp's compensation committee cited that result as validation for keeping its pay structure largely intact this year. Still, as is typical at such events, executive compensation is among the governance items on the ballot for this year's annual shareholder meeting in September, giving NetApp investors a non-binding vote on pay at the top. If only football fans had the same rights. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5280307",
+      "rss_tags": [
+        "storage"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "5644d75f-81e9-485f-bdd8-00b2a6086166",
     "cluster_id": "3a5ed05f-b85e-42fb-b899-d734e722a9bc",
     "cluster_size": 1,
@@ -710,6 +1044,70 @@
       "rss_entry_id": "https://winbuzzer.com/?p=1953719",
       "rss_tags": [
         "Contributions"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "c3c6cd8a-a266-4b1b-9090-fbcddf208c5a",
+    "cluster_id": "4597ad70-f4ea-43ea-b610-e422e7f45a77",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+    "teaser": "Winamp is returning to the streaming era with Deezer's backing, aiming to revive a beloved classic player for modern music fans.",
+    "summary": "Nostalgic classic Winamp is making a comeback through a major partnership with Deezer. Under the agreement, Deezer will power the new premium subscription service, allowing Winamp to maintain its original branding while leveraging Deezer's global licensed music catalog via 'white-label technology.' The next-generation player aims to revolutionize the streaming experience by consolidating local libraries, podcasts, and internet radio in one app. While facing a saturated market dominated by giants like Spotify, Winamp is betting on its community appeal, noting that its free desktop player is used by over 40 million users.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+    "date": "2026-07-29T21:02:12Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1138528725.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Lauren Forristal",
+    "content": "Long before Spotify, Winamp was the music player of choice for millions of music fans. Now, the nostalgic brand is preparing for yet another comeback. Winamp and Deezer announced a partnership on Wednesday that will see Deezer power Winamp's upcoming premium music subscription service. Under the agreement, Winamp will leverage Deezer's white-label technology and global licensed music catalog while maintaining its own branding and user experience. The partnership is part of a larger relaunch centered around the next-generation Winamp Player, scheduled to arrive in the first half of 2027. According to the companies, the new player is designed to \"reinvent the music player for the streaming era\" by combining premium music streaming with users' local music libraries, internet radio stations, podcasts, personal cloud-based collections, and other audio sources within a single app. While a lot of the details remain under wraps, Winamp promises an emphasis on personalization through a customizable interface, social features, and ways to discover, organize, and enjoy music. The company asserts that its subscription service will \"deliver a fundamentally different experience from today's traditional digital streaming platforms.\" Though loyal Winamp users who grew up during the MP3 boom are likely to be excited by this news, it's unclear whether many people will choose to pay for yet another music subscription. The streaming market is already saturated with giants like Spotify, Apple Music, and YouTube Music. However, Winamp touts that its free desktop player is actively used by more than 40 million users. The announcement also reflects a resurgence of retro tech . Cassette tapes, MP3 players, and even iPods have all seen renewed interest recently as users embrace more nostalgic ways to experience music. Winamp is betting that its music player can make a comeback with modern streaming built in. While Winamp has undergone several revamps over the years, this may be its most deliberate return to its core audience. During the web3 boom, it explored NFT integration , enabling users to link music-related NFTs to their player. Previous plans included transforming Winamp into a cross-platform mobile audio app. More recently, the company has pivoted toward supporting creators, launching tools for artists , including monetization, fan engagement, and music distribution services.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3147993",
+      "rss_tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Deezer",
+        "streaming",
+        "Winamp"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "d5803369-59f6-4f00-b44b-28073559cb75",
+    "cluster_id": "2128a9d0-999e-4639-a218-8d9e325f0ccd",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
+    "teaser": "Despite its buggy launch history leading to refunds, Cyberpunk 2077 is now deeply polished and available at incredible discounts across PC and console.",
+    "summary": "Cyberpunk 2077 is currently highly discounted across multiple platforms, making it more accessible than ever. Originally launching with significant bugs that even led Sony and Microsoft to offer extended refunds, the ambitious RPG has undergone substantial improvements through fixes, content polishing, and the addition of DLC like Phantom Liberty. Players can find great deals: Steam lists the standard edition at $17.99, while Xbox offers it for a similar price. The Ultimate Edition is also heavily discounted on all major platforms (PS5, Xbox, Steam), allowing players to enjoy Night City's visually stunning world with modern performance.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
+    "date": "2026-07-29T21:02:50Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/cyberpunk2077screenshot.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Brad Bourque",
+    "content": "Over the last few years, CD Projekt Red put a ton of work into fixing Cyberpunk 2077 , squashing bugs, polishing content, and even launching new DLC in 2023, Phantom Liberty . As a result, this game has gone from a source for funny, glitch-fueled videos to a world I've returned to a number of times to live out my futuristic fantasies. A big discount happening across almost all platforms makes it a lot more accessible. Usually $59.99 for the standard edition, the game is priced at $17.99 at Steam . Its Ultimate Edition, which includes the Phantom Liberty DLC (usually $29.99 on its own), is discounted to $33.10. Xbox has the standard edition for $17.99 (usually $59.99), and the Ultimate Edition for $33.60 (usually $79.99). Sony is selling the base game for PS4 and PS5 for $19.99 (usually $49.99), while the Ultimate Edition on PS5 is $35.49 (usually $70.99). GameStop sells pre-owned physical copies of Cyberpunk 2077 for $18.99 for the Xbox One and PlayStation 4 (we can't link directly to the pre-owned copies, so you'll have to manually select the option). The older copies will automatically upgrade to their current-generation versions for free when played on an Xbox Series S/X or PlayStation 5. It's generous to say that the ambitious RPG was only a bit buggy at launch. In fact, its performance issues were glaring enough to cause both Sony and Microsoft to offer extended refunds. After all the bug fixes and improvements, the game is now a commonly-used performance benchmark for PC and console gaming. While its most advanced ray tracing modes are reserved for few platforms, it's a visually-stunning game no matter where you play it. Plus, continued updates have given players more options for getting the most out of their time in Night City.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=972777",
+      "rss_tags": [
+        "Deals",
+        "Gadgets",
+        "Gaming",
+        "PC Gaming",
+        "Verge Shopping"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
