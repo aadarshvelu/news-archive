@@ -637,6 +637,38 @@
     }
   },
   {
+    "id": "f529fc1d-c827-41f3-88ca-4afe881517d9",
+    "cluster_id": "45763a57-c6fa-42ba-9b75-436a6c5cee24",
+    "cluster_size": 3,
+    "source": "The Verge",
+    "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
+    "teaser": "From celebrity privacy hacks to AI-fueled saturation: Unrest in music tech as streamers fight fraud and labels sue over stolen copyrights.",
+    "summary": "Recent headlines highlight major issues regarding unauthorized content and AI's impact on media. Ariana Grande filed a lawsuit against unidentified hackers for the theft and public leaking of her private, unreleased music and personal footage, violating state privacy laws.\n\nIn parallel, the music industry faces saturation from artificial intelligence. Streaming platform Deezer reported that AI-generated music now constitutes over 50% of its downloads. To combat fraud and protect artists, Deezer is implementing measures to curb these uploads.\n\nFurther escalating concerns are intellectual property disputes, exemplified by Sony Music Entertainment suing Udio for copyright infringement involving tens of thousands of songs from major artists like Beyoncé and Elvis Presley.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
+    "date": "2026-07-28T21:48:50Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2255276905.jpg?quality=90&strip=all&crop=0%2C10.736367339261%2C100%2C78.527265321477&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Stevie Bonifield",
+    "content": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. It aims to \"uncover the identities of these currently unknown and unscrupulous individuals,\" referred to as \"John Doe 1 and John Does 2 through 100.\" The lawsuit also says that \"In 2023 alone, 45 unreleased songs\" were \"hacked, stolen, and leaked,\" adding that hundreds of similar leaks have happened since Grande's music debut in 2011. The stolen content is said to include \"still-in-production, unreleased masters and demos, footage from recording sessions, music videos, behind-the-scenes photographs and videos, as well as album and photoshoot outtakes.\" The lawsuit accuses the unidentified hackers of selling the content, as well as publishing it on social media platforms like X, TikTok, and YouTube. It claims their actions are invading her privacy and violating California's Comprehensive Data Access and Fraud Act, a law against unauthorized computer access that has come up in cases including Sony's lawsuit against George Hotz and Meta's lawsuit against the Pegasus spyware . As reported earlier by Variety , the lawsuit claims the hackers have repeatedly targeted people who work with Grande. In one incident in 2019, hackers stole Grande's photos from a photographer's Dropbox account. The following year, unreleased footage was stolen from a producer's hacked \"mobile device.\" In 2024, scammers used phishing emails to get unreleased photos from a technician working with one of Grande's photographers.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=972233",
+      "rss_tags": [
+        "Entertainment",
+        "Music",
+        "News",
+        "Security",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "22f7bc63-071b-4fae-a7b1-51e1f529e07e",
     "cluster_id": "1c765c3c-a31d-49d6-8dea-2e594f3ba594",
     "cluster_size": 2,
