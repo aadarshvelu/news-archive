@@ -481,6 +481,36 @@
     }
   },
   {
+    "id": "e6b8b5da-eeb8-43e9-8e9c-363d46850d0e",
+    "cluster_id": "50bd5f8b-42cd-4f67-944c-7e3c5374cc9a",
+    "cluster_size": 5,
+    "source": "TechCrunch",
+    "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+    "teaser": "Federal lawmakers push for new standards, demanding AV companies prove they won't block ambulances or fire trucks.",
+    "summary": "Autonomous vehicle deployment faces heightened scrutiny over emergency response failures. Rep. Kevin Mullin has proposed the AV Emergency Response Coordination Act, aiming to mandate national standards for AV operators and giving public officials power to \"geofence\" vehicles in emergencies. Concurrently, NHTSA approved a key milestone for Zoox, granting it an exemption to charge customers for its robotaxi service, though with limits on fleet size.\nIn other operational news, Waymo has resumed freeway services across multiple markets after recalling units due to performance issues near construction zones. These updates come amid ongoing pressure from regulators and officials, who cite incidents where AVs have interfered with first responders.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
+    "date": "2026-07-28T19:06:33Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/waymo-fleet-getty.jpg?resize=1200,801",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Kirsten Korosec",
+    "content": "Waymo and other robotaxi operators are facing increased scrutiny - and possible new federal requirements - over how their autonomous vehicles interact with emergency responders, a regulatory risk that's becoming harder for the industry to shrug off. Rep. Kevin Mullin (D-Calif.) is the latest lawmaker to put pressure on the industry with a proposed bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators. The proposed legislation, expected to be introduced in Congress this week, follows a number of incidents in which autonomous vehicles have blocked ambulances and fire trucks, driven into active crime scenes, and failed to recognize safety signals such as traffic cones and flares. A TechCrunch investigation earlier this year identified a number of incidents in which Waymo relied on first responders to manually drive its vehicles when they encountered issues. The legislation, called the AV Emergency Response Coordination Act, was unveiled Tuesday during a press conference in San Francisco, a hub of autonomous vehicle testing and where hundreds of Waymo robotaxis already give rides to paying customers. San Francisco mayor Daniel Lurie, San Francisco fire chief Dean Crispen, and Advocates for Highway and Auto Safety president Cathy Chase also spoke at the press conference. \"We have seen disturbing, and frankly, an unacceptable number of incidents where autonomous vehicles inadvertently interfere with emergency responders,\" Mullin said during the press conference. Crispen said that while the fire department has worked with AV operators, a number of incidents, and a pattern of continued behavior, shows changes need to be made. He noted that robotaxis are picking up and dropping off passengers directly in front of fire stations and ambulance deployment facilities, which obstructs emergency access. Mullin's bill proposes requiring AV companies to provide clear emergency protocols for first responders, establish a 24-hour hotline that gives public officials direct access to these companies, and directs the National Highway Traffic Safety Administration (NHTSA) to develop minimum national emergency response standards. The bill would also create a process allowing public officials to \"geofence\" AVs, a term referring to placing limits on where these vehicles can operate during emergencies or other ongoing safety hazards. For AV operators, that geofencing provision could matter as much as the safety standards themselves: It would give city and public safety officials a real-time lever to restrict where robotaxis can drive, rather than waiting on companies to self-regulate. Waymo said in response that it has \"long supported\" a federal framework to establish standards for autonomous vehicles. \"We similarly support efforts to standardize how AV developers engage with first responders,\" Waymo said in a statement emailed to TechCrunch. \"Our emergency response protocols, coupled with our extensive training with first responders, are a critical component of our operations around the U.S. Establishing minimum guidelines would provide the entire industry and public safety community with a consistent framework, ensuring emergency responders have the resources and certainty they need whenever they encounter an autonomous vehicle on the road.\" Mullin is hardly alone in criticizing autonomous vehicle operators. Over the past several weeks, elected officials and federal regulators have raised concerns about autonomous vehicles and how they've interfered with first responders. In early July, NHTSA administrator Jonathan Morrison sent a letter to AV developers saying the agency had \"identified a clear pattern of driverless AVs interfering with law enforcement and other first responders.\" The letter demanded that AV developers present \"solutions\" to the problem by the end of the month - a deadline that has since passed, putting pressure on companies like Waymo, Zoox, and others to show progress or risk further federal action. Mayor Lurie has asked California regulators to strengthen rules for autonomous vehicles following an hours-long July 4 traffic jam in San Francisco that was compounded by Waymo robotaxis that had run out of power, blocking key streets. Lurie has since pressed state regulators to establish new rules to prevent problems like the gridlock incident and a widespread power outage in December that led to dozens of stranded Waymo vehicles. \"Residents and visitors should be able to take an AV, public transit, or bike around our city safely, and they must also trust that our police and fire departments can reach them in an emergency,\" Lurie said, speaking in support of Mullin's proposed bill during the press conference.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3147409",
+      "rss_tags": [
+        "Transportation",
+        "robotaxis",
+        "Waymo"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "dcaeb591-446f-4269-97ae-401aefb07668",
     "cluster_id": "73443016-4243-46e3-a075-7328a0fa0f12",
     "cluster_size": 2,

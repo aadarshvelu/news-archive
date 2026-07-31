@@ -1,0 +1,82 @@
+[
+  {
+    "id": "c4966737-3f19-4a04-abe8-abedc653f1ba",
+    "cluster_id": "2fe75efe-a177-4b44-b337-9f4d69290f30",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "Nscale buys AI infrastructure optimization startup Anyscale for reported $1.65B",
+    "teaser": "In a $1.65B deal, data center giant Nscale acquires Anyscale to build a 'truly vertically integrated AI cloud,' stacking hardware and software capabilities.",
+    "summary": "Nscale Global Holdings Ltd., a major data center builder, is acquiring AI software specialist Anyscale Inc. in a deal reported by Bloomberg to be worth $1.65 billion. This strategic move aims to create a 'truly vertically integrated AI cloud platform' by combining Nscale's massive physical infrastructure—including an 8 GW campus in West Virginia—with Anyscale’s advanced software capabilities.\n\nAnyscale develops Ray, a crucial open-source tool that optimizes large-scale AI clusters. The software solves complex challenges like distributing workloads across servers and mitigating hardware failures during training runs. By integrating this powerful management layer with its physical data centers, Nscale plans to offer an end-to-end solution for high-demand AI computing, capturing greater value in the growing AI market.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/30/nscale-buys-ai-infrastructure-optimization-startup-anyscale-reported-1-65b/",
+    "date": "2026-07-31T01:30:54Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Nscale1.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Data center builder Nscale Global Holdings Ltd. today announced plans to acquire Anyscale Inc., a venture-backed provider of artificial intelligence software. The terms of the deal were not disclosed. Bloomberg cited a source as saying that Nscale is paying $1.65 billion. In March, the company raised $2 billion from a consortium that included Nvidia Corp. and other major tech firms. London-based Nscale is building a network of AI data centers that will span a half-dozen countries. Its flagship development is a 2,250-acre campus in Mason County, West Virginia that features its own miniature power grid. The company estimates that the site can theoretically host more than eight gigawatts worth of computing capacity. Anyscale, the startup that Nscale has agreed to buy, was launched in 2019 by a group of computer scientists. It commercializes an open-source project called Ray that was created by its founding team. The software is used to optimize large-scale AI clusters. Distributing an AI workload across multiple servers is not as simple as splitting it into smaller tasks and running each one on a separate machine. Developers must make numerous optimizations to ensure that the cluster will run reliably. Additionally, they must fine-tune its performance to avoid cost overruns and underutilized hardware. Ray eases the task. One of the chores that the software streamlines is mitigating hardware errors. If one of the servers in a cluster fails during an AI training run, Ray can automatically replace it with a new machine. That removes the need to write custom fault tolerance workflows. The software also helps developers reduce bandwidth costs. If an AI model and the dataset that it uses are stored on two separate servers, the machines must regularly exchange information over the network. Ray installs AI models and their datasets on the same machine to avoid unnecessary traffic. Anyscale commercializes the project with a paid cloud-based version. The service provides access to managed Ray clusters that developers can launch in under a minute. Additionally, it features monitoring dashboards that ease the task of troubleshooting technical issues. Nscale expects to close the acquisition by year's end. The company plans to offer Anyscale's software to its customers alongside its internally developed infrastructure optimization tools. Nscale provides managed versions of Kubernetes and Slurm, two open-source tools likewise designed to automate server cluster management. \"We build and own every layer ourselves: the power, the data centers, the compute, and the software that turns them into an AI cloud,\" said Nscale founder and Chief Executive Officer Josh Payne. \"Anyscale extends that offering with managed services that AI teams use to scale any workload, completing a truly vertically integrated AI cloud platform.\" A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=799592",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "acquisition",
+        "Anyscale",
+        "data center",
+        "LLM",
+        "Nscale",
+        "Open Source",
+        "Ray",
+        "startup"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "674ccbd0-e693-40d5-a3fe-82d3058931a2",
+    "cluster_id": "d2652e6d-dea4-40ef-9ff0-7a722087f232",
+    "cluster_size": 3,
+    "source": "SiliconANGLE",
+    "title": "LinkedIn cracks down on users posting ‘AI slop’ after previously encouraging it",
+    "teaser": "LinkedIn adds an 'AI slop' reporting button and removes AI rewriting tools to combat the flood of inauthentic, low-quality content on its platform.",
+    "summary": "Microsoft's LinkedIn is aggressively tackling 'AI slop'—low-quality, artificial intelligence-generated content. CPO Hari Srinivasan announced several changes, including a new 'Seems like AI slop' reporting button available in the ellipsis menu for all posts and comments. To maintain users' authentic voices, LinkedIn is also replacing its 'enhance your post' feature with a simple proofreading option that leaves natural wording intact. Beyond user reporting, LinkedIn is investing heavily in advanced classifiers and automated defenses to block spam and poor-quality content at scale. These measures reflect the platform's commitment to prioritizing real human connections and expertise over generative drivel.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/07/31/linkedin-cracks-users-posting-ai-slop-previously-encouraging/",
+    "date": "2026-07-31T04:11:56Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-31-11-05-24.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Mike Wheatley",
+    "content": "Microsoft Corp.'s LinkedIn is making a concerted effort to combat \"AI slop,\" or the low-quality, artificial intelligence-generated content that has been increasingly dominating user's feeds. In a blog post today, LinkedIn Chief Product Officer Hari Srinivasan revealed that the company is adding a new \"seems like AI slop\" button for people to report posts that appear to be AI-generated. The new button can be found in the ellipsis menu on all LinkedIn posts now, and will be coming to user's comments too. According to Srinivasan, it will provide a way for users to report suspect posts and also help the company to train its AI-spotting AI models to enhance the quality of content found in user's feeds. The company isn't stopping there, either. In addition, Srinivasan said LinkedIn is dropping the \"enhance your post\" button that uses AI to tweak user's wording. It's believed that this button probably encouraged a lot of the AI slop now found across LinkedIn's feeds, so it's being replaced by an option to simply have AI proofread what users have written, while leaving their natural voice intact. The updates reflect a growing trend among online platforms to push back against AI-generated content as human users become more disgruntled by the inauthentic, computer-generated posts that now pop up seemingly everywhere they go online. Last week, for example, the popular newsletter platform Substack added a new tool that allows readers to scan new posts they're reading to see if they were likely written by an AI model, in partnership with a startup called Pangram Labs Inc. Then, this week, Pangram revealed that it has raised $9 million in funding to try and stem the tsunami of AI content that's now flooding the internet. AI-generated content is a big and growing problem, and it's hard to find anyone who hasn't come across some kind of AI slop on platforms such as Facebook, Reddit, Quora, Instagram, TikTok or whatever social media apps they use. It's deeply unpopular, because so many people regard AI-generated content as unreliable drivel that betrays a total lack of creativity on behalf of the poster and reduces the overall quality of both platforms and impacts user's experiences. LinkedIn is a particular concern, with one 2024 study finding that just over half of all long-form posts published on the site were likely faux thought leadership posts and similar slop. It has likely gotten worse in the meantime, as Srinivasan made clear in his blog post. \"AI slop is a top priority for all of us,\" he wrote. \"We really care about this. People come to LinkedIn to connect with real people and share their real perspectives, ideas and expertise.\" The executive said the \"Seems like AI slop\" button is just one of several measures being introduced to try and eliminate AI content from LinkedIn. The company is also investing in automated defenses that, ironically, use AI to block \"hundreds of thousands\" of automated comments each day. In addition, Srinivasan talked about the introduction of new classifiers to identify if certain posts are AI slop or some other kind of low-quality content. The idea with this is to reduce the overall amount of AI content recommendations from people outside of user's own networks. The Seems like AI slop button will be one of several signals LinkedIn uses to inform its classifiers, Srinivasan said. In addition, LinkedIn will also start flagging user's dashboards privately when it thinks they're using AI too heavily and their content seems \"inauthentic.\" Srinivasan said this is meant to encourage users to improve their writing in cases where they simply use AI to enhance what they've written, rather than target users who post entirely AI-generated posts. Image: LinkedIn A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=799952",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "Ai comments",
+        "AI content",
+        "AI posts",
+        "AI writing",
+        "AI-generated",
+        "AI-generated content",
+        "AI-slop",
+        "computer-generated posts",
+        "Hari Srinivasan",
+        "LinkedIn",
+        "report AI content",
+        "suspect posts"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]
