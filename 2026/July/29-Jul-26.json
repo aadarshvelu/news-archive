@@ -750,6 +750,37 @@
     }
   },
   {
+    "id": "c2018651-4722-4ea8-8ce6-0d83171cb1cc",
+    "cluster_id": "01197000-711f-4735-8dd0-25fd41a0ddb5",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+    "teaser": "The next generation of AI browsers aren't for searching; they are specialized tools automating complex workflows for knowledge workers.",
+    "summary": "The AI browser landscape is evolving past general search and moving into sophisticated automation for professionals. Startups like Polar are leading this change with an 'AI-first' browser tailored specifically for knowledge work, rather than mass consumer usage. Founded by former Perplexity employee Kevin Jiang, Polar helps users automate tasks—such as managing workflows or assigning jobs to agents—using information from their open tabs.\n\nWhile other tools like Perplexity’s Comet have been prominent, the industry trend is shifting toward reliable agentic work on the logged-in web. The browser remains free but offers paid subscriptions for higher AI credit limits ($20/month), positioning itself as a core automation tool for fields including marketing and research.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+    "date": "2026-07-29T15:00:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Polar-founders.jpg?resize=1200,675",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Ivan Mehta",
+    "content": "AI browsers were all the rage in 2025. Companies large and small tried to build browsers that baked in AI in an effort to own the interface people use to browse the internet. How the tables have turned. Today, OpenAI's Atlas is history, and The Browser Company sold to Atlassian, with its Dia browser now focusing on productivity use cases. Firefox tried to strike a balance in its own AI efforts by providing an off-switch , but it got shouted at anyway. This year, the focus has shifted to agents and automation. Startups like Strawberry, Browser Use, and Aside are building browsers with an agentic slant, and even Perplexity's Comet has moved toward providing browser agents. Amid this change, a startup called Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona. CEO Kevin Jiang, who previously worked at Perplexity on Comet, said the first wave of AI browsers aimed to change default search for users and have them chat with tabs for doing tasks like travel booking, which wasn't a strong long-term proposition. \"If you think about end-user consumers, they don't book a flight or make a reservation every day or every week. There wasn't a strong pull for mass consumers to go to an AI browser and find value in it. That's why our AI browser is not focused at all on mass consumers. We're focused on where we think browser agents are actually valuable, which is knowledge work,\" Jiang told TechCrunch. With Polar, users can schedule workflows, save prompts, and assign tasks to agents based on their open tabs. The company says the browser can be easily used by non-technical users, and can help with work like sales, recruitment, marketing, research, and business operations. The browser itself is free to use, and you get a few daily credits to spend on AI tasks. Users that want higher credit limits can pay for subscription plans starting from $20 per month. Polar says most of its current user base just uses its browser for automating tasks while using another browser as their daily driver. The startup's goal is to become a tool for automation, and it believes that the browser is currently the best way to do it. Still, it is open to exploring other avenues, such as computer use. Sabrina Albert, a partner at Madrona, said automating tasks for knowledge workers is a huge market. \"I think that the hard part is building really reliable agentic work on the open, logged-in web. Building a web browser has a whole set of different advantages of understanding how users interact and engage with websites. Plus, they are logged into most of these websites, giving the tool access to services they use the most,\" she said over a call. The round also saw participation from ex-GitHub CEO Thomas Dohmke, Phia founder Phoebe Gates, Modal CEO Erik Bernhardsson, Flapping Airplanes co-founder Benjamin Spector, Etched co-founder Rob Wachen, and Fundamental Research Labs co-founder and CEO Robert Yang.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3147438",
+      "rss_tags": [
+        "Apps",
+        "Fundraising",
+        "AI browser",
+        "Perplexity"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "ddd025ba-5246-4eaa-9230-1b5752f0b166",
     "cluster_id": "644f83ec-9e90-405c-be1a-46f0781a6c6b",
     "cluster_size": 1,

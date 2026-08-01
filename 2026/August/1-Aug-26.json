@@ -36,5 +36,277 @@
       "fetch_status": 200,
       "fetch_error": null
     }
+  },
+  {
+    "id": "24eb6eac-f516-4b4c-b58b-5d7e05a2322b",
+    "cluster_id": "dc3d7c95-afe8-4c1d-965b-d168860d246a",
+    "cluster_size": 1,
+    "source": "Testing Catalog",
+    "title": "xAI adds character references and 1080p to Imagine Video 1.5",
+    "teaser": "xAI just supercharged its video AI: Imagine Video 1.5 now handles native 1080p output and maintains consistent characters/voices across scenes using references.",
+    "summary": "xAI has significantly upgraded Imagine Video 1.5, enhancing video creation with advanced controls like multi-references and voice continuity. The update allows users to shape clips not just through text prompts but also by supplying reference images and voice samples for tighter identity control. Key features include native 1080p generation and Multi-Reference, which accepts up to seven distinct visual anchors—allowing creators to keep a character while changing the scene or vice versa. Most notably, 'Voice consistency' ensures that the model can maintain both the face and the voice of a recurring character across multiple generated shots, addressing a major need in production.",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://www.testingcatalog.com/xai-adds-character-references-and-1080p-to-imagine-video-1-5/",
+    "date": "2026-08-01T09:54:33Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/08/banner-2.webp",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Alexey Shabanov",
+    "content": "xAI has expanded Imagine Video 1.5 with image and voice references, prompt-only video generation, and native 1080p output. The update gives users several ways to shape a clip: describe a shot without a starting image, guide it with reference images, or combine a character image with a voice sample. Image and voice references are starting in the United States for SuperGrok Heavy and SuperGrok Plus subscribers on Grok's Imagine website and iOS app. xAI says the tools will roll out to all tiers over the next few days. Text-to-video and native 1080p generation are already generally available through Grok Imagine on the web, iOS, and Android, with 1080p supported for both text-to-video and image-to-video workflows. Multi-Reference lets creators assign separate visual anchors to a generation. One image can hold a face in place, another can preserve a product, and another can define a location. Users can keep a character while changing the scene, retain a scene while swapping the character, or preserve both while altering only the action. The model accepts up to seven references in a single generation. Voice consistency adds another layer of continuity. When a character image and voice reference are supplied together, xAI says the model can maintain the same face and voice across scenes. That targets a common production need: generating multiple shots around a recurring character without rebuilding identity cues for every clip. Developers can access image references, text-to-video, and native 1080p through the xAI API using the grok-imagine-video-1.5 model. Voice references require a request to xAI. The API example shows a prompt, reference image URL, duration, aspect ratio, and resolution passed into a video generation call. The rollout extends the Imagine Video 1.5 release introduced last month, which xAI presented as an advance in motion, physics, and audio. The latest additions shift the focus toward tighter control over identity, scene, and product while expanding the model from image-led animation to videos generated directly from text. Source",
+    "raw_meta": {
+      "rss_entry_id": "6a6dbf92d0b1e40001911c6a",
+      "rss_tags": [
+        "SPACEXAI"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "ff6ecfb6-005d-4cfd-99b0-60d6b04aa842",
+    "cluster_id": "57ecfcc4-5226-4a44-8b12-2d4a81c636ac",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "The OG reading app just got a big update",
+    "teaser": "From reading apps (Instapaper's big redesign) to AI email clients (Sunflower) and Markdown editors (Emerald), here is a tech deep dive into essential productivity tools.",
+    "summary": "In this comprehensive tech digest, the major highlight is Instapaper's robust relaunch, featuring a redesign and improved web app that solidifies its place as a top-tier read-later service. The article also reviewed several other valuable productivity tools. For Mac users, Pastebot 3 offers enhanced clipboard management. Developers can use Emerald, a new Markdown editor solving collaboration pain points on Apple devices. Furthermore, the piece details Sunflower, an advanced email client incorporating helpful AI features like in-built summarizing and chat capabilities for managing your inbox.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+    "date": "2026-08-01T12:00:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-138.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "David Pierce",
+    "content": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage .) This week, I've been reading about microwave sounds and Meta glasses and Alex vs. Alix , testing the Logitech Alto Keys K98M to see if I'm ready for the mechanical keyboard life, digging into the history of the first chatbot , clearing space on my desk for a Bob Ross deskmat , doing a full Ted Lasso rewatch ahead of the new season next week, finally getting into Cyberpunk 2077 now that it's so cheap, cackling and nodding at this Adobe hate post , and upgrading my home camera setup with the truly enormous Elgato Prompter XL . Also, I have some personal news: I'm having a baby! (If your response to this is, Didn't you just have like 37 other babies , yes, yes I did. Pray for me.) I'm planning to be out from about mid-August to the beginning of October, but I'm also in could-happen-anytime land now. So if I'm suddenly gone, that's why! Just like last year, my colleague Jay Peters will be taking over Installer while I'm out, and just like last year, he's going to be great. But for now, I'm still here! I also have for you a new superhero movie, a new take on an old game, some great Musk-related comedy, and much more. Let's do it. (As always, the best part of Installer is your ideas and tips. What are you watching / reading / playing / listening to / putting in a blender this week? Tell me everything: installer@theverge.com . And if you know someone else who might enjoy Installer , forward it to them and tell them to subscribe here .) Spider-Man: Brand New Day . The Tom Holland Spidey era just never seems to miss. It's pretty impressive to pull off a more or less full story reboot while keeping all the same actors and characters, but by all accounts this one pulls it off. Since I still can't get IMAX Odyssey tickets, this one's at the top of my to-watch list. Pastebot 3 . Missed this one last week! Great clipboard managers are right up there with launchers and text expanders in the \"how did I ever use a computer without this\" category, and Pastebot is one of the Mac's best. The new version has smart organization options, support for all kinds of media, and much more. The kind of app you'll find new uses for... forever. President Curtis . I was going to describe this as \"basically a Rick and Morty spinoff\" before I realized it's actually a Rick and Morty spinoff. Perhaps unsurprisingly, people seem to either love it or hate it. I think most of us would agree R&M is not what it once was, but the idea of throwing all its chaotic energy into the US government does pay off at least a few times. And it's not not political commentary, you know? \" Why Is So Much AI Tech Useless? \" Two of my favorite people on the internet - Joanna Stern and Hasan Minhaj - go deep on where AI is, and isn't, actually good and useful in our lives. Minhaj's complete disbelief at all these overhyped products just gives me life. Halo: Campaign Evolved . Confession: I was always terrible at Halo , and I've always been unfairly mad at the series because of it. The new remake appears to be a mediocre game (with terrible dialogue) but great nostalgia bait, and that might be enough for a lot of people looking to get Master Chief back into their lives. Leafy Corner . This game exists somewhere on the spectrum between Animal Crossing and RollerCoaster Tycoon, and I mean both as a compliment. It's a quiet, cozy game, but also something of a management sim, all in the confines of a plant shop. Adorable. Spotify Running Mode . I actually think Spotify's last take on running, with adaptive tempos and generative beats, was both cooler and a more interesting take on AI. But Spotify's prompted playlists have generally been pretty good, and I appreciate having the timing updates built in instead of having some other app constantly ducking my music to tell me I'm too slow. \" Elon's Epic Ego Explained . \" Nobody does topical comedy like Josh Johnson, and this is my favorite of his recent sets. It's not just 45 minutes of making fun of Musk - it's also about The Odyssey and a bunch of other things - but it's both ruthless and right about the world's richest man. The SwitchBot Battery Circulator Fan 2 Pro . My colleague Thomas Ricker has successfully convinced me that SwitchBot's fans are worth a look over the \"whatever's on the shelf at Target\" models I've been buying for years. This new $120 model is quiet and powerful, charges over USB-C, and is going to live on my patio the rest of the summer. I buried the lede here: The biggest new thing of the week, at least in my book, is Instapaper 10 . Instapaper is one of the original read-later apps, and has continued to be among the best on the market. After some weird ownership stuff over the years, Instapaper has been in the hands of Brian Donohue, who has been steadily improving the service in lots of ways. This week's launch comes with a really nice redesign, a way better web app, and a lot of helpful organization and reading tools. I've been testing it, and I think it's back to being my go-to recommendation for reading apps. (For power users I still think Readwise is the move.) With the new app out, I asked Brian to share his homescreen with us - I wanted to see how he organized his stuff, and if he might be working on even more cool stuff. Turns out he is! Here's his homescreen, plus some info on the apps he uses and why: The phone: iPhone 16 Pro. I almost always purchase iPhones every other generation. Maybe a foldable this year ? The wallpaper: My daughter, as a reminder that my apps must be good otherwise she will not have food on the table. The apps: Safari, Google Calendar, Emerald, Google Maps, Weather, Photos, Instapaper, Kobo Books, Reddit, 1Password, Google Authenticator, Slack, Google Docs, Google Sheets, ForeFlight, Flight Circle, Claude, Linear, Phone, Sunflower, Messages, Spotify. I'll start with the ones not yet in the App Store: Emerald and Sunflower. Emerald is a Markdown editor I'm working on that solves two personal pain points: native iOS / macOS client, and collaboration on markdown files. I have been a big Obsidian user the past two years, but it's been failing me in those areas. I've been writing with Emerald exclusively for the past few months and it's almost ready for beta testing. Waitlist in the link. Sunflower is a new email client from Bobby Goodlatte and friends. It's beautifully designed and has some tasteful AI features, like summarizing your inbox, chatting with your email, and an Autopilot feature which seems to be perpetually \"Coming Soon.\" I've been trying a few clients in the \"AI email\" space like Extra , and an autopilot tool called Cora , which didn't stick . Instapaper's big launch this week included a new home screen widget. It fits nicely in the widget stack alongside the Apple News, Stocks, and Weather widgets. Additionally, you have many of the usual suspects. I am doing a huge amount of my work with Claude and Linear these days, both of which have fantastic iOS apps. I also asked Brian to share a few things he's into right now. Here's what he sent back: I've always been inspired by creative builders, and two come to mind right now. The first is Andrew Jones , who has been building free & open-source alternatives to paid software (e.g. Granola , Wispr Flow ) - fingers crossed Instapaper is not next. The second is Q , a designer who has been building small, single-purpose websites for himself that I find inspiring. It almost reminds me of a purer, distant version of the Internet, where you built a bunch of Geocities pages for fun and without expectations of fame and fortune. Hyper Mesh . Q has been exploring image reveal animations, and built a tool to tweak presets on the initial mask and the animation that reveals the image. SVG Star Editor . Create a star from different settings and export to SVG. Chess Moves . Q is learning how to play chess with his girlfriend and made this tutorial website as a companion tool. Here's what the Installer community is into this week. I want to know what you're into right now as well! Email installer@theverge.com or message me on Signal - @davidpierce.11 - with your recommendations for anything and everything, and we'll feature some of our favorites here every week. For even more great recommendations, check out the replies to this post on Threads and this post on Bluesky. \"I am hopelessly hooked on the game Murdoku . It's free online, or you can play old school through books . It's a logic game where you solve crimes by process of elimination.\" - Kurt \"I've been loving Paradiso for finding movie showtimes. Not only does it alert you when something on your Letterboxd watchlist is playing near you, it also beats Fandango or other apps for simply browsing first run showtimes.\" - Mike \"My friend recently ordered a Galaxy Z Fold 8 and I had to introduce them to Good Lock .\" - B \"I love Anker stuff and tend to choose it over everything else. But I have the Anker 3-in-1 travel charger and... this ESR one (a brand I hadn't really heard of) is the better product in every way. The Apple Watch charger is in a better place, it's thinner, and the cooling fan works better. I can't vouch for long-term reliability yet, but I have one by my bedside and one in my travel bag!\" - Peter \"Finally switched from a mess of read-it-later apps to a second brain with Obsidian + Claude , inspired by Karpathy's LLM Wiki concept. Hoping this setup is the one that actually sticks...\" - Kartik \"I use Readwise Reader for all my newsletters. It has unique email addresses to either add newsletters to your library or RSS feed. I love keeping all my things to read all in the same app, read later, newsletters, pdfs...\" - Rich \"HIGHLY recommend the movie Avatar Aang: The Last Airbender . It's a crime and shame that Paramount isn't putting this into more theaters, AND that the movie was leaked on X earlier this year. Amazing film with all-time stunning visuals that honestly left me angry I was watching it on TV at home. Deserves bettering than being dumped on Paramount Plus.\" - Nolan \"Watching the restored version of Lawrence of Arabia . Peter O'Toole's blue eyes are dreamy.\" - SaltedPork The coolest internet experience I had this week was scrolling through the Everything Machine , a deep and detailed breakdown of how your phone works. It's only the first chapter of what I hope will be a very long exploration of how smartphones changed everything, and I love the way it seems to interact with your phone as you scroll. Our phones are such a \"This is water\" thing in our lives now, and I really enjoy anything that makes me pay a little more attention to the object, the cultural force, and the economic engine that takes up so much of my life. Highly recommend taking a scroll. Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. David Pierce Gadgets Installer Streaming Tech",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=973929",
+      "rss_tags": [
+        "Gadgets",
+        "Installer",
+        "Streaming",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "d74e8e48-008c-470a-9710-2573f4d3a742",
+    "cluster_id": "6e68eae2-2768-4cf7-b361-a41bf44de64d",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "Apps that help you break free from doomscrolling and get active",
+    "teaser": "Want to escape doomscrolling? Apps like MeBeMe assign 'missions' based on your identity instead of just blocking access!",
+    "summary": "A wave of new apps is addressing the issue of addictive 'doomscrolling' by incentivizing physical activity and positive habit formation. While multiple tools exist, such as Digital Carrot (which uses GPS challenges) or StepBloc/Walkly (locking apps until step goals are met), MeBeMe stands out with its unique motivational approach. Instead of restricting access, MeBeMe assigns personalized 'missions' based on chosen user identities—like 'athlete' or 'historian.' Other innovative mechanics include TouchGrass, which requires photographing actual grass to unlock apps, and Steppin, which trades physical steps for screen time. These technologies offer users ways to consciously manage digital consumption while promoting real-world movement.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+    "date": "2026-08-01T14:00:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-578633163.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Lauren Forristal",
+    "content": "Doomscrolling can be addictive. It's common to end up on the couch for hours, mindlessly scrolling through feeds, which inevitably messes up your posture and, in the end, just ends up making you feel bad about yourself. Your eyes definitely don't like it, either. Fortunately, there are several apps that encourage you to get up and move before you dive into social media. There's even one that literally has you go outside and touch grass before you can scroll TikTok or Instagram. So, if you're looking to cut back on screen time and be a little more active, here's a roundup of some apps that can help. Digital Carrot Image Credits: Digital Carrot Digital Carrot blocks distracting apps, websites and games until you meet your daily fitness, productivity or screen time goals. It connects to wearables like the Apple Watch, and you can set personalized targets, say walking 6,000 steps a day. It also supports GPS- and time-based challenges, allowing users to block apps until they spend a certain amount of time at a specific location, such as completing a 60-minute workout at the gym. The app's available on iPhone , Android , as well as macOS, Windows, and Linux. MeBeMe Image Credits: MeBeMe MeBeMe is aimed at helping users cultivate better habits. Instead of blocking phone access, the app sends you notifications to achieve certain missions, such as doing burpees, connecting with people, or warming up for three minutes. Though not solely focused on physical activity, its \"Body\" category includes challenges for athletes, dancers, cyclists, and runners. The app is currently available for free for iOS devices. StepBloc Image Credits: App Store StepBloc lets you lock access to apps until you walk a number of steps you can specify. In addition, you can also have link app access to completing specific workouts, such as push-ups, planks or squats for a specified amount of time. Once the workout is completed, the user can access selected apps like Instagram, TikTok, YouTube or games. This makes StepBloc particularly useful for people who want to offset their sedentary habits with short bursts of exercise. StepBloc is free on iOS devices , and requires a subscription for unlimited access. Steppin Image Credits: Steppin Created by the founder of Kayak, Steppin lets you trade physical movement for screen time. For example, it allows you to reward yourself with one minute of scrolling for every 100 steps you take. You have the flexibility to set your own step goals for accessing social media, streaming services or mobile games. It's available to download on iOS devices. TouchGrass Image Credits: TouchGrass TouchGrass brings a unique twist to preventing doomscrolling habits by requiring you to step outside and take a photo of grass to unlock distracting apps. The app uses computer vision models to scan photos, and it will only accept images of grass (not trees or other plants). The freemium version allows you to lock two apps, and you can pay $5.99 per month or $49.99 per year to be able to lock more apps. TouchGrass is available for iOS devices . WalkLock Image Credits: WalkLock This iOS app integrates with Apple Health to limit access to designated apps until you meet your daily step goal. The app automatically tracks steps using health data collected by the iPhone or Apple Watch. It offers a lockscreen widget, too, which displays progress throughout the day, making it easy to monitor how close you are to unlocking apps. Walkly Image Credits: Google Play Store Walkly is an Android app that provides a similar experience as WalkLock. It locks selected social media, gaming, and other distracting apps until users walk a predetermined number of steps. The app continuously monitors physical activity and automatically unlocks apps when the walking goal has been achieved. WeWard Image Credits: WeWard WeWard initially launched as an app that incentivized walking by awarding users \"Wards,\" an in-app currency that can be exchanged for cash, gift cards or donations. It recently introduced \"Walking Mode,\" which allows users to restrict app access until they meet specific step counts. Both the step goals and locked apps are customizable. It's available for iOS and Android .",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3145781",
+      "rss_tags": [
+        "Apps",
+        "iOS",
+        "android apps",
+        "fitness apps",
+        "doomscrolling"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "9e40ef09-9e20-48a7-9274-151ba76f6c83",
+    "cluster_id": "6b1bd2ae-12cd-4909-a958-83ea10fc68ca",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "This $9 key physically locks your most addictive apps",
+    "teaser": "Autonomous Key is an NFC device that tackles digital addiction by physically locking apps—you need a scan, not just willpower.",
+    "summary": "Introducing Autonomous Key, an NFC physical device designed to curb digital distractions by making accessing apps difficult. Instead of relying on willpower (like traditional screen-time limits), users must physically scan the key with their phone to unlock distracting apps for up to 60 minutes. For just $9, it is significantly cheaper than competitors like Blok ($29) or Brick ($59). The accompanying app adds value through AI insights, summarizing usage habits with a uniquely 'sassy' tone. While compact and compatible with Android 8.0+ and iOS 15+, the key requires a physical effort to bypass locks, turning impulse scrolling into a deliberate decision. It operates without required subscriptions.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "date": "2026-08-01T15:58:17Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Lauren Forristal",
+    "content": "Screen-time apps aren't effective for many people because, in the end, they depend on your willpower. They remind you to stop scrolling or let you set timers, but such notifications can be easy to ignore. Autonomous Key takes a different approach to this issue simply by being a physical device. It's an NFC key that pairs with a companion app to let you lock away distracting apps. So instead of tapping a button to bypass the block, you have to physically scan the key with your phone to regain access to your locked apps. Each unlock session can last for up to 60 minutes before the apps are automatically locked again. That physical requirement is what makes the idea compelling. Instead of depending on your self-control, you can leave the NFC key in another room, or even at the office or gym, turning a mindless impulse to open Instagram or TikTok into a deliberate decision that requires extra effort. At just $9, Autonomous Key is considerably cheaper than its competitors like Blok ($29), Unpluq ($26.50), and Brick ($59). Brick does offer a few more advanced features , including Sleep Mode and the ability to block in-app purchases, but Autonomous Key covers the core functionality at a fraction of the price. The key itself is compact, measuring about 3 inches long, and works with smartphones running Android 8.0 or later, and iPhones running iOS 15 or later. Image Credits: Autonomous The companion app also provides AI-powered insights, tracking how often you unlock distracting apps, how long they remain accessible, and the times of day you're most likely to reach for them. Notably, the AI summarizes your habits with a deliberately sassy personality. For example, if you repeatedly unlock your apps immediately after locking them, it might say that the key clearly wasn't far enough away and will suggest putting it somewhere less convenient. Plus, unlike many app blockers, there are no subscriptions or premium tiers required to unlock additional features. One key can be paired with multiple phones, making it a practical option for people who may have multiple devices, or for families. Image Credits: Autonomous During my testing, however, I noticed the NFC scan occasionally required multiple attempts to register. So it's probably not the best choice for locking important apps (like messaging or email) that you may need to access throughout the day. There's also the question of what happens if you lose the key. If your apps are locked, the current workaround is to uninstall and reinstall the companion app. If they're already unlocked, you can simply remove the key from your account. The company says it's developing a backup unlock method that will arrive in a future update. Autonomous Key is currently in beta following a Kickstarter campaign, and began shipping earlier this month. It's available in five colors: pink, orange, blue, gray, and brown. This post was originally published on July 27, 2026.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3146148",
+      "rss_tags": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "Reviews"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "33fbe962-15af-4746-a964-2c8f020f30ec",
+    "cluster_id": "fa7a702d-3a0a-4e27-83fa-54d38171fa33",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Spider-Man: Brand New Day leak racks up millions of views",
+    "teaser": "A Spider-Man bootleg racked up millions of views before Disney pulled it, but the movie's actual box office performance could challenge records set by Avengers: Endgame.",
+    "summary": "A bootleg of 'Spider-Man: Brand New Day' was leaked online, reaching over 5.9 million accounts and gaining substantial traction before Disney successfully issued takedown requests. Despite the leak, the film is proving to be a box office success. It has already grossed $168 million between previews and opening day, putting it ahead of 'Avengers: Endgame's $157.4 million in that period alone. The movie continues its strong performance, racking up $72 million in previews this week, surpassing the previous record held by 'Avengers: Endgame' ($60 million in 2019). Sony anticipates the film could pull in an impressive $325 million.",
+    "importance": 4,
+    "category": "other",
+    "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
+    "date": "2026-08-01T17:00:12Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-18-at-9.08.24%E2%80%AFAM.png?quality=90&strip=all&crop=0%2C0.13329772890437%2C79.216870117187%2C99.733404542191&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Other accounts have reposted the leaked film, but none have lasted particularly long, as Disney now seems to be on top of issuing takedown requests. The leak is unlikely to slow down the box office juggernaut, which is already shattering records. It raked in $72 million in previews this week. The previous record holder was Avengers: Endgame , which grossed $60 million during its previews way back in 2019. Endgame went on to set staggering records for opening weekend, grossing over $1.2 billion worldwide and over $350 million in the US. Spider-Man: No Way Home currently holds the number two spot on the all-time US opening weekend list with $260 million. Brand New Day could potentially usurp Endgame , though it certainly faces an uphill battle. Between previews and opening day, it's already grossed $168 million , which puts it ahead of Endgame's $157.4 million. Sony is keeping its estimates somewhat conservative, saying it expects the latest Spider-Man to pull in $325 million.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=974199",
+      "rss_tags": [
+        "Entertainment",
+        "Film",
+        "Marvel",
+        "News"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "fb325cd4-bb44-457e-8228-5887fe898ac8",
+    "cluster_id": "c5ff0e27-0c4c-4162-9fd2-905a6641c1f2",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "Charlie Stross – On the non-use of AI in my writing process",
+    "teaser": "Acclaimed author Charlie Stross refuses to use AI for his writing, arguing it dilutes the essential human voice required in creative works.",
+    "summary": "In an essay discussing AI’s rapid rise, author Charlie Stross reveals his explicit decision to exclude generative AI from his personal writing process. While acknowledging the utility of such tools for research or outlining, Stross argues that their widespread integration fundamentally compromises the integrity and effort inherent in human creative output. His stance emphasizes that true authorship involves a unique struggle—a 'human' fingerprint—that cannot be fully replicated by algorithms. He advises writers to approach AI with caution, prioritizing the preservation of a distinct, lived voice over mere technological efficiency.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+    "date": "2026-08-01T12:56:54Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "jwx48",
+    "content": "Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html\nComments URL: https://news.ycombinator.com/item?id=49134038\nPoints: 104\n# Comments: 75",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=49134038",
+      "rss_tags": [],
+      "fetch_ok": false,
+      "fetch_status": null,
+      "fetch_error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)"
+    }
+  },
+  {
+    "id": "fd031049-5838-4a56-b634-44783f1b6c27",
+    "cluster_id": "33b9f3f2-0e3b-4e5a-8d77-b9106921b39c",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "You could be taking way better photos on your phone",
+    "teaser": "Elevate your phone photography beyond basic default settings; use RAW capture and advanced apps like Snapseed for professional results.",
+    "summary": "While smartphones have improved sensors, default camera apps often create aesthetically flat photos optimized for 'information transfer' (e.g., signs/menus), sometimes introducing artifacts like over-sharpening or noise reduction. To take high-quality images, users should move beyond the default app and consider third-party options. For the highest quality, shooting in RAW or DNG format is recommended, as these files retain maximum data for manual tweaking. The author recommends apps like Moment Pro Camera II/Halide (iOS) or VWFNDR/Zerocam (Android). After capture, editing tools like Snapseed and Lightroom Mobile are crucial; while auto-adjustments help, detailed tweaks to contrast, vibrance, white balance, and selective color shifts are necessary for professional results.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos",
+    "date": "2026-08-01T13:30:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/iPhone-17-Pro-taking-a-photo-4.jpg?quality=90&strip=all&crop=0%2C10.729671459674%2C100%2C78.540657080652&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "David Imel",
+    "content": "Your smartphone photos can look way better. If you're willing to put in a little extra work, use third party apps and spend a bit of time editing, it's possible to take photos that - under the right circumstances - can rival dedicated digital cameras. I post a lot of smartphone photos online, and \"How do I take better photos on my phone?\" is a question I get practically every day. It makes sense. As the saying goes, \"The best camera is the one you have on you,\" and we practically always have our phones on us these days. Over the last few years, smartphone camera sensors have gotten bigger, with better light gathering capabilities and higher resolutions. But even though the sensors have gotten bigger and better, the straight-out-of-camera quality through default camera apps hasn't improved much, if at all. In some respects, smartphone photos have actually gotten worse - aesthetically, at least. The reason driving this is what people generally use their smartphone cameras for. Smartphone cameras are mostly optimized for information transfer - sending photos of menus, signs, faces and objects that are clear and easy to see. This means phones will usually pull down highlights and pull up the shadows, creating a flatter image that makes it easier to see more information in the frame. But showing more information does not automatically make a photo better. In fact, much of our perception of aesthetics in a photo has to do with its ability to present depth. A photo with too much information in the shadows and highlights will appear washed out. Phones also introduce artifacts like over-sharpening and noise reduction to compensate for thier small sensors, which further contributes to the \"muddy\" smartphone camera look you're used to seeing by now. This is less necessary now, but many smartphones still do it. But that doesn't mean phone cameras are bad. The sensors in modern smartphones have actually gotten so good, many of them can rival dedicated point-and-shoot options on the market today. Knowing how to utilize those sensors is the part most people don't know how to do, and it really comes down to utilizing some third-party camera and editing apps. There are plenty of apps available today that will give you an instantly \"aesthetic\" photo. Apps like Dazzcam and Hujicam try to emulate film aesthetics like light leaks and polaroid borders (and honestly, if that's what you're looking for, they do a fantastic job). There are also apps like Moment Pro Camera II and Halide that offer \"Natural\" and \"Process Zero\" modes, which apply far lighter processing than the default camera offers. Those options are great if you want your pictures to look better instantly without needing to do any additional editing, but if you want the best possible photo, you'll need to shoot RAW or DNG. A RAW vs the edited photo RAW files are a bundle of practically all the information your camera collects, with extremely minimal processing. In most cases, RAW photos won't necessarily look better than photos straight from the default camera app right away, but that's because the default camera app makes a lot of creative decisions for you. If you want the highest-quality photo, it's best to make these creative decisions yourself. There are tons of apps available that let you shoot RAW, but the apps I use frequently and that I recommend to other people are Moment Pro Camera II and Halide on iOS, and VWFNDR and Zerocam on Android. I wouldn't recommend shooting RAW on every photo you take on your phone. Your phone camera is, after all, optimized for what you are probably taking photos of every day. I generally shoot RAW when I see a nice landscape or city scene that I want to share, or if I'm trying to take a portrait of someone and don't want all the automatic computational phone processing to apply. Really, I shoot RAW when I'm trying to take a photo for artistic purposes, not for informational purposes. When you're shooting, you'll want to tap on your subject in the viewfinder to get the best possible exposure for it. If the rest of the image is a little bright, or a little dark, don't worry too much. RAW photos retain a lot of information. I should note, though, that under extremely dark circumstances, RAW on smartphones won't always be the best option. Physics is still physics, and sometimes it's better to use the computational photography capabilities your phone offers, which mostly shine in low-light environments by stacking multiple frames to reduce noise. You'll notice that when you shoot in RAW, the apps will force you to stick to the native focal lengths your phone offers. That's because RAW images are information straight off the sensor, and cropping applies processing. Photos from the main sensor will often be the best quality, since it usually has the biggest sensor on your phone, so I recommend shooting with it if you can. I do often shoot with the telephoto lens while traveling though, because sometimes you want a little more reach or a little more compression, and you can usually get good photos from that lens as well. After you take your photos, you're going to need to edit them. Most phones won't show RAW images in the camera gallery, so in order to get them in an editing app, it's best to use the share sheet and share directly to your editing app of choice. I suggest Snapseed , since it's totally free and recently got a wonderful visual overhaul. If you're an Adobe subscriber, Lightroom Mobile is also great, especially if you're already used to Lightroom's tools on your computer. RAW photos don't usually look great right away, and the magic of RAW is just how much you can tweak the files. Once I have the photo imported, I usually hit the auto button, just to see what the general boundaries are for the image. Auto mode tries to make everything a mid-tone, meaning it will pull down the highlights and pull up the shadows. This will already look better than straight-out-of-camera from your phone's default camera app, because it isn't applying noise reduction or sharpening, just highlight, shadow, contrast, and saturation tweaks, but it usually still needs more, or different, adjustments. Once I see what auto mode wants to do, I'll either edit from there, or hit the back button and edit myself. A good photo has a natural amount of contrast, with relatively deep shadows and bright highlights. You usually don't want to go too hard on either of these things, and having a little bit of detail in both of these is usually preferred, but honestly, this is subjective. Occasionally, it's preferable to crush the highlights and shadows completely, if you're going for an ultra high-contrast look. For color, RAW images are usually flatter than most people find pleasing, and you can fix this with either the saturation or vibrance sliders. I generally prefer vibrance. Saturation will increase the saturation of all colors in the image linearly, where vibrance is weighted, increasing saturation of flatter colors more than already-saturated colors. You can overdo this pretty easily, so I recommend having a light touch when it comes to saturation. You can also use white balance to color your image, and many people find a warmer white balance more pleasing, especially when taking photos outside. Another color tool I love to use is the color mix, or selective editing tool. This allows you to tap on a portion of the image and change some of its values. In Snapseed, you can change the brightness, contrast, saturation, and structure. If you're in Lightroom mobile, you'll have access to selective hue shifts, which I use all the time. This allows you to shift a yellow tone towards more orange or green, or shift a blue tone more cyan or purple. Most editing apps also include geometry or perspective tools. These tools allow you to adjust distortion, aspect, scale, and offset. If you don't know what that means, try hitting the auto button in the geometry or perspective setting. You might be surprised how distorted your phone captured a scene compared to what it looks like in reality, but this is image-dependent. If you want to straighten lines in your photo, some editing apps offer a guided tool that allows you to manually add guidance lines to tell the program what lines should be straight in the image. The tools you'll want to use are going to depend heavily on what you want the image to convey. For example, when I'm doing architectural photography, I rely a lot more heavily on the perspective tools, because the aesthetic of the image is heavily dictated by its geometry. If I'm photographing a landscape, I'm more focused on tone and color. Not every scene needs to be tweaked with every tool, and how you edit comes down to personal taste. That taste can also take a while to develop, so study the photos you like and try to figure out how they were edited. When you're done with your edits, many editing apps like Snapseed and Lightroom Mobile also come with a handy tool to put a matte (or border) around your image. I think that photos look better with a white border, as it isolates the image for your eyes. You obviously don't have to use this tool, but I really like it. Have some whimsy! This process is a lot more work than just opening your camera app and snapping, but the results are worth it. I am continuously blown away by the quality of images I'm able to get off smartphones, and just how close they can be to a dedicated camera. If you don't believe me, check out this video I did comparing RAW photos from the iPhone 17 Pro to the Leica M11 . Photography by David Imel / The Verge Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. David Imel Apple Cameras Gadgets iPhone Mobile Phones Tech",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=973055",
+      "rss_tags": [
+        "Apple",
+        "Cameras",
+        "Gadgets",
+        "iPhone",
+        "Mobile",
+        "Phones",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "9b94b123-63f9-4fc0-9ad4-ddae21460a41",
+    "cluster_id": "bb577c30-f91f-41a0-8899-713defff356f",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Unexpected item in the bagging area as Windows Activation error pops up at check-in",
+    "teaser": "Unexpectedly finding a 'Windows Activation' error pop up on airport check-in signs at Heathrow T5 is a hilarious jab at tech failures in public infrastructure.",
+    "summary": "A humorous report details an unexpected glitch at Heathrow Terminal 5, where a Windows activation watermark appeared on flight information displays near the check-in area. This technical malfunction suggests that the underlying systems require Microsoft's explicit approval and reactivation, echoing familiar computer error messages.\n\nThe article uses this incident to satirize the general unreliability of technology in large public settings like major airports, expressing skepticism about competence in IT infrastructure at places associated with British Airways or Heathrow. The failure is presented as a minor 'bork,' but enough to prompt commentary on systemic tech shortcomings.",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/offbeat/2026/08/01/unexpected-item-in-the-bagging-area-as-windows-activation-error-pops-up-at-check-in/5281946",
+    "date": "2026-08-01T10:00:00Z",
+    "image_url": "https://image.theregister.com/5281966.jpg?imageId=5281966&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Unexpected item in the bagging area as Windows Activation error pops up at check-in Bags weighed down by a Microsoft license key Weary travelers making their way through airports have enough to contend with these days without some Microsoft borkage popping up over departure information. A Heathrow Terminal 5 flight information display shows a Windows activation watermark above airport check-in signs showing where to drop your bags. Supplied Spotted by an eagle-eyed Register reader identifying themselves as Ethel Grapefruit (Mrs), one of the information boards at Heathrow Terminal 5's check-in area has decided that whatever is running behind the scenes does not meet with Microsoft's approval, and requires activation. The message is familiar to many Windows users, and appears as a watermark when something has made the knickers of the computer behind the scenes get a bit twisty. Perhaps there's been a hardware replacement, and Windows needs to be reactivated. Or an update that sent the operating system into a tizzy. There are any number of reasons the watermark may appear, and any number of ways to remove it. The good news is that, while annoying, the presence of the watermark is unlikely to have much adverse effect at a technical level. There'll be nagging. There won't be much in the way of customization to make the computer your own. And, of course, Microsoft won't be offering much - if anything - in the way of support (other than security updates). Not that any of that matters much for a sign showing where to go to check in for a flight and hand bags over to be weighed by a member of staff. However, it might matter for a passenger already a little tense about being flung through the air in a metal tube at ludicrous speed after passing through multiple (and occasionally performative) security gates. If, after stepping through the airport doors, the first sight a person has is of an approach to IT that would have the head of their home tech team given a stern talking-to by The Boss, what hope is there for the rest of the journey? Heathrow and British Airways are names that rarely feature in sentences that include the words \"competent IT.\" There was the 2024 British Airways luggage whoopsie or last year's Heathrow fire-related closure . Digital signage indicating that some IT contractor has not done their work to the required standard is therefore the least of their worries. And it's not as if either entity couldn't afford a Windows license. Let's face it, the cost of some baggage tipping the scales would probably go a long way toward acquiring a license key (if that is indeed the issue). However, for an already jumpy customer, a Windows activation message is unlikely to assuage nerves already jangling over EU passport queues and overly complicated airplanes doing some odd things on approach. Perhaps the moral of today's bork is that it is better to forget all this traveling malarky. Instead, how about a nice sit-down, a beverage, and a delicious biscuit? ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5281946",
+      "rss_tags": [
+        "offbeat"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "bcc3a9d6-87f5-4019-9e68-90e10dd71f96",
+    "cluster_id": "27dadd1a-3433-45a9-ad2c-e2490a4323ea",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "The Verge’s 2026 back-to-school shopping guide",
+    "teaser": "The Verge compiled an 'aspirational' back-to-school shopping guide covering everything from better pens to multi-purpose gym/travel bags.",
+    "summary": "Facing the challenge of knowing everything needed for the school year, The Verge released a comprehensive back-to-school shopping guide. This curated list features a mix of practical and aspirational products to support students in and out of the classroom. Recommendations include items that make writing more enjoyable, high-powered alarm clocks designed to wake even the deepest sleepers, and versatile bags suitable for both athletic activities and weekend travel.",
+    "importance": 1,
+    "category": "other",
+    "url": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
+    "date": "2026-08-01T14:00:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268641_Back-to-school_gift_guide_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Sheena Vasani",
+    "content": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight during the back-to-school season with a new shopping guide that's a mix of practical and aspirational products for students to use in and out of the classroom. We're covering items that make writing easier and more satisfying , alarm clocks that can rattle even the most sleep-deprived students from a deep slumber, bags that are just as great for the gym as they are for the weekend away, and more. We wish the students in your life (or you , if you're the student in question) a prosperous year, and we hope that our curation makes things a little easier during your studies and your downtime a lot more fun.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=968645",
+      "rss_tags": [
+        "Gadgets",
+        "Gift Guides",
+        "Tech",
+        "Verge Shopping"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
   }
 ]
