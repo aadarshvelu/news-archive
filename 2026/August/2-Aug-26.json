@@ -132,6 +132,32 @@
     }
   },
   {
+    "id": "dcba36ce-0766-4573-a944-2ceb194c10d1",
+    "cluster_id": "ad085614-3189-4d11-a5d3-cb7020a8b94a",
+    "cluster_size": 2,
+    "source": "testingcatalog",
+    "title": "🚨 Cheap intelligence and 100 invites for Poke AI",
+    "teaser": "The chat-like AI assistant Poke has been acquired by coding startup Cognition, aiming to inject 'personality' into their flagship agent, Devin.",
+    "summary": "Poke, the highly engaging AI messaging assistant from The Interaction Company of California, was acquired by Cognition for a deal valuing the company at a 'low nine figures.' This acquisition is significant because it merges Poke’s distinctive, friendly chat model with Cognition's powerful coding agent, Devin. Instead of operating like cold tools, Poke interacts familiarly, using humor and slang, making users feel they have a helpful 'colleague,' which Cognition aims to replicate in Devin.\n\nThe strategic move highlights that the *user experience* (the interaction layer) is becoming as valuable as raw AI model power. Poke has achieved massive adoption, exchanging over 100 million messages in three months and getting approved for Apple's Messages for Business platform. Long-term plans include integrating Poke with Cognition’s advanced SWE-1.7 model to enhance reliability and enable Poke to orchestrate multiple coding tasks within Devin.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/r/99f59a18?m=8581ab6d-00eb-44d1-9fa3-5a747a5e5328",
+    "date": "2026-08-02T15:00:53Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "TestingCatalog AI News",
+    "content": "Greetings! Compared to the rest of July, this week was relatively quiet. The biggest story was the continued decline in AI costs. Both OpenAI and DeepSeek announced updates in this area, significantly lowering prices and putting pressure on many other cost-efficient models. This should have been especially noticeable for Google. Since there is still no competitive Pro model, Gemini 3.6 Flash also came under pressure. At the same time, we won't be getting AI Studio for mobile, although Google did ship a few new features for the desktop experience. Meanwhile, Seedance 2.5 was finally released, and Kimi K3 became open source! As a result, many AI providers can now host and serve the model on their own infrastructure. There is also good news for builders! Pokee is inviting you to get early access to their upcoming updates and features before the broader release. You'll get credits to build with, and optional rewards for publishing what you make. Pokee AI also offered our readers exclusive free month of Pokee Lite for the first 100 applicants . If you apply through the Google Form , you'll be among the first to test their new tools and start building on top of them. And now, let's break everything down! Newsletter Guide Here's your guide on how to make the most out of this newsletter: 🤳 Gear up with your mobile phone and desktop devices. 📩 Scan through the newsletter, picking out the apps that pique your interest. 🔥 Keep an eye on the \"hot\" emoji to identify the hottest user experiences. 👀 Dive deeper into our TestingCatalog posts to discover how to put these apps to the test. 📲 Roll up your sleeves and try them out yourself! This weekly newsletter was sponsored by: Anthropic ByteDance Cursor Cursor launches Start plan in India for ₹649 per month - Cursor Start gives developers in India Grok 4.5, Composer, cloud agents, and UPI billing for ₹649 per month, including tax. DeepSeek Google Google is aiming to close feature gaps on Gemini desktop - Google is testing new Gemini desktop app features like image/video tabs, a camera capture option, and updated connector management panels. 🔥 Gemini for macOS adds new \"Speak to Window\" feature - Use Gemini voice on macOS to dictate polished text, rewrite selections, summarize local content and edit images from any desktop window. Google is working on interactive Apps for Gemini Notebook - Gemini Notebook will get a new \"Apps\" artifact, allowing users to generate interactive apps based on their sources. Microsoft Exclusive: Microsoft tests new MAI Realtime voice model - Two voices are present so far - Victoria and Grant, both noticeably more natural than what Copilot's voice mode currently delivers. MiniMax Moonshot AI NousResearch OpenAI Perplexity Revolut SSI Thinking Machines Thinking Machines launched open-weight Inkling-Small - Thinking Machines releases Inkling-Small, a 12B-active open-weight model with multimodal reasoning, a 1M-token context window and Tinker access. SpaceXAI 🔥 xAI adds character references and 1080p to Imagine Video 1.5 - xAI's Imagine Video 1.5 now supports image and voice references, prompt-only creation, multi-reference control, and native 1080p output. SpaceXAI launches Grok Voice Think Fast 2.0 on Agent Builder - xAI's Grok Voice Think Fast 2.0 adds faster first audio, stronger transcription and more reliable tool use for voice agents. Happy testing! 🤖 P.S. If you use Telegram, don't forget to join us there too ! It is the fastest place to learn about new AI scoops 🗞️ P.S.S. If you want to promote your AI tool in this newsletter, please check our Stan Store for Advertisers.",
+    "raw_meta": {
+      "gmail_message_id": "1146",
+      "gmail_uid": "1146",
+      "gmail_labels": [],
+      "gmail_msgid": "1872424186194257422",
+      "gmail_thrid": "1872424186194257422"
+    }
+  },
+  {
     "id": "0aab55d3-dda1-4a18-8db4-7fc24a8fe39d",
     "cluster_id": "056711bf-c7fe-4d0c-bc33-f605c478733b",
     "cluster_size": 1,
