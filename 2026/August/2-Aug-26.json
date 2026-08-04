@@ -1,5 +1,31 @@
 [
   {
+    "id": "6425eec1-78ee-48db-9422-7c5e022f5287",
+    "cluster_id": "0665b3ee-933f-48eb-980d-230bfa0f77cb",
+    "cluster_size": 3,
+    "source": "Economist - Finance & Economics",
+    "title": "What will Kevin Warsh do if America’s economy breaks?",
+    "teaser": "In major AI legal battles, a judge challenged the Pentagon's attempt to ban Anthropic's technology after its public criticism.",
+    "summary": "US AI policy is increasingly characterized by protectionism and governmental intervention. Kevin Warsh chaired a recent Fed meeting where officials held interest rates steady amid inflation and geopolitical uncertainty. Meanwhile, the Trump administration has implemented import bans on Chinese robots and power inverters to safeguard domestic AI development.\n\nA key legal battle involves Anthropic, which challenged the DOD's attempt to ban its technology by citing 'supply-chain risk.' Judge Rita Lin weighed in, criticizing the use of public dissent as grounds for a ban. Experts noted that claims (like altering models) used by the military lacked proof, while Lin had previously blocked the federal prohibition.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks",
+    "date": "2026-08-02T16:12:02Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "An enigmatic Fed faces the risk of AI stocks falling and the oil price soaring",
+    "raw_meta": {
+      "rss_entry_id": "e431882d-53e4-4e10-8540-bdd135113832",
+      "rss_tags": [],
+      "fetch_ok": null,
+      "fetch_status": null,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "7cd0202b-1fab-41b4-b1c1-cf95b8f1926c",
     "cluster_id": "b851f071-f031-413c-bfaa-1fcabeeb2f47",
     "cluster_size": 1,

@@ -116,6 +116,115 @@
     }
   },
   {
+    "id": "00e6b62f-a8d5-46c7-b75c-227cb7b38b8d",
+    "cluster_id": "ae47da03-1634-4c20-bdc8-1f73c4cffa16",
+    "cluster_size": 2,
+    "source": "TechCrunch",
+    "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+    "teaser": "Who is liable when an autonomous AI model hacks systems? Legal experts argue the focus must shift from criminal intent to proving company negligence.",
+    "summary": "Autonomous AI hacks, such as those reported by OpenAI and Anthropic, are forcing a reevaluation of U.S. cyber laws. Because the hacks occur without direct human criminal intent—a key requirement under current statutes like the CFAA—prosecuting the AI models themselves is nearly impossible. Instead, legal experts suggest that victims must pursue civil litigation, arguing that the developing companies were negligent for failing to implement adequate safeguards and monitoring during testing.\n\nThe severity of these breaches led 15 attorneys general to write to OpenAI, warning about potential consumer protection or data-privacy law violations. The outcome depends on whether courts will accept novel legal arguments based on decades-old laws in a rapidly evolving AI landscape.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+    "date": "2026-08-03T19:45:35Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/sam-altman-dario-amodei-split-screen.jpeg?w=1021",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Lorenzo Franceschi-Bicchierai, Zack Whittaker",
+    "content": "Can autonomous AI agents be sued or prosecuted for hacking? It's no longer a question for sci-fi movies. It's a question human lawyers and judges may soon have to grapple with. Under current U.S. hacking laws, a human can face criminal charges for breaking into someone else's computer without permission. But when an AI agent autonomously hacks into a company's computers, determining who is liable is much murkier. The surprise admissions by OpenAI and Anthropic that their unreleased AI models autonomously hacked into several companies have upended our understanding of America's computer hacking laws, prompting discussions over whether the companies could face legal reprisals. To recap: In June, OpenAI admitted that one of its unreleased AI models broke out of its containment - so to speak - and onto the internet, allowing it to hack into the AI dataset platform Hugging Face. Anthropic recently conducted an internal review and discovered its own model also hacked three separate companies. While both companies described how their AI models gained unauthorized access to other companies during internal testing gone awry, the distinct lack of direct human involvement at the time of the hacks makes all the difference - legally speaking, at least. The hacks also raise new questions about what liability and consequences other AI makers might face if their own models are misused to hack into other companies. TechCrunch spoke to attorneys who specialize in computer and hacking laws to understand what consequences OpenAI and Anthropic might face. The potential fallout ranges from federal hacking charges to civil litigation brought by the companies that were hacked. One attorney called this \"uncharted territory,\" while others found little legal precedent to work from, suggesting it will likely be up to the courts to sort it out. Victim companies would likely have to develop novel legal arguments based on laws that were written decades before the arrival of large language models (LLMs). As of this writing, Anthropic hasn't disclosed which three companies its LLM hacked, and none of the victims has publicly identified itself. We don't know if they are considering legal action. In an interview with CNN , Hugging Face's chief executive Clem Delangue said he doesn't want to sue OpenAI. But he argued that companies should be held responsible. Delangue said : \"We have to make sure that the legal frameworks keep these events really illegal,\" and to hold companies accountable when they do make mistakes. \"Otherwise we're going to end up in a very different world.\" These hacks are unlikely to be the last. What are the likely outcomes, and how could the aftermath play out? Can AI commit crimes? The U.S. does not have a federal law covering liability for AI harms, like cyberattacks, so any legal case would have to draw on existing federal or state laws. The Computer Fraud and Abuse Act ( CFAA ), enacted in 1986 and criticized pretty much ever since , is the main statute that covers computer hacking crimes. One of the key concepts of the CFAA is the intent to break into a computer without permission. If a hacker knowingly accesses a computer without \"authorization\" from the owner, that is almost certainly a crime. The problem with the OpenAI and Anthropic hacks is that the hacker was not a human, but an LLM. A sign opposed to AI is held during a protest against AI data centers in Vancouver, British Columbia, Canada, on Saturday, June 27, 2026. Canadians aren't universally sold on building sovereign compute, with early signs of protest against AI server farms in British Columbia and Manitoba. Image Credits: Ethan Cairns/Bloomberg / Getty Images Can AI agents be considered people for the purpose of establishing intent? According to Ahmed Ghappour , a cybersecurity and AI attorney with years of experience litigating hacking and computer-fraud cases, the answer is no. AI agents are not like company employees, so they cannot be prosecuted, because a victim would likely fail to argue that the LLMs intentionally hacked them. Andrew Crocker, the surveillance litigation director at the nonprofit Electronic Frontier Foundation, told TechCrunch that he was skeptical an AI agent could be proven to have had intent when it carried out a hack. The Department of Justice could theoretically bring criminal charges under the CFAA, but one former litigator specializing in computer law also expressed doubts. Prosecutors might have an easier case if any of the cyberattacks had targeted critical infrastructure, which would have caused greater real-world disruption and more tangible harm than copying data from a company's internal database. It is also plausible that if the attacks were carried out by a Chinese AI model maker, for example, the DOJ would have a greater appetite to file charges under the CFAA than against AI companies on its own doorstep. Can victims sue? Congress has amended the CFAA over the years to allow victims to sue hackers to hold them liable and recover damages through civil lawsuits. The core argument the victims could make, Ghappour told TechCrunch, is that OpenAI and Anthropic (and potentially the companies that helped conduct the evaluations) were negligent in how they set up and ran the tests. The argument hinges on whether the companies failed to implement adequate safeguards to prevent the AI agents from getting on the internet; failed to limit what targets they could go after; and did not properly monitor what the agents were doing. To argue this, a victim company would have to show that it suffered damages because of that negligence, such as data destruction caused by a hack. Some legal commentators have also argued that proving this could be difficult. In Anthropic's case, its failure to monitor and stop what its LLM was doing is particularly egregious because the company did not discover the three breaches for months, and was only able to do so after it launched an investigation following news of OpenAI's AI agent hacking Hugging Face. Hugging Face CEO Clem Delangue Image Credits: TechCrunch If victims were to argue negligence, intent does not matter as much. \"The model is the company's tool,\" said Ghappour. \"You don't get to deploy something capable of breaking into systems and then disown where it goes,\" he added, explaining that the model's autonomy is what causes harm, and it should not be a shield against liability. What could be worse for OpenAI and Anthropic, according to Ghappour, is that both companies admitted they have built safeguards to limit their models' hacking abilities. These safeguards are strict enough that both defensive and offensive cybersecurity researchers have griped about them for months. Intentionally switching off those guardrails during these tests could bolster the argument of negligence. Ghappour is so confident in these arguments that, if he were representing any of the victims in these cases, he said it would be a \"no brainer\" to file a lawsuit against OpenAI or Anthropic. At the very least, he explained, he would send letters demanding that the AI companies preserve and share all of their internal records and documents about the hacks, such as incident response reports, and quantify the costs they incurred because of the breaches. Then, if negotiations with the AI giants failed, he would bring a civil lawsuit based on the CFAA arguing that the AI companies were negligent, and violated privacy and confidentiality. Where does that leave us? For now, it's a game of chicken. If one of the hacked companies files a civil suit, we will see where the legal case - and the law - lead. If prosecutors decide to bring criminal charges, unlikely as that may be, the outcome could have profound consequences and a potential chilling effect on security research and AI development more broadly. Without any federal or nationwide AI liability laws, anyone bringing a lawsuit would have to make an entirely novel argument based on existing statutes. It would ultimately be up to a judge or jury to decide whether an AI company broke the law. In place of a federal law, some states such as California , New York , and Rhode Island are rolling out laws with the goal of enshrining a simple principle: If an AI system or agent does something a human could be held liable for, then the companies that made the AI system should be held liable. These laws are not focused specifically on hacking, but on broader concepts of responsibility and safety in various situations. As for who is to blame for an AI model's cyberattack? Morally speaking, the responsibility rests with the executives who run the companies. Legally speaking, though? We'll have to wait until someone sues to find out.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3149175",
+      "rss_tags": [
+        "Security",
+        "Anthropic",
+        "CFAA",
+        "cybersecurity",
+        "data breach",
+        "hackers",
+        "Hugging Face",
+        "law",
+        "OpenAI"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "70e70c46-a02b-4e7f-9616-5d7d69de0900",
+    "cluster_id": "966d68d2-325f-4a1d-8ff6-5221e035c21d",
+    "cluster_size": 6,
+    "source": "HN: AI",
+    "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+    "teaser": "Google fixed over 1,000 Chrome bugs in two months alone—a feat proving how AI is fundamentally rewriting cybersecurity standards.",
+    "summary": "The fields of cybersecurity research and defense are undergoing rapid shifts due to the rise of AI. On one hand, major bug bounty programs like GitHub have lowered public payouts—e.g., top-severity findings dropped from $30,000+ to $10,000—and introduced stricter validity-based researcher gates, citing an increase in low-quality submissions. Meanwhile, defense efforts are exponentially advancing: Google announced it fixed 1,072 security bugs in just two recent Chrome versions, surpassing the fixes from 23 previous updates combined. This trend is confirmed by Microsoft's record 570 patches and is attributed to both companies leveraging AI tools. The industry consensus suggests AI is transforming vulnerability discovery into an automated, industrial-scale operation.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+    "date": "2026-08-03T20:02:21Z",
+    "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2249021916-e1785504459772.jpg?resize=1200,600",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "mapping365",
+    "content": "© 2026 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and Privacy Notice | Do Not Sell/Share My Personal Information FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=49160699",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "dac8e2e7-f669-4c90-90eb-0bd4f9315052",
+    "cluster_id": "912b9196-3eee-4d66-b8a0-e330a259aa0c",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "Palantir shares jump 12% as revenue nearly doubles and guidance climbs again",
+    "teaser": "Palantir's revenue soared 93% in Q2 to $1.935 billion, sparking a 12%+ jump in share prices amid CEO warnings about 'AI sovereignty'.",
+    "summary": "Shares in Palantir Technologies surged over 12% after the company announced record financial results for Q2. Revenue hit $1.935 billion, a massive 93% year-over-year jump, with U.S. commercial contract value reaching a high of $2.132 billion (up 153%). The company also updated its full-year guidance to between $8.150 billion and $8.158 billion.\nCEO Alex Karp used the strong performance to reinforce Palantir's value proposition, emphasizing 'AI sovereignty.' He warned that general AI labs often threaten proprietary data by colonizing enterprises without permission. Palantir counters this by providing model-agnostic AI analysis software for governments and businesses, allowing them to maintain control over their intellectual property.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/08/03/palantir-shares-jump-12-revenue-nearly-doubles-guidance-climbs/",
+    "date": "2026-08-03T22:17:59Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/palantir.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Duncan Riley",
+    "content": "Shares in Palantir Technologies Inc. surged more than 12% in late trading today after the big data analytics company crushed second-quarter expectations and raised its full-year guidance for the third consecutive quarter. For its fiscal 2026 second quarter that ended on June 30, Palantir reported adjusted earnings per share of 41 cents, up from 16 cents per share in the same quarter of last year, on revenue of $1.935 billion, up 93% year-over-year. Both figures came in ahead of the 35 cents per share and revenue of $1.81 billion expected by analysts . Notably, the 93% revenue increase topped the 85% increase posted in the first quarter , which had been the company's previous record. U.S. revenue grew 115%, to $1.573 billion. Commercial customers in the U.S. accounted for $764 million of that, a 149% rise. The government side of the domestic business reached $809 million, up 90%. Deal counts kept climbing. Palantir closed 220 contracts worth at least $1 million during the quarter, among them 98 above $5 million and 73 above $10 million. Total contract value came in at $3.373 billion, up 49% year-over-year. U.S. commercial contract value hit a record $2.132 billion, a 153% increase. U.S. commercial remaining deal value, contracted revenue not yet recognized, ended June at $6.238 billion, up 124% year-over-year. Net income attributable to common stockholders came in at $1.062 billion, more than triple the $326.7 million booked a year earlier. Adjusted operating income was $1.194 billion on a 62% margin. Unadjusted operating income of $912 million worked out to a 47% margin. Cash from operations reached $1.216 billion and adjusted free cash flow $1.220 billion. The company ended the quarter with $9.2 billion in cash, cash equivalents and short-term U.S. Treasury securities. Its Rule of 40 score, the sum of revenue growth and adjusted operating margin, hit 155%. \"Demand for AI sovereignty has now been unleashed. And Palantir is the only company that has demonstrated it can transform tokens into actual economic value,\" co-founder and Chief Executive Alex Karp said in the company's earnings release . \"This quarter was otherworldly.\" For the third quarter, Palantir guided to revenue of $2.160 billion to $2.164 billion, roughly 8% above analyst estimates , with adjusted operating income of $1.292 billion to $1.296 billion. Full-year revenue guidance went up to between $8.150 billion and $8.158 billion, growth of about 82%. Three months ago, the company was pointing at $7.65 billion to $7.662 billion. U.S. commercial revenue is now expected to top $3.424 billion, a gain of at least 134%. Adjusted operating income guidance was lifted to $4.889 billion to $4.897 billion and adjusted free cash flow guidance to $4.5 billion to $4.7 billion. Palantir shares had fallen about 40% from their fourth-quarter 2025 peak heading into the results, and options traders had positioned for a swing of 12% in either direction. Baird analyst William Power had a $200 price target on the stock heading into the report, calling it the 'premier AI growth asset.' Image: Palantir A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=802008",
+      "rss_tags": [
+        "Big Data",
+        "NEWS",
+        "The-Latest",
+        "Alex Karp",
+        "artificial intelligence",
+        "Baird",
+        "big data",
+        "data analytics",
+        "earnings",
+        "enterprise software",
+        "government contracts",
+        "guidance",
+        "Palantir",
+        "Palantir Technologies",
+        "PLTR",
+        "remaining deal value",
+        "Rule of 40",
+        "Second Quarter Earnings",
+        "sovereign AI",
+        "William Power"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "6f03b2b8-e53d-4f73-ae1e-c18552757a68",
     "cluster_id": "46550cc2-f76e-4e47-96a0-4f811c7bd773",
     "cluster_size": 1,
@@ -459,6 +568,37 @@
     }
   },
   {
+    "id": "aeecb0ac-d536-4f35-a0f3-2e503c461c51",
+    "cluster_id": "f50791cd-3f49-41d0-be66-8b968caddf19",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Wispr Flow is preparing to launch a meeting notetaker, updated terms suggest",
+    "teaser": "Dictation app Wispr Flow is expanding into the competitive market of meeting intelligence by launching a powerful notetaker feature, generating summaries and actions from audio inputs.",
+    "summary": "Dictation app Wispr Flow is preparing to launch a sophisticated meeting notetaker, as revealed in updated Terms of Service. This new feature moves beyond simple dictation, allowing it to generate AI-powered transcripts, summaries, action items, and insights. The tool can process extensive 'Meeting Data,' including audio, participant information, and metadata. By adding this functionality, Wispr Flow aims to compete with established notetakers like Granola, Fireflies, Otter, and Fathom. Financed by over $81 million, the company's valuation was previously reported at $700 million.",
+    "importance": 4,
+    "category": "ai_products",
+    "url": "https://techcrunch.com/2026/08/03/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+    "date": "2026-08-03T16:29:30Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/press_1200×675_logo-background-green.jpeg?w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Ivan Mehta",
+    "content": "Dictation app Wispr Flow is preparing to launch a meeting notetaker, according to the tool's updated Terms of Service. The company also sent an email to its customers about the change in both its terms and its privacy policy to accommodate related features. Upon investigation, the refreshed terms have added sections about the use of meeting data and the notetaker. The company said the notetaker will generate transcripts, summaries, actions, and insights, writing: \"For Notetaker, Input may also include Meeting Data, including meeting audio, participant information, meeting metadata, speaker labels, meeting transcripts, and other information processed in connection with a meeting. Output may include AI-generated meeting transcripts, summaries, action items, meeting insights, speaker attribution, and other meeting-related content.\" With the launch, the startup will take on other meeting notetakers such as Granola , Fireflies , Read AI , Otter , and Fathom . Wispr Flow's co-founder Tanay Kothari had previously talked about building an AI assistant in interviews . With a meeting notetaker, Wispr Flow would gain additional context about its users and could automate more tasks beyond cleaning up spoken sentences. It's not clear if the startup wants to launch a Granola-style notetaker that relies on system audio and transcribes the meeting without keeping a recording, or build a full-fledged meeting recording tool. To date, Wispr Flow has raised more than $81 million , with the company valued at $700 million at its last round. In May, Bloomberg reported that the company was in talks for a new round, valuing it at $2 billion. Wispr Flow didn't respond to our request for further comment.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3149084",
+      "rss_tags": [
+        "Apps",
+        "granola",
+        "Meeting notetakers",
+        "Wispr flow"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "7926d821-23d2-458f-acdf-b41b1f197a54",
     "cluster_id": "e0077310-109f-4480-9374-9ee1c2766bce",
     "cluster_size": 1,
@@ -487,6 +627,32 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "d16dd5d3-09a9-44f8-a18c-e9beb22fd66f",
+    "cluster_id": "6294013f-6364-48d2-9338-82d6395374dc",
+    "cluster_size": 2,
+    "source": "MIT Technology Review",
+    "title": "AI's next trade war: Robots",
+    "teaser": "The U.S. may ban foreign robots despite its reliance on cheap Chinese tech: A policy conflict threatening AI innovation.",
+    "summary": "The debate around AI protectionism centers on whether the U.S. should restrict foreign-made robots, especially those from China. The administration is reportedly moving to protect domestic AI industries by considering bans on open-source Chinese models and humanoids, citing cybersecurity risks (like unauthorized control of vacuum cleaners). While this aligns with previous trade strategies to boost domestic tech, industry experts warn that the move could hamstring research.\n\nUS robotics labs rely heavily on cheap Chinese models because they offer a superior price-to-capability ratio. With Unitree's humanoids costing significantly less than comparable US models, an outright ban risks stunting crucial research and slowing down the rapidly emerging sector.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://ter.li/0nk7ymrg?mc_cid=8535e84ffb&mc_eid=UNIQID",
+    "date": "2026-08-03T17:10:04Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "The Algorithm from MIT Technology Review",
+    "content": "On its face, it's a strategy to align political and industry interests that is much older than the Trump administration. Whenever China has gotten good at offering cheap versions of strategic technologies like solar panels, electric vehicles, and drones, the US government has tried to stop it from flooding the market by using tariffs or rules on how government agencies purchase the tech. Such moves are always followed by debates about whether the trade-offs-particularly higher prices for consumers-are worth the benefits. But robotics is now best seen as another piece of the AI industry-in many ways its cutting edge. And the Trump administration is taking an increasingly aggressive approach to protecting the US AI industry, reportedly considering a ban on open-source Chinese models that often rival those from OpenAI and Anthropic while costing far less. Such a move would block businesses from realizing an estimated $25 billion in annual savings. The ban on humanoids, then, should be understood not as another chapter in the old China trade playbook, but as evidence that the Trump administration is expanding its protection of the AI industry beyond today's leading labs. It is now willing to step in on behalf of an emerging robotics sector that is still barely finding its footing. Some US robotics companies unsurprisingly welcome the FTC's new move. Gavin Kenneally, CEO of a company called Ghost Robotics that makes four-legged robots for inspections, says the cybersecurity risks from foreign-made robots are real (an FTC document released as part of the ruling cited an incident in which a man was able to gain control of 7,000 robot vacuum cleaners). \"If today's announcement encourages stronger cybersecurity and a more level competitive environment, that's good for customers and good for the robotics industry,\" Kenneally said in an email. But if the new rule aims to boost US robotics companies, there's a big flaw. Those companies, as well as academic robotics labs, are hugely reliant on cheap robots from China to do research. They're building fleets of robots that constantly learn new tasks-from flipping waffles to doing laundry-and frequently buy Chinese humanoids instead of US-made ones. The new ruling \"creates a challenge for US humanoid researchers,\" says Aaron Prather, director of market intelligence for the Association for Advancing Automation, a robotics trade group. \"Chinese models offer the best price-to-capability ratio available.\" Prather adds that a recent internal review his organization conducted found that 90% of recent robotics research papers from US universities relied on robots from Unitree, China's top humanoid robotics company. That price gap can be huge. A four-legged robot from Unitree can cost around $4,600. A comparable one from Boston Dynamics might run to $278,000. If robotics research is stunted because these cheap robots are no longer available, the FTC ruling could slow down the industry, not boost it. The US and Chinese robotics industries are in starkly different places. Unitree plans to go public this week, targeting a nearly $6 billion evaluation. No robotics companies in the US offer any meaningful comparison, but those that do exist are undeniably moving fewer robots. Figure's humanoids are not yet selling at scale, and 1X's robots aren't yet shipping to homes. That said, work on humanoids is going increasingly mainstream, as a release from Google last week made clear. The company announced a new AI model meant to make humanoids learn new tasks faster; its most impressive ability appears to be tying a trash bag, but given how finicky robot hands are, that's real progress. Even though the many carve-outs in the FTC's order make its practical impact hard to predict, its symbolic impact is easy to see. The administration sees humanoid robotics not as a novelty, but as a strategic frontier of AI worth protecting from foreign competition. For a technology that until recently was mostly known for falling over onstage, that's a big change.",
+    "raw_meta": {
+      "gmail_message_id": "1163",
+      "gmail_uid": "1163",
+      "gmail_labels": [],
+      "gmail_msgid": "1872522966256824843",
+      "gmail_thrid": "1872522966256824843"
     }
   },
   {
@@ -608,6 +774,106 @@
       "gmail_labels": [],
       "gmail_msgid": "1872526195486860891",
       "gmail_thrid": "1872526195486860891"
+    }
+  },
+  {
+    "id": "53066545-3547-40db-9fab-3e47fdfa87d3",
+    "cluster_id": "d07a8e68-26f1-4dd9-85f7-4ce1a0763b09",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "teaser": "Superblocks partners with AWS, allowing its tools to run entirely within private enterprise clouds—meaning business data never leaves the premises.",
+    "summary": "Vibe-coding startup Superblocks has partnered with AWS to embed its tools directly into the private clouds of enterprise customers. This ensures that sensitive business data never leaves the company's secure network, using services like Amazon Aurora databases and integrating with Amazon Bedrock for AI capabilities. While this move aligns with a broader trend where cloud providers urge businesses to keep their entire AI stack internally, industry experts note that CIOs are already pushing back by favoring multi-model strategies to prevent vendor lock-in, making the security implications of these partnerships highly significant.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "date": "2026-08-03T20:00:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/SuperBlocks-founder-Brad-Menezes.jpg?resize=1200,811",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Julie Bort",
+    "content": "Vibe-coding startup Superblocks announced a multiyear joint marketing agreement with Amazon Web Services (AWS) that enables its tool to be embedded within the private clouds of AWS customers. That means an enterprise on AWS that subscribes to Superblocks will be able to offer vibe coding to the company's business users, and those apps will not send data or information externally to model providers or databases. The apps will spin up Amazon Aurora databases within the company's private cloud, not, for instance, create external Supabase databases, the vibe-coding database of choice . The apps will also integrate with Amazon Bedrock , the cloud giant's AI app development/AI gateway/inference platform. Essentially, these apps will automatically fall under IT's management and security, rather than be rogue applications. \"We're going to bring it to your data inside your private cloud,\" Superblocks co-founder and CEO Brad Menezes tells TechCrunch of vibe coding. \"The big thing about that is data never leaves. ... It's their AWS account and basically secure with all of the auditing, all of the encryption, all of the network controls.\" AWS will also help sell Superblocks to enterprises as it does for many of its Marketplace partners. \"We support partners where we see strong customer demand and alignment with how customers want to build,\" an AWS spokesperson tells TechCrunch. Still, AWS does not yet have its own vibe-coding agent aimed at business users. It has Kiro, an AI coding agent aimed at developers. Amazon also has an AI assistant, Quick, for business users. But again, that's more like a Claude Cowork or Microsoft Copilot, rather than a Lovable or Replit. So this should be a nice boost for early-stage Superblocks, which has 50 employees and raised a total of $60 million as of its Series A , announced in May 2025, backed by Spark Capital, Kleiner Perkins, Meritech Capital, and Greenoaks. Yet, it's actually a more significant symbol than that. It's part of a growing trend where the hyperscaler cloud providers urge their enterprise customers to separate their AI models from all the other scaffolding needed to run enterprise AI and do so on their clouds. They want enterprises to buy AI harnesses (aka agentic apps), AI orchestration, security tools, and the like from them, and not from the frontier providers. In the past few weeks, Microsoft CEO Satya Nadella has been banging the drum with exactly that message. He's been telling his many enterprise customers to use multiple models to reduce costs and avoid lock-in . He's also been preaching that the AI labs are not trustworthy enough to turn to for agent orchestration or app-level harnesses because they may use that data to study a business and later compete with it. Enterprises perhaps don't need such warnings. They have already decided to adopt multiple models, particularly frontier Chinese open-weight options. \"That is flipped because 60 days ago they were like, I want a specific model. It's called Anthropic,\" Menezes adds. Open models, for instance, accounted for 29% of all traffic routed through Vercel's AI gateway last month, a popular tool among enterprises to manage multi-model AI use. Then, by necessity, all of their AI scaffolding can't be tied to one provider. \"Having a multi-model strategy across big frontier labs, OpenAI, Anthropic, and open source - and I'd say Chinese open source right now, but also U.S. open source is now starting to come up. It's a must-have for the CIO,\" he says. They want model choice for coding as well as customer service, HR, [and] sales automation, he adds. Menezes says the movement is so strong, he predicts that \"any enterprise that is betting on a single model provider, that executive will be fired.\" So now we're seeing the cloud providers bring vibe coding for business users into private, secure clouds, too. That's like a potential second wave after bringing AI coding agents for enterprise developers. \"It's an emerging category with real momentum, and exactly the kind of innovation we support,\" AWS tells TechCrunch.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3148841",
+      "rss_tags": [
+        "AI",
+        "Startups",
+        "AWS",
+        "vibe coding"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "11e2a461-dbb6-4d87-b0f6-c89dbf70faeb",
+    "cluster_id": "5740c60c-c56e-43d7-956e-ac2416d0a06b",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Your Fitbit data can now connect directly to Apple Health",
+    "teaser": "Fitbit data finally connects directly to Apple Health via Google's new 5.05 update, eliminating years of workarounds for fitness enthusiasts.",
+    "summary": "Google has rolled out an update allowing Fitbit users to directly connect their fitness and vital data (workouts, steps, etc.) to Apple Health. This major feature eliminates the need for third-party workarounds that were previously required, as Google Health's 5.05 update now permits two-way syncing. Additionally, the update allows US users to use Smart Health Links—a function where individuals can generate a URL or QR code to securely share selected medical records with doctors or family members.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+    "date": "2026-08-03T21:24:23Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0036.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Emma Roth",
+    "content": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac . With Google Health's 5.05 update , you can now tap your profile icon, select \"Partner apps,\" and choose Apple Health to link your data directly. Previously, you could only import your Apple Health data into Google Health, but not the other way around. That meant using third-party apps - like Power Sync for Fitbit or Fitbit to Apple Health Sync - or some other kind of workaround to connect your Google Health information to Apple Health. Google Health replaced the Fitbit app in May. The new app had a bit of a rocky rollout after users raised concerns over the new AI health coach, user interface, and other issues, though Google has since addressed some of these complaints. Along with this update, Google announced that users in the US can use Smart Health Links to share medical records with a provider or family member. You can create a link by heading to the Health tab, choosing the \"Medical\" section, selecting \"Shareable records,\" and tapping the \"plus\" icon. From there, you can choose which data you want to include in the link and share it via a URL or QR code.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=974778",
+      "rss_tags": [
+        "Apple",
+        "Apps",
+        "Gadgets",
+        "Google",
+        "Health",
+        "News",
+        "Science",
+        "Tech",
+        "Wearable"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "31a219a5-74ec-4f21-8729-f6319888d258",
+    "cluster_id": "f414e558-3afd-4080-ab40-1bf675ef93a4",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+    "teaser": "Despite the $2,195 price tag, Snap CEO Evan Spiegel is banking on its 'first mover' status to conquer smart glasses market rivals like Apple and Meta.",
+    "summary": "During his recent earnings call, Snap CEO Evan Spiegel deflected investor questions about preorder demand for Specs, the company’s new smart glasses priced at $2,195. Instead of addressing immediate sales numbers, Spiegel emphasized that consumers need a hands-on experience to appreciate the technical advancements. He defended Snap's strategy against giants like Apple and Meta by highlighting its 'first mover' advantage in developing a new computing platform.\n\nWhile acknowledging that weight and cost must decrease for mass adoption (expected later in the decade), he expressed confidence in the long-term opportunity. Spiegel stressed that achieving this product is technically complex, allowing Snap to leverage its early position to build out the ecosystem.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+    "date": "2026-08-03T22:10:58Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281915461.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Aisha Malik",
+    "content": "Snap CEO Evan Spiegel sidestepped investors' questions about preorder demand for the company's long-awaited Specs smart glasses during Monday's earnings call, just weeks before the device's September launch event. \"What we're hearing from folks is really that they want to try Specs,\" Spiegel told investors. \"It's obviously a high consideration purchase at $2,195. Obviously, developers and folks who are familiar with the platform really understand it and understand the technical leaps we've made with this generation. I think for the broader public and consumers, it's going to be really important for folks to go hands-on. Our upcoming launch event will be an important sort of starting point for that consumer-oriented journey.\" The company unveiled Specs in June after spending more than a decade developing the device. The wearable's $2,195 price tag is significantly higher than most Meta Ray-Ban smart glasses, which start at around $350, but lower than Apple's Vision Pro, which starts at $3,500. Investors also pressed Spiegel on why he believes Snap's strategy is financially viable for a company of its size, why it chose to go it alone rather than partner with another company, and what gives him confidence that the company can compete with Apple, Meta, and Alphabet. Spiegel responded that Snap believes the long-term opportunity to develop the next computing platform is \"enormous.\" \"I think what some folks maybe don't understand yet, especially because Specs are so new and we're really the first mover in this category, is how difficult the product is to execute from a technical perspective,\" Spiegel said. \"When we started innovating in the social space, we were a late entrant. So, most of the apps at the time, whether it was Facebook or Instagram or Twitter, were already in existence, and we had to really innovate to continue to grow. What's so unique about this opportunity for us is really that we're a first mover, and that really plays to our strengths as an innovator.\" When asked about product-market fit, Spiegel said it will likely be closer to the end of the decade before the company sees mass-market consumer adoption. \"I think things, for example, like weight and cost are going to have to come down to see you know unit volumes really meaningfully pick up.\" But we do have, I think, a real advantage here in that developers have been building on the Specs platform now for several years.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3149431",
+      "rss_tags": [
+        "Apps",
+        "Hardware",
+        "Social",
+        "Snap",
+        "Snapchat",
+        "specs"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   },
   {
@@ -758,6 +1024,36 @@
       "rss_tags": [
         "TC",
         "Apps"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "47ac9f73-6855-4dbc-8b94-98b5536443a0",
+    "cluster_id": "78ab95b7-fbba-4d49-a63a-c0ad50c8aff5",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
+    "teaser": "Samsung's versatile M80F monitor ($349.99) and the QD-OLED G50SF gaming panel (as low as $300) are available at steeply discounted prices.",
+    "summary": "Samsung is making high-quality monitors more accessible through deep discounts on two models: the M80F and the G50SF. The versatile M80F, a 32-inch 4K panel that combines computer monitor functions with television features (including streaming apps and a removable webcam), is discounted to $349.99. For dedicated gamers, the QD-OLED Samsung G50SF offers excellent specs—like an up to 180Hz refresh rate and .03-millisecond response time—and is currently available around $300. Both options provide significant value compared to their original or competitor pricing.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
+    "date": "2026-08-03T21:13:38Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Samsung-M80F-Lifestyle.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Brad Bourque",
+    "content": "Samsung makes a variety of TVs and computer monitors, but if want both and you're limited on space, you might want to consider the M80F . This capable 32-inch 4K panel combines features commonly found on both types of screens, and Amazon and B&H Photo both have it discounted to $349.99, where it's usually $400 or much higher. In addition to acting as a standard 4K screen for your computer or console, the M80F has a full suite of video streaming apps you'd expect to find on a television, with picture-in-picture support for multitasking, plus a removable webcam for video chats. The M80F has above-average connectivity for a monitor. In addition to the ports like HDMI 2.0, USB-C for charging devices up to 65W, and USB-A for your keyboard and mouse, you can also connect the Tizen interface to Wi-Fi to directly communicate with your network (it also supports Bluetooth headphones). Speaking of gaming, the M80F supports apps like Xbox and Nvidia GeForce Now, letting you pair a controller to the display to play games over the cloud. The VA panel is better suited for work than play, but HDR10 Plus support will help your movies and TV shows pop. My colleague Cameron Faulkner reviewed a previous version of the M80F and appreciated its versatility, but the $699.99 launch price was a bit off-putting, so a discount on a newer, improved model is definitely worth calling out.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=974583",
+      "rss_tags": [
+        "Deals",
+        "Gadgets",
+        "Verge Shopping"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
