@@ -777,6 +777,43 @@
     }
   },
   {
+    "id": "8adc8191-46a2-4966-9b5b-cc4304409444",
+    "cluster_id": "0b80050d-8c1f-4003-856a-bc7ed74a0ae7",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+    "teaser": "Apple is challenging the UK government’s demand for an iCloud backdoor into users' end-to-end encrypted data, citing privacy rights.",
+    "summary": "Apple is legally challenging repeated demands from the U.K. government to access its users' encrypted iCloud data. The core issue revolves around the 'technical capability notice,' a secret legal order demanding access even when data is protected by Advanced Data Protection (ADP). ADP secures backups with end-to-end encryption, meaning only the customer can access it, including Apple itself. Critics argue that such demands effectively require a government 'backdoor.' This current dispute follows a previous highly publicized conflict between Apple and the U.K. over encrypted backups.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+    "date": "2026-08-03T18:54:09Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/apple-icloud-drive.jpg?resize=1200,761",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Lorenzo Franceschi-Bicchierai",
+    "content": "Apple is challenging another legal demand by the U.K. government to access the encrypted data of its users in the country, according to Financial Times . The company reportedly filed a complaint with the U.K.'s Investigatory Powers Tribunal, a court that hears cases related to government surveillance, after the government last year issued a \"technical capability notice.\" The notice is a secret government legal order for demanding access to users' data, even if the data is encrypted. For critics, this kind of demand is the equivalent of requesting a backdoor into Apple's cloud backups that have Advanced Data Protection (ADP) switched on, which makes the data end-to-end encrypted and inaccessible to anyone other than the customer, including Apple. This new challenge comes a year after a similar fight between Apple and the U.K. government. In early 2025, London issued a secret order to Apple demanding access to users' encrypted iCloud backups, which was later dropped following the intervention of the Trump administration. After the first order, the company reacted by removing the ability of U.K. users to use ADP. Then, in October, the U.K. issued a second order , which Apple is now challenging. Apple did not respond to TechCrunch's request for comment.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3149290",
+      "rss_tags": [
+        "Security",
+        "Advanced Data Protection",
+        "Apple",
+        "apple icloud backdoor",
+        "backdoor",
+        "encryption",
+        "iCloud",
+        "In Brief",
+        "privacy",
+        "UK"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "53066545-3547-40db-9fab-3e47fdfa87d3",
     "cluster_id": "d07a8e68-26f1-4dd9-85f7-4ce1a0763b09",
     "cluster_size": 1,
