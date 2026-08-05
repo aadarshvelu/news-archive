@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ba0e14e0-d1a4-4670-853c-020d28c39be9",
+    "cluster_id": "32f3c84f-9f04-4c1c-b897-bc93301968e2",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "Bending Spoons to acquire productivity software startup Airtable for $1.285B",
+    "teaser": "Bending Spoons is set to acquire Airtable for $1.285 billion in an all-cash deal, tapping into a platform used by over 500,000 global organizations.",
+    "summary": "Technology holding company Bending Spoons announced plans to acquire Airtable for $1.285 billion in all cash. Airtable is a popular cloud-based platform that functions as both a flexible database and an automation workspace, enabling users to organize complex data and build custom workflows using built-in AI agents. The software maker currently serves over 500,000 organizations, including most of the Fortune 100. Financially, Airtable boasts an annual recurring revenue exceeding $480 million after growing more than 20% last year.\n\nThe deal is significant as it represents Bending Spoons' first acquisition since its recent IPO. Known for acquiring and enhancing diverse tech firms like Vimeo and Evernote, Bending Spoons aims to utilize Airtable's core strength—bringing teams and workflows together—to expand its value across the full spectrum of work.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/08/04/bending-spoons-acquire-productivity-software-startup-airtable-1-285b/",
+    "date": "2026-08-05T00:29:11Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Airtable.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Technology holding company Bending Spoons S.p.A. today announced plans to acquire Airtable Inc., the developer of a popular cloud-based spreadsheet platform. The all-cash deal is worth $1.285 billion. That's less than the approximately $1.4 billion Airtable has raised from its investors. The company was valued at $11.7 billion following its most recent funding round, a $735 million Series F deal that closed in 2021. Italy-based Bending Spoons acquires tech firms and improves their financial performance by enhancing their products. The company has added more than 30 features to Vimeo, a popular video hosting platform, since buying it last November. Bending Spoons has made over 200 improvements to Evernote, a note-taking app it acquired two years earlier. The company went public on the Nasdaq last month in a listing that raised $1.68 billion. The Airtable acquisition is its first deal since the offering. Airtable's namesake platform enables workers to organize to-do items, leads and other business data in spreadsheets. Customers can speed up routine tasks by creating automation workflows. For example, a software team could create a workflow that notifies an executive whenever an important to-do item is completed. Airtable can also automate more complex tasks. Built-in artificial intelligence agents enable users to enrich spreadsheet data with information from the web, find patterns of interest and generate visualizations. Administrators can customize details such as the thirdparty large language model that the agents use. Airtable doubles as an application development platform. A tool called Omni enables workers to create simple programs that ease routine business tasks. It can be used together with a second tool, Portals, to build apps for external users such as suppliers. The latter capability makes it possible to implement user-facing forms and login menus. Airtable applications are connected to spreadsheets that users keep in the platform. By default, those spreadsheets can hold only a limited amount of data. A feature called HyperDB increases the storage limit by connecting the platform to external data repositories such as Snowflake environments. The feature supports spreadsheets with up to 100 million rows. According to Airtable, its platform is used by more than 500,000 organizations including most of the Fortune 100. The software maker's annual recurring revenue grew more than 20% in the past year to $480 million. Bending Spoons generated $601.3 million in total sales during its fiscal first quarter. \"We're committed to investing in Airtable for the long run, and doubling down on its core strength: bringing teams and workflows together in one flexible workspace,\" said Bending Spoons co-founder and Chief Executive Officer Luca Ferrari. \"We plan to expand what can be done across the full spectrum of work and make Airtable even more valuable to customers at every scale.\" Bending Spoon expects to close the acquisition by year's end. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=805494",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "Top Story 4",
+        "acquisition",
+        "AI agent",
+        "Airtable",
+        "Bending Spoons",
+        "software",
+        "spreadsheet",
+        "startup",
+        "NASDAQ:BSP"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]
