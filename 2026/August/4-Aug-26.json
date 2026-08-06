@@ -293,6 +293,35 @@
     }
   },
   {
+    "id": "1f5b683d-210d-4825-b605-3f182574fa1b",
+    "cluster_id": "a7321b01-9dc1-403a-ad03-aa3b5179d8d6",
+    "cluster_size": 4,
+    "source": "TechCrunch",
+    "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+    "teaser": "AI's soaring compute demand is straining global grids; Disrupt 2026 brings fusion leaders and utility experts together to tackle how to power the next decade of tech innovation.",
+    "summary": "TechCrunch Disrupt 2026, held October 13-15 in San Francisco, will feature the 'Smart Systems Stage,' addressing the critical bottleneck of energy infrastructure required by advanced AI. The stage brings together leaders to discuss how massive compute demand strains existing grids. Panelists will cover multiple areas: Fusion power breakthroughs from Commonwealth Fusion Systems and Helion; modernizing aging electrical grids with insights from industry experts; and strategies used by companies like Bloom Energy and Ambrosia Energy to secure the necessary electricity for data center expansion. This deep dive highlights that powering AI requires simultaneous advances in energy generation, grid resilience, and infrastructure investment.",
+    "importance": 5,
+    "category": "ai_research",
+    "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+    "date": "2026-08-04T22:18:30Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1145953370.jpg?resize=1200,802",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "TechCrunch Events",
+    "content": "Congrats, you're all set for TechCrunch Disrupt 2026 ! Or, you might still be on the fence and wondering about your accommodations. Either way, the reality is San Francisco can be an expensive place to stay, which is why we've partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees. Before diving into your options, there are a few key benefits to keep in mind: These reservations can be canceled or modified without penalty. There's zero upfront cost to any of these reservations. Your rewards points and loyalty programs will work as expected. Each hotel is within walking distance of Moscone West, which means more time for that crucial pre-Disrupt coffee or more post-Disrupt networking. Each of these hotels provides a great mix of accessibility to Disrupt , and plenty of options for catering your San Francisco experience to your tastes. Image Credits: Smith Collection/Gado/Getty Images Located right along the waterfront, the Hyatt Regency places you just a brief walk away from Disrupt and its many side events, and an even shorter distance from the city's beloved Ferry Building . Hog Island Oyster Company or Gott's Roadside make for great dining options, and if you're extending your stay, you can take the ferry to scenic spots like Sausalito and Angel Island. Image Credits: Smith Collection/Gado/Getty Images For those with energy to spare after an exciting day at Disrupt, Hotel Zelos is a four-star hotel with a rooftop bar perfect for post-event conversations and meetups. Or for the urban explorers out there, it's much easier to hop on public transportation if you want to have your post-Disrupt networking elsewhere in the city. Image Credits: Smith Collection/Gado/Getty Images You can't get any closer than the InterContinental , which sits right beside Moscone West and is the perfect home base for exploring the event and branching out into everything else. Within walking distance is the world-class San Francisco Museum of Modern Art and the Metreon theater - though we can't promise its 70MM IMAX will still be playing the Odyssey... Image Credits: Smith Collection/Gado/Getty Images The Grand Hyatt towers over San Francisco, perched beside Union Square, where you can check out some of the city's best restaurants or best shopping in your downtime. Explore old-school steak houses , new spins on Vietnamese cuisine , or one of the city's most celebrated cocktail bars . Plus, it's a quick walk from historic Chinatown and its many attractions. And if there's a colleague you'd like to bring along, it's not too late! Register a teammate and save on their pass while ensuring you both get the most out of the Disrupt experience. With discounted hotel room blocks available for a limited time, we recommend booking early to secure your preferred hotel at the best price. Start getting your itinerary together right here . If you remain on the fence, keep in mind that until 11:59 p.m. this Friday, August 7, we're offering a limited-time flash sale on tickets, with this link giving you an extra $100 off founder, investor, or attendee tickets . And if you're all set, we can't wait to see you in San Francisco in October!",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3149899",
+      "rss_tags": [
+        "Startups",
+        "TechCrunch Disrupt"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "c6ee18e0-a74f-42ef-af4a-e866d5c1ff55",
     "cluster_id": "fa7a702d-3a0a-4e27-83fa-54d38171fa33",
     "cluster_size": 3,
