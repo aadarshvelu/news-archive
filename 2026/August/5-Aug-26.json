@@ -1,5 +1,33 @@
 [
   {
+    "id": "5fa0d873-48f2-4659-be2a-96799b3b33fb",
+    "cluster_id": "4521bad9-09f7-4b11-bb70-2e92ba8222d9",
+    "cluster_size": 4,
+    "source": "The Register",
+    "title": "Double trouble for Microsoft as pre-owned software license claims converge",
+    "teaser": "Microsoft faces a massive legal confluence as two lawsuits allege it restricted pre-owned software sales, potentially netting £1.3B–£3.5B in damages.",
+    "summary": "Two major lawsuits are converging at the UK's Competition Appeal Tribunal (CAT), targeting Microsoft's alleged restriction of the pre-owned software license market. ValueLicensing sued in 2021 over £270 million, while a larger class action represented by Alexander Wolfson seeks up to £3.5 billion from millions of customers. The CAT has paused core proceedings but allows procedural steps like disclosure (Sept 14) and case management conferencing (Sept 15) to proceed, potentially coordinating the two claims.\nExperts argue that Microsoft allegedly abused its market dominance through restrictive licensing practices, hindering competition in the used-software sector. Both cases hinge on establishing the exhaustion of copyright for perpetually downloaded licenses.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/saas/2026/08/05/double-trouble-for-microsoft-as-pre-owned-software-license-claims-converge-1/5282421",
+    "date": "2026-08-05T09:02:00Z",
+    "image_url": "https://image.theregister.com/5282663.jpg?imageId=5282663&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "saas Double trouble for Microsoft as pre-owned software license claims converge Tribunal to explore how £270 million reseller case intersects with multibillion-pound class action ValueLicensing (VL) has been invited to attend a case management conference in a related multibillion-pound collective action against Microsoft, according to the reseller's boss, Jonathan Horley. VL sued Microsoft for £270 million in 2021 , alleging that the software giant restricted the supply of surplus Office licenses available for resale. Barrister Alexander Wolfson is the proposed class representative in a separate claim filed in 2025 on behalf of more than two million UK customers. That action seeks between £1.3 billion and £3.5 billion in compensation. Both cases are before the UK's Competition Appeal Tribunal (CAT) and concern Microsoft's alleged efforts to restrict the market for pre-owned software licenses. Case management conferences (CMCs) are used to set timetables and decide procedural questions as a case progresses. According to Horley, ValueLicensing has a CMC concerning disclosure listed for September 14, followed the next day by an invitation to another in the Wolfson proceedings. The September 15 CMC could address how the two proceedings interact, including whether the Wolfson action should be stayed pending judgment in the more advanced ValueLicensing case. There is also the possibility that the claims could eventually be heard together, although the tribunal has yet to indicate what course it will take. ValueLicensing's case is considerably further ahead of Wolfson's. The Court of Appeal dismissed Microsoft's appeals on issues including copyright in July, although Microsoft can seek permission to appeal to the Supreme Court . Kate Pollock, head of competition litigation at law firm Stewarts, said of the Wolfson case earlier this year: \"Microsoft's conduct has had a profound and costly impact on millions of individuals and private and public sector organizations that rely on its software for daily business operations. \"We believe that Microsoft abused its market dominance by imposing restrictive licensing practices that effectively shut down competition and inflated prices.\" Closer procedural links between the cases could complicate Microsoft's defence against two claims arising from similar allegations. The Register asked the Windows behemoth to comment, but it declined. VL's Horley told The Register: \"Following on from the judgment at the Court of Appeal we are pleased to have a hearing listed for September 14 to progress further disclosure. ValueLicensing has also been invited to the first hearing of the Alexander Wolfson class action on September 15. That will deal with the next steps for certification and the interactions between the two claims.\" Horley said the move was \"very significant\" and showed the progress ValueLicensing had made in terms of the competition and copyright law aspects. \"ValueLicensing are experts in the pre-owned Microsoft market with significant evidence and experience of the operation of the market during the relevant period in which the abuse is alleged to have occurred,\" he said. \"Given that both claims relate to the pre-owned Microsoft market, that the ValueLicensing claim is so advanced and Mr Justice Turner is Chair for both, it is logical for ValueLicensing to be invited. ValueLicensing is happy to assist the Tribunal in determining the next procedural steps for both actions.\" Microsoft declined to comment. A spokesperson for the Alexander Wolfson class action has yet to comment. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5282421",
+      "rss_tags": [
+        "saas"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "31bdb8d4-ee7f-4fa8-947a-b3ce65060eae",
     "cluster_id": "49c91636-8b08-4751-9921-c1ccf439831c",
     "cluster_size": 2,
