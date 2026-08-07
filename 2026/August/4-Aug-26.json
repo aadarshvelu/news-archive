@@ -1235,6 +1235,32 @@
     }
   },
   {
+    "id": "289a3bcd-b3e6-4e8b-a4df-a3d4a3663651",
+    "cluster_id": "eb15a116-bba4-4320-a250-610424291dfd",
+    "cluster_size": 2,
+    "source": "thehill",
+    "title": "Technology — Kids safety advocates hope for age verification win",
+    "teaser": "New York's SAFE for Kids Act mandates social media sites implement age checks by 2027, with penalties up to $5,000 per violation.",
+    "summary": "Legislation surrounding online safety is driving major mandates for age verification. Federally, the SCREEN Act seeks to require pornography websites to use age verification technology, a potential 'most significant win in kids online safety' according to advocates. Separately, New York State finalized rules under the SAFE for Kids Act (effective Jan 25, 2027) targeting social media platforms like Instagram and TikTok. These rules mandate that platforms verify user ages—for features like algorithmic feeds or late-night notifications—using methods with high accuracy and requiring immediate data deletion. While minor users can seek parental consent to access restricted content, the law ensures platforms cannot block minors from non-age-gated parts of the app.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://nxslink.thehill.com/click/46889922.23788/aHR0cHM6Ly94LmNvbS9Kb25TY2h3ZXBwZS9hcnRpY2xlLzIwODI4Mjk1OTIxNTUyODM5MTc_ZW1haWw9NDY3Y2I2Mzk5Y2I3ZGY2NDU1MTc3NWU0MzEwNTJiNDNhNzc1Yzc0OSZlbWFpbGE9MTJhNmQ0ZDA2OWNkNTZjZmRkYWEzOTFjMjRlYjcwNDImZW1haWxiPTA1NDUyOGU3NDAzODcxYzc5ZjY2OGU0OWRkM2M0NGIxZWMwMGM3ZjYxMWJmOTM4OGY3NmJiMjMyNGQ2Y2E1ZjMmdXRtX3NvdXJjZT1TYWlsdGhydSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1UZWNoJTIwbmV3c2xldHRlciUyMDguNCUyMENM/6a089f55f92dbeadcb034eabBe044b242",
+    "date": "2026-08-04T21:40:37Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "The Hill",
+    "content": "The path forward for bills like the Kids Online Safety Act (KOSA) is rocky, but advocates of digital age verification are hopeful that one of the five measures to be considered during the pre-recess markup has enough support across Congress. The measure, dubbed the Shielding Children's Retinas from Egregious Exposure on the Net (SCREEN) Act , would require pornography websites to use age verification technology to block minors from the platform. The bill was introduced by Sen. Mike Lee (R-Utah) - one of the upper chamber's loudest supporters of stricter online age verification procedures - nearly a year and a half ago. While it does not go as far as other age verification proposals introduced this session, it signals Congress's appetite for the issue, and proponents see the bill as a major step forward for the movement, advocates told The Hill. \"If it happens, it's going to be the most significant win in kids online safety to date,\" Jon Schweppe, senior adviser at the conservative nonprofit group American Principles Project, told The Hill Monday. \"And so here we are. Eight years in the making. A couple steps away from age verification for adult websites becoming the law of the land,\" Schweppe added in an online post . While there is an appetite across political lines and industries to prevent kids from accessing inappropriate or harmful content, lawmakers have struggled to unite behind proposed methods to verify users' ages. Between the upcoming August and October recesses, time is running out for this Congress to get any legislation across the finish line. Age verification legislation has support from several tech safety watchdog groups but drew criticism from privacy groups over First Amendment concerns and divided Big Tech firms on which platforms bear responsibility for verification. Should the SCREEN Act go into law, it would be one of the first federal age-verification mandates to take effect in more than 20 years, barring potential legal challenges. Read more in a full report tomorrow morning at TheHill.com",
+    "raw_meta": {
+      "gmail_message_id": "1180",
+      "gmail_uid": "1180",
+      "gmail_labels": [],
+      "gmail_msgid": "1872630534463855906",
+      "gmail_thrid": "1872630534463855906"
+    }
+  },
+  {
     "id": "b8a692c5-60ce-48fd-9dc8-a80fea12473c",
     "cluster_id": "f13f943b-e4a9-479c-ab71-25ea2f7cc0ad",
     "cluster_size": 1,
