@@ -454,6 +454,34 @@
     }
   },
   {
+    "id": "ac6c62ed-df00-4f5c-8a50-006bc77f4c31",
+    "cluster_id": "585a4868-1c81-4e64-8a3f-03ebc3e961e6",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "AMD's AI eggs are in too few baskets, Wall Street worries",
+    "teaser": "Despite a record profit surge, Wall Street dropped AMD stock over 8% due to worries that its growth is too reliant on a handful of 'AI bubble' customers like OpenAI and Meta.",
+    "summary": "AMD reported strong Q2 financials, with profits surging 163% YoY on $11.5 billion in revenue. CEO Lisa Su projects data center segment revenue will more than double by 2027, citing major commitments for Helios racks and MI400-series GPUs. However, Wall Street reacted negatively, worried that AMD's growth is overly dependent on a few large AI clients (like OpenAI and Meta), who haven't fully proven profitable operations yet.\n\nWhile the company unveiled powerful new platforms—including Helios racks with 72 MI455X GPUs and Venice Epycs CPUs for agentic AI sandboxes—it faces headwinds. Although client PC sales were up 23%, AMD warns of potential slowdowns from the 'RAMpocalypse,' and gaming revenue dropped 31%. Nonetheless, AMD maintains an optimistic outlook across its server, datacenter, and embedded divisions.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/systems/2026/08/05/amds-ai-eggs-are-in-too-few-baskets-wall-street-worries/5283142",
+    "date": "2026-08-05T00:40:10Z",
+    "image_url": "https://image.theregister.com/246863.jpg?imageId=246863&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "SYSTEMS AMD's AI eggs are in too few baskets, Wall Street worries The House of Zen's new Helios racks, Venice Epycs, may dent Nvidia's dominance - if the bubble doesn't pop first AMD has posted strong second quarter results and forecast even better future financials once its Helios rack systems and Instinct MI400-series GPUs reach buyers. \"In data center AI, the growing number and scale of Helios and MI450-series deployments position the [datacenter] business for significant growth in the second half of the year, with growth accelerating in 2027,\" CEO Lisa Su told investors on Tuesday during the chip design company's Q2 earnings call. \"We now expect data center segment revenue to more than double year over year in 2027,\" she added. Yet, despite reporting Q2 profits surging 163 percent year-over-year on revenues of $11.5 billion, and several multi-gigawatts worth of Helios commitments from the likes of OpenAI, Anthropic, and Meta in the bag, Wall Street isn't buying it. The company's share plunged 10.5 percent after its results announcement, before settling 8.7 percent below opening price at the time of publication. The apparent cause for concern: AMD's growing exposure to the AI bubble. Much of the company's growth potential across both CPUs and GPUs is tied to AI adoption by a handful of companies that are yet to prove they can operate profitably. On Tuesday's earnings call, Su attempted to assuage investor fears, but in the same breath she said the quiet part out loud. \"When we talked about the large frontier-model companies, OpenAI, Anthropic, Meta, they will be consuming through a number of CSPs,\" Su said. \"There are additional customers or lots of customers who are interested in Helios at, let's call it, a more regular scale than gigawatt scale.\" In other words, while AMD can sell plenty of GPUs, most are sold to a handful of customers. And while other entities have AMD on their shopping lists, they don't buy in bulk. Microsoft, another flagship customer for AMD's latest generation of AI picks and shoves, serves both OpenAI and Anthropic, while Meta is reportedly looking to enter the GPU cloud biz itself. Despite this, AMD remains optimistic about its prospects over the next few quarters. It's not hard to see why because since the launch of its MI300-series GPUs in late 2023, AMD has established itself as the most credible alternative to Nvidia. At its Advancing AI event in San Francisco last month, the company showcased a new rack-scale compute platform called Helios packing 72 Instinct MI455X GPUs each with 432 GB of HBM4 memory on board. On paper, the system meets or beats the performance of Nvidia's Vera Rubin platform on most metrics. The Reg explored these chips in greater detail here . AMD is also eager to cash in on demand for CPUs to power agentic AI sandboxes, which Su anticipates will be the biggest growth driver for Epyc sales before long. Also unveiled at Advancing AI, AMD's Venice Epycs will offer up to 256 cores and 512 threads with support for 16 memory channels at speeds of up to 1.6 TB/s per socket. However, the CPU market isn't the duopoly it once was and AMD now faces its traditional foe Intel, plus new competitors such as Nvidia, Arm, Qualcomm, AWS, Google, and Microsoft. Nonetheless Su remains bullish about AMD's prospects. \"Whether it's server CPU, datacenter, AI, or our embedded business, and our PC business, we see them all benefiting from the AI tailwinds,\" Su said. It seems the AI tides will lift all chips, but let's not forget that tides rise and fall. In any case, while AMD's embedded division is doing quite well with revenues topping $977 million, an increase of 19 percent over this time last year, things aren't looking so hot for the House of Zen's gaming and client computing divisions. While client PC sales were up 23 percent YoY to $3.1 billion during the quarter, AMD warns that the ongoing RAMpocalypse is likely to cut into PC sales over the next few quarters. Meanwhile in gaming, the end of a console sales cycle is hitting AMD hard on semi-custom processor orders, with gaming revenue down 31 percent during the quarter to $779 million AMD's datacenter and AI sales teams therefore get the job of delivering the company's Q3 forecast which calls for revenues of $13 billion plus or minus $300 million. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5283142",
+      "rss_tags": [
+        "systems"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "63767d78-00ef-4655-b6e6-61f9ed69ff30",
     "cluster_id": "6a72aa46-47ae-41fd-acfd-d795be300e55",
     "cluster_size": 1,

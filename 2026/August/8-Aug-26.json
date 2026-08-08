@@ -35,5 +35,286 @@
       "fetch_status": 200,
       "fetch_error": null
     }
+  },
+  {
+    "id": "ced9d479-87ce-446f-91f8-e8f7e192712e",
+    "cluster_id": "292e4181-4300-46a7-ad24-390d69ca5823",
+    "cluster_size": 3,
+    "source": "TechCrunch",
+    "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+    "teaser": "High-end e-ink notebooks compete fiercely: The Kindle Scribe Colorsoft ($630) vs. refurbished Remarkable Paper Pro ($449.99 bundle).",
+    "summary": "The market for premium digital note-takers is crowded with options like the Kindle Scribe Colorsoft, which costs $630 but excels for students and researchers needing color annotation on its 11-inch display. Alternatives include refurbished devices: the first-gen Kindle Scribe model is available through Woot for a low price ($149.99), while the Remarkable Paper Pro offers a discounted bundle ($449.99). The Kindle line provides key features like AI note summarizing and adjustable color temperatures, making it useful for reading documents alongside handwritten notes. However, users must weigh performance (e.g., Remarkable's smooth writing) against cost and specific functionality requirements.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+    "date": "2026-08-08T16:00:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/kindle-scribe-colorsoft.jpg?resize=1200,900",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Aisha Malik",
+    "content": "After testing the Kindle Scribe Colorsoft for two months, I found that it was made for a very specific kind of note-taker and reader. While the device is pretty and lightweight, it's not something the everyday person needs due to its hefty price tag and size. However, for those who have been waiting for a color Kindle that doubles as a digital notebook, the Kindle Scribe Colorsoft is worth considering. The device starts at a steep $630 and is available in two colors: Black and Fig, a pretty purple shade. It weighs just 400 grams and features an 11-inch display that makes it similar in size to a traditional sheet of paper. Its thin design is impressive, but its larger size means it's not exactly something you can hold comfortably with one hand. I found it most comfortable to use when it was propped up against my knees while sitting on a bed or placed flat on a desk. One thing I like about e-readers is that they're usually quite portable, so I can easily pop one into my purse when I'm on the go. That wasn't the case with the Kindle Scribe Colorsoft because its size meant I never ended up taking it out of the house. However, if you're an avid note-taker or researcher, I could see why you'd want to put it in your work bag to take with you to the office or to a coffee shop to get some work done. Beyond those situations, it's not a device I'd reach for during a quick trip in an Uber or while waiting at a doctor's office. The larger size does mean that there's more room for writing and note-taking, or even sketches and diagrams. And of course, the larger display makes reading PDFs and other documents easier. When it comes to reading, the larger screen has both benefits and drawbacks, as the extra space is helpful when reading books with charts or maps, but the size also gets rid of the cozy feeling that makes smaller Kindles appealing. Image Credits: TechCrunch / What I liked about the larger size was that I was able to create an easy-to-read color-coded digital planner and reading journal, especially since the device comes with templates for daily, weekly, and monthly planners. And as someone who normally has a physical reading journal, I found it quite efficient to be able to finish a book and then open up a digital notebook on the same device to log my reading. The device comes with a Kindle Scribe Pen that attaches magnetically to the side of the e-reader. The pen feels nice in your hand and can be programmed for various actions. The eraser works smoothly and responds almost instantly. While the color display is fun, it's important to recognize that colors look more like soft highlighter shades rather than the vibrant tones you see on a regular tablet. That's not necessarily an issue for note-taking, but it does mean that comics and other visual content won't look as rich as the original colors. The device's color options were useful when highlighting books because I could assign specific colors to different types of notes. For example, while reading a twisty thriller, I used blue to mark details I thought I might need to remember later and red for quotes I enjoyed and wanted to note. It's also easy to quickly switch between the different colors thanks to the device's fast refresh rate. As for battery life, I found it to be excellent. I only had to charge the device twice over the course of two months. It is worth noting, however, that writing uses more power than reading. All in all, the Kindle Scribe Colorsoft makes the most sense for students, researchers, and journalers who want one device for reading, annotating, and organizing handwritten notes. For everyone else, the steep cost is hard to justify. If you're simply looking to upgrade an older Kindle, I don't think the Kindle Scribe Colorsoft is worth the investment, as you'd be better off with the more reasonably priced Kindle Paperwhite , which starts at $159.99.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3151237",
+      "rss_tags": [
+        "Hardware",
+        "Gadgets",
+        "Kindle"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "898bf553-2981-4331-86f7-a1c81c735c03",
+    "cluster_id": "b0f576a0-763f-4c50-bbe8-557cbfb3f77f",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+    "teaser": "Weighing just 146 grams, the Nitecore NB10000 Gen 4 is the lightest 10,000mAh power bank on the market—perfect for backpackers!",
+    "summary": "Nitecore's new NB10000 Gen 4 power bank is hailed as a major upgrade for outdoor enthusiasts, boasting an ultralight weight of just 146 grams and compact size while retaining a 10,000mAh capacity. Its impressive weight reduction is attributed to advanced silicon-carbon anode technology, placing it among the most energy-dense portable chargers available.\nThe device offers powerful features, including up to 22.5W output (enough for models like the 14-inch MacBook Pro) and IPX7 water resistance. Reviewers appreciate the simple indicator lights and pass-through charging capability. While its high price ($83.95) is noted as a drawback compared to previous models, its combination of portability, resilience, and charging power makes it an ideal 'adventure battery'.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+    "date": "2026-08-08T07:00:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_3219.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Thomas Ricker",
+    "content": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks , and I love shaving grams off the gear I carry when backpacking, bikepacking , and trail running. So imagine my delight when Nitecore released a new generation of its ultralight NB10000 battery. After a few weeks with it I can confidently say: Haribo be damned ! The $83.95 NB10000 Gen 4 weighs just 146 grams, according to my scale, and measures 1.45 x 11.6 x 4.68cm (0.57 x 4.57 x 1.84 inches), according to Nitecore's spec sheet. That makes it the lightest and most compact 10,000mAh power bank I can find. Even when factoring in the extra 6 grams added by the included USB-C lanyard, it still beats the previous ultralight champ : Nitecore's NB10000 Gen 3. The secret to the Gen 4's impressive weight is a silicon-carbon anode , the same battery tech increasingly appearing in flagship smartphones, including Samsung's . As small as it is, the Gen 4's 39Wh battery still fully recharged my aging iPhone 15 Pro twice, with a few watt-hours left in the tank. And with up to 22.5W of output, it can even top-up my 14-inch MacBook Pro when needed. It also supports pass-through to charge your gadgets as the power bank itself charges. Have I found power bank perfection? Almost. $84 The Good Class-leading energy density Smallest and lightest 10,000mAh around Great for endurance athletes and backpackers Impressive water resistance The Bad Expensive Knock-to-wake is hit-or-miss Silly RGB lighting I like that the NB10000 Gen 4 gets all the basics right. It has a simple, four-element indicator to show the battery level, which I much prefer over a fancy display. It's constructed out of carbon fiber sheets and offers IPX7 protection against water ingress, allowing it to withstand rain or even temporary submersion - exactly what you want from an adventure battery. In my testing, I measured 33.58Wh of the claimed 39Wh capacity for an 86.1 percent efficiency. That's a pretty good result for a premium power bank and a slight improvement on the 33.33Wh we measured on the Gen 3 model. That works out to 229.98Wh/kg of delivered energy, or 220.90Wh/kg with the cable - class-leading results, either way. The NB10000 Gen 4 supports PD, QC3.0, and Huawei's SCP charging protocols. The Gen 4 battery on top of an iPhone 15 Pro. It's very small for the charge capacity it holds . The RGB lights are pretty but a little superfluous and that button is touch-sensitive instead of mechanical. Silly. Carbon fiber shell with strong IPX7 resistance to water ingress. Supports pass-through charging to charge and be charged simultaneously. The Gen 4 model also didn't suffer from the overheating and shutdown issues we saw when the Gen 3 would run low on juice. I did, however, see a temporary interruption in power delivery when the Gen 4 unit was almost fully depleted, but that's only because I had a meter attached - otherwise I wouldn't have known since it continued charging almost immediately. The only thing that could be considered superfluous is the animated RGB lighting that flows around the dual USB-C ports. The lights are there to guide you to the USB-C ports in a dark tent, says Nitecore, but you can also... feel them. Give the battery a double-knock near the top and the lights (and battery indicator) illuminate. This can be helpful if wearing gloves since Nitecore inexplicably opted for a touch-sensitive wake button on the Gen 4. Fortunately, that so-called \"Touch Button\" did reliably sense my wet finger in testing. The knock-to-wake feature seemed to only work about 75 percent of the time, but it, and the RGB lights, can be disabled if you want. 1/8 The lanyard is actually a braided USB-C cable rated for up to 60W. The lights will also glow yellow (regular mode) or green (eco) after a long press of the power button if you want to toggle between full power and extended life, respectively. Eco mode works by dropping the output to a slow 5W (5V at 1A) max. This can keep the power bank from automatically shutting off when charging low-draw devices like headlamps, watches, or wireless earbuds. It can also yield a little more total charge capacity by producing less heat waste, and allow the battery to operate closer to its native voltage resulting in less conversion loss. The Nitecore NB10000 Gen 4 is the ideal power bank for endurance athletes, backpackers, or anyone looking for an ultralight and ultracompact power bank that mostly avoids feature creep. The only real negative is the price, having gone up to $83.95 since the launch of the $64.95 Gen 3 model two years ago. That makes the Gen 4 power bank two to three times more expensive than the typical 10,000mAh power bank, but it can save you 50 grams or more. That's a price premium I can see lots of active, outdoorsy people happily paying for. All photos by Thomas Ricker / The Verge Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Thomas Ricker Accessory Reviews Energy Reviews Science Tech Work anywhere",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=976506",
+      "rss_tags": [
+        "Accessory Reviews",
+        "Energy",
+        "Reviews",
+        "Science",
+        "Tech",
+        "Work anywhere"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "556b9059-4347-4cd6-b139-a8d84ce48751",
+    "cluster_id": "1e7e510f-0dca-4ae2-a2ec-4db2443ffc88",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "South Korean satellite spots SpaceX lunar impact",
+    "teaser": "South Korea spotted a spent SpaceX rocket's crater on the Moon, sparking urgent debate over how humanity manages space debris.",
+    "summary": "The South Korean space agency (KASA) captured images of a recent impact site on the Moon using its Danuri orbiter. The event involved a spent SpaceX Falcon 9 upper stage, which impacted the lunar surface near August 5th. This highlights the complex challenge of space debris management in deep space; unlike Earth's atmosphere, where rocket stages burn up, reaching lunar orbit makes disposal difficult. While the impact did not pose immediate risk, experts emphasize that increased lunar traffic necessitates devising rules for using and disposing of materials in outer space, with some calling for designated 'dumping grounds.'",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/science/2026/08/08/south-korean-satellite-spots-spacex-lunar-impact/5284741",
+    "date": "2026-08-08T09:46:00Z",
+    "image_url": "https://image.theregister.com/5228580.jpg?imageId=5228580&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "science South Korean satellite spots SpaceX lunar impact Before and after shots of Elon's ejecta snapped by Danuri The race for the first before-and-after images of the spent SpaceX rocket on the Moon has been won by the South Korean space agency. The Korean Aerospace Administration (KASA) posted imagery from its Danuri lunar orbiter showing the impact site on the Moon on August 6. The impact was predicted to occur on August 5, and marked a landing on the Moon for SpaceX several years ahead of schedule, just without humans onboard and traveling a good deal faster than planned. The words \"crater\" and \"SpaceX\" are not something investors nervously tracking the company's stock price following the weeks since its IPO will want to think about. The impact came on the fourth anniversary of Danuri's launch , on a SpaceX Falcon 9 rocket. It took a few months for the probe to reach the Moon, and its initial one-year mission has since been extended twice - most recently through 2027. The plan is currently for Danuri to intentionally make its own impact crater in March 2028. The upper stage of the Falcon 9 is expendable, and this one was used to send Firefly Aerospace's Blue Ghost Mission 1 and ispace's RESILIENCE to the Moon in 2025. On most Falcon 9 missions, the upper stage burns up in Earth's atmosphere, but a lunar transfer orbit like this one made that impossible. In a post , SpaceX stated, \"Impacts like this are rare, but they can happen with objects in these types of orbits, and we worked with NASA on the optimal disposal solution,\" and wrote, \"a controlled disposal maneuver is not always possible.\" NASA boss, Jared Isaacman, noted that NASA intentionally crashed spent stages into the Moon in the name of seismic research, and commented, \"The reality is that meteoroids strike the lunar surface hourly, with impacts comparable to this upper stage occurring roughly every six days.\" Humanity has not done a great job of managing space junk around the Earth. While the SpaceX Falcon 9 upper stage did not pose any risk to humans, it highlights the need to devise rules for the use of lunar space rather than risk an uncontrolled buildup of debris. In June, The Register spoke to Neuraspace boss Chiara Manfletti about how things might be done differently as lunar traffic increases. Neuraspace is all about satellite collision avoidance, and Manfletti's ideas included requirements from stakeholders to designating dumping grounds on the Moon. NASA's veteran Lunar Reconnaissance Orbiter was also attempting to capture the impact, and more images are likely to be released over the coming week. Now to name the impact site. Elon Crater, anyone? ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5284741",
+      "rss_tags": [
+        "science"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "4efea0e1-50b7-42f3-9f2a-3f2b5d0a912d",
+    "cluster_id": "fa0fca92-f694-4e9d-a664-c802f44f8f19",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "Gentoo bugzilla closed due AI bot scraper overload",
+    "teaser": "Open-source project Gentoo had to close its Bugzilla due to an overwhelming flood of activity from AI bot scrapers.",
+    "summary": "The Gentoo project's Bugzilla platform had to be temporarily shut down because it became overwhelmed by an excessive volume of activity from artificial intelligence (AI) bot scrapers. This incident highlights growing concerns among open-source projects regarding sophisticated automated scraping and spamming activities that threaten the stability of key developer tools. The closure was necessary to mitigate the strain caused by the bots.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+    "date": "2026-08-08T13:55:42Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "happosai",
+    "content": "To use the Mastodon web application, please enable JavaScript. Alternatively, try one of the native apps for Mastodon for your platform.",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=49221864",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "8d56737c-a391-4a0e-ab2c-983d4cfb99cb",
+    "cluster_id": "1c4ddf5f-0241-4983-b83c-628a099b951d",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+    "teaser": "Google standardized its hacker naming conventions to improve clarity, moving beyond old numbering schemes like APT1 and introducing country-based codenames.",
+    "summary": "The cybersecurity industry faces challenges tracking numerous hacking groups, leading companies to adopt varied naming systems. Google has revamped its system, replacing older codes (like Mandiant's APT series) with a new format: a memorable first name paired with a second word indicating the country of origin (e.g., Castle for China, Ion for Iran). CTO Shane Huntley explained that this effort is vital because consistent naming helps defenders understand who is attacking whom and how.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+    "date": "2026-08-08T15:00:00Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1337404394.jpg?resize=1200,800",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Lorenzo Franceschi-Bicchierai",
+    "content": "For more than a decade, the cybersecurity industry has been assigning names to different hacking groups. Some of them, like Fancy Bear , have crossed over into the mainstream because of their prominent hacks and memorable names. Others are only known within the cybersecurity industry. Oftentimes, even industry insiders can't keep track. In part, that's because every company names hacking groups differently. That's why there are resources like this one , which attempt to be a one-stop shop where cybersecurity professionals, government officials, policymakers, journalists, and the wider public can make sense of who is who. Last month, Google became the latest company to revamp its naming system for hacking groups. Gone are the days APT1, APT41 or APT whatever number , which was the system adopted by Mandiant, once an independent security firm that's now part of Google. Mandiant was the first to adopt a naming scheme. From now on, Google's system is relatively simple: A hacking group will have a first name that is memorable and random, and a second word whose initial indicates the country of origin: Castle for China, Ion for Iran, Neptune for North Korea, and Relic for Russia. According to Shane Huntley, the chief technology officer of Google Threat Intelligence Group, the company's in-house hacker hunting team, the revamp was necessary to bring clarity to security researchers both inside the company and externally. In the early 2010s, when companies started publishing reports on cyberattacks and naming the hackers behind them, Huntley told TechCrunch that, \"we were not expecting to have as many threat groups as we do today.\" It had become hard to keep track of everyone. Google now tracks more than 5,000 \"activity clusters\" in several countries, according to John Hultquist, chief analyst at Google Threat Intelligence Group. Huntley said that there are very few developed nations that don't have their own cyber capabilities and hacking groups. But what is the point of naming hacking groups? It's not just an academic exercise, Huntley explained. The goal is to have a baseline understanding of who is attacking who, and how they are attacking them. That way organizations can recognize threats more quickly, prepare against them, ideally stop them, or at least investigate incidents more promptly. All that, he said, it's possible only if you name the hackers and track them consistently. \"If you actually get hacked by them or you're dealing with some incident, knowing how that actor behaves, what they do, what they've done in the past, all of these details become critically important to help the response and also work out your coverage against these threats as well,\" said Huntley. Knowing how the North Korean government hackers known as the Lazarus Group behaves, what their goals usually are, and who they work for, gives defenders a starting point in dealing with these hackers. Tracking state-sponsored hackers, while challenging, is easier than tracking cybercriminal groups and hackers-for-hire, Huntley explained. The government hackers tend to have more consistent targets and activities, while cybercriminal groups have members that come and go, sometimes splinter, and otherwise are more amorphous. Hacker-for-hire groups and spyware makers tend to have a lot of customers in different parts of the world, making them slightly harder to track. A common criticism whenever a new naming system gets announced is: Why don't all companies and organizations just use the same codenames? While that seems like an easy question to answer, the reality is that every company has a slightly different view of every group, based on their own sets of data and telemetry. Huntely said this is an inescapable reality that can't be avoided just by sharing more information among companies and groups of researchers. \"No one has perfect visibility,\" he said. \"We are building our model and our best understanding, but we will never know everything about what's going on.\" By unifying the naming scheme of Google's old Threat Analysis Group, which Huntely headed, and Mandiant, at least now there's one fewer scheme to remember. For everything else, refer to this gargantuan list .",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3151281",
+      "rss_tags": [
+        "Security",
+        "Google",
+        "hackers",
+        "cybersecurity",
+        "cybercrime",
+        "apt",
+        "advanced persistent threat",
+        "Mandiant"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "1ced16ef-b7af-42b9-8b41-6ed75599bb7d",
+    "cluster_id": "f94c037b-44ce-4b51-9cb0-4f0fea777328",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+    "teaser": "X is replacing its monetization system, demanding creators focus solely on 'original content' to secure payments in a major shakeup of social media economics.",
+    "summary": "Social media platform X is overhauling its creator payment system, replacing the Revenue Sharing program with 'Original Content Rewards.' The company argues the old incentives were 'misaligned,' pushing creators to focus on generating truly new content. To qualify for the new rewards, users must subscribe to a Premium tier and meet stringent criteria: 500 verified followers and 500,000 Home Timeline impressions in 90 days. While commentary is allowed, it must contribute 'meaningful original value.' The change emphasizes unique creation (photos, videos, original reporting) rather than re-posting or curating existing material. Existing participants can earn through September 7th, with applications for the new program opening on September 8th.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+    "date": "2026-08-08T16:34:22Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Anthony Ha",
+    "content": "X, the social media platform now owned by Elon Musk's SpaceX, is shaking up how it pays influencers and creators. In announcing the change , the company said it will be winding down its existing Revenue Sharing program and replacing it with something called Original Content Rewards. X will stop accepting new Revenue Sharing participants, while existing participants will continue earning money through September 7. Then, starting on September 8, they'll be able to apply for the new program. Participants will still need to subscribe to one of X's Premium tiers, and there will be qualifying thresholds for follower count (500 verified followers) and impressions (500,000 Home Timeline impressions from verified users in 90 days), but it sounds like the big change is the emphasis on originality. What counts as original content? X said it can include original reporting and analysis, photos and videos created by the poster, or memes and graphics they've designed themselves. Commentary also counts, but \"if your content regularly incorporates material created by others, you'll need to contribute meaningful original value for it to qualify under our original content guidelines.\" The company also included examples of posts that won't count as original, such as those just copied over from another account, downloaded from one account and re-uploaded to your own, or reposting content \"without meaningful transformation.\" This announcement follows repeated attempts by X to reform the Revenue Sharing program, for example reducing payments to aggregators and \"clickbait\" accounts in April . But these efforts have also prompted complaints from popular accounts profiting from the current system; Musk even reversed some of those changes (giving a creator's local audience more weight when calculating payouts) after a backlash. In a post about the new changes , X's Allegra Jacchia wrote that the existing program \"had reached a point where its incentives were misaligned.\" \"Creators should be focused on bringing net new content to the platform instead of maximizing payouts,\" she said. \"We could have kept adding more rules and exceptions, but ultimately the better decision was to start fresh and build a program designed from day one to reward originality.\" Jacchia added that X be \"continue refining the program, improving our models, and raising the bar over time.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3151374",
+      "rss_tags": [
+        "Media & Entertainment",
+        "Social",
+        "X"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "12d47f1d-a5b2-42a1-a925-dd376eb5951d",
+    "cluster_id": "2a0e4961-757d-4188-a80d-9d4ca95e621c",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
+    "teaser": "Tom Vek’s passion project, Sleevenote, brings vinyl-style aesthetics to digital music players, cementing a shift towards better artist support.",
+    "summary": "Musician and entrepreneur Tom Vek is developing Sleevenote, a digital music player designed to bring the aesthetic of vinyl records—specifically the beauty of cover art and liner notes—to digital audio. After initial difficulties with size and parts, he has released a smaller, cheaper version. According to Vek, who debuted in 2005 (earning high praise from Pitchfork), physical media is insufficient; he champions digital music downloads as superior support for artists over buying used CDs. He also highlighted his reliance on the MacBook for creative work, calling it 'the motorbike for my mind.'\n",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
+    "date": "2026-08-08T15:00:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/P1120126.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Tom Vek burst onto the scene in 2005 with his album We Have Sound , which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork . His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV soundtrack. His follow-up, Leisure Seizure , had a lengthy gestation period, but arrived in 2011 to similar success, reaching No. 79 on the UK charts. Vek has continued to release music at regular intervals over the last 15 years, dropping Newer Symbols in 2022. But in 2020 he started toying with this idea he had for a music player called Sleevenote. Inspired by vinyl packaging, it was his way of trying to bring some of the beauty and magic of cover art and liner notes to your digital audio. Securing parts, like square screens, proved difficult. Plus, the original prototype was enormous - roughly the size of a 7-inch single, just thicker and heavier. Now Vek is back with a new version of Sleevenote that's smaller , cheaper, and, for a little while longer, available to purchase. The last handful of the Day One Editions are available now for $349. As he turns his attention to the next chapter for his media player passion project , he told us about the essentials, his obsessions, and pet peeves as a musician-turned-entrepreneur. What is your most indispensable tool (analog or digital, app or hardware)? As much as I'd love to say my GMT wristwatch, because of all the communication we do with our friends in Seattle, and my love of wristwatches, the real answer has to be a MacBook. I'm either designing UI, designing graphics, retouching photos, or making videos, discussing ideas, implementing ideas, or hearing how my ideas go down. It truly is the motorbike for my mind. I have to see ideas to know whether I like them or not. I'm very fickle regarding industrial design of the tech I use and a big fan of the current \"M\" MacBooks, Apple kinda lost it for a bit. How many tabs do you have open right now? I get a lot of shit from Sleevenote co-founder Chris for how many tabs I have open, also in multiple Chrome profiles, you know, to the point the tabs get so narrow that you have to remember what it is from the favicon. I like coming back to things, as well as having a selection of regularly used things in a row. I find it useful for remembering all the social apps I'm meant to be posting my latest Sleevenote graphic to. Which tech trend do you wish would go away? This is a bit salty, but the trend for new retro-style CD players and cassette players. It is a great sign that people want offline dedicated music experiences, but I want to see new ideas. I'm specifically interested in ideas that push for digital music purchasing because it's far better for musicians than buying that second-hand CD. I want my kids' generation not to be stuck in a retro cycle, or a doomed big tech cycle. I want to see thoughtfully created indie tech products that could not have existed at any other time. Plus, I remember cassettes, they sound awful. What is one thing you wish you had created? I will answer this with a song: three years after my debut album, when I should have had my second album together, I heard \"Jump In The Pool\" by Friendly Fires, featuring one of the most stunning synth solos of all time. I would have loved to have created that song at that time. Especially since I'd pushed myself and my then manager fully-clothed into a pool around that time and hadn't even thought to write a song about it. What is your current obsession? Been an obsession for quite a while but it's still: carports in architecture. I'm a car guy, I'm a very visually-focused car guy. I'm not really fussed about performance or track racing or anything. My real love is the design of the automobile and how it's an emotive expression of movement. The perfect abode to me has car(s) on show, not hidden away in a garage, but still protected, so the carport becomes this perfect idea. I'm obsessed with mid-century desert architecture which incorporated the automobile so well into the language of the house, but even in the rainy UK, being able to get in and out of your car without getting wet would just make me so happy, I think haha. What's the last piece of physical media you bought? I buy lots of fiction books. I love a small paperback. I just picked up a book called The Cowards based purely on the cover. I've just finished a load of Steinbeck, so looking for something else. It's funny that I often use the shortest elevator pitch \"Sleevenote is a Kindle for music\", but I've never liked the idea of a digital book. Most people read one book at a time, but having all your music accessible at any one time is much more of a reason for a digitisation of a collection, it seems to me. What do you think is worth splurging on? Digital music downloads are worth splurging on. We've been led to believe there's no point in buying anything digitally, but it's standing in plain sight as the best thing to do with things like music. Not only does it send far greater support for artists, but it gives us music fans offline and time-stamped access to great art, and being encouraged to spend some time with a curated selection of art, we all know is good for the mind and soul. I want Sleevenote to enable this. What would the tagline for your biopic be? Encompassing all my work, I suspect it would be \"Nothing But Green Lights\", the name of one of my songs, which I'd also apply to my work with other projects. It's good, not always easy, to try to think there's nothing in the way of going where you want to go. What's the last GIF or meme you used? Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Terrence O'Brien Entertainment Gadgets Interview Music Report Tech",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=976872",
+      "rss_tags": [
+        "Entertainment",
+        "Gadgets",
+        "Interview",
+        "Music",
+        "Report",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "27883b67-e93a-46a6-9779-ef0409d6cbf4",
+    "cluster_id": "ba30bc4b-487c-4271-8c68-6d79ee21f47e",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Buc-ee’s dodges John Oliver to sue another small business",
+    "teaser": "Buc-ee's is reportedly suing an Ohio fixture over its beaver logo, alleging the small store’s mascot too closely resembles Buc-ee’s own.",
+    "summary": "Despite a viral surge in popularity, Buc-ee’s has developed a troubling habit of filing trademark suits against small local businesses. Following John Oliver's taunt to sue him for related merchandise, the company is reportedly targeting Beaver's Mini Mart in Ohio. The lawsuit alleges that the long-running mini mart's beaver logo and mascot are too similar to Buc-ee’s own, citing matching elements like 'wide eyes and a smile' and the predominant use of red color. This ongoing legal pattern suggests large corporations using deep pockets to challenge established local businesses.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
+    "date": "2026-08-08T15:47:30Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2222931981.jpg?quality=90&strip=all&crop=0%2C8.3627418964046%2C100%2C83.274516207191&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Buc-ee's became something of a viral sensation during the World Cup , but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight , John Oliver literally begged the company to sue him for selling merch featuring his squirrel mascot, Mr. Nutterbutter, with branding that reads \"Buc-Off.\" But Buc-ee's has so far declined to take the bait , instead targeting yet another small business that lacks the deep pockets and legal team of HBO. According to WDTN , an NBC affiliate in Miami Valley, Ohio, Buc-ee's opened its first locations in the state earlier this year. And now it's targeting established local businesses through trademark suits. Beaver's Mini Mart in Beavercreek has been a staple of the city for \"decades.\" But Buc-ee's is claiming that this long-running store's beaver logo could confuse customers. WDTN says: In the suit, filed days ago, Buc-ee's alleges that the Mini Mart's cartoon beaver mascot is too similar to their own, with its \"wide eyes and a smile\" that also \"uses red as a predominant color,\" and could cause confusion. Oliver and Mr. Nutterbutter have already fended off one lawsuit, with Bob Murray , a mining executive, having unsuccessfully sued for defamation following a 2017 episode about the coal industry.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=977112",
+      "rss_tags": [
+        "Business",
+        "Culture",
+        "Entertainment",
+        "Internet Culture",
+        "Law",
+        "News",
+        "Policy",
+        "TV Shows"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "7d4156f8-6e5f-43cb-a76a-09bb03d50c34",
+    "cluster_id": "824c1fcd-6119-482c-b7ba-3213d260f22e",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "My favorite feel-good show is back",
+    "teaser": "From 'Ted Lasso' season 4 to Notability on Android: This digest covers must-try gadgets, useful apps, and tech culture recommendations.",
+    "summary": "This tech roundup covers a mix of consumer goods, software updates, and cultural recommendations. Tech highlights include the return of 'Ted Lasso' Season 4 and new hardware like Bose QuietComfort headphones and the versatile Peak Design City Backpack. In software, Notability is now officially available for Android devices, making it a significant win for handwriting note-takers. Additionally, messaging aggregators are featured: Sunbird promises improvements to its \"iMessage for Android\" functionality, while Beeper helps users manage communications across multiple chat platforms (Discord, WhatsApp, etc.). The article also champions the trend of Progressive Web Apps (PWAs) as a way to build high-quality tools that bypass traditional app store limitations.",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+    "date": "2026-08-08T12:00:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Installer-139.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "David Pierce",
+    "content": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage .) This week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle , @all-ing everyone in all my WhatsApp chats just because I can now, rereading There Will Come Soft Rains because this week is when it happens, seeing if Sabbath can help fix my screentime problems, once again moving everything around in my home office, eating altogether too much of the fabulous Trader Joe's snack mix , testing the Clicks Power Keyboard , and starting to prep for my fantasy football drafts. Because I will not finish last again. I also have for you the return of a favorite TV show, some new bags for toting all your gear, a couple of exciting new Android apps, and much more. Let's go. (As always, the best part of Installer is your ideas and tips. What are you watching / reading / playing / listening to / hacking into with your AI agent this week? Tell me everything: installer@theverge.com . And if you know someone else who might enjoy Installer , forward it to them and tell them to subscribe here .) Ted Lasso season 4 . Lots of good reviews for the new season, which is also kind of a soft reboot of the franchise. And all the bad ones are like, \"why isn't there any conflict, this show is too happy,\" which I count as a good review anyway. Give me more shows that make me feel better at the end of every episode. The Peak Design City Backpack . The whole lineup of City products - which includes totes, crossbody bags, and more - looks great, but I'm a backpack guy at heart. Love a dedicated AirTag pocket, love an integrated hook, love the mix of clean design and tons of organization. I really don't need a new backpack, and yet... Bose QuietComfort headphones . Noise-canceling headphones are like AI models, in that it seems every one's the best until the next one comes out three days later. I'm excited about Bose's adaptive EQ for dialogue and the improved passthrough when you want the ANC off. I also like the mint color . A lot. Nothing's CMF Clip Pro . More headphones! Nothing's buds are generally hard to beat for $100. Also, open earbuds are awesome. Throw in the awesome orange color I already love in my Shokz headphones, and I'm getting alarmingly close to two headphone purchases this week. Tony . After BlackBerry, director Matt Johnson is officially in my \"I will watch anything he does\" category of filmmakers. Johnson's latest, a story about how Anthony Bourdain got his start as a chef, has gotten good reviews and is very much at the intersection of all my interests. Sunbird . \"iMessage for Android\" is one of those ideas that just won't quit, and now Sunbird is back with big promises about fixing its previous security issues. You should always tread super carefully with these messaging aggregators, but they really are a useful idea. Notability for Android . FINALLY. After months of promises and more months of beta tests, one of the most powerful note-taking apps is officially shipping to Android devices everywhere. I haven't used it a ton, but so far it's stable and fast - it's a particularly big win if you're the handwriting type. The Sega Dreamcast Watch . From Sega and SuperGroupies comes an extremely rad series of watches designed like old consoles. You can also get the Mega Drive and the Sega Saturn models, but for me there's no beating the color pop of the Dreamcast's controls. JA Westenberg is one of those people who always seems to be blogging about what I'm thinking about. \" I Deleted My Second Brain \" still rattles around my head whenever I'm needlessly fiddling with a note-taking app, I used the word \" cockroachmaxxing \" unironically in conversation the other day, and I'm forever jealous of the insight that YouTube \"looks increasingly like a single show with five million hosts.\" They've also built a couple of really cool productivity-adjacent apps, including Kerouac (which is basically like that GitHub commit chart but for writing) and recently Post Through It , which is basically a journaling app that looks like a private Twitter. Clever! Anyway, I asked JA to share their homescreen to see if they might have other sneaky tips up their sleeve, or more awesome apps to show. Here it is, plus some info on the apps they use and why: The phone: I use an iPhone 17 Pro Max, 512GB. The wallpaper: My wallpaper is Mors Imperator (\"Death Is the Ruler\"), by the German artist Hermione von Preuschen. It's on display in Berlin right now and I fell in love with it on a recent trip. She was famously banned from displaying it, and instead rented a house and charged an entry fee to see it. Very punk rock / DIY for the 1800s. The apps: Insight Timer, Beeper, Spotify, Pocket Casts, Buffer, Cursor, 1Password, Replit, Termius, Granola, Kilo, Kerouac, Post Through It, Buzz, Wikipedia, Marvel Unlimited, Linear, Medium, GenZD, The New York Times, Obsidian, Vimcal, Readwise Reader, Kobo. My home screen is a mix of reading, working, playing etc. I definitely want to call out Kerouac (a writing studio for pro bloggers) and Post Through It (microblogging for one) which are PWAs of the apps I launched this year. I'm a big believer in web apps as a way to avoid app store gatekeeping, so I'm on a mission to make the PWAs of my own tools as top-notch as they can be, which means using them every day myself. I keep the Kobo app in my dock so I push myself to read an actual book instead of doomscrolling; and I don't keep any social media apps installed. If I want to post, I have Buffer on my home screen, and it's connected to my Hermes agent via MCP anyway. I use Beeper to manage my chats across Discord, Slack, Telegram, Signal, WhatsApp, etc; it's a fantastic tool that probably rescues me from chat hell a thousand times a day. GenZD and Marvel Unlimited are my favorites. The first is a GZDoom client for playing Doom 1 and Doom 2 , Heretic , Hexen, and their mods (3D shooters from the '90s). The other is Marvel's digital comics app, where I'm attempting to read every Spider-Man story since the inception of the character. Other than that, it's work, note-taking and podcasts. I also asked JA to share a few things they're into right now. Here's what they sent back: I have rediscovered my love for MC Lars . He's a \"nerdcore\" indie rapper who came to fame with songs about Edgar Allan Poe, Shakespeare etc. He's been a favorite of mine for years, but I introduced my kid to his music this year, and he's been in constant rotation since. \"I Was Never Afraid\" is his all time best song. The Paradox are the best band I've heard in a decade. They play pop punk the way it should be played, with so much energy and joy I can't not jump out of my seat when I hear it. I recommend their track \" Good For Me ,\" which I think is going to be on their new EP in October. I've been reading Barbarians at the Gate: the Fall of RJR Nabisco , by Bryan Burrough and John Helyar. A wild story of leveraged buyouts, Wall Street excess, and the unhinged market economics of the 1980s. An absolute page turner, even if you're not usually interested in the subject matter. My brother has started us on a Daggerheart campaign. It's a tabletop RPG that came out last year, with a heavy emphasis on storytelling, and it's the freshest take on roleplaying I've experienced in a while. Really makes you want to get inside the character you're running and think about who they are - which is a great exercise for me as a writer. Here's what the Installer community is into this week. I want to know what you're into right now as well! Email installer@theverge.com or message me on Signal - @davidpierce.11 - with your recommendations for anything and everything, and we'll feature some of our favorites here every week. For even more great recommendations, check out the replies to this post on Threads and this post on Bluesky . \" Madden NFL 27 Mobile came out! The wild part? The Apple Arcade version removes **ALL** of the recent enshittification: ads, virtual currencies, paywalls, etc. Add in the controller and Apple TV support, and it feels like playing Madden from the early 2000s, in the best way.\" - Brian \"I'm waiting for my Retroid Pocket Nova so I can replay Rogue Squadron on GameCube and Need for Speed: Carbon on PS2, and I'm organizing my ROM library before it arrives.\" - Josue \"Moved my gaming PC to CachyOS (tried Bazzite before and got a little frustrated). So far it's been amazing. Also, I just upgraded my PC case from an old NZXT one to a Fractal North . These cases are no joke. So well made.\" - Kolin \" Silo season three.\" - Amanda \" Biological War: A Scenario from Annie Jacobsen, the author of Nuclear War: A Scenario . I honestly cannot believe it's that easy to wipe us off the planet.\" - Dawit \"Found this neat little Mac OS app, Hoy , for communicating via iCloud. Quite digging the simple UI and how it 'sits' nicely inside my menu bar.\" - Julius \"Reading John Ousterhout's excellent A Philosophy of Software Design to get ready for a presentation I'm making at the gRPC conference next month.\" - Tim \"Watching the anime Jaadugar: A Witch in Mongolia . I'm enjoying learning about that period of history (the show took me into a Wikipedia hole), and I'm excited to see how the magic elements come into play.\" - J I'm about to go on parental leave, which previously in my life has been a good time to change stuff on my phone. I delete all the work apps, turn off some notifications, all that stuff. But you know what's really making me do it this time? The Google Health app. I haven't been wearing my Fitbit Air recently - no good reason, just haven't been finding it useful - and every single day the app sends me a sad notification that's like, \"Oh no, I haven't collected any data, pretty please let's get the Fitbit back on?\" No thanks, I hate it. Anyway, I've also been noticing that some of the smartest people I know are always showing that they \"have notifications silenced\" in iMessage. So I'm learning from them, and turning everything off. From now on, my phone will have no buzzing or noise-making notifications other than phone calls. I'll see things when I decide to check my phone... which hopefully won't be very often. Silent phones forever! In theory, I'm here next week before I head out. If not, you'll be in the very capable hands of Jay Peters for a while. Either way, see you next week! Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. David Pierce Apps Gadgets Installer Tech",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=977084",
+      "rss_tags": [
+        "Apps",
+        "Gadgets",
+        "Installer",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
   }
 ]

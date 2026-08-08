@@ -145,6 +145,34 @@
     }
   },
   {
+    "id": "43279bac-b3a7-4df0-a3a4-d8d02179e4bd",
+    "cluster_id": "e3f35d14-4832-4fce-8ebb-1b92e5a1c451",
+    "cluster_size": 4,
+    "source": "The Register",
+    "title": "Next step for LINK spacecraft – a software update that won't make things worse. Are you listening, Microsoft?",
+    "teaser": "A rescue mission for NASA's Swift Observatory is struggling to stabilize after LINK spacecraft experiences multiple attitude control failures.",
+    "summary": "Katalyst Space’s LINK spacecraft is executing a critical orbital rescue of NASA’s Neil Gehrels Swift Observatory. Initially encountering significant technical issues, including the failure of two out of three reaction wheels and uncontrolled spinning, the mission has progressed to stabilize operations. The recovery effort required an emergency flight software update to restore full attitude control. Using electric propulsion thrusters, the team successfully slowed the spin to 1.47 degrees per second (down from 9 deg/s). The next stages involve a rendezvous and grappling maneuver with Swift, followed by raising the observatory back to its original orbit of 370 miles (600 km) before LINK detaches.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/science/2026/08/06/next-step-for-link-spacecraft-a-software-update-that-wont-make-things-worse-are-you-listening-microsoft/5284143",
+    "date": "2026-08-06T15:11:00Z",
+    "image_url": "https://image.theregister.com/5237915.jpg?imageId=5237915&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "SCIENCE Next step for LINK spacecraft - a software update that won't make things worse. Are you listening, Microsoft? Spin slows as orbital rescue mission creeps forward Katalyst Space is continuing to make progress in the rescue of the spacecraft that is supposed to rescue NASA's Swift observatory. The spin of the LINK vehicle, which was launched in July on a mission to raise the orbit of NASA's Swift observatory, is now 1.47 degrees per second, down from 9 degrees per second when recovery operations began. According to Katalyst Space, it will remain at there \"while the team prepares for the next phase of the mission.\" The next step is a \"significant\" flight software update. With a substantial chunk of the attitude control system with which LINK launched now inoperable, a change was inevitable to reflect the spacecraft's new configuration. Katalyst Space stated, \"This will restore full attitude control and allow the team to begin the phasing maneuvers needed to align LINK's orbit with Swift.\" The company also attempted to allay concerns about how much fuel had been expended in the recovery. One of LINK's electric propulsion thrusters was used to regain control of the spacecraft, and less than 100 grams of propellant was consumed \"to conserve fuel for the rendezvous and boost phase of the mission.\" According to NASA, LINK's three ion thrusters are powered by approximately 130 pounds (60 kg) of xenon gas. It remains unclear what caused the failure in attitude control, although in an earlier update Katalyst Space stated, \"During commissioning, the Katalyst team encountered a series of technical issues related to attitude control of the spacecraft.\" The incident left LINK with only one out of three reaction wheels operable and \"partial RCS functionality.\" The reduction in roll rate to 1.47 degrees per second is a critical step to recovery, and a hoped-for rendezvous and rescue of the Swift observatory, which is getting dangerously close to the point of no return in terms of altitude. Assuming the flight software update works as planned, the next stage will be a rendezvous followed by a grapple of NASA's Neil Gehrels Swift Observatory using LINK's three robotic arms. Once captured, the plan is to have LINK gradually raise Swift back to near its original orbit of 370 miles (600 km) over the course of several months. Once done, LINK will detach and re-enter Earth's atmosphere. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5284143",
+      "rss_tags": [
+        "science"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "2cade28b-321e-4fca-8dd8-09139a56b283",
     "cluster_id": "592830c5-77f9-4425-8694-62d996313f4c",
     "cluster_size": 1,
