@@ -1,0 +1,39 @@
+[
+  {
+    "id": "f3b1ef66-c675-4113-b117-b046681f2446",
+    "cluster_id": "6980305d-2e12-4d82-a5d4-2622abcf0a2e",
+    "cluster_size": 4,
+    "source": "SiliconANGLE",
+    "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities",
+    "teaser": "OpenAI warns that its unreleased LLM, Astra, may possess 'Critical' cyber capabilities—the ability to execute complex zero-day exploits against hardened systems.",
+    "summary": "OpenAI disclosed that its upcoming model, Astra, reached a 'Critical' cybersecurity designation under its Preparedness Framework. This status indicates the AI possesses advanced capabilities, potentially enabling it to find zero-day exploits or launch cyberattacks against well-protected real-world systems without human assistance. To mitigate this massive risk, OpenAI is implementing strict safeguards, including running Astra in sandboxes with restricted network and tool use, enhancing encryption of model weights, and developing observability mechanisms to monitor its 'chain of thought' for malicious activity.\n\nThese revelations place AI cyber capabilities at the center of global tech safety discussions. The company has emphasized transparency while committing to working with government agencies and third-party testing partners to evaluate these powerful models safely.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/08/07/openai-reveals-upcoming-astra-model-may-possess-critical-hacking-capabilities/",
+    "date": "2026-08-08T00:58:53Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/OpenAI.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "OpenAI Group PBC today disclosed that one of its unreleased large language models may pose a significant cybersecurity risk. The algorithm, which is known as Astra, was first detailed last week. OpenAI revealed in a Sunday blog post that the LLM had solved 10 long-running math problems. The company published the proofs and revealed that each one took about $2,000 worth of tokens to generate. As part of its artificial intelligence safety efforts, OpenAI has published a 29-page document known as the Preparedness Framework⁠. One of the document's sections contains a rating system for AI risks. The system ranks the cybersecurity risks posed by an LLM as \"High\" or \"Critical\" depending on its capabilities. OpenAI's flagship GPT-5.6 Sol model and a few earlier algorithms were given a High rating. According to the company, Astra is the first of its LLMs that may qualify for a Critical designation. Its engineers drew that conclusion based on a series of recent cybersecurity tests. \"These results, in addition to expert assessments, have led us to conclude last night that we cannot rule out critical cyber capabilities,\" OpenAI stated in a blog post . Under the Preparedness Framework⁠, a model poses a Critical cybersecurity risk if it can find zero-day exploits in \"many hardened real-world critical systems.\" The model qualifies if those exploits span multiple severity levels and are discovered without any human assistance. OpenAI also designates an LLM as Critical if it can launch cyberattacks against hardened systems based on only a high-level hacking goal provided by a user. The company didn't specify which of its two designation criteria were met by Astra. However, it did share details about how it's tackling the risk. The company is taking steps to ensure that Astra can't access the public web. According to the company, its engineers will run the model in test environments that have restricted network and tool use permissions. OpenAI is pausing development activities that aren't carried out in such sandboxes. It's also stepping up its efforts to prevent hackers from stealing Astra's code. According to today's blog post, the initiative will place particular emphasis on the encryption that protects the LLM's weights. Those are the configuration settings that determine how a model processes data. Astra powers a number of internal AI agents. The company has implemented observability mechanisms that monitor those agents for malicious activity. The mechanism spot suspicious behavior by analyzing agents' chain of thought, a step-by-step summary of inference activities. OpenAI will share some of the cybersecurity workflows it has developed with \"third-party testing partners.\" Those partners help the ChatGPT developer run the sandboxes in which it evaluates its LLMs' capabilities. Additionally, OpenAI plans to loop in relevant government agencies and AI safety organizations. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=812225",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "Top Story 2",
+        "Astra",
+        "cybersecurity",
+        "large language model",
+        "LLM",
+        "OpenAI",
+        "Preparedness Framework"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]

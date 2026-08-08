@@ -42,6 +42,34 @@
     }
   },
   {
+    "id": "e5eceb85-a433-4526-beea-538b68326ba6",
+    "cluster_id": "29bdf1f8-55b3-4a32-b634-11550b5dd0cc",
+    "cluster_size": 3,
+    "source": "The Register",
+    "title": "HPE extends validity of quoted hardware prices, possibly for months",
+    "teaser": "Amid massive price hikes predicted by Gartner (DRAM +271%), HPE extends quote validity, suggesting temporary stability due to long-term deals from AI giants.",
+    "summary": "Hardware pricing remains highly dynamic amid the AI boom. HPE has extended its quoted hardware price validity until shipment to offer greater buyer certainty. This shift suggests increased cost predictability for vendors, potentially stemming from long-term deals struck by key players like SK Hynix and Micron. While these agreements help stabilize short-term prices and CXMT is expanding capacity (targeting 600,000+ wafers/month), market forecasts warn of continued extreme price inflation; Gartner predicted DRAM prices could rise 271% in 2026.\nSK Hynix confirmed striking multiple long-term supply deals with major AI players to smooth volatility. The company argues that structural demand from the voracious AI sector ensures a sustained appetite for memory, despite capacity increases.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/systems/2026/08/06/hpe-extends-validity-of-quoted-hardware-prices-possibly-for-months/5283817",
+    "date": "2026-08-06T05:59:47Z",
+    "image_url": "https://image.theregister.com/258399.jpg?imageId=258399&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "systems HPE extends validity of quoted hardware prices, possibly for months Suggests Big Green knows its component prices will remain steady Hewlett Packard Enterprise has changed its pricing policy and will now honour quoted hardware prices from the day of issue until the kit leaves its factories. The new policy came into effect on Wednesday. The back story to this change is the AI boom, which has seen demand for servers, memory, and storage skyrocket, and the prices for critical components rise steadily while also fluctuating from day to day. That chaotic situation saw HPE and other enterprise hardware players change policies so that the price in their quotes was only valid for 14 days. Cisco's terms were sometimes set at seven days. That's obviously difficult for buyers, who often seek a quote for hardware while they are building a business case for a new project. Big price changes could make those projects infeasible. Yet short-lived quotes also make sense for vendors, who could otherwise give buyers prices that they could only deliver at a loss. In June, HPE extended the life of its quotes from 14 to 30 days. Yesterday, the company changed the policy so that quotes that customers agree to remain valid until HPE ships products - at least for purchases of up to $1 million for its own Compute, Storage and GreenLake Flex deals. CRN was first to report the change, which The Register has verified. HPE says it gives \"customers and partners greater pricing certainty and will offer greater simplicity and predictability\" - and perhaps for months, because lead times for servers sometimes stretch that far into the future. The company hasn't said what has changed to allow it to revise its policies. Recent news suggests one possible factor: Memory-makers Micron and SK Hynix have struck numerous long-term deals that set long-term prices for their customers. If HPE has such deals in place, it now has greater certainty of its own costs, allowing it to extend the validity of its quotes. While longer-lived quotes are good news for buyers, they still face inflated prices for hardware. Analyst firm TrendForce recently predicted server memory prices will rise between 13 and 18 percent in calendar Q3, and ongoing tight supply. Rival firm Gartner this week found contract DRAM prices \"surged\" 90 percent to 95 percent quarter over quarter in the first half of 2026, while NAND flash contract prices rose between 55 and 60 percent. Gartner also predicted DRAM prices will increase 271 percent, year over year, during 2026. So while HPE will hold its prices, its quotes may still be eye-poppers if you haven't shopped for hardware lately. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5283817",
+      "rss_tags": [
+        "systems"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "d973644f-53de-46da-82dc-78ff09a866f7",
     "cluster_id": "35ba9d2a-2ddf-434e-b06f-fb3c0426c45c",
     "cluster_size": 2,
@@ -66,6 +94,50 @@
         "News",
         "Tech",
         "TVs"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "38b6ff63-deb1-49a7-ba22-38faeae7f30f",
+    "cluster_id": "9848ddc8-9316-4c23-ac57-10384a8ead2f",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "Inevitable AI Group raises $6M to derail SaaS incumbents with more agile, AI-native software startups",
+    "teaser": "AI is launching a new generation of hyper-efficient startups: IAIG raised $6M; Naïve raised $28.5M to automate business creation.",
+    "summary": "AI is fundamentally disrupting software development and business operations. Inevitable AI Group (IAIG) raised $6 million to launch numerous 'AI-native' startups, bypassing the limitations of legacy software companies by building from scratch with automation in mind. IAIG’s method allows them to challenge major SaaS players—for instance, Corebee Chat aims at Zendesk by designing platforms where AI agents handle customer support without requiring human intervention, drastically cutting costs.\n\nParallelly, Naïve secured $28.5 million for its infrastructure that enables developers to build fully autonomous businesses. This platform automates everything from corporate setup (like forming an LLC) to integrating essential services via API calls. Both initiatives underscore the shift towards AI-driven efficiency, enabling faster product scaling and lower operational costs compared to traditional enterprise models.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/08/06/inevitable-ai-group-raises-6m-take-saas-incumbents-agile-ai-native-software-startups/",
+    "date": "2026-08-06T13:00:51Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-05-09-06-59.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Mike Wheatley",
+    "content": "Aleph , one of Israel's top funds, is backing a new artificial intelligence-native venture studio with $6 million in pre-seed funding so it can build and launch dozens of new software startups by the end of the year. The studio is called Inevitable AI Group , and its co-founders Nimrod Lehavi (pictured, left) and Ofer Bar-Or (right) say there's no better time than the present to take advantage of the rapidly evolving economics of software development. IAIG's goal is to identify aspiring founders and entrepreneurs with good ideas and help them to launch AI-native applications and services within a matter of weeks, leveraging the incredible advances in autonomous software development. Lehavi's and Bar-Or's theory is that because AI systems like Claude Code can quickly generate the code for almost any kind of application, smaller teams should be able to design, build, launch and then scale new software businesses much faster than was previously possible. The co-founders say they have developed a very stringent and meticulous process when it comes to selecting which entrepreneurs they're willing to back. It targets those building AI-native products in established software markets with proven demand, where clear opportunities exist for AI to increase efficiency, enhance accessibility or lower costs. Once it identifies a promising startup, it provides them with all of the tools and support they need to quickly build their products and design and execute a go-to-market strategy so they can scale in the fastest possible time. Because IAIG uses AI tools extensively throughout the entire company-building process, it says its startups can achieve feature parity with more established software vendors within weeks of them launching. By leaning so heavily on automation, its startups can get up to speed with dramatically lower operating costs than their competitors. Lehavi told SiliconANGLE that AI is transforming how software businesses are built and how they market themselves, and can help them grow much more rapidly than before. \"Many of today's software companies were designed for a different technological era,\" he stated. \"We see an opportunity to build a new generation of companies that can move faster, operate more efficiently and deliver greater value to their customers.\" The secret is that IAIG's startups are AI-native from the get-go, which allows them to sidestep the numerous challenges faced by legacy software companies when it comes to adopting AI. For an established firm that's encumbered with a complex architecture and an outdated operating model, it's incredibly difficult to integrate AI agents that can automate different business processes. In contrast, AI-native startups can design their entire business development and operational strategy around automation. They can therefore get by with much smaller teams, Lehavi said. Nine startups launched IAIG's modus operandi is not theoretical - it has already helped to launch nine startups since it launched itself in January, and has plans to help dozens more get off the ground before the end of the year. For instance, Corebee Chat Ltd. is an AI-native customer support software company that's taking on incumbents such as Zendesk Inc., Freshdesk Inc. and ServiceNow Inc. in a market that generates a staggering $25 billion in annual revenue. The company exemplifies IAIG's strategy. Zendesk's entire architecture, including its data model, workflow engine and pricing, assumes that humans are always in the loop, and adding AI to that requires an extensive redesign. On the other hand, Corebee's founders built the platform knowing that humans aren't needed anymore, designing it so that AI does everything. Instead of routing tickets to a human agent, Corebee's AI agents read them, retrieve the information and respond in seconds. It means a better customer experience, and because there are no humans, its pricing is much more affordable. It delivers an enterprise-grade product at much lower cost, and that is a simple recipe for success that's mirrored by every company IAIG backs. Other startups in its portfolio include Spiceform Inc. , which creates AI-powered forms that adapt dynamically to each user; VScout Ltd. , creator of an AI-native recruitment platform; Keply Ltd. , developer of an automated customer success platform; Rumore Ltd. , which sells AI-enabled reputation management software; and Mahakala , an AI-based smart scheduling application. Aleph Partner Eden Shochat said these startups all thumb their nose up at the idea of a \"SaaSpocalypse.\" He said AI isn't killing SaaS, but it is reinventing it. \"AI gives customers the ability to create tools tailored to their needs on demand,\" he explained. \"We backed IAIG because the team understands that the winners of this transition will be those building entirely new categories of software.\" Holger Mueller of Constellation Research said AI is having a big impact in many parts of the enterprise, but has proven to be especially useful in code creation and business process automation. \"This is what IAIG is trying to leverage as it bids to kickstart new challengers in the SaaS industry,\" the analyst said. \"This is good for enterprises, because established SaaS vendors can definitely do with a bit more competition that will likely prompt them to improve their own offerings. But if IAIG is dreaming of supplanting those legacy players, it won't find it easy at all. It can automate the code creation side no problem, but the maintenance and support side of their business is going to be much tougher to automate. We'll see how it gets on.\" That said, Lehavi and Bar-Or both plenty of experience in building successful software companies, and so they should be aware of these challenges. Lehavi previously helped to found and grow a financial technology firm called SimplexCC Ltd. that was acquired by Nuvei Corp. for around $300 million in 2021. Meanwhile, Bar-Or has enjoyed a 30-year career in technology, spanning industries such as telecommunications, semiconductors, machine learning and internet infrastructure. According to Bar-Or, the most important thing when launching a software startup today is to figure out what the market actually needs and then deliver it. So long as you have a good idea, AI makes it much easier to execute. \"AI is dramatically reducing the barrier to execution, so entrepreneurs can spend more time solving meaningful problems and less time navigating the complexity of software development,\" he said. Photo: Inevitable AI Group A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=805596",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "Top Story 3",
+        "Ai automation",
+        "AI native software",
+        "AI software",
+        "AI startups",
+        "AI-native SaaS",
+        "AI-native software companies",
+        "Aleph",
+        "funding",
+        "IAIG",
+        "Inevitable AI Group",
+        "Nimrod Lehavi",
+        "Ofer Bar-Or",
+        "venture studio"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -99,6 +171,38 @@
         "Elon Musk",
         "SpaceX",
         "Tesla"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "d3aab376-314e-447a-a436-7b9f3ad855b7",
+    "cluster_id": "8dc57889-6a13-46b5-8de9-ece58e93bda4",
+    "cluster_size": 3,
+    "source": "The Verge",
+    "title": "Apple increases trade-in offers and adds new Android devices",
+    "teaser": "Apple launched a new leasing program with Klarna and dramatically increased trade-in values for Macs and iPhones to manage rising hardware costs.",
+    "summary": "To offset recent price hikes and boost affordability, Apple has increased trade-in offers for devices including iPhones, iPads, Macs, and even some Android models. Notably, the Mac Studio saw its trade-in value increase by $260. Furthermore, Apple launched a new 'Apple Upgrade' leasing program with Klarna, allowing customers to lease major products like the iPhone ($17.99/month) and iPad ($11.99/month) through monthly installments. This marks the discontinuation of Apple’s prior in-house financing systems. Despite the shift, Apple confirmed that users will not face functional restrictions (like 'Restricted Mode') even if they miss payments.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/tech/976210/apple-trade-in-values-increased",
+    "date": "2026-08-06T15:47:15Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0028.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Stevie Bonifield",
+    "content": "Apple bumped up its trade-in offers for iPhones, iPads, Macs, Apple Watches, and certain Android phones, with some devices now worth over $100 more, 9to5Mac reports. The Mac Studio's trade-in value increased the most, going up by $260. While some devices' offers are unchanged, most got an increase of around $5 to $20, with a few seeing an increase of over $100: Additionally, Apple is now offering trade-in credit for a handful of new Android devices: While some new Android phones have been added to the list, Apple lowered its trade-in credit for a few others, including: The higher trade-in credits on most devices follow a wave of price hikes Apple announced earlier this year, with increases ranging from $30 to $4,200. Apple also launched a new \"Upgrade\" leasing program last month aimed at making its increasingly-pricey devices easier to afford.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=976210",
+      "rss_tags": [
+        "Apple",
+        "iPad",
+        "iPhone",
+        "News",
+        "Tech"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
