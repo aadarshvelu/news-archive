@@ -68,6 +68,45 @@
     }
   },
   {
+    "id": "4baedb15-9151-485b-9641-2261175391d2",
+    "cluster_id": "b094b6e9-66ba-46b5-b8ba-53120d56aeb0",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "Optical networking startup Lumilens launches with $900M in funding",
+    "teaser": "To power AI mega-clusters, startups Lumilens and Xsight raised hundreds of millions, betting on optical chips to replace old copper wires.",
+    "summary": "Disruptive advancements in optical networking are fueling a new wave of capital for AI infrastructure. Lumilens, securing $900M in funding, and Xsight Labs, which raised $300M, are leading the charge to solve data transfer bottlenecks within massive AI data centers. These startups provide specialized chips designed to replace outdated copper wiring with faster fiber-optic cabling for both 'scale-up' (intra-rack) and 'scale-out' (inter-rack) networking. Lumilens focuses on co-packaged optics (CPO), while Xsight champions power-efficient, programmable Ethernet switches—a technology even selected for SpaceX's Starlink V3 satellites. These companies are positioned to capture a significant share of the expected $150 billion AI data center market by 2028.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/08/06/optical-networking-startup-lumilens-launches-900m-funding/",
+    "date": "2026-08-07T01:10:39Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/chip.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Lumilens Inc., a provider of optical networking chips for artificial intelligence clusters, launched today with $900 million in funding. The company raised the bulk of the capital, $700 million, through a Series C round that valued it at $5.51 billion. Atreides Management, Bain Capital Ventures, Meritech, Seligman Ventures and Spark Capital jointly led the investment. They were joined by more than a dozen others including Qualcomm Inc. Lumilens is led by co-founder and Chief Executive Officer Ankur Singla. His previous two networking startups, Contrail Systems Inc. and Volterra Inc., were sold for a combined $676 million. Two-year-old Lumilens says that it has already received billions of dollars worth of chip orders. Data center operators historically used copper wires to move data between processors. Lumilens' chips make it possible to replace copper interconnects with faster fiber-optic cabling. The company makes optical chips for two use cases: scale-up and scale-out networking. The former term describes technology that links together chips in a single rack, while scale-out networks connect different racks. Lumilens is targeting the scale-up market with two product families. The first is a co-packaged optics, or CPO, chip series that can be integrated directly into graphics processing units. The company says that it's capable of linking together thousands of GPUs. Lumilens also makes near-packaged optics, or NPO, chips. Such chips are not integrated directly into GPUs but rather sit on the motherboard that hosts them. CPO chips are more efficient than NPO hardware because they're located closer to the associated graphics card. That reduces the distance data must travel. NPO technology, on the other hand, is more readily accessible. \"We believe that we're still about two to three years away when it comes to large-scale volume deployment of co-packaged optics and the interim solution is near-packaged optics,\" Singla explained in an interview on SiliconANGLE Media's theCUBE. \"We were kind of pioneers in that. Our first chip taped out in 2024 and we now have our second generation of chips taped out and getting ready for commercial deployments next year.\" Lumilens also makes chips for scale-out networks, which facilitate data sharing across GPU racks. It ships the silicon as part of devices called pluggable transceivers that can be attached to switches. Lumilens says that its technology supports connections with bandwidth of 800 gigabits per second, 1.6 terabits per second or more. The technology doesn't have the range limitations that make copper difficult to use in scale-out networks. \"The distance limitation starts to come in the moment you get to 1.6 Tb/s, you're actually at one meter or so in distance with copper. That basically is within the rack,\" Singla said. \"In order to get outside of the rack, you need to get to optics.\" Lumilens' chips are based on a common set of building blocks called the LumiCore. It includes photonic components, mixed signal integrated circuits that can manage those components and interposers. The latter modules function as the base layer on which a chip's optical and electronic parts sit. Lumilens says that LumiCore reduces the amount of time required to develop new chips from years to months. Additionally, the interposer technology included in the architecture eases the chip assembly process. The company has developed a custom manufacturing workflow complete with robots and AI software. Lumilens will use the capital to accelerate its chip development and manufacturing efforts. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=809083",
+      "rss_tags": [
+        "Infra",
+        "NEWS",
+        "The-Latest",
+        "Top Story 5",
+        "AI",
+        "co-packaged optics",
+        "data center",
+        "funding round",
+        "investment",
+        "Lumilens",
+        "near-packaged optics",
+        "startup"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "0bffbc20-9503-4377-9c77-a699a2e81486",
     "cluster_id": "afb610e5-f5c4-4379-922b-6a3895eb64ff",
     "cluster_size": 1,

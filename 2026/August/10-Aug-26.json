@@ -1,0 +1,86 @@
+[
+  {
+    "id": "cf82556b-56c5-46d1-a1aa-eb57a00b02b7",
+    "cluster_id": "3c66efb1-a062-4775-829c-1e9b697c067f",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
+    "teaser": "Linus Torvalds says AI has normalized 'huge' Linux kernel updates, despite his reservations about the sheer volume of code changes.",
+    "summary": "Linus Torvalds observes that AI tools have ushered in a 'new normal' of supersized updates for the Linux kernel. While expressing reservations about the sheer volume of fixes found in the release candidates (like rc7 for version 7.2), he confirmed that these changes—which include major fixes for s390/zcrypt and btrfs, among thousands of minor patches across drivers and filesystems—do not warrant a delay. Torvalds embraces AI-generated contributions, noting that Linux is 'not one of those anti-AI projects.' The new version 7.2 is expected soon, offering improvements such as enhanced scheduling for GPUs and CPUs.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268",
+    "date": "2026-08-10T05:56:15Z",
+    "image_url": "https://image.theregister.com/238549.jpg?imageId=238549&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "OS PLATFORMS Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal He's not thrilled, but won't let it delay the release of version 7.2 Linux kernel boss Linus Torvalds thinks the project has reached a new normal of supersized updates, thanks to AI. Torvalds posts a weekly state of the kernel update, and last week's message opened with his observation that \"This rc is huge.\" \"Even by the 'new normal' standards this is a big rc, and I think it's the biggest rc6 we've had in years at least by commit count,\" he wrote on August 2. Fast forward a week and the size of the release candidate remains a concern. \"I can't say that I'm exactly thrilled about the size of this all,\" Torvalds wrote in the message that announces the seventh release candidate for Linux 7.2 . \"But it is what it is: the new normal with a lot of fixes, many of them due to review by various AI tools.\" Torvalds has a complex relationship with AI. He's previously railed against the idea that good documentation can explain the work of developers who use AI to contribute poor code to the kernel, and also complained that the Linux kernel security mailing list has become almost unmanageable due to a flood of AI-generated bug reports, many of them duplicates. Torvalds has also declared \"Linux is not one of those anti-AI projects,\" and therefore all-but-welcomed machine-made contributions to the project. While Torvalds is concerned about the size of rc7, he said \"nothing looks particularly scary per se - it's just that there's a lot here.\" \"Most of it is fairly small,\" he wrote, before calling out three bigger changes: s390/zcrypt fixes, the return of the btrfs fixup worker infrastructure, and some netfilter ipset fixes. \"But aside from a few places like that, most of this is just lots of tiny fixes. It's pretty much spread all over - drivers (gpu, sound, networking, you name it), filesystems, core networking, arch code.\" All those little changes don't add up to a reason to delay the release of Linux 7.2, and Torvalds wrote \"I would expect that to happen next weekend unless something really bad pops up.\" By next Sunday, the world should therefore have a new version of the Linux kernel. Version 7.2 won't be a long-term support release, but will include significant features such as improved scheduling for GPUs and CPUs. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5285268",
+      "rss_tags": [
+        "os platforms"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "204b8624-f14f-48f2-9dc5-52a4549b8b8c",
+    "cluster_id": "857375c8-e2b3-4dd0-92e3-eb1edfcf4172",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "NEC tests parking tech that only starts charging once you exit your car",
+    "teaser": "Japan's new parking tech charges drivers only upon exit—a shift facilitated by AI that raises questions about the future of urban surveillance.",
+    "summary": "Japan’s NEC is pioneering new parking technology that charges drivers only once they exit their vehicle, utilizing AI and real-time video analysis. This system raises concerns about potential surveillance capitalism while offering safety benefits. Other tech developments include Fujifilm preparing for a partial spin-off of its printer division amid market shifts. Meanwhile, China's Envision commissioned a massive 2GW+ datacenter in Inner Mongolia, providing one million PFLOPS of AI power. Additionally, Infosys secured a decade-long contract to modernize Crocs’ systems, and Australia has launched an inquiry into the privacy implications of smart glasses.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/software/2026/08/10/nec-tests-parking-tech-that-only-starts-charging-once-you-exit-your-car/5285245",
+    "date": "2026-08-10T01:32:04Z",
+    "image_url": "https://image.theregister.com/239104.jpg?imageId=239104&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "SOFTWARE NEC tests parking tech that only starts charging once you exit your car PLUS: Infosys to wear Crocs for a decade; Fujifilm may quit printers; 2GW datacenter debuts in western China; and more! ASIA IN BRIEF Japan's NEC has started tests of parking technology that will start charging once a driver leaves their car. Most car parks record the time a driver enters the facility and start charging, or depleting a free parking period, at that moment. That means drivers pay for time spent driving around looking for a spot and for the time it takes to exit a car park. NEC, in concert with another Japanese company called UrbanChain, will next month test a system that detects when a driver pulls up in a parking spot and exits their car - and starts charging for parking at that moment. That's only possible using cameras and AI analysis of real-time video, and the tests NEC will conduct in September will investigate how many cameras are needed to make its plans feasible. NEC's announcement also mentions \"data utilization services targeting commercial facilities that can be used for monitoring vehicle occupant exit counts, analyzing facility visitor trends, and more\" plus \"new possibilities for data utilization.\" Which sounds like a new form of surveillance capitalism, brought to car parks. The two companies also think there's a safety benefit to their proposal, as it can spot drivers who haven't left their cars for an extended period - a potential sign of illness. They also hypothesize that if drivers know they won't be charged while searching for a spot or exiting a center, they may drive more safely. Fujifilm may join Japan's printer exodus Fujifilm last week informed investors [PDF] that it is investigating a partial spin-off of its printer business. The company wants to float the business and retain up to 20 percent of its shares; an idea it thinks will mean Fujifilm can focus on its other businesses. If the plan goes ahead, Fujifilm will join fellow Japanese printer-makers Epson . Toshiba, and Ricoh in reducing its exposure to the biz. It's not hard to see why Fujifilm is eyeing the exit: Analyst firm IDC recently said \"a confluence of structural transformation and cyclical pressure\" has brought uncertainty and sharply falling sales to the printer market. 2GW-plus datacenter opens in western China Chinese company Envision last week announced the commissioning of a two-gigawatt-plus datacenter in Ulana, Inner Mongolia. The company said the 120,000-square-meter facility can house up to one million GPUs and deliver one million PFLOPS of AI computing power. Renewable energy powers the facility, which is located in China's west - making it an expression of Beijing's Data East, Compute West plan that calls for construction of large datacenters closer to sources of clean energy and away from large population centers. Cable operator calls for police probe after faults follow \"suspicious\" activity Australian submarine cable operator and entrepreneur Bevan Slattery on Sunday claimed \"some suspicious/coincidental activity\" took place at the time two of his cables experienced a fault. \"This is a concerning development. Partially because submarine cables are the digital lifeblood of our nation, but also because this could very well turn out to be the second such incidence in a Federally declared cable protection zone,\" Slattery wrote. His post includes a marine chart that shows a vessel called the GEM Sapphire, which ship-tracking site VesselFinder lists as a 183-meter long tanker, repeatedly crossing the path of two cables. Infosys to wear Crocs for ten years Indian tech services giant will spend the next decade making sure the world's ugliest shoes can be produced efficiently, after scoring a deal to help Crocs modernize its systems. Infosys says it will \"unify data across the organization and aim to empower Crocs, Inc. with real-time, insight-driven decision-making - accelerating innovation while enhancing efficiency, responsiveness and customer experience.\" Apparently, the deal \"help Crocs, Inc. address key industry challenges, including rising costs, inconsistent processes and the need for increased agility. The transformation will standardize operations and aim to enable the business to better respond to evolving consumer and market demands.\" There's no mention if the deal will mean anyone looks cool wearing Crocs. Maybe even a decade of help from Infosys can't make that possible. Australia urges smart glasses privacy probe Australian discount department store Kmart last week started selling low-end smart glasses for just AU$89 ($62/£46). The Guardian reported they sold out swiftly, sparking a privacy debate that quickly saw Australia's Attorney-General write to the nation's Privacy Commissioner to ask \"that this issue be given priority consideration.\" \"Privacy is an essential part of all our lives,\" said Attorney-General Michelle Rowland, before citing \"widespread community concerns about the potential impacts of 'smart glasses', particularly for women and children.\" ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5285245",
+      "rss_tags": [
+        "software"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "e6cf48fe-14b0-4d48-b4ed-f9e38b79d716",
+    "cluster_id": "b851d901-45d2-49f9-b994-5440540d1981",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Demoralized developer's desperate hack came back to haunt him on LinkedIn",
+    "teaser": "A developer's 'terrible idea' to trick Python 3 into thinking it was still Python 2 allowed a company to delay necessary system fixes for years.",
+    "summary": "In a nostalgic piece titled 'Who, Me?', developer Walter recounts his desperate hack during a complex migration from Python 2 to Python 3. After staffing cuts reduced morale, fixing stubborn system issues proved impossible. Walter's fix involved creating a symbolic link (`ln -s /usr/bin/python2 /usr/bin/python3`), essentially tricking the systems into thinking the old language was still active. This ingenious workaround kept operations running smoothly for years. However, this temporary solution was eventually found and corrected by another coworker during the final Linux upgrade, highlighting the persistence of technical debt.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/software/2026/08/10/demoralized-developers-desperate-hack-came-back-to-haunt-him-on-linkedin/5284476",
+    "date": "2026-08-10T06:30:00Z",
+    "image_url": "https://image.theregister.com/240806.jpg?imageId=240806&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Software Demoralized developer's desperate hack came back to haunt him on LinkedIn A script that shouldn't have worked, on a project that never ended, for a company that hardly cared WHO, ME? The past may be a foreign country, but it's one The Register likes to explore each Friday in \"Who, Me?\" - our reader-contributed column that shares your tales of workplace mistakes and great escapes. This week, meet a reader we'll Regomize as \"Walter,\" who once worked for one half of a duopoly competing in the intertwined markets for bad poetry celebrating memorable life moments and questionable television dramatizing the sentiments in those poems. The duopoly didn't make for a stable industry. \"We produced a steady cycle of layoffs and hiring,\" Walter lamented. He nonetheless survived the latest round of layoffs and found himself upgrading systems from Python 2 to Python 3. \"Our vendors had stopped pretending Python 2 was still a reasonable life choice,\" he told The Register . That move coincided with an upgrade to a new version of Linux that happily ran Python 3. \"The older one technically could too, but only after a series of rituals involving symbolic links, configuration tweaks, and what I can only describe as informed superstition. It worked on about 80 percent of our systems and the remaining 20 percent flatly refused to cooperate for reasons nobody could explain.\" Walter told us he blamed the problem on a recent change of vendor in the office cafeteria. \"It fit the evidence about as well as anything else,\" he wrote. Everyone on the team knew the upgrade-resistant 20 percent had to be fixed, but the recent redundancies had left morale so low that nobody was willing to pull the necessary all-nighters. The fact that some of the staff had decided to drink their way through the situation didn't help either. \"One morning, fueled by spectacularly bad coffee and the news that a job interview had been pushed back another week, I had what can only be described as a terrible idea,\" Walter admitted. \"What if I simply pointed Python 3 at Python 2?\" He tried it by adding the following symbolic link to a script: ln -s /usr/bin/python2 /usr/bin/python3 \"I expected fire. Or alarms. Or at least one very concerned email,\" he told The Register . \"Instead... it worked. Not 'mostly worked.' It worked well enough that nothing complained, nothing paged us, and nobody noticed.\" Walter celebrated his success by leaving the following comment in the configuration script: \"Yeah, yeah, yeah. I know, I know. At least I was mostly sober so it can't be THAT dumb!\" Eight years later, Walter had thankfully moved on to another job, although he still checked LinkedIn occasionally. During one visit to Microsoft's bottomless trove of B2B sales advice, he spotted a message from one of the remaining workers at the poetry/television company. The survivor reported that the last Linux upgrade was finally complete. \"They'd also finally found the symbolic link, after it survived a move from a script to Ansible,\" Walter told Who, Me? Has a moment of exasperation or desperation come back to haunt you? If so, don't get frustrated: click here to share your story with Who, Me? Our mailbag has seen better days, so fresh contributions are especially welcome. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5284476",
+      "rss_tags": [
+        "software"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]

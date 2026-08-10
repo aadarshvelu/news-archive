@@ -36,6 +36,34 @@
     }
   },
   {
+    "id": "63c24a63-34fb-484b-82c5-415b52903e79",
+    "cluster_id": "7be09afd-003d-441a-a1ea-8e9842faf0a8",
+    "cluster_size": 2,
+    "source": "Testing Catalog",
+    "title": "Google may retire Gems in October, forcing migration to Skills",
+    "teaser": "Google may retire free AI 'Gems' by October 20th, forcing users into paid, limited 'Skills,' while launching powerful new enterprise Plugins.",
+    "summary": "Google is fundamentally restructuring its AI capabilities within Gemini. First, it appears Gems, a free customization tool, may retire by October 20th, requiring users to shift to 'Skills.' This change moves a free feature layer behind the paid Google AI Pro/Ultra subscription model for Skills, which are limited to personal accounts and exclude work or school environments.\n\nSimultaneously, Gemini Enterprise is expanding its functionality beyond simple chat. The platform will introduce dedicated areas for Plugins and Notifications. This new architecture features three main parts—Connectors, Skills, and Plugins—where Plugins act as packaged mini-apps combining reusable Skills with Connectors (links to services like Google Workspace/M365). These updates signal a strategic shift toward governance and complex, multi-step workflow automation for business teams.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.testingcatalog.com/google-may-retire-gems-in-october-forcing-migration-to-skills/",
+    "date": "2026-08-09T16:39:00Z",
+    "image_url": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/08/Gemini-08-08-2026_11_06_PM.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Alexey Shabanov",
+    "content": "Google appears to be preparing to retire Gems on October 20, based on a notice currently behind a feature flag in the Gemini web app that has not been shown to anyone yet. The wording advises users to save their data and suggests they may later be able to rebuild their Gems as skills, implying that skills are intended to be broadly available by that date. Google has not commented publicly, and a flagged banner is not a commitment, so the timing could still move. The gap between the two formats is what makes this awkward. Gems are free for everyone and sit in the Gemini sidebar. Skills live inside Gemini Spark , require a Google AI Pro or Ultra subscription, are limited to personal accounts rather than work or school ones, and stay unavailable in the European Economic Area, the UK, Switzerland, and Nigeria. Spark only reached Pro subscribers across 160-plus countries at the end of July. Retiring Gems on those terms would move a free customization layer behind a paid, region-limited agent product. The reaction to our post was sharpest among Korean users, who have built large Gem libraries. The notice implies no automated migration, so heavy users may need to rebuild each one by hand. Google probably has tooling planned, and rivals already let people author reusable instruction files in minutes, but that still leaves manual reconstruction. Enterprise is the harder question. Google has spent two years pitching Gems for workplace use, grounded in Drive and Gmail, while skills do not support work or school accounts at all. Any deadline reaching Gemini Enterprise customers would land as a migration project rather than a settings change. It would also be the second reshuffle of this surface in under a year, following the folding of Opal workflows into the Gems manager as Super Gems in December. The feedback so far is consistent: \"Automate the conversion.\" Source: Tomas",
+    "raw_meta": {
+      "rss_entry_id": "6a78ab485dd788000194baa9",
+      "rss_tags": [
+        "Google"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "2a53dbad-31a8-49f2-b655-2531e0fefa88",
     "cluster_id": "97ea955f-dab6-43c1-89d5-ec554bb4ddd9",
     "cluster_size": 1,
@@ -234,6 +262,62 @@
         "Meta",
         "News",
         "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "04ee5418-ebaf-41d5-9ea4-077dca100b53",
+    "cluster_id": "292c9ade-df83-417e-8e0c-d834d16051d8",
+    "cluster_size": 1,
+    "source": "HN: AI",
+    "title": "The tragedy of the commons, AI edition",
+    "teaser": "British employment law holds a rarely used power: 'interim relief,' an emergency measure to force reinstatement of fired employees.",
+    "summary": "British employment law includes 'interim relief,' an emergency measure allowing judges to order the reinstatement or payment of wages to fired employees. This provision, rarely sought and granted outside legal circles, can be utilized by various individuals, including whistleblowers reporting safety breaches or union officials. Of the approximately 20 annual applications received across Britain's tribunals, the provision underscores a niche but powerful legal tool for protecting workers’ immediate rights.",
+    "importance": 3,
+    "category": "policy",
+    "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+    "date": "2026-08-09T19:43:52Z",
+    "image_url": "https://www.economist.com/content-assets/images/20260808_BRD001.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "simonpure",
+    "content": "B ritish employment law contains a provision called \"interim relief\", an emergency measure under which a judge can order a firm to reinstate a fired employee, or at least pay their wages. The subject may be a whistleblower who has complained of safety breaches, or a troublesome trade-union official. Little known outside legal circles, this provision has been sought infrequently-across Britain tribunals used to get about 20 applications a year-and rarely granted.",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=49235011",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "967d80e7-ab15-4867-9c01-c23cf05c9a47",
+    "cluster_id": "7c20d526-5b51-4c51-90ef-a4508b3f336c",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "No Dogs in Space is a music history podcast for true obsessives",
+    "teaser": "Dive into deep music history with No Dogs in Space: Hosts Marcus Parks and Carolina Hidalgo cover 73 episodes detailing The Beastie Boys and Krautrock.",
+    "summary": "No Dogs in Space is a recommended music history podcast hosted by Marcus Parks and Carolina Hidalgo. Over its 73 episodes, the show provides deep dives into iconic bands and genres, satisfying true music obsessives. Subjects include The Beastie Boys, The Velvet Underground, Joy Division, and experimental Krautrock (Amon Düül II). Key series are exceptionally long, such as the Replacements portion, which runs nearly nine hours. The duo balances scripted, info-dense segments with improvisational sidebars while maintaining strong chemistry. While awaiting a potential second season on punk, it remains available across major podcast platforms.",
+    "importance": 3,
+    "category": "other",
+    "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+    "date": "2026-08-09T20:28:31Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NDIS_LOGO.webp?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Terrence O’Brien",
+    "content": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing up for a deep dive into Krautrock, and I was hype. Unfortunately, that episode ended with hosts Marcus Parks ( Last Podcast on the Left ) and Carolina Hidalgo declaring they were going to do another season on punk (the topic of season one), only for the feed to go quiet. If you're a music obsessive, this is a must-listen podcast. Over the course of 73 episodes, the husband-and-wife duo digs into the careers of the Beastie Boys, The Velvet Underground, Joy Division, and more. Even if you think you know everything there is to know about iconic bands like The Stooges, I guarantee there will be new info here. The show dedicates multiple hours over the course of several episodes to its subjects. Its two-part intro to Krautrock, which heavily focuses on Amon Düül II is over three hours long, and that's on the shorter side. The Replacements series is nearly nine hours long, and Beastie Boys is even longer still. Over these exceptionally long series, it never gets dull, though. The two balance scripted info-dense sections with more improvisational sidebars expertly. They also, as you'd expect from a married couple, have great chemistry on mic. They also make sure to share all their sources at the end of the episode in case you want to track down the primary source or do your own fact-checking. The show isn't officially over. As recently as a couple of months ago, Carolina was responding to Instagram comments saying she'd love to do more episodes. And the possibility of the show returning has come up multiple times on live streams. But as of this writing, we're still waiting on that Punk Rock 2.0 series. No Dogs in Space is available on most podcast platforms, including Apple Podcasts , Pocketcasts , and Spotify .",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=977190",
+      "rss_tags": [
+        "Column",
+        "Entertainment",
+        "Music"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
