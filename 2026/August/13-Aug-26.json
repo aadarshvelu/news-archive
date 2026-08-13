@@ -1,0 +1,51 @@
+[
+  {
+    "id": "a3fde73f-76e8-412f-bd2e-c28ab10b67b9",
+    "cluster_id": "1d377c8d-66ce-4505-b0bb-43c49e14c4fb",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "AI chipmaker Cerebras Systems’ stock plunges, despite posting solid earnings and guidance",
+    "teaser": "AI chipmakers Cerebras and Cisco faced stock drops despite record earnings, as investors worried over falling gross margins and complex accounting.",
+    "summary": "Two prominent AI chipmakers, Cerebras Systems and Cisco Systems, both experienced stock drops despite reporting solid earnings and strong growth metrics. Cerebras's CEO highlighted soaring demand for specialized inference chips, stating that 'AI demand is going through the roof.' The company successfully boosted its full-year outlook, projecting core revenue of $210 million in Q2. Similarly, Cisco reported robust numbers, with its networking segment generating $9.79 billion from AI data centers. However, investor concern over margins proved detrimental: Cerebras's complex accounting metrics led to a significant stock dip, and Cisco saw its shares fall due to declining gross margins to 66.3%. Despite the volatility, both companies remain positioned in the competitive race against leaders like Nvidia.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/08/12/ai-chipmaker-cerebras-systems-stock-plunges-despite-posting-solid-earnings-guidance/",
+    "date": "2026-08-13T01:23:45Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_6458.jpg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Mike Wheatley",
+    "content": "Chipmaker Cerebras Systems Inc. boosted its full-year guidance after beating expectations on earnings and \"core\" revenue as it published its second-quarter results today, but its stock tumbled more than 17% in extended trading. The company reported an adjusted loss of five cents per share, easily beating Wall Street's forecast of an adjusted loss of 17 cents per share. Revenue for the period came to $180 million, trailing the Street's $194 million forecast, but the picture is complicated by the fact that the company uses a nonstandard revenue metric to account for a couple of idiosyncrasies. The first is that it receives some pass-through revenue for which there is no margin, so it subtracts that amount from the total. Second, it issues warrants to two customers, and the amortization of those warrants is subtracted from its revenue under standard accounting practices, so it adds that back to arrive at its core revenue. As such, the company was able to report core revenue of $210 million in the quarter, up 50% from a year earlier and surpassing the Street's expectation of $201 million. All told, it delivered a net loss in the quarter of $450.5 million, having racked up a profit of $309.5 million in the year-ago period. Most of that loss is tied to stock-compensation costs that totaled $386.6 million. Looking ahead to the current quarter, Cerebras said it's anticipating core revenue of between $214 million and $216 million. It also raised its full-year outlook to a range of $880 million to $890 million. Before, it was looking for just $855 million to $865 million. Chief Executive Andrew Feldman (pictured) told analysts on a conference call that artificial intelligence demand is going \"through the roof,\" adding that companies are willing to pay the asking prices for the company's specialized inference chips . He explained that the chipmaker is challenging AI leader Nvidia Corp. in some AI tasks, mostly those that require low-latency for real time interactions. The company calls this \"fast inference.\" Feldman added that the company believes its core gross margin will expand to between 38% and 40% this quarter. Margins have previously been a big concern for investors. \"Gross margins are in a good spot and growing because fast inference is priced at a premium,\" he explained. Despite this, Cerebras was unable to grow its order backlog during the quarter, which remained steady at about $25 billion. Nonetheless, Feldman insisted that this is a good sign of the \"extraordinary future demand\" the company is seeing. The CEO added that as the company grows, it's likely to benefit from larger economies of scale. For that reason, it anticipates that its core revenue will triple by the end of the next financial year. \"We will manufacture more efficiently,\" he said. \"We'll get better pricing on componentry. We'll amortize our manufacturing organization over more units. All of those point up and to the right.\" Feldman may not be too concerned about the volatility of the company's stock either, for this is nothing new for Cerebras. The chipmaker only went public in May in an effort to capitalize on investor's growing interest in rivals that can compete with Nvidia by manufacturing chips that run AI models. The offering was priced at $185 and helped Cerebras raise $6.4 billion. The stock then peaked at just over $309 at the end of May, before falling to a low of $169. It has been up and down since, closing at $262.06 today. Cerebras is one of most notable companies in an increasingly crowded field of chipmakers that are desperately trying to steal some of Nvidia's market share in the AI industry. The company's Wafer-Scale-Engine chip stands out mainly due to its size, which is about the same as a standard dinner plate. Though a 300-millimeter silicon wafer is usually cut into many smaller chips, Cerebras uses the entire thing to create one giant processor. Its chips have both compute cores and memory on the same silicon slab, which eliminates the need for an interconnect between them. This is why small and medium-sized models can run exceptionally fast on Cerebras' chips. Nvidia has totally dominated the AI industry now and become the single-largest beneficiary of the data center infrastructure boom, but many companies are looking to diversify, especially when it comes to powering AI inference workloads. As a result, Cerebras has managed to pick up a bunch of new customers. Previously, most of its chips were bought by two companies linked to the United Arab Emirates' royal family, but nowadays its backlog is dominated by OpenAI Group PBC, which signed a five-year contract to rent its cloud-based servers for inference. OpenAI was one of the companies to receive stock warrants as part of that deal. The other is Advanced Micro Devices Inc., which recently announced a partnership with Cerebras on a novel disaggregated inference platform . They're going to pair AMD's Helios rack-scale architecture for the compute-intensive pre-fill phase with Cerebras's chips for ultra-low-latency decode, with the resulting combination able to deliver five times higher tokens per second per watt compared with existing platforms. Last month, Feldman stopped by theCUBE , SiliconANGLE Media's mobile livestreaming studio, during its coverage of the RAISE Summit, where he offered a more detailed breakdown of his company's advantage in AI inference: Photo: SiliconANGLE A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=812853",
+      "rss_tags": [
+        "Infra",
+        "NEWS",
+        "The-Latest",
+        "Top Story 6",
+        "AI",
+        "AI chips",
+        "AI inference",
+        "Andrew Feldman",
+        "Cerebras shares",
+        "Cerebras stock",
+        "Cerebras Systems",
+        "chipmaker",
+        "core revenue",
+        "earnings",
+        "Financial results",
+        "guidance",
+        "inference chips",
+        "Nvidia rivals",
+        "Q2",
+        "revenue",
+        "second quarter",
+        "WSE chips"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]
