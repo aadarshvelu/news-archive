@@ -1,0 +1,125 @@
+[
+  {
+    "id": "da221c79-2072-4e99-9f99-9c2a2464e107",
+    "cluster_id": "cfeb871f-548d-42fe-9b54-52d18385cfa1",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "New Zealand says China tried using space investments to spy on local affairs",
+    "teaser": "NZSIS warns Chinese firms tried using space investments to spy on NZ's military secrets; a Beijing-linked group was implicated.",
+    "summary": "New Zealand’s Security Intelligence Service (NZSIS) warns that Chinese companies are allegedly attempting to establish Ground Based Space Infrastructure (GBSI) in New Zealand for military intelligence collection. In its annual threat assessment, Director-general Andrew Hampton revealed this concern, citing the case of 'Purple Mountain Observatory,' a Beijing-linked group that attempted illegal installation of such facilities. The NZSIS warns that Chinese laws could force data disclosure. Beyond space threats, NZSIS reported China's systematic espionage efforts online, where intelligence officers pose as consultants to recruit and vet staff for valuable local information. Furthermore, the service highlighted domestic risks, noting that violent extremists are utilizing mainstream digital platforms, encrypted messaging systems, and gaming sites to spread radicalizing material.",
+    "importance": 5,
+    "category": "policy",
+    "url": "https://www.theregister.com/security/2026/08/14/new-zealand-says-china-tried-using-space-investments-to-spy-on-local-affairs/5287657",
+    "date": "2026-08-14T03:23:34Z",
+    "image_url": "https://image.theregister.com/5287678.jpg?imageId=5287678&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "SECURITY New Zealand says China tried using space investments to spy on local affairs Intelligence Service says finding domestic threats is harder due to proliferation of toxic content online New Zealand's Security Intelligence Service (NZSIS) has claimed Chinese companies are building space facilities in the nation to gather military intelligence. Director-general of security Andrew Hampton yesterday made that allegation in the SIS's annual threat environment assessment . The document points out that New Zealand's space sector is booming, because the nation's location makes it \"an ideal place to install Ground Based Space Infrastructure (GBSI) ... to track satellites and space debris, as well as for collecting a range of other scientific data.\" The NZSIS has also found that GBSI is \"attractive for foreign states seeking to advance military capabilities and intelligence operations.\" The report offers a case study of a China-based organization called \"Purple Mountain Observatory\" that has \"close links\" to Beijing and tried to install GBSI in New Zealand. \"They worked with a local company that was likely unaware of the equipment's capability to collect intelligence of military value and would have no idea who was receiving the data,\" the report states, before noting that Chinese laws mean Purple Mountain could be compelled to provide information to China's government. The intelligence agency believes Purple Mountain \"would have ... willingly passed on\" data it collected. \"NZSIS, working with other agencies was able to disrupt this activity, but it was not the first time this organisation has attempted to install its own GBSI in New Zealand and is unlikely to be the last.\" The report rates China as the only country targeting New Zealand at scale, based on activity NZSIS has been able to observe. \"We have observed increased targeting of professional networking sites and online job platforms for espionage purposes by China's military intelligence services,\" the assessment finds. \"PRC (People's Republic of China) intelligence officers, or their affiliates, use an aggressive strategy where they pose as consultants or employees of think tanks, or recruitment firms. They place online job advertisements looking for analysts in foreign policy, international relations, defence or security,\" the document states. \"Candidates are then vetted by PRC intelligence to determine what information they have had access to and whether they would divulge it. The job offers are lucrative, but the intelligence officers often encourage their candidates to keep their government jobs both to keep the information tap running and to open up opportunities to recruit their colleagues.\" The report also observes that some recent cyber-attacks were probably the work of state-backed groups trying to destabilize New Zealand. \"Looking for the sharpest needle in endless giant stacks of needles\" The document also addresses domestic threats, especially violent extremism. \"Part of our job is to work out whether someone's vitriolic and violent online pronouncements have any link to New Zealand,\" the report states. \"This is a narrow focus but the pool of information and intelligence we are working with is vast.\" \"We used to describe our work as finding a needle in a haystack. However, the internet has changed. Large volumes of toxic content, widespread anonymity, and hidden locations mean our job is now like looking for the sharpest needle in endless giant stacks of needles.\" \"Extremist rhetoric, particularly online, has become more mainstream, a development which has made it even more challenging to differentiate between genuine support for violent extremism, hateful language designed to shock, or online content created simply to drive engagement or 'likes'.\" NZSIS also has to keep an eye on encrypted messaging services and even gaming platforms, to counter violent online communities. \"Algorithms on various social media platforms can link non-violent content to progressively more extreme material,\" the report states. \"The gateway subject matter can quickly expose people to violent extremist content that can support radicalisation.\" Kiwis aren't just recipients of this vile material. \"NZSIS has observed New Zealand violent extremists use encrypted messaging systems, social media and online gaming platforms to circulate violent material including weapon tutorials and objectionable content. Their presence on these platforms, many of which are mainstream, also helps them to find like-minded individuals or supporters.\" ® Bootnote : Readers interested in New Zealand's intelligence services might enjoy 2026 comedy series New Zealand Spy , a deadpan delight .",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5287657",
+      "rss_tags": [
+        "security"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "84cca6cd-0ac7-4c38-81e0-98ca630ff252",
+    "cluster_id": "8384a8b5-d268-4773-922c-a1335859bf93",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "OpenAI ditches Recall-style screenshot surveillance for friendly keylogging",
+    "teaser": "OpenAI is ditching screenshot surveillance for keylogging tech: Computer History records every click and keystroke to create memories.",
+    "summary": "AI companies are adopting new 'memory' features that increase user digital tracking. OpenAI introduced Computer History, an opt-in keylogging system for macOS that records events (clicks, typing) without screen captures. While advertised to enhance ChatGPT responses by creating a timeline of activity and memories sent to its servers, it raises major privacy concerns as the data is stored unencrypted locally and increases prompt injection risk. Separately, MemoryPlugin Sync extends this trend by unifying local coding agent sessions and chat histories from multiple AI platforms into one searchable archive. Both systems demonstrate an industry shift toward making sophisticated personal surveillance a voluntary, user-facing 'memory' feature.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618",
+    "date": "2026-08-14T00:27:53Z",
+    "image_url": "https://image.theregister.com/256287.jpg?imageId=256287&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Ai and ML OpenAI ditches Recall-style screenshot surveillance for friendly keylogging 'Computer History' records clicks and typing to build ChatGPT memories If you want to record whatever you do on a computer, send those records to OpenAI, use more ChatGPT tokens, and increase your vulnerability to prompt injection, then OpenAI has something for you. It's called Computer History , an opt-in way to record your computer interactions across apps and websites as memories organized on a timeline. Why would you want to do so? Maybe you found Chronicle , the predecessor of Computer History which compiled similar histories using screenshots, a bit too intrusive but don't mind Computer History's approach - recording input events and storing them unencrypted locally for 48 hours (or more), with a brief visit to OpenAI's servers. Maybe you're not bothered by the warning OpenAI includes in its documentation: \"Computer History files can contain sensitive information. They are not encrypted by Computer History, and other programs running as your macOS user may be able to access them.\" Perhaps, having given OpenAI's Codex and GPT Work the run of your computer, you're already sold on the suggestion that storing your computer activity in memory files and arranging those interactions in a timeline will improve ChatGPT responses, surface opportunities for automation, and make it easier to resume prior work. Computer History is, to put it bluntly, a keylogging and event capture system. There was a time before eyeglass cameras, license plate readers, surveillance capitalism, and police drones when such snooping might have provoked an outcry from privacy advocates. But the tech industry has found it can outsource surveillance to its own customers and in so doing make the panopticon harder to protest once it becomes a personal choice. \"Computer History creates an interaction-event stream from allowed apps and websites,\" OpenAI's documentation explains. \"Events can include clicks, typing, keyboard shortcuts, app switches, and context that macOS exposes through its accessibility system. Computer History periodically turns these events into text summaries and local memory files.\" The AI biz makes a point of noting that Computer History does not capture screen images, microphone input, or system audio. Nor does it capture private-mode browsing. Off by default, Computer History is available for ChatGPT Pro, Business, and Enterprise users in the ChatGPT desktop app on macOS. Pro users can enable it individually; Business and Enterprise users need an admin to approve it. It's not available currently in the European Economic Area (EEA), Switzerland, or the United Kingdom or to those accessing ChatGPT via API key or Amazon Bedrock. There are circumstances in which OpenAI suggests Computer History users might want to suspend the service if they have some scruples about capturing user activity in apps and websites without permission. \"Turn it off during communications with other people unless you have their prior express consent,\" the company advises, perhaps in acknowledgement of legal risk. \"Consider pausing it or excluding apps that contain sensitive health, financial, or personal information.\" Computer History interaction events are supposed to be saved locally for up to 48 hours before being deleted by ChatGPT and Codex. Events, however, get sent to OpenAI servers to generate memories, and those may be stored locally for longer periods of time and may be used in future chats that get passed back to OpenAI. \"OpenAI does not retain those event files after processing unless required by law and does not use them for training,\" the company says. While it has opposed demands for chat logs, it has nonetheless provided chat logs in response to legal process. Computer History adds cost because it uses tokens during the summarization of activities and the creation of memory data. It also expands the prompt injection attack surface. \"Computer History increases the risk of prompt injection from content in apps and websites,\" the company says. \"For example, if you visit a website containing malicious instructions, ChatGPT or Codex might follow those instructions.\" But at least you get a nice timeline of your recent activity. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5287618",
+      "rss_tags": [
+        "ai and ml"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "3e2a5e87-b65f-4e43-b158-979f85f99e1e",
+    "cluster_id": "507b0d20-8733-4d76-9880-bbc73a316953",
+    "cluster_size": 1,
+    "source": "SiliconANGLE",
+    "title": "Insurance software provider Accelerant to be taken private for $4.4B",
+    "teaser": "Insurance software giant Accelerant is set to be taken private by Thoma Bravo in a $4.4 billion transaction, signaling major consolidation in the specialized insurance market.",
+    "summary": "Accelerant Holdings Inc., which provides technology for the specialty insurance market, has agreed to be acquired by Thoma Bravo for $4.4 billion, valuing it at $20.25 per share. Specialty insurance covers high-value assets (like data centers or paintings) not covered by standard policies. Accelerant’s platform connects managing general agents (MGAs)—intermediaries who issue policies—with insurers. The cloud software centralizes policy data from 314 MGAs and cleans/enriches it into actionable dashboards, allowing insurers to optimize operations. Furthermore, the system uses AI features that identify risky policies and help users set optimal prices. Financially, Accelerant demonstrated strong growth, with Q2 revenue jumping 62.9% to $356.9 million. Thoma Bravo's investment aims to further position the platform as a crucial component of the specialty insurance industry.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://siliconangle.com/2026/08/13/insurance-software-provider-accelerant-taken-private-4-4b/",
+    "date": "2026-08-14T00:40:32Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Accelerant.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Accelerant Holdings Inc., a provider of software for the specialty insurance market, has agreed to be taken private by Thoma Bravo. The companies announced the $4.4 billion transaction today. It values Accelerant at $20.25 per share, a 49% premium to its last unaffected stock price. Specialty insurance covers high-value items that usually aren't protected by standard policies. That category encompasses a wide variety of assets ranging from paintings to airplanes. Notably, data centers are also covered by specialty insurance. Insurers don't issue specialty insurance policies directly to customers. Instead, they go through intermediaries called managing general agents, or MGAs. An MGA serves a similar role as an insurance broker but has broader responsibilities: it can issue policies without requesting the insurer's approval every time. Accelerant operates a cloud platform that connects MGAs with insurers. MGAs can access the capital they need to underwrite policies via five-year agreements. Accelerant also works with other capital providers besides insurers, including institutional investors and reinsurers. The latter companies specialize in limiting insurers' losses when a large number of customers file claims at once. The MGAs that use Accelerant's platform upload data about the policies they issue. The software cleans the data, enriches it with external information and turns it into dashboards. Insurers can use the dashboards to optimize their business operations. Accelerant displays high-level sales metrics such as insurance premium revenue and customer retention. Users can drill into the dashboards to bring up more granular data. For example, Accelerant can point out the markets and asset types with the biggest contribution to an insurer's top line growth. The company provides artificial intelligence features that automate certain aspects of customers' work. Its AI identifies risky policies that may create financial challenges for an insurer. It also helps users optimize policy prices. Accelerant says its platform is used by 314 MGAs and insurers worldwide. It processes 1.2 million records per month for those customers. The company reported its second quarter results in conjunction with today's acquisition announcement. Revenue jumped 62.9% on a year-over-year basis, or about 30% more than analysts had expected, to $356.9 million. The company's adjusted earnings of 32 cents per share also topped the consensus estimate. \"Returning to private ownership with Thoma Bravo's technology and software expertise, coupled with its vast financial and strategic resources, will enable us to make investments that further position our unique, data fueled platform to be the rails on which specialty insurance runs,\" said Accelerant Chief Executive Officer Jeff Radke. Thoma Bravo stated that the acquisition is \"currently expected\" to close in the first half of 2027. The private equity firm will pay Accelerant a fee equivalent to 6% of the acquisition price per year in the event of regulatory approval delays. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=813664",
+      "rss_tags": [
+        "Cloud",
+        "NEWS",
+        "The-Latest",
+        "Accelerant",
+        "acquisition",
+        "AI",
+        "data management",
+        "insurer",
+        "MGA",
+        "specialty insurance",
+        "Thoma Bravo",
+        "This field is for premium subscribers only.:ARX"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "870dda45-b9eb-4367-815e-3fa6ed6a55c6",
+    "cluster_id": "23e52e1a-599f-47f3-9310-df64f87e2b5a",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Five years after quitting a job, developer’s former boss asked for rapid tech support",
+    "teaser": "Years after quitting, an old boss needed Wade’s help to restore order after a sabotage attempt—proving some tech skills are always required.",
+    "summary": "This week's story recounts how a developer, Wade, received an unexpected call from his former boss years after leaving the job. In the mid-1980s, Wade programmed software for a mail order business using Pick OS. By 1990, his ex-boss called him at home because a fired clerk had sabotaged the printing system by unplugging it. Wade successfully restored operations after spending hours booting up and checking all the data, earning a fee that compensated him for his lost night's sleep.",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/software/2026/08/14/five-years-after-quitting-a-job-developers-former-boss-asked-for-rapid-tech-support/5287229",
+    "date": "2026-08-14T06:25:00Z",
+    "image_url": "https://image.theregister.com/5270351.jpg?imageId=5270351&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "software Five years after quitting a job, developer's former boss asked for rapid tech support Connecting a single power cord turned into a lucrative all-nighter ON CALL \"I can't stand it, I know you planned it, I'm gonna set it straight, this Watergate\" is the opening of the Beastie Boys classic Sabotage, a fact we mention as it will soon become pertinent to today's edition of On Call, The Register 's weekly reader-contributed column that shares your tech support stories. This week, meet a reader we'll Regomize as \"Wade\" who in the mid-1980s made a crust by programming in Pick - the minicomputer OS entangled with a database that On Call wrote about last year . Wade told us that he used Pick to write the software that powered a mail order business, before moving on to greener pastures. Several years later, in early 1990, Wade's mail order boss called him at home in the evening. \"He had fired the clerk who did all the work in application I wrote,\" Wade explained to On Call. \"They entered orders, sent purchase orders out and arranged customer dispatches.\" It sounds like the clerk and the mail order company parted ways on bad terms, as this was a \"You have an hour to pack up your stuff and leave\" affair. \"That was unwise,\" Wade wrote. \"The clerk used that time to sabotage the system ... or so she thought, by unplugging it while it was printing the day's orders.\" When the mail order magnate realized the machine was down, he panicked and called Wade - who despite being rather surprised by the summons showed up and realized the first thing to do was plug the Pick machine into a power socket. \"I spent a couple of hours booting it up, checking all the data and restarting the print run.\" Wade told On Call his old boss was more than happy. \"The loss of a night's sleep was recompensed by the fee I charged,\" he wrote. Has someone you've forgotten asked you to rescue their tech? If so, click here to send your story to On Call. We promise not to sabotage it if we give it a run on a future Friday. Or as the Beasties put it: \"But you, I'm out and I'm gone. I'll tell you now, I keep it on and on.\" ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5287229",
+      "rss_tags": [
+        "software"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]
