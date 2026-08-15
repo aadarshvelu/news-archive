@@ -454,6 +454,44 @@
     }
   },
   {
+    "id": "b1bfe7c0-105e-4e2f-8566-1aef067cd400",
+    "cluster_id": "a8bc77eb-9450-4040-879a-6e77ac3e3cb2",
+    "cluster_size": 3,
+    "source": "SiliconANGLE",
+    "title": "Nebius shares jump 34% on continued AI infrastructure demand",
+    "teaser": "Nebius Group is fueling the AI gold rush, reporting record revenue while planning to deploy over 1 GW of computing capacity annually starting in 2027.",
+    "summary": "Nebius Group NV, a cloud provider focused on AI infrastructure, reported massive growth in Q2, with revenue surging 454% year-over-year to $582.3 million. This rapid expansion was fueled by major data center deals and intense investment, evidenced by a $5.7 billion CapEx jump. The company is critical to the AI boom, offering cloud services optimized for complex AI workloads.\n\nLooking ahead, Nebius plans unprecedented scaling, aiming to bring online over 1 GW of capacity annually starting in 2027. This aggressive expansion will rely heavily on financing through customer prepayments and debt, positioning it as a key infrastructure player. The success underscores the massive global demand for scalable compute power required by AI development.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/08/12/nebius-shares-jump-34-continued-ai-infrastructure-demand/",
+    "date": "2026-08-12T23:57:07Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-03-17-08-41-12.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Shares of Nebius Group NV closed 34% higher today after it reported second-quarter earnings that topped expectations across the board. The Netherlands-based company operates a cloud platform optimized for artificial intelligence workloads. It also has two business units called Avride and TripleTen that offer autonomous driving software and programming courses, respectively. Nebius' revenue surged 454% year-over-year in the second quarter, to $582.3 million. That put the company about $10 million ahead of the LSEG consensus estimate. Much of the growth was driven by large customers: Nebius disclosed that it signed four data center deals with an average value of more than $1 billion. The company inked one of the deals with Cohere Inc., a venture-backed language model developer. Nebius won the three other contracts from startup Reflection AI Inc., an unnamed neocloud operator and investment firm trading firm. Nebius earlier signed cloud deals with Meta Platforms Inc. and Microsoft Corp. that are expected to be worth up to $46.4 billion. The company is investing heavily in new data centers to address customer demand. In early March, Nebius announced plans to open a Missouri data center campus with up to 1.2 gigawatts of computing capacity. A few weeks later, it inked a deal to build a 310-megawatt site in Finland. Nebius sells not only infrastructure but also cloud services designed to speed up AI projects. It offers managed versions of PostgreSQL and MLFlow, an open-source tool for debugging LLM-powered applications. In June, Nebius launched an AI agent that automates tasks such as provisioning virtual machines. The company's capital expenditures, a line item that covers large purchases such as data centers, jumped to $5.7 billion in the second quarter. Analysts had forecasted $4.7 billion. One of the reasons the spending boost didn't weigh on Nebius' stock price is that it expects to realize a return fairly soon. According to the company, its second quarter capital expenditures have a payback period of one year and 10 months. Furthermore, Nebius finances more than half its expenses with customer prepayments. Despite its growing infrastructure expenses, the company moved significantly closer to profitability in the second quarter. Nebius lost $33.2 million in the three months ended June 30, which represents a 64% year-over-year decrease. That translates to an adjusted loss of 12 cents per share, well below the 67 cents per share that analysts had expected. Nebius today boosted its 2026 contracted power target, a measure of its data center capacity, to 5 gigawatts. The company plans to bring more than 1 gigawatt of computing capacity online annually from 2027 onward. Photo: Nebius A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=812805",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "data center",
+        "earnings",
+        "infrastructure",
+        "LLM",
+        "Nebius",
+        "Nebius Echo",
+        "second quarter",
+        "NASDAQ:NBIS"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "24a09b03-53f8-4a75-9902-a6abbd271e6a",
     "cluster_id": "e73b4d82-9399-46ba-b67e-8d5a6c42b92e",
     "cluster_size": 2,

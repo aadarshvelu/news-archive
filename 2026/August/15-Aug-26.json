@@ -1,0 +1,39 @@
+[
+  {
+    "id": "37e3d72f-8e22-4317-b7e6-1102f8a2bca1",
+    "cluster_id": "a2a25aba-537a-4efd-9485-b178bc992a6f",
+    "cluster_size": 1,
+    "source": "SiliconANGLE",
+    "title": "Chipmaking equipment supplier Lam Research to spend $3B+ on new labs",
+    "teaser": "Semiconductor supplier Lam Research is investing over $3 billion into new labs to power the next generation of AI chips and advanced chip packaging.",
+    "summary": "Chipmaking equipment supplier Lam Research announced a major $3 billion+ investment over the next five years to significantly expand its engineering and research capabilities. The company, which serves industry giants like Micron and Samsung, aims to grow its experiment capacity by over 50%. This expansion focuses on advanced semiconductor processes necessary for AI computing. Highlights include Vector Teos 3D, used for creating three-dimensional AI accelerators by stacking chiplets, and SABRE 3D, a machine that produces microbumps—tiny metal structures crucial for transferring data between these stacked components. Lam continues to lead in critical supply chain technologies.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/08/14/chipmaking-equipment-supplier-lam-research-spend-3b-new-labs/",
+    "date": "2026-08-15T01:27:32Z",
+    "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Lam.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Maria Deutscher",
+    "content": "Lam Research Corp., a major supplier of chipmaker equipment, plans to spend more than $3 billion over the next five years to enhance its engineering capabilities. The company detailed the initiative on Thursday. Nasdaq-listed Lam sells machines that chipmakers use to produce memory chips, advanced packaging and other products. It also has a presence in certain adjacent markets, including the fab robotics segment. The company's customer base includes Micron Technology Inc., Samsung Electronics Co. and SK hynix Inc., the world's three largest memory producers. Lam operates a network of research and engineering hubs that spans three continents. The company says that its newly announced investment will finance a \"multi-site expansion,\" which hints it plans to build multiple new labs. The initiative is expected to grow Lam's experiment capacity by more than 50%. The company's labs already run more than 1 million experiments annually. Some of the hubs carry out basic research in areas such as materials science and mechatronics, a field that encompasses robotics. The other facilities focus on productizing the new technologies that Lam develops. The company's lab network regularly brings new chipmaking machines to market. The latest addition to Lam's product portfolio, a system called Vector Teos 3D, debuted in September. It can be used to make three-dimensional artificial intelligence accelerators in which chiplets are stacked atop one another. Vector Teos 3D produces so-called dielectric gapfill films. Those are thin layers of insulating material deposited in the space between a processor's stacked chiplets. According to Lam, they provide mechanical support that makes AI accelerators less susceptible to damage. Additionally, gapfill films play a role in heat dissipation. The space between a processor's chiplets contains not only insulating support layers but also microbumps. Those are tiny metal structures with a diameter of a few dozen micrometers, or millionths of a meter. They're responsible for moving data and electricity between chiplets. Lam offers a microbump production machine called SABRE 3D. It works by submerging chips in a specialized liquid that gives them a negative electrical charge. From there, the machine adds in metal particles that have a positive electrical charge. The positively charged particles attach themselves to the surface of the negatively charged chips to form microbumps. The process of turning a silicon wafer into chips comprises hundreds of steps. After fab operators complete a step, they clean the wafer to remove any debris that may have been deposited on its surface. Lam makes machines that speed up the workflow. Additionally, it sells mass metrology systems that verify the cleaning was carried out correctly. The company also competes in the robotics market. In 2024, it introduced a robotic arm that fab technicians can use to automate equipment maintenance tasks. The launch of the company's lab expansion initiative comes about two weeks after it reported second-quarter results. Lam's revenue grew 15% year-over-year to $6.72 billion, $50 million more than analysts had expected. The company attributed its stronger-than-anticipated growth to strong demand for AI chips. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network. Are you AWS customer? Support SiliconANGLE Financially by buying your AWS services from our Marketplace portal page and links. About SiliconANGLE Media SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=814452",
+      "rss_tags": [
+        "Infra",
+        "NEWS",
+        "The-Latest",
+        "advanced packaging",
+        "AI",
+        "chipmaking equipment",
+        "data center",
+        "Interconnect",
+        "Lam Research",
+        "Research"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]
