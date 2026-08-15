@@ -26,6 +26,34 @@
     }
   },
   {
+    "id": "ca760aec-fa5f-4b8e-9d58-bd9516346ed6",
+    "cluster_id": "397ae663-3ac0-469f-abf6-97d80ff5dc9a",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "AWS key exposed in JavaScript may have lit way to Beacon's charity data",
+    "teaser": "A faulty AWS key in public JavaScript exposed all customer data at Beacon CRM, a major nonprofit service provider.",
+    "summary": "Beacon CRM, a major provider for nonprofits, suffered a significant data breach in July 2026. The company suspects the attack originated from an AWS access key potentially exposed in public JavaScript build artifacts. Crucially, Beacon confirmed that an unauthorized third party copied and likely downloaded the entire customer database, including attachments, despite the data being encrypted at rest. Experts caution users to assume all stored personal information, donation records, names, and addresses belonging to supporters have been compromised.\n\nThe malicious activity peaked around July 27-28, 2026. Although Beacon stated that log files cannot identify specific records, numerous high-profile charities are confirmed victims. The incident highlights critical failings in the company's development pipeline and code review controls.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/security/2026/08/13/aws-key-exposed-in-javascript-may-have-lit-way-to-beacons-charity-data/5287303",
+    "date": "2026-08-13T11:34:00Z",
+    "image_url": "https://image.theregister.com/1681829.jpg?imageId=1681829&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Security AWS key exposed in JavaScript may have lit way to Beacon's charity data CRM provider confirms customer database was copied and probably downloaded in readable form Beacon, a CRM provider for charities and nonprofits, says an AWS access key \"potentially exposed in public JavaScript build artifacts\" is the leading suspect in its July breach. The revelation came in the company's first update on the attack in more than a week. If the access key was exposed in public build artifacts, it raises questions about why Beacon's development pipeline and code review controls failed to catch it. Beacon used stronger wording about the potential data loss, confirming that a copy of the database was made and assessing that it was probably downloaded in readable form. \"This update confirms... that a copy of the database which holds all Beacon customer data, including attachment files, was made and likely downloaded in a readable format by the threat actor,\" wrote CTO David Simpson. \"Analysis of the AWS Cost & Usage reports across May-July 2026 has been conducted. This data showed a significant increase in data transfer on 27-28 July 2026. This timing correlates with the malicious activity, which supports an assessment that substantial downloads occurred.\" Beacon's logs cannot reveal which specific records left its systems, although the company has confirmed that a copy of the database containing all customer data and attachments was made. In an FAQ accompanying the update, Beacon advises customers to assess the likely exposure by reviewing what they stored in their CRM instance. Many of the charities that have confirmed they are affected have said the data mainly pertains to personal information and details about donations. Simpson said Beacon's AWS data was encrypted at rest, but the compromised access key may have allowed the attacker to retrieve it in readable form. The malicious activity began in the early hours of July 27, according to Beacon's root cause analysis, matching its initial estimate of the incident timeline. The company has more than 1,500 customers, although it has not established how many had data taken. The malicious activity lasted one hour and 27 minutes, Beacon said, and the attacker established no persistence mechanisms in AWS . Simpson warned customers that \"there are things we may never be able to find out about this incident,\" and that other details won't be shared to protect Beacon's security position. He promised to provide customers with a summary when the investigation concludes in a few weeks, but warned that \"the level of detail contained in this next and final update may not be any more than\" Beacon published on Wednesday. \"I recognise this is frustrating, but unfortunately it is the reality of complex incidents like this. With this in mind, we would recommend making your own risk assessments now regarding onward notification to impacted data subjects using your knowledge of the data you process and store with Beacon.\" Since Beacon disclosed the attack on August 4 , the number of high-profile charities confirming they are affected has grown every day. Early confirmations came from the likes of Molly Rose Foundation, Macmillan Cancer Support Jersey, and English National Ballet. Sheffield Hospitals Charity, Shrewsbury and Telford Hospital Charity, the British Deaf Association, and Lincoln Cathedral are among those that have since joined the list. The Charity Commission said that \"a number of charities have submitted serious incident reports,\" and that the volume of these reports is causing delays to responses. \"We appreciate your patience and understanding as we prioritise instances of the greatest risk,\" it said. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5287303",
+      "rss_tags": [
+        "security"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "1bf50edf-d8d5-467a-b5d7-69d2d88aa10c",
     "cluster_id": "c218eded-56cc-4e12-859f-b44fd0732c04",
     "cluster_size": 3,
@@ -491,6 +519,32 @@
       "gmail_labels": [],
       "gmail_msgid": "1873409754818876307",
       "gmail_thrid": "1873409754818876307"
+    }
+  },
+  {
+    "id": "6d0cde3d-327c-4e33-b5a6-0a07508f461c",
+    "cluster_id": "a86120a0-eede-49ba-8032-60dab16993ee",
+    "cluster_size": 2,
+    "source": "TLDR AI",
+    "title": "Figma MCP Upgrade 🎨, WhatsApp New Search💬, Claude Watermarks AI 💧",
+    "teaser": "Tech platforms are grappling with AI integration: Figma links tools to ChatGPT, Anthropic adds invisible watermarks, and Google pauses deepfake satellite images.",
+    "summary": "Major tech platforms are integrating advanced capabilities and responding to ethical concerns. Figma has updated its platform by allowing Weave tools to run directly from external AI agents (like ChatGPT), streamlining user workflows. WhatsApp is enhancing its messaging experience with a new in-chat search feature for iPhones, improving message retrieval. Regarding AI ethics, Anthropic will now watermark all Claude-generated text and images. Furthermore, Google paused its AI satellite image feature after deepfake concerns arose over the tool's ability to generate convincing fake disaster imagery.\n\nThese developments underscore a broader industry shift: while AI democratizes idea generation, human expertise is increasingly valued in judgment, selection, and high-level strategic thinking (the concept of 'taste').",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.figma.com%2Frelease-notes%2F%3Ftitle=figma-mcp-run-weave-tools-right-from-your-favorite-agent%26utm_source=tldrdesign/1/0100019ffb0846e8-aa8e619b-1ef6-41f2-8d0c-c9fdeedb10e8-000000/4iM75pbUqx6oDwtq1XJnPFvVn1wmfhU9jkVxPhu5efQ=452",
+    "date": "2026-08-13T12:10:51Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "TLDR Design",
+    "content": "Figma MCP: Run Weave Tools, Right from Your Favorite Agent (1 minute read) Figma Weave tools can now be run from external AI clients like ChatGPT, Claude, and Cursor through the Figma MCP server. Users can describe a task, such as running a Brand mockup tool, and the agent finds it, executes it, and returns results directly in the conversation. This lets users stay within their chat workflow while preserving context like prompts, images, and brand guidelines. WhatsApp's next iPhone update could make searching chats much easier (1 minute read) WhatsApp is testing a new in-chat search button for iPhone that would make it much easier to find older messages without navigating through multiple menus. Instead of opening the chat info screen to access search, users would be able to start searching directly from the conversation, with the button appearing when scrolling through older messages. The change streamlines a common task and reflects WhatsApp's ongoing efforts to reduce friction in everyday interactions. Anthropic to Start Watermarking Claude-Generated Text, Images (2 minute read) Anthropic will embed an invisible watermark in text and images generated by Claude, aligning it with the EU AI Act's voluntary Code of Practice. Text watermarking applies to Claude models released after August 2nd, and the mark persists when text is copied to other applications or edited. Images will be marked using C2PA metadata, though detection may fail on short or heavily edited text snippets. Taste is All That's Left (16 minute read) With AI collapsing the distance between idea and working artifact, the friction that once rationed output and trained judgment has disappeared. Taste, the wordless verdict on what is worth keeping, is the one part of the work machines cannot perform. The scarce act is no longer making but choosing what deserves to exist. Is there a retirement crisis in the creative industry? (5 minute read) Many senior creatives are considering early retirement due to economic uncertainty, shrinking margins, and concerns about AI reducing demand for production-focused creative work. However, retirement is not a guaranteed solution and human expertise remains valuable in areas such as strategy, branding, problem-solving, and specialised craft. The most resilient creatives will be those who adapt their skills and shift their value from execution to higher-level thinking and decision-making. AI Tech Pack Generator (Website) Generate product visuals, technical drawings, multi-view renders, and a complete factory-ready tech pack in minutes from a description. A UX Design Perspective on Improving AI Safety (6 minute read) A lawsuit over a teenager's death after months of conversations with a Character.AI companion bot frames the limits of on-screen disclosures. State laws such as Washington's HB 2225 now mandate repeated non-human disclosure and self-harm protocols, which risk becoming banner blindness. A duty of care is proposed, with public reporting on how often safeguards fail rather than descriptions of perfect guardrails. Thissaway refreshes historic golf resort The Belfry following major expansion (4 minute read) The Belfry Hotel & Resort has unveiled a new brand identity by Thissaway to coincide with major investments in its facilities, including a new conference centre and wellness hub. The rebrand is built around the historical meaning of a belfry-a bell tower that brings people together-which reflects the resort's role as a destination for celebrations, events, and shared experiences. The updated identity features a refined bell symbol, contemporary serif typography, an expanded colour palette, and a flexible system that extends across the resort's spa, club, dining venues, signage, digital channels, and marketing materials.",
+    "raw_meta": {
+      "gmail_message_id": "1288",
+      "gmail_uid": "1288",
+      "gmail_labels": [],
+      "gmail_msgid": "1873410053307418855",
+      "gmail_thrid": "1873410053307418855"
     }
   },
   {
