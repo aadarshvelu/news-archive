@@ -166,6 +166,34 @@
     }
   },
   {
+    "id": "46b83aa7-05f7-44e7-88e7-910b89d70072",
+    "cluster_id": "40fb6d9c-f5a5-4819-bbfa-aa5955cac811",
+    "cluster_size": 3,
+    "source": "The Register",
+    "title": "1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack",
+    "teaser": "Three major breaches—targeting RingCentral, Abbott, and UTS—show how social engineering can expose millions of SSNs, medical records, and private details.",
+    "summary": "Major data breaches highlight escalating cyber threats targeting corporate and healthcare infrastructure. RingCentral was compromised in an extortion attempt by ShinyHunters, resulting in the leak of 1.6 million user records, following a breach facilitated by voice-phishing an employee. Separately, Abbott's acquired cancer diagnostics business suffered a major hack, where ShinyHunters claimed to steal over 30 million patient records, including SSNs and confidential doctor-patient notes. Furthermore, Unlimited Technology Systems (UTS) disclosed a significant incident affecting up to 3.8 million people’s PHI. These incidents demonstrate the critical vulnerability of large data repositories to sophisticated social engineering attacks.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/cyber-crime/2026/08/14/16m-ringcentral-accounts-data-dumped-after-shinyhunters-extortion-attack/5288003",
+    "date": "2026-08-14T17:34:57Z",
+    "image_url": "https://image.theregister.com/5288059.jpg?imageId=5288059&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "CYBER-CRIME 1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack Another one bites the dust Some 1.6 million unique email addresses tied to RingCentral have been leaked online, alongside names, physical addresses, and phone numbers, according to Have I Been Pwned. RingCentral disclosed the breach on July 28 and said \"it was the target of a sophisticated social engineering campaign\" affecting a \"limited portion of RingCentral customers.\" The comms platform said that it promptly responded to the intrusion upon detecting it, \"took steps to stop the unauthorized activity,\" and immediately launched an investigation into the security incident with help from a \"leading third-party forensic firm.\" \"We have not seen any new unauthorized activity since taking these remediation efforts,\" the company added. RingCentral did not immediately respond to The Register 's request for comment on this story. We will update it as needed. While the company hasn't named its attacker, notorious data theft and extortion gang ShinyHunters previously claimed it compromised the collaboration platform, according to a post on its data leak site, viewed by The Register. Screenshots of the post also circulated on social media . The crooks claimed they stole more than 623 GB of data, and set a July 30 deadline for RingCentral to pay up - or else the crew would dump the stolen information online. RingCentral apparently didn't pay the extortion demand, and ShinyHunters followed through on its threat, posting customers' details on the internet. \"The company failed to reach an agreement with us despite our incredible patience, all the chances and offers we made. They don't care,\" the crims wrote on August 3. A ShinyHunters spokesperson told us that the group broke into RingCentral by voice-phishing an employee and tricking them into giving the crooks their password. This same group, which security sleuth Dominic Alvieri says is his \"top threat group and probably is for most analysts,\" has hacked hundreds of organizations since the start of the year, including education tech firms that provide services for schools and universities along with healthcare-sector organizations . Recently, ShinyHunters dumped data stolen from Abbott's cancer diagnostics business with the leak containing 10.9 million unique email addresses alongside personal and health information. The crooks claim that they made off with more than 30 million rows of customer information, including more than one million Social Security numbers and 7.5 million dates of birth. More concerning, however, they said the haul includes 22 million-plus rows of client notes containing confidential doctor-patient conversations and health information, and more than 20 million medical-order records containing patient IDs, prescription types, order dates, and refill information.® Editor's note: This story was amended post-publication with comment from ShinyHunters.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5288003",
+      "rss_tags": [
+        "cyber-crime"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "d2a542d8-c226-4a64-9339-b8196be6e814",
     "cluster_id": "94fe4966-1610-46b0-9278-a7288d46f706",
     "cluster_size": 2,

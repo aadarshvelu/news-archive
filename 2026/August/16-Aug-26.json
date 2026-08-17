@@ -192,6 +192,37 @@
     }
   },
   {
+    "id": "ff53b276-c508-4825-a82d-cb8d26ddb792",
+    "cluster_id": "529b57e7-a2f4-420d-b374-30c516d598ff",
+    "cluster_size": 2,
+    "source": "The Verge",
+    "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+    "teaser": "From budget Instax models to the feature-rich Polaroid Flip, find your perfect analog camera experience without breaking the bank.",
+    "summary": "This guide reviews multiple analog instant cameras to help consumers choose based on budget and desired aesthetic. The deals section promotes the Polaroid Go 2 bundle for $71.99, which uses smaller film. For more comprehensive options, the review analyzes Fujifilm's Instax line (e.g., Mini Evo), noting its creative control via LCD screens and apps. Budget picks include the reliable Instax Mini 13 or Kodak's Mini Shot 3 Retro due to lower film costs. For a true retro look, the Polaroid Flip offers classic square prints and modern connectivity like Bluetooth and USB-C charging. Overall, while instant cameras offer unique nostalgia, users should be aware that low-light shooting remains a technical challenge across most brands.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
+    "date": "2026-08-16T03:00:00Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Polaroid-Go-Generation-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Brad Bourque",
+    "content": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you're trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99 (usually $109.99). That's the lowest price we've seen for the bundle, with a pack of film usually costing $21.99 on its own. Plus, it's four dollars cheaper to buy the bundle than to buy just the camera on its own. With its more compact footprint, the Polaroid Go 2 shoots on smaller film to match. Where classic Polaroid photos are 88mm x 107mm, the Go film is 53.9mm x 66.6mm, a great size for sticking to your bulletin board or stashing in your wallet. The camera has a USB-C port for charging the battery, which can run for up to 15 packs of film on a single charge.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=980448",
+      "rss_tags": [
+        "Cameras",
+        "Deals",
+        "Gadgets",
+        "Verge Shopping"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "b1f9934e-3e95-48fb-a0b7-9436c7a17163",
     "cluster_id": "201d1501-181d-4ec2-bb97-67d7213f1c06",
     "cluster_size": 2,
