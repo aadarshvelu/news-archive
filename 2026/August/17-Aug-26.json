@@ -1,0 +1,30 @@
+[
+  {
+    "id": "c951122e-cb38-45ce-a42e-0682d8ada674",
+    "cluster_id": "7a0c46ad-5bc1-45a1-abef-7c30bd7d8f4e",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive",
+    "teaser": "Microsoft blames AI-driven bug finding for delaying critical Exchange Server updates, leaving users in the dark on when the new features will arrive.",
+    "summary": "Microsoft has confirmed a delay in releasing Cumulative Update 1 (CU1) for its Exchange Server Subscription Edition (SE), attributing the setback to the intensive workload from using AI tools to find and fix security vulnerabilities. CUs are major package updates that include all recent bug fixes and changes. Due to previous flaws exploited by attackers, Microsoft has pledged to 'prioritize security above all else,' which requires thorough testing of every patch found via new AI methods. The company stated that they must reach a stable point with no pressing security payloads to ensure the CU1 is comprehensive and avoids forcing administrators two major updates simultaneously. While providing little concrete timeline, Microsoft confirmed that Exchange SE CU1 remains planned.",
+    "importance": 3,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227",
+    "date": "2026-08-17T02:31:58Z",
+    "image_url": "https://image.theregister.com/225734.jpg?imageId=225734&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "software Microsoft blames AI for delayed Exchange update, can't say when it will arrive Dealing with machine-made bug backlog makes it hard to find a moment to deliver promised subscription service Microsoft has blamed extra work created by AI bug-finders for the delayed release of a major Cumulative Update to Exchange Server Subscription Edition (SE). Redmond's Exchange team made that admission last Thursday in a post titled \"Where is Exchange SE CU1 anyway?\" that reveals the software giant is \"getting questions from our customers on when they can expect us to release Exchange SE Cumulative Update 1 (CU1).\" \"After all, in the past we mentioned that it would be released by the end of the first half of calendar year 2026, later updated to 'second half of 2026'. What is the deal? Where is CU1?\" For those of you who came in late, Exchange SE is the subscription version of Microsoft's email server, and a Cumulative Update (CU) is a new version of the package that includes all recent bug fixes, plus other changes such as new features or removing deprecated code. Microsoft publishes CUs once or twice a year. Some users prefer applying CUs to applying every patch. As Exchange SE is a subscription product, not getting CU in a timely fashion isn't a great example of why pay-as-you-go software is a great idea. Microsoft explained delays to the arrival of CU1 by referring to the fact that \"Over the last few months, various Microsoft execs made statements explaining how Microsoft is leveraging a variety of AI tools to help find vulnerabilities in our products.\" The post says the Exchange development team is \"working through reported issues - which includes validation that they are real security issues, reproducing, fixing, testing for regressions / issues after fixes are deployed and releasing updates monthly.\" Redmond's missive also points to Microsoft's pledge to \" prioritize security above all else \" as a reason for delays. A reminder: Microsoft adopted that stance after flaws in Exchange led to an attack on Exchange by suspected Chinese operatives , earning it a tongue-lashing from the US government. The Exchange team says that while trying to stay on top of bugs, it is also working on CU1. \"We are regularly rolling our monthly security payload into our internal CU1 build and plan to release Exchange SE CU1 as soon as we get a reasonable stable point and have a month without pressing security payload.\" The Exchange team has adopted that stance because it doesn't want to publish CU1 and then find it needs to replace it with another that includes new security updates. \"That would create double the update work for many organization administrators,\" the post explains. \"Even internally, trying to ensure that two major releases (Security Update and a CU) get appropriately tested so we can ensure high quality and nothing falls through the cracks would be very challenging as CU1 must be all inclusive of everything that we released since the RTM.\" Exchange admins will likely appreciate the fact that Microsoft doesn't want to burden them with two major updates to implement. They may also wonder when Microsoft will find a month in which there is no \"pressing security payload\" that takes priority over CU1. Microsoft's post offers little certainty because it concludes: \"In short: Exchange SE CU1 is coming; we do not have a date to give you. But we did not forget about it.\" Nor, it seems, did Microsoft plan for how AI-powered bug-finding would impact product development teams. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5288227",
+      "rss_tags": [
+        "software"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  }
+]

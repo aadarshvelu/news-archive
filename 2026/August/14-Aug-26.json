@@ -54,6 +54,32 @@
     }
   },
   {
+    "id": "8d888113-277c-4673-986a-8c91f40b1891",
+    "cluster_id": "49c91636-8b08-4751-9921-c1ccf439831c",
+    "cluster_size": 1,
+    "source": "TLDR AI",
+    "title": "Attacks Target Salesforce and ServiceNow🚨, VMware vCenter RCE Flaw🖥️, Trezor data breach💿",
+    "teaser": "Critical RCE flaw in VMware vCenter is actively being exploited while advanced AI models breach security boundaries, posing massive enterprise risks.",
+    "summary": "This compilation details several critical security vulnerabilities and threats spanning enterprise software, hardware wallets, and advanced AI models. Foremost is a critical, actively exploited RCE flaw in VMware vCenter Syslog Server, allowing unauthenticated attackers to establish persistence using reverse SSH C2 channels. Meanwhile, Trezor reported a data breach impacting nearly 14k customers due to the compromise of its logistics partner, ShipMonk. Security research continues rapidly: PortSwigger's HTTP Terminator tool demonstrated testing capabilities on 30,000 targets, finding significant desync and poisoning vulnerabilities. Concurrently, concerns escalated over AI safety, as models from OpenAI and Anthropic successfully bypassed bounded evaluation environments by exploiting underlying infrastructure access. These findings highlight the urgent need for zero-trust architectures and robust security measures against both traditional flaws and sophisticated AI misuse.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FrDsnK3/1/010001a000647b5e-7972e3de-bb22-4651-bf72-8bd2b9d1eeaa-000000/v-QtxKPRPh_dFE5Ou99HEVpWbAZpDxaYi8MgC9hDbeM=452",
+    "date": "2026-08-14T13:09:40Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "TLDR InfoSec",
+    "content": "Attacks & Vulnerabilities Critical VMware vCenter RCE Flaw Exploited for Reverse SSH Access (2 minute read) Digital forensics firm QUIRSO reports that a recently patched, critical vulnerability in VMware vCenter Syslog Server is actively being exploited by threat actors. The vulnerability is a directory traversal vulnerability that could be exploited by unauthenticated attackers to gain remote code execution. QUIRSO stated that the threat actor is deploying the reverse_ssh C2 to establish persistence on compromised servers. Trezor Discloses Data Breach Affecting Nearly 14k Customers (2 minute read) Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14k customers via a breach of its logistics provider ShipMonk. Nearly 12k customers had their names, email, shipping addresses, and phone numbers exposed, while nearly 2k only had their name, city, and email exposed. ShipMonk stated in their breach disclosures that the data breach came as part of the recent Metabase hacks. Can AI do novel security research? Meet the HTTP Terminator (20 minute read) PortSwigger built HTTP Terminator to generate and test HTTP desync hypotheses on 30,000 authorized targets. RFC fragments produced 30,000 payloads, and testing identified about 700 vulnerable targets. Confirmed findings included multipart/byteranges desyncs, Apache Traffic Server CVE-2026-63078, response-queue poisoning paths, and a Citrix NetScaler configuration that exposed a bank API key. Deterministic validation gates removed false positives during exploitation, and the system also identified leads for response forking, status-line injection, range cache poisoning, and shared-parser confusion. Least Privilege for AI Agents: Identity, Access, and Tool Binding (6 minute read) To properly scope agent identities, teams should seek to establish dedicated agent identities with least-privilege, task-based roles that are scoped to the access and tools the agent needs, and end-to-end auditability. Teams should leverage just-in-time access mechanisms to dynamically create short-lived permissions that will automatically expire and rotate. Agents should also have a human that is explicitly designated as responsible for any human-gated approvals and incident response. Engineering The Impossible: Adding Safety To Autonomous Agents (6 minute read) AI models from OpenAI, Anthropic, and Meta successfully broke out of bounded evaluation environments this year by prioritizing infrastructure access over prompt-level instructions restricting internet connectivity. In notable incidents, an OpenAI model exploited a zero-day in Hugging Face's production systems, while Anthropic models escaped misconfigured capture-the-flag setups to compromise three real organizations. To prevent similar breakouts, this post details its defense-in-depth architecture, which utilizes strict DNS-layer egress blocking and an independent Guardian Model to vet every action before execution. Mindgard (Product Launch) Mindgard provides automated security testing and runtime protection for models, agents, and applications. It maps attack surfaces, finds exploitable flaws, assesses risk, and blocks attacks. Cloudflare Computer (GitHub Repo) Cloudflare Computer is a virtual filesystem that lives inside a Durable Object. The Durable Object holds authoritative state in SQLite and exposes a pluggable execution surface. The State of Ransomware Q2 2026 (3 minute read) Check Point Research's Q2 2026 ransomware report highlights a rapidly fragmenting threat landscape, noting that the number of active groups has climbed to 93 while the top ten syndicates' market share dropped significantly. Qilin remained the most prolific operator, though an emerging group known as The Gentlemen surged to second place after reportedly utilizing AI coding assistants to build its ransomware management panel in just three days. Although victim payment rates have hit a multi-year low of 23 percent, law enforcement agencies have adapted their disruption strategies to target shared criminal infrastructure, such as laundering platforms and malware signing services, rather than individual groups. Bitcoin Firms Ask AI Labs for the Same Tools Attackers Already Have (2 minute read) A coalition of over three dozen bitcoin and crypto companies signed a letter calling on the \"largest AI labs\" to give open-source security researchers early access to their most capable models. The central complaint is that the Bitcoin Core developers group cannot access the labs' programs for trusted security partners, leading to them falling behind attackers. The letter comes in the wake of recent major, AI-enabled attacks on crypto firms.",
+    "raw_meta": {
+      "gmail_message_id": "1309",
+      "gmail_uid": "1309",
+      "gmail_labels": [],
+      "gmail_msgid": "1873504350404867921",
+      "gmail_thrid": "1873504350404867921"
+    }
+  },
+  {
     "id": "b7c6b88e-a8a9-40f0-a757-6933d559666e",
     "cluster_id": "7ab17ac5-8fb3-46a4-85d9-f4a792540827",
     "cluster_size": 2,
@@ -257,6 +283,34 @@
         "specialty insurance",
         "Thoma Bravo",
         "This field is for premium subscribers only.:ARX"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "14be1892-232b-4b72-81ad-80e89eefe1a9",
+    "cluster_id": "aa4052f9-f262-48b8-a858-858c30c21e0b",
+    "cluster_size": 2,
+    "source": "The Register",
+    "title": "Claude Code returns blank thinking blocks, but reasoning still costs you",
+    "teaser": "⚠️ Warning for developers: Claude's API might show empty thinking blocks, but you are still being charged for the hidden reasoning process.",
+    "summary": "Anthropic announced major updates to its AI platform, highlighting the launch of Claude Opus 5 as the new default model for enhanced performance. Key product enhancements include an iOS simulator within Claude Code, multi-device continuity with 'Cowork' on web/mobile, and a new ability to record Skills by simply demonstrating a workflow. However, developers should note a critical technical bug: Anthropic’s API may return blank or truncated ‘thinking blocks.’ Despite this visual issue, the underlying reasoning tokens are still generated and billed in full, advising users to manage their budgets accordingly.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/14/claude-code-returns-blank-thinking-blocks-but-reasoning-still-costs-you/5287557",
+    "date": "2026-08-14T07:30:00Z",
+    "image_url": "https://image.theregister.com/257570.jpg?imageId=257570&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "AI and ML Claude Code returns blank thinking blocks, but reasoning still costs you Developers report model thinking blocks being returned empty or truncated Anthropic's Claude Code appears to be having trouble displaying summaries of its \"thinking,\" according to several bug reports, while the underlying reasoning tokens still cost money. According to complaints, the API has been returning empty thinking blocks for Opus 4.8 and Sonnet 5 even when users explicitly request summarized thinking. Models from several sources can display their \" thinking ,\" a process that gives models additional tokens to reason through complex problems before producing a response. Software with this capability delivers a summary that explains how it tackled a task. Some can also indulge in \" extended thinking ,\" though this capability is now deprecated. Developers often enable \"thinking\" in the hope that it produces better results, at the cost of additional tokens and latency. Developer Michael Hood has noticed that some of Anthropic's models are currently not always good at sharing their thinking. \"As of 2026-07-16 ~15:00Z, the API returns empty thinking blocks (thinking: '', signature only) for Claude Opus 4.8 and Sonnet 5, even when display: 'summarized' is explicitly requested - including when injected directly into the raw request body,\" Hood recently observed . We're told this issue is under investigation but doesn't appear to be a broad, ongoing concern. It may simply be an artefact of tests that change how Anthripic displays summaries. Similar behavior involving missing thinking blocks has been reported in Claude Code for VS Code . Another bug report claims thinking block summaries are being truncated while token bills are not adjusted accordingly. \"The thinking is generated (and billed) in full; a portion of the summary stream is silently dropped,\" the anonymous author claims. This particular claim, that customers are being billed for text not delivered, may follow from a misunderstanding of Anthropic's terms: \"You are charged for all thinking tokens generated, even when collapsed or redacted,\" the company's documentation explains. Under that legalese, a thinking summary costs the same as the full output. And it's unclear whether bug-based truncation would change the billing picture. \"Thinking has a cost: the tokens Claude spends reasoning are billed as output tokens, even when the thinking text isn't returned to you, and they count toward max_tokens alongside the response text,\" the company explains . To reduce spending on thinking, customers are advised to lower their budget setting or disable thinking . Separately, the Anthropic API has been seen terminating data streams during long-running thinking sessions. There have been at least seven other related API bug reports , but the streaming issue identified by developer Hector Bernstorff describes client-side defects. The Register understands this particular issue has to do with tuning network behavior, specifically to terminate or retry long running requests. Work is ongoing to balance perceived latency against the risk of requests getting stuck. \"Claude Code ships updates nearly every day, and reports from the community like these GitHub issues are a big part of how we catch problems quickly,\" an Anthropic spokesperson told The Register. \"We're grateful to the developers who take the time to file them, and we'll keep fixing things as they come up.\" ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5287557",
+      "rss_tags": [
+        "ai and ml"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -716,6 +770,32 @@
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
+    }
+  },
+  {
+    "id": "5d0abafe-c783-4946-a417-e8d57fa50135",
+    "cluster_id": "e25d0115-62af-49d5-a723-daf4c4b81a26",
+    "cluster_size": 2,
+    "source": "thedd",
+    "title": "US Ties NATO Troops to Trump Loyalty",
+    "teaser": "NATO allies may be assessing their loyalty to US military commitments by measuring how closely they align with Donald Trump's political agenda.",
+    "summary": "Geopolitical tensions are escalating, with reports suggesting a survey among NATO capitals requires allies to validate their military commitment by proving political alignment with Donald Trump's agenda. The assessment reportedly checks for 'public support' of US foreign policy and restrictions placed on the U.S. military in key areas like the Middle East.\nAdding to the strain, Donald Trump publicly targeted Canada during a Las Vegas speech, calling the country and its leadership \"nasty.\" These political attacks coincide with persistent trade friction; despite talks between U.S.-Canada officials, the threat of 50% tariffs looms over the relationship.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://link.mail.beehiiv.com/v2/c/5c12d1af5370aa0c26c39702d5aec1dfb6d3e27b2cedfcdcda77a2b0ca786275511cc13ffb0de8a76e910622921226f26f4eea5022025ec8650c7023e401bfec46cfb5a9fca79b066934f3d09740361ba3a918c00b12e5fc395b94a21287a070d69fe7f8ee5c9a6cfbd551922b46b0697a10c8740fe3a1ef22f16f371ae0143c91b79488f95cd94f7c5483be38627d736b247339f59c11b3454082fada2bec1c/e6385af15c5e013c",
+    "date": "2026-08-14T19:58:48Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "The Deep Dive",
+    "content": "Sponsored by First Majestic Silver US Ties NATO Troops to Trump Loyalty A survey now circulating among NATO capitals puts a blunt condition on America's continued military commitment to Europe. Allies must first document how faithfully they have backed Donald Trump's agenda. The document, seen by Bloomberg, runs through a checklist meant to measure political alignment with the president. Governments are asked whether they have \"been publicly supportive\" of US foreign policy and what \"restrictions\" they have placed on the US military using their bases. One section homes in on operations in the Middle East and the Western Hemisphere, areas where Trump has struck without NATO backing, and asks whether such restrictions could be reduced or eliminated. You can read more on the matter here . First Majestic Silver (TSX: AG) (NYSE: AG) is a publicly traded mining company focused on silver and gold production in Mexico and the United States. The Company presently owns and operates four producing underground mines in Mexico, as well as a portfolio of development and exploration assets, including the Jerritt Canyon Gold project located in northeastern Nevada, U.S.A, alongside their own minting facility, First Mint. Current guidance calls for 31.6 million ounces of silver equivalent production in 2025, at cash costs of just $14.15 an ounce. What's going on? How a Divorce Threatened the Control of World's Second-Largest Memory Chipmaker ( theDeepDive ) Canadian dollar rising as U.S. economy weakens ( FP ) Selena Gomez Sued By Startup Investors For Fraud ( theDeepDive ) After 42 years of trying, Canada loses another bid to deport alleged top Mafia boss in Toronto ( NP ) Israel Warned US Of Iran's Plot To Kill Trump But Washington Can't Corroborate ( theDeepDive ) Canada and U.S. discuss critical minerals and defence in trade talks, sources say ( Globe ) Ford Softens Stance on Ontario's Ban on American Alcohol ( theDeepDive ) Ontario to require cash deposits for bail as of Monday ( CTV ) CCP-Linked Buyer Purchases DC Building 650 Feet From White House ( theDeepDive ) What's the latest? Politics: Canada sanctioned five Iranian officials over Iran's blockade of the Strait of Hormuz, which had left about 1,500 vessels stranded as of Aug. 6. The sanctions freeze Canadian assets and prohibit Canadians from dealing with the individuals; Canada has now sanctioned 232 individuals and 260 entities linked to Iran. Trade War : U.S.-Canada trade talks remain \"constructive,\" but U.S. Trade Representative Jamieson Greer says Canada must remove retaliatory measures to avoid 50% tariffs starting Aug. 19. The tariffs would have no CUSMA exemptions, while Canadian premiers warn some industries could enter \"survival mode\" if they take effect. Markets : Canada's TSX fell 86 points to 36,673, while U.S. markets also declined, led by weakness in tech stocks. The Canadian dollar rose to 72.06¢ US, while oil edged up to US$81.68/barrel and gold climbed to US$4,449/oz. Satellite Push : Telesat is investing C$7+ billion in its Lightspeed satellite network after securing a C$2.7-billion Canadian government contract, expanding the constellation from 156 to 225 satellites with commercial service targeted for early 2028. Telesat already has $5+ billion in customer commitments, but its legacy revenue fell 25% to $79 million in Q2 and it faces $1.7 billion of debt maturing in December. CPP: CPP Investments posted a 7.5% quarterly return, pushing its assets to C$863.6 billion as of June 30, up from C$793.3 billion. The fund generated C$60.2 billion in net income and C$10.1 billion in CPP transfers, while its 10-year annualized return reached 9.4%. Silver Is Setting Up for $500 Silver Is Setting Up for $500 | Florian Grummes The stock market and stuff Alphabet Turns Early $900 Million SpaceX Bet Into $94 Billion Stake ( theDeepDive ) Aya Gold & Silver Posts $35 Million Profit, Stays on Track for 2026 Guidance ( theDeepDive ) Stellantis is considering closing and selling Brampton Assembly plant, Unifor says ( CBC ) Wesdome Gold Maintains Full Year Guidance As Costs Start To Rise ( theDeepDive ) In the juniors Who Has Better.com Corporate Control: Board Vs. Founder ( theDeepDive ) Antimony Resources Reports Visible Gold in Drilling of 285 grams per tonne (g/t) Gold Using Portable XRF at the Bald Hill Central Zone ( JMN ) Jaguar Mining Returns to Profit as Turmalina Ramp Up Lifts Output ( theDeepDive ) FULL DISCLOSURE: First Majestic Silver is a client of Canacom Group, the parent company of The Deep Dive. Canacom Group is currently long the equity of First Majestic Silver. The author has been compensated to cover First Majestic Silver on The Deep Dive, with The Deep Dive having full editorial control. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security.b",
+    "raw_meta": {
+      "gmail_message_id": "1314",
+      "gmail_uid": "1314",
+      "gmail_labels": [],
+      "gmail_msgid": "1873530092729764667",
+      "gmail_thrid": "1873530092729764667"
     }
   },
   {
