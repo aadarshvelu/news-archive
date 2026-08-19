@@ -433,6 +433,34 @@
     }
   },
   {
+    "id": "736ea615-7a88-464d-a983-1cdcabe3d53e",
+    "cluster_id": "89d47dd5-87f3-4df6-8307-1a837c6a85d9",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Expired credit cards revived by researchers to make unauthorized payments",
+    "teaser": "🚨 Security alert: Researchers found they can revive expired credit cards and make unauthorized payments by exploiting flaws in contactless tech.",
+    "summary": "Researchers at UMass Amherst discovered a significant security flaw that allows attackers to use expired contactless credit cards for unauthorized payments. The vulnerability is rooted in inconsistencies within the EMV payment protocol and card manufacturer designs—a trade-off between performance and security. They found that Visa's system, unlike Mastercard, American Express, and Discover, fails to cryptographically bind the card's expiration date. This gap allows an attacker using NFC proxies to perform a man-in-the-middle attack, making expired cards appear valid to payment terminals. The flaw depends on how banks handle authorization after the terminal accepts the seemingly current date.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/security/2026/08/18/expired-credit-cards-revived-by-researchers-to-make-unauthorized-payments/5289229",
+    "date": "2026-08-18T20:20:28Z",
+    "image_url": "https://image.theregister.com/5243747.jpg?imageId=5243747&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "security Expired credit cards revived by researchers to make unauthorized payments Gaps in expiry checks could let dead plastic make purchases again Researchers affiliated with the University of Massachusetts Amherst have found that you can get payments out of certain expired contactless credit cards, a process detailed at the recent USENIX Security 2026 conference. Raja Hasnain Anwar, Gerard DeCunha, and Muhammad Taqi Raza describe their findings in a paper titled \"Zombie Cards Back Online: Reviving Expired Credit Cards for Contactless Payments.\" Credit cards, the authors explain in their paper, have expiration dates, but the way these dates get checked and enforced isn't consistent. Thus, they were able to devise an attack that makes expired contactless cards appear to be valid to payment terminals. The Europay, Mastercard, and Visa (EMV) payment process involves a payment card (card or digital wallet in a phone) and a point-of-sale terminal communicating over a direct NFC channel, linked to a payment network (eg, Visa, Mastercard, Discover) that links the merchant to a bank and a card issuer. The transaction process relies on the EMV contactless protocol, which the authors say is fragile because the transaction flow is selectively authenticated - some of the data gets sent between the card and terminal in plaintext and is only later linked to cryptographic verification using Offline Data Authentication (ODA) and issuer-verified cryptograms. This leaves an opening for unwanted intermediary interference, which requires only the necessary knowledge and mobile phones acting as NFC proxies. And indeed, the researchers demonstrated that they could meddle in a way that revives expired contactless payment cards to make purchases. \"Our results show that Visa contactless transactions are susceptible to man-in-the-middle tampering due to a lack of effective integrity protection,\" the authors state in their paper. What's more, they say, the wallet Card Transaction Qualifiers settings steer transactions toward online authorization checks instead of rejecting the transaction immediately. That shifts the enforcement burden to the card issuer where behavior varies and may rely on the POS terminal evaluation rather than conducting a full security check during transaction authorization. The EMV protocol is implemented in EMV kernels. American Express, Discover, Mastercard, and Visa each run their own kernels. Visa's kernel, the authors observe, is a bit more permissive than others. It doesn't bind the expiration date cryptographically. The Visa kernel allows the POS terminal to evaluate processing restrictions based on the Application Expiration Date, the authors explain. But the card issuer relies on an expiration date from a different data field in the online authorization request. These two dates should be cryptographically bound to each other, but they're not. This gap allowed the researchers to devise an attack using NFC proxy devices, as demonstrated in this video . Mastercard, American Express, and Discover configurations resisted the attack; Visa contactless cards did not. \"The card gives the checkout terminal an expiry date to read,\" the authors explain in a summary of their work. \"In the Visa contactless configuration we tested, that particular date was not covered by the card's digital signature. Someone positioned between the card and terminal could therefore alter what the terminal sees while leaving the card's normal security checks looking valid.\" Since Visa's approach kicks the authentication handling down the road to the bank involved, the attack's success depended on how the bank handled the transaction. Some of the banks tested succumbed, while others didn't. Raja Hasnain Anwar, lead author and a doctoral candidate at UMass Amherst, told The Register in an email that the reason Visa cards are affected by this attack has to do with the way different card manufacturers have different protocols for handling contactless transactions. \"These protocols have most messages in common to ensure global acceptance on different types of terminals; however, each manufacturer has their design choices to make for additional mechanisms,\" he said. \"Often, these design choices end up in a compromise to ensure backward compatibility with old POS terminals, and also to meet their performance criteria. \"The security checks are in place, however, only a subset of these security mechanisms are invoked to make the transaction faster and smoother. There are other research studies that have shown issues with Mastercards as well. It comes down to the trade-off between performance and security, and often leaves room for this kind of vulnerability. No design is inherently bad.\" The authors say that they notified Visa of their findings in May 2025 and followed up in December 2025. Neither Visa nor the banks notified have confirmed that they've mitigated the expiration issue. Visa did not immediately respond to a request for comment. Let the dumpster dive for discarded cards begin. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5289229",
+      "rss_tags": [
+        "security"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "49a84ce5-f913-4eac-b281-e9d1402d0670",
     "cluster_id": "fc1080cf-4a22-48e3-93a5-18108a58752b",
     "cluster_size": 1,
@@ -1021,6 +1049,34 @@
     }
   },
   {
+    "id": "0d7945e2-b694-4cf2-aa84-17a9f8a84168",
+    "cluster_id": "ae271040-dbe1-4d3f-876f-6ba0f1f73ab4",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "Meta and Google mobile apps gorge on user data: Study",
+    "teaser": "New study warns: Tech giants like Meta report collecting three times as much user data as apps from Apple or Microsoft.",
+    "summary": "A new study by Surfshark reveals that major mobile apps from tech giants like Meta and Google collect a staggering amount of user data. Based on developer submissions to the App Store, Meta's apps report collecting an average of 25 out of 35 possible data types—three times the reported total for tools from Apple or Microsoft. While Google is also highly ranked, the research highlights that Big Tech's business models depend on gathering detailed digital profiles by weaving together search history, purchase habits, and precise GPS coordinates across multiple apps.\n\nSurfshark analyzed 171 iOS apps from Meta, Google, Amazon, Apple, and Microsoft. They found that all Meta apps collected device IDs and product interactions. Notably, Amazon Alexa was the most data-intensive non-Meta app examined, while experts warn this deep data integration represents an 'insatiable appetite for user information.'",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/personal-tech/2026/08/18/meta-and-google-mobile-apps-gorge-on-user-data-study/5289171",
+    "date": "2026-08-18T16:01:00Z",
+    "image_url": "https://image.theregister.com/5240624.jpg?imageId=5240624&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "PERSONAL TECH Meta and Google mobile apps gorge on user data: Study Zuck's empire declares triple the appetite of Apple or Microsoft, while Google packs the leaderboard, dev survey shows A study of mobile apps claims that Meta collects three times as much user data on average as tools published by Apple or Microsoft. Google is also one of the worst data-scavenging offenders. The research was conducted by the reassuringly named Surfshark, a VPN and security tools provider. It found that Meta's apps were the most \"data-hungry,\" declaring an average of 25 out of 35 possible data types, compared with seven or eight for apps from Apple and Microsoft. The findings are based on privacy information submitted by developers to Apple's App Store, rather than independent observation of what the apps transmit. They count the number of data types an app may collect, not the amount or frequency of collection, and do not mean that every category is gathered from every user. Surfshark examined 171 iOS apps published by Google, Apple, Microsoft, Amazon, and Meta, making this a comparison of five tech giants rather than the wider app market. Google accounted for 29 of the 40 apps declaring the broadest data collection, although it was also overrepresented in the sample, with 44 apps - more than any other publisher. Nine of Meta's 12 apps made the top 40. The 29 Google apps declared between 18 and 26 data types each. Amazon Alexa was the most data-hungry non-Meta app, listing 28. All the Meta apps studied declared the collection of device IDs, product interactions, performance information, and crash data, Surfshark says. Nine listed precise location data, which the researchers argued went beyond what the apps were likely to need, while seven listed browsing history. Although Google's apps listed fewer data types on average than Meta's, they ranked as the most data-hungry in six App Store categories: Photo & Video, Music, Entertainment, Utilities, Health & Fitness, and Developer Tools. All the Google apps examined listed device IDs, diagnostic information, and performance data, while many declared search histories, purchase histories, photos or videos, email addresses, and usernames. Amazon's apps commonly listed device IDs, email addresses, names, performance information, product interactions, and crash data. Eleven declared precise location data, while one listed browsing history - Amazon Shopper. Apps from Microsoft and Apple declared the fewest data types on average among those Surfshark examined, although neither emerged entirely empty-handed. The data types most commonly listed by Microsoft apps included crash data, device IDs, email addresses, names, diagnostic and performance information, product interactions, and user IDs. Two also declared browsing history. Safari was the only Apple app to list browsing history, while six Apple apps declared precise location data. Other commonly listed types included device IDs, email addresses, and performance information. \"Our research shows that the Big Tech business model is often built on an insatiable appetite for user information,\" said Surfshark research lead Dr Luis Costa. \"When these giants weave together search history, purchase habits, and precise GPS coordinates across dozens of different apps, they are building a detailed digital map of users' lives.\" m®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5289171",
+      "rss_tags": [
+        "personal tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "56e093f1-4cc3-4fbd-8d97-035e09b67c3e",
     "cluster_id": "da43db92-4c5d-42b9-98cd-2b2a2373d858",
     "cluster_size": 2,
@@ -1105,6 +1161,143 @@
       "rss_tags": [
         "Startups",
         "TechCrunch Disrupt"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "3893aa2f-9bd9-4d23-9778-8f28a06e5ead",
+    "cluster_id": "b2eb2c37-0fc0-4904-9d3e-0adae99476e3",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "teaser": "Robin Williams' children revived his Instagram to combat 'AI abuse,' fighting deepfake replicas of his voice and image.",
+    "summary": "Following his 2014 passing, Robin Williams' children are reactivating his Instagram account to combat the 'rampant AI abuse' of his voice and likeness. Through their profile, they plan to share authentic photos and videos, creating a 'safe, trusted place' for his genuine memories. This initiative was prompted by the difficulty in preventing malicious uses of celebrities' identities. Although major tech platforms impose guardrails on deepfakes, bad actors can still bypass them; threats have been noted from apps like OpenAI’s Sora, Grok, and even ByteDance's Seedance, which generated scenes using celebrity likenesses.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "date": "2026-08-18T19:48:26Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&strip=all&crop=0%2C17.382841712709%2C100%2C43.498314038293&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Emma Roth",
+    "content": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap . In a post on Tuesday , Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the stories, photos, videos, and memories shared reflect his legacy with authenticity, warmth, and care.\" A story posted to Zelda Williams' own Instagram account expands on the decision to bring back her father's profile, saying that it's meant to help combat \"rampant AI abuse,\" according to The Wrap : I'm sorry if anyone found Dad's old page posting again to be triggering. Believe me, I know it's a little strange. Making that space into one where people can find authentic clips and photos of him is one of the best ways we've now found to fight back against rampant AI abuse of his voice and likeness on here. Robin Williams' Instagram account remained inactive following his death in 2014. Last year, Zelda Williams asked fans to stop sending her AI-generated videos of her father. \"To watch the legacies of real people be condensed down to 'this vaguely looks and sounds like them so that's enough', just so other people can churn out horrible TikTok slop puppeteering them is maddening,\" she wrote at the time. Though some AI chatbots have restrictions in place to prevent users from generating images or videos with the AI likeness of a public figure or celebrity, these guardrails can still be bypassed. OpenAI's now-shuttered Sora app became a hotbed for generating videos of copyrighted characters and celebrities, while Grok is still generating sexualized AI deepfakes of famous women, according to Wired . ByteDance's AI model, Seedance, also struck an agreement with the Motion Picture Association after lax guardrails allowed users to generate scenes with the AI likenesses of their favorite Hollywood stars . Bad actors have even used the AI likenesses of celebrities, like Taylor Swift and Rihanna, to push scams on TikTok. Zelda, Zak, and Cody Williams add that they're going to use their father's Instagram account to share his \"unique talent and humor with the world.\"",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=981644",
+      "rss_tags": [
+        "AI",
+        "Entertainment",
+        "Film",
+        "Instagram",
+        "Meta",
+        "News",
+        "Tech"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "9df2bf8b-7db8-4cd3-bbc6-3d121be49140",
+    "cluster_id": "d22f6d58-cf28-4a51-9bbf-856713842c75",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "TikTok explores peer-to-peer payments via DMs, report says",
+    "teaser": "TikTok aims to become a major financial player by developing p2p payments, allowing users to send money via DMs—a move challenging rivals like Venmo and Zelle.",
+    "summary": "TikTok is developing a peer-to-peer payment feature, allowing users to send funds through direct messages using its existing TikTok Pay infrastructure. According to reports, evidence of this function was found in code within the U.S. iPhone app, suggesting recipients could 'tap to accept' payments. While TikTok confirmed the feature is not yet tested and remains in early development, this move positions the platform directly against competitors like Venmo and Zelle. This expansion continues TikTok's push into financial services, a trend also seen with X's recent launch of X Money.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+    "date": "2026-08-18T20:03:56Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Aisha Malik",
+    "content": "TikTok is developing a feature that would allow users to send each other money via direct messages, according to a new report from Bloomberg . If rolled out, the feature would use the social media service's TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases. References to the potential feature were found in code hidden within the current version of TikTok's U.S. iPhone app, according to the report. The code indicates that recipients would be able to \"tap to accept\" payments, while senders could include messages with their payments, similar to Venmo. TikTok told Bloomberg that the feature is not being tested, which suggests that it's in early development. Given that the feature is still under development, it's unknown when or if TikTok plans to widely release peer-to-peer payments. TikTok did not immediately respond to TechCrunch's request for comment. It's worth noting that this isn't the first time TikTok has tried to push further into financial services. Reuters reported earlier this year that TikTok had applied to Brazil's central bank for approval to operate as a financial technology company offering lending and payment services. Although TikTok is widely described as a social media giant, it has gradually expanded beyond that category thanks to additions such as robust search, TikTok Shop, a local discovery map, games, hotel bookings, and more. By introducing peer-to-peer payments, TikTok would be competing with services like Venmo and Zelle. TikTok isn't the only social network pushing into financial services, as X, formerly known as Twitter, recently launched X Money to allow users to send each other money.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3154071",
+      "rss_tags": [
+        "Apps",
+        "Social",
+        "In Brief",
+        "payments",
+        "TikTok"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "4272615a-ed16-4ccb-a7fd-6098d75017ab",
+    "cluster_id": "f81ff4b7-c3a7-4af3-bc95-3cd254b75532",
+    "cluster_size": 1,
+    "source": "TechCrunch",
+    "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+    "teaser": "The DOJ is probing Andreessen Horowitz for giving partners conflicting power over competing AI giants, raising new red flags for VCs.",
+    "summary": "The Justice Department (DOJ) has launched an investigation into Andreessen Horowitz (a16z) concerning its partners holding board seats at rival companies like Databricks and Fivetran. This probe focuses on the significant conflict of interest that arises when key personnel from a single firm advise competitors. According to reports, co-founder Ben Horowitz sits on the Databricks board, while partner Martin Casado is on the Fivetran board. The investigation leverages Section 8 of the Clayton Act, which prevents individuals from serving on competing boards. While VCs backing direct rivals is becoming more common (e.g., Anthropic and OpenAI), having multiple board seats creates a serious potential conflict that could require a 'Chinese wall' or even force a partner to relinquish their seat. If this trend continues, founders may value board commitments differently due to heightened regulatory risk.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+    "date": "2026-08-18T20:36:20Z",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?resize=1200,675",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Marina Temkin",
+    "content": "The Justice Department has launched a probe into Andreessen Horowitz regarding the firm's partners serving on the boards of competing companies, Bloomberg reported . The nearly year-long investigation focuses specifically on the firm's board seats at Databricks, which is valued at $190 billion, and Fivetran, which combined with dbt Labs in June. The firm's co-founder, Ben Horowitz, serves on the board of Databricks, while partner Martin Casado serves on the board of Fivetran. Several VCs told TechCrunch they were surprised by news of the probe. Databricks and Fivetran are competitors now, but the two companies weren't rivals when a16z invested in the startups, according to another Databricks investor who spoke on condition of anonymity. Databricks is largely known for its cloud storage products but, with its Lakeflow product, has expanded into AI data pipelines and application connectors. That's Fivetran's main business. Given that Andreessen Horowitz has backed hundreds of companies, it's almost inevitable that some startups will pivot or expand into the same markets, becoming competitors. While backing direct rivals has become more acceptable recently, as evidenced by the many VCs that funded both Anthropic and OpenAI , holding a board seat on competing startups creates a far greater conflict of interest. Directors are generally privy to much more sensitive strategic information than non-board investors ever see. Such conflicts can be resolved by having a partner step down from one of the boards. However, because Databricks and Fivetran have different individuals from the same VC firm on their boards, a16z can institute a so-called Chinese wall between Horowitz and Casado, which would prevent the two partners from sharing confidential information about the two companies with each other, one investor said. The investigation invokes Section 8 of the Clayton Act, a 112-year-old law stating that an individual or entity is barred from serving on the boards of competing companies. Since regulators have rarely targeted venture capital with this rule, the industry is watching the DOJ's probe closely. If a16z is forced to surrender a seat, founders may place less value on board commitments from top-tier VCs, given that those investors might be forced to step down if a portfolio overlap creates a future conflict. Andreessen Horowitz did not immediately respond to our request for comment, nor did it respond to Bloomberg. Databricks and DOJ declined comment.",
+    "raw_meta": {
+      "rss_entry_id": "https://techcrunch.com/?p=3154080",
+      "rss_tags": [
+        "Venture",
+        "Andressen Horowitz"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "cb8693b9-c417-440f-83a6-b4dd338aa75a",
+    "cluster_id": "ae1c454c-b154-482f-9865-383688bb7e6a",
+    "cluster_size": 2,
+    "source": "SiliconANGLE",
+    "title": "Google partners with the aviation industry to prevent climate-warming contrails with AI",
+    "teaser": "Google's AI is guiding planes away from specific sky patches to curb climate-warming contrails left by jets over the North Atlantic.",
+    "summary": "Google has partnered with the UK government in 'Operation Blue Skies,' an initiative designed to combat the warming effects of contrails using artificial intelligence. Contrails—white clouds formed when water vapor from jet exhausts condenses—are highly polluting, potentially contributing up to a third of aviation's total climate impact. The plan involves AI analyzing satellite data and weather forecasts to predict persistent 'contrail-sensitive regions' across oceanic airspace like the Shanwick corridor. These predictions will guide air traffic controllers (NATS) in making minor flight path deviations to avoid forming these heat-trapping trails without disrupting flights. The 30-month trial aims to prove that operational tweaks can significantly reduce contrail warming, offering a practical blueprint for greener aviation.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/08/18/google-partners-with-the-aviation-industry-to-try-and-prevent-climate-warming-contrails-with-ai/",
+    "date": "2026-08-18T23:35:44Z",
+    "image_url": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-19-06-31-15.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Mike Wheatley",
+    "content": "Google LLC today revealed it's partnering with the U.K. government and the country's aviation industry on a new initiative called Operation Blue Skies that aims to use artificial intelligence insights to reduce the impact of climate-warming contrails across an entire oceanic airspace. Contrails are the white clouds that sometimes form behind airplanes at cruising altitudes. They're created when water vapor condenses around the soot and other emissions from the jet exhaust, and they're extremely polluting, with some estimates claiming they account for around a third of the aviation industry's total climate impact. They usually form during cold yet humid atmospheric conditions, and sometimes they can linger and expand into cloud layers that retain heat. According to Google, the plan behind Operation Blue Skies is to use AI to try to identify contrail-sensitive regions of the atmosphere, based on data gathered from earlier trials . It will pinpoint these regions using a combination of satellite imagery and historical flight data, then correlate these findings with weather forecasts to predict areas where contrails are most likely to form. It will provide these forecasts to the U.K.'s National Air Traffic Services or NATS, enabling its air traffic controllers to steer pilots clear of the zones it has identified. The idea is that flight crews can make minor, targeted deviations to their flight paths to prevent the contrails from forming, without disrupting flight operations. NATS will be in charge of managing the airspace and controlling air traffic, as well as conducting safety assessments during the trial. Google technical lead Paul Hodgson said the trial will last for 30 months in total, with two four-month long operational periods when flights will actually be redirected to try and avoid contrails. The focus is on the Shanwick airspace within the eastern North Atlantic corridor, which spans the eastern half of the North Atlantic ocean. According to Google, this specific region is responsible for around 5% of all global contrail warming. During the designated test windows, the corridor is expected to see around 10,000 flights in total, and between 1% and 5% of them will be redirected to avoid contrail-forming regions, Hodgson said. That may not seem like a lot, but it will be enough to demonstrate if avoiding the most contrail-prone regions leads to a significant reduction in contrail formation. Google and NATS will be joined in the initiative by the U.K.'s Met Office, which is responsible for providing the weather forecasts, and Contrails.org, which will help to design the trial parameters and handle the data analysis. Researchers from the Imperial College London and the University of Cambridge will also participate in the project to independently verify its climate impact. Google said the program is expected to cost £5 million (about $6.76 million). The U.K.'s Department of Transport will put up £2.65 million, while Google's U.K. subsidiary, which is involved on a pro-bono basis, will contribute £1.4 million in the form of AI research, engineering time and computing resources. Hodgson said the hope is that Operation Blue Skies will be able to demonstrate that it's operationally practical to solve the challenge of contrail warming and provide a validated blueprint for how to manage airspaces and reduce the aviation industry's climate impact. A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=819097",
+      "rss_tags": [
+        "AI",
+        "NEWS",
+        "The-Latest",
+        "AI forecasts",
+        "Aviation climate impact",
+        "climate impact",
+        "climate warming",
+        "contrail formation",
+        "contrail forming regions",
+        "contrail-sensitive regions",
+        "contrails",
+        "flight data",
+        "NATS",
+        "Operation Blue Skies",
+        "weather forecasts"
       ],
       "fetch_ok": true,
       "fetch_status": 200,
@@ -1323,6 +1516,32 @@
     }
   },
   {
+    "id": "fedafe75-ff37-4f8c-84e8-bd2be8755776",
+    "cluster_id": "fbcb1e09-6e36-40bc-9f85-31c9e9e701a3",
+    "cluster_size": 1,
+    "source": "thedd",
+    "title": "Trump’s Mail Voting Contradiction",
+    "teaser": "Despite campaigning against easy voting access, Trump reportedly voted by mail in Florida, prompting a white house defense of the contradiction.",
+    "summary": "A apparent contradiction regarding Donald Trump’s use of mail voting was highlighted when it was reported he voted by mail in Florida's August 18 Republican primary. White House spokespeople, including Olivia Wales, are defending this action, arguing that his private vote is consistent with his public campaigns to restrict mail ballot access. Furthermore, the administration supports passing legislation and reviving federal rules aimed at increasing government oversight over how voters receive ballots through the Postal Service.",
+    "importance": 3,
+    "category": "policy",
+    "url": "https://link.mail.beehiiv.com/v2/c/225434be09d37bbc2da80233911e74cafe308afa4322f47639ecc968a92b93398a3d23ec0a9a8b24af09bfa83078847c2efb7f26b3e6924f8e2c17840815d5485b9fdf38f442916d057a30c762d42caae66691124f982ed9b77b11c0f94bf5b501a006eace62b1d17746040c34171834edcca7ad15dd69d0e3acff47bc551fc53369236d442e194331f3bf53ba476a8b7bc7c9cbb9e8cde63f086dd2e6158f55/47ba638aea55e11a",
+    "date": "2026-08-18T20:09:28Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "The Deep Dive",
+    "content": "Sponsored by Granada Gold Trump's Mail Voting Contradiction The White House is arguing that President Donald Trump's use of a mail ballot is consistent with his campaign to restrict mail voting, even as his administration asks the Supreme Court to revive federal rules that would give the government a larger role in determining which voters can receive ballots through the Postal Service. The distinction offered centers on exceptions contained in legislation Trump wants Congress to enact, rather than the Florida rules under which Trump actually voted. Reuters reported that White House spokeswoman Olivia Wales defended Trump after Politico reported Monday, citing local voting records, that the president had voted by mail in Florida's August 18 Republican primary. You can read more on the matter here . Granada Gold Mine Inc. (CSE: GGM) continues to develop and explore its 100% owned Granada Gold Property near Rouyn-Noranda, Quebec, and is adjacent to the prolific Cadillac Break. The company has a current resource estimate of 543,000 ounces of gold at 2.05 g/t at their flagship Granada Gold Project. An ongoing drill program aims to complete 120,000 metres of drilling, with 20,000 metres completed to date. What's going on? South Korea Presses for Wartime Command After Trump Drill Cuts ( theDeepDive ) National home sales climb for fourth straight month in July ( Globe ) Drone Explodes at Europe's Largest Nuclear Plant, Leaving 16 Casualties ( theDeepDive ) Canada's oil producers target late 2027 for Pathways carbon capture decision ( Reuters ) Quebec Separatists Delay Independence Referendum Until Trump Leaves ( theDeepDive ) Record-breaking investment in renewables could cement Canada as new clean energy superpower ( EuroNews ) South Korea's Lee Reaffirms Push to Reclaim Wartime Command After Trump Cuts Drills ( theDeepDive ) Mexico Weighs Tougher Trade Rules for China as US Talks Grind On ( Bloomberg ) Canadian Home Prices Turn Higher as Listings Keep Falling ( theDeepDive ) What's the latest? Politics: Trump said the U.S. is no longer in talks with Iran, despite previously claiming negotiations were underway, while insisting the Strait of Hormuz is open and cleared of mines. In reality, shipping remains near a standstill, with just three vessels crossing Sunday, and a cargo ship was struck Tuesday. Meanwhile, two Iranian ballistic missiles were detected heading toward the UAE, underscoring the escalating regional tensions. Trade War : Trump and Canadian Prime Minister Mark Carney are holding last-minute talks just hours before the U.S. is set to impose 50% tariffs on roughly US$20 billion of Canadian imports, including hockey sticks and wine. The tariffs could severely hurt Canadian exporters and small businesses, while the U.S. Chamber of Commerce warns they could raise costs, disrupt supply chains and put 13 million U.S. jobs tied to USMCA trade at risk. Energy Pact : Happy Valley-Goose Bay, a Labrador town of about 8,000 people, says it needs new infrastructure and funding before supporting the proposed Newfoundland and Labrador-Quebec energy deal, which could bring hundreds of workers and increased traffic. The town is seeking commitments for a municipal depot, firehall, ambulance facilities, housing and social services. Two Quebec Innu nations also say they were not consulted and insist on participation and consent before any agreement proceeds. Markets : Canada's S&P/TSX fell 304.92 points to 36,363.00, pressured by losses in base metals, technology and financials. U.S. markets also declined, with the Nasdaq down 340.47 points to 26,304.44 and the S&P 500 down 49.70 points to 7,695.36. Oil rose US$0.45 to US$84.19/barrel, while gold fell US$50.90 to US$4,422.80/oz. Real Estate: Canada's annualized housing-start pace fell 5% month-over-month in July to 229,074 units, from 240,773 in June. Actual starts in centres with 10,000+ people fell 19% year-over-year to 18,834 units, while the six-month average declined 0.5% to 247,377. Completions rose 8.1% to 19,773, while approved but not yet started units increased 3% to 141,480. Gold Is Still Going to $30,000 Gold Is Still Going to $30,000 | Simon Marcotte The stock market and stuff Kalshi S&P 500 Perpetual Futures Filing Challenges CME Group ( theDeepDive ) Nasdaq Golf Simulator Acquires Canadian Blockchain Firm ( theDeepDive ) Soaring diesel prices rip across US economy ( FT ) Disney Sues Trump's FCC to Block Early ABC License Reviews ( theDeepDive ) Curaleaf Takes US$4 A Share Aurora Bid Straight to Shareholders ( theDeepDive ) In the juniors Nord Traces 560-Metre Gold Trend at Surface Above Castle East Silver System ( theDeepDive ) McFarlane Lake Mining Lifts Juby Gold Resource to 6.2 Million Ounces ( theDeepDive ) Steadright Grabs 24.5% TitanBeach Carry As State-Owned Construction Partner Secured ( theDeepDive ) FULL DISCLOSURE: Granada Gold is a client of Canacom Group, the parent company of The Deep Dive. Canacom Group is currently long the equity of Granada Gold. The author has been compensated to cover Granada Gold on The Deep Dive, with The Deep Dive having full editorial control. Not a recommendation to buy or sell. Always do additional research and consult a professional before purchasing a security.",
+    "raw_meta": {
+      "gmail_message_id": "1350",
+      "gmail_uid": "1350",
+      "gmail_labels": [],
+      "gmail_msgid": "1873893149924888866",
+      "gmail_thrid": "1873893149924888866"
+    }
+  },
+  {
     "id": "4dd5758f-fba1-4952-b26a-53990a1bfa74",
     "cluster_id": "47998251-4688-486c-9bc7-89260c9caba0",
     "cluster_size": 1,
@@ -1346,6 +1565,38 @@
       "gmail_labels": [],
       "gmail_msgid": "1873837783966391832",
       "gmail_thrid": "1873837783966391832"
+    }
+  },
+  {
+    "id": "a4116379-027c-40d0-b500-a1c09245e0a2",
+    "cluster_id": "f7249b2c-ecb9-4263-80b5-b61f2d48d330",
+    "cluster_size": 1,
+    "source": "The Verge",
+    "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
+    "teaser": "Gaming headsets can be heavy, but the SteelSeries Arctis Nova 3P is now 45% off! Get a comfortable, multi-platform wireless headset with 40 hours of battery life.",
+    "summary": "The SteelSeries Arctis Nova 3P wireless gaming headset is currently available at a significant discount (45% off) from its regular price. Designed for comfort and versatility, the lightweight headset features a supportive stretchy headband and detachable microphone. Beyond basic audio quality, users can enhance their experience using the accompanying app, which provides over 200 game-specific equalizer profiles tailored for genres like shooters or music games. Furthermore, this model boasts impressive multi-platform compatibility, connecting via both Bluetooth and a low latency USB-C dongle to Windows, PlayStation, Nintendo Switch, and mobile devices alike. With up to 40 hours of battery life and rapid charging capabilities, it's an excellent choice for gamers seeking high performance.",
+    "importance": 2,
+    "category": "tech_news",
+    "url": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
+    "date": "2026-08-18T20:01:01Z",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Steelseries-Arctis-Nova-3P-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Brad Bourque",
+    "content": "While many gaming headsets come with extra features, the tradeoff is that they're often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot . The SteelSeries Arctis Nova 3P in cyan is on sale for $59.99, a 45 percent discount from their usual $109.99 price. This headset, like most of SteelSeries' models, feature a stretchy strap on the headband to offset its weight, plus a removable boom mic so you can take them on the go. While they sound good right out of the box, the SteelSeries app offers over 200 game-specific equalizer profiles that can enhance the sound experience, emphasizing the sound of footsteps in shooters, for example, or adding a richness to the music in cinematic games. This version of the headset is compatible with Windows and macOS computers, PlayStation consoles, Nintendo Switch and Switch 2, and Android and iOS mobile devices. They include both a Bluetooth connection for calls and mobile use, and a compact low latency USB-C dongle for listening over a 2.4GHz wireless connection. They're advertised to last up to 40 hours on a single charge, and can fast charge for up to nine hours of gaming in just 15 minutes via USB-C.",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theverge.com/?p=981611",
+      "rss_tags": [
+        "Deals",
+        "Gadgets",
+        "Gaming",
+        "PC Gaming",
+        "Verge Shopping"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
     }
   }
 ]
