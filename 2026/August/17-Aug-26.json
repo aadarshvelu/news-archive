@@ -164,6 +164,32 @@
     }
   },
   {
+    "id": "04281023-0f51-40a2-b497-7942e3e5a124",
+    "cluster_id": "081bccf5-bad6-4213-86c3-79793471a221",
+    "cluster_size": 3,
+    "source": "HN: AI",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "teaser": "Speko launches an open router for Voice AI, promising advanced capabilities showcased via its Evidence Reel Watch demo tool.",
+    "summary": "Speko is launching as an 'open router for Voice AI,' suggesting a platform designed to manage and interconnect various specialized voice AI services. The announcement positions Speko (YC S26) in the competitive AI landscape by providing standardized access to advanced voice features. A component of this launch involves a demo showing an 'Evidence Reel Watch' capability, demonstrating how the system can interact with suspects—similar to investigating alibis or finding contradictions—using recorded evidence.",
+    "importance": 5,
+    "category": "ai_research",
+    "url": "https://speko.ai/",
+    "date": "2026-08-17T15:36:18Z",
+    "image_url": "https://speko.ai/opengraph-image?b1c5b7b39189286b",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "abdik",
+    "content": "$ claude mcp add --transport http speko https://mcp.speko.ai/mcp",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=49332751",
+      "rss_tags": [],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "23cc8008-6a80-4853-9b8e-bf8e10dd9776",
     "cluster_id": "c2b2530c-6517-4fe8-80a2-14e954f6d740",
     "cluster_size": 4,
