@@ -263,6 +263,43 @@
     }
   },
   {
+    "id": "dfc12db7-3908-4614-8edc-3bc197e26450",
+    "cluster_id": "76df6b40-7371-400a-9d7c-60b48012cdd4",
+    "cluster_size": 3,
+    "source": "SiliconANGLE",
+    "title": "Swimlane updates security operations center with intelligent routing",
+    "teaser": "Cybersecurity firms are tackling inefficient spending with intelligent routing: one system achieved 90% cost savings by directing alerts only to complex AI analysis.",
+    "summary": "The cybersecurity industry is rapidly evolving toward highly efficient, context-aware Security Operations Centers (SOCs) leveraging advanced AI. Companies are focusing on optimizing processing power and eliminating costly data silos. Swimlane introduced an intelligent routing system to its SOC that directs incoming alerts to the appropriate level of automation—be it simple deterministic scripts or expensive agentic AI—to prevent unnecessary costs. Concurrently, Prevalent AI offers a 'data fabric' that builds sovereign knowledge graphs from fragmented enterprise systems, helping security teams overcome a critical 'shortage of context.' Meanwhile, Cribl is strengthening its open telemetry platform by acquiring technology for real-time alert triage and investigation against collected data, ensuring comprehensive coverage and boosting detection speed. These advancements show the industry prioritizing targeted, cost-effective AI application.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://siliconangle.com/2026/08/19/swimlane-updates-security-operations-center-with-intelligent-routing/",
+    "date": "2026-08-19T13:00:36Z",
+    "image_url": "https://images.siliconangle.com/blogs.dir/1/files/2025/03/conanaudit.jpeg",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Kyt Dotson",
+    "content": "Agentic artificial intelligence cybersecurity automation company Swimlane Inc. today announced the expansion of the company's AI security operations center to support automatic routing for security investigations. The new capability enables routing of incoming alerts to different paths: deterministic automation, AI-assisted investigation or agentic automation. The company said the front-end triage capability allows the system to quickly assess the complexity of the work and the level of AI involvement needed to assist the alert. Swimlane's AI-assisted system helps security teams handle cybersecurity-related events and uses its AI to up-level their investigation capability, without defaulting every task to expensive AI models. \"As AI consumption continues to rise, the next generation of the SOC will not be able to run every task through AI by default. It will know which work actually needs AI,\" explained co-founder and Chief Executive Cody Cornell. Cornell went on to say that at the scale of hundreds of thousands of investigations, $5 to $10 for each investigation piles up quickly. The objective of Swimlane routing each alert to the appropriate model - small or large - for the appropriate level of reasoning is to provide the correct layer of assistance for the security team, without breaking the bank. Of course, if the router sends what looked like a simple alert to deterministic automation but it was actually the tip of the iceberg, the security team can still route it to a higher-reasoning model. This means the team always remains in control and the AI under the hood remains a tool, not a replacement for human ingenuity or judgment. \"Customers can expand what their SOC can handle without replacing an analyst-capacity problem with an AI-spend problem,\" Cornell said. What the new router does for teams Swimlane said the new router helps prevent everything from getting baked by a high-reasoning AI model. Not every alert requires an expensive agentic AI evaluation. Sometimes it's just an alert and can go onto the pile, since that's the nature of false positives, but sometimes it's part of a trend and should be examined and then surfaced for the team, with the reasoning explained. When that happens, the agent goes into action and the SOC learns what alerts the team wants evaluated. It turns these into repeatable playbooks. This creates a continuous, adaptable and configurable cycle that can be fully automated, keeping the AI budget focused on the complex work while maintaining scale where the investigators do their work. Swimlane said the problem arises because, although AI-driven platforms promise to reduce tedious manual labor and investigation work, they also send what could be done with deterministic scripts to generative AI models. This means an expensive AI model crunches something as simple as a text search or does work that could have been done with a six-line Python script. This is a potential tradeoff of several thousand percent in costs for an outcome where the generative AI could provide a wildly different answer. The company said the vision behind the AI-first SOC was to give security professionals control over the extent of their investigations behind the scenes and manage their tools by having an orchestrator watch incoming alerts and guide them to the appropriate \"bucket,\" leading to real financial impact. One healthcare customer investigating more than 180 threats a day achieved 90% in cost savings by using intelligent routing. It reserved agentic AI evaluation for only the most complex 10% of threats across investigations. \"Swimlane pairs the speed and predictability of automation with AI where reasoning and judgment create real value,\" said Cornell. Image: SiliconANGLE/Ideogram A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE's Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities. 15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more 11.4k+ theCUBE alumni - Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network SiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios - with flagship locations in Silicon Valley and the New York Stock Exchange - SiliconANGLE Media operates at the intersection of media, technology and AI. Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+    "raw_meta": {
+      "rss_entry_id": "https://siliconangle.com/?p=818384",
+      "rss_tags": [
+        "NEWS",
+        "Security",
+        "The-Latest",
+        "AI",
+        "AI cybersecurity",
+        "AI SOC",
+        "AI-driven security operations",
+        "Cody Cornell",
+        "security operations centers",
+        "Swimlane"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "1602cb7f-f54e-4dcd-a8ff-ea6ae33ff518",
     "cluster_id": "5b6b5729-9c1d-4d92-ac33-41b994456f33",
     "cluster_size": 2,

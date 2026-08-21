@@ -125,6 +125,34 @@
     }
   },
   {
+    "id": "0216b030-778e-428c-9cc4-d211feab3c45",
+    "cluster_id": "eb4029ae-f2aa-4447-81c2-5de175123655",
+    "cluster_size": 4,
+    "source": "The Register",
+    "title": "OpenAI glitch locks out vetted cyber researchers – and some can't get back in",
+    "teaser": "OpenAI’s Daybreak program expands with specialized tiers for cyber defense, even as a recent glitch locked out vetted researchers from their advanced tools.",
+    "summary": "The landscape of AI-driven cybersecurity is rapidly evolving. OpenAI expanded its 'Daybreak' program—which allows professionals access to LLMs for vulnerability research—by introducing two new tiers: Daybreak Blue (for basic code scanning) and Daybreak Red, powered by GPT-5.6-Cyber. This specialized model achieved a 95% success rate in advanced exploit analysis tasks on the ExploitGym2 benchmark. Simultaneously, OpenAI tightened program guardrails and announced mandatory hardware keys for participants starting next month.\n\nHowever, the system faced recent turbulence: an 'OpenAI glitch' temporarily locked out vetted users from its Trusted Access for Cyber (TAC) program. Compounding this tech failure is the commercial push by defensive startups like Corma Labs, which recently secured $60 million in funding to build a foundation model purpose-built for security defense, recognizing that AI attackers are gaining a significant edge.\n\nTogether, these developments show an intensifying 'race' where high-powered offensive and defensive tools are grappling with technical deployment risks.",
+    "importance": 5,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238",
+    "date": "2026-08-20T11:45:00Z",
+    "image_url": "https://image.theregister.com/5290292.jpg?imageId=5290292&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "AI AND ML OpenAI glitch locks out vetted cyber researchers - and some can't get back in Affected users say support cannot restore their previous approval or override the new decision OpenAI says a technical stuff-up booted some vetted security researchers out of its Trusted Access for Cyber (TAC) program, only for its recovery process to decide some of them aren't welcome back. The problem surfaced this week when participants reported that their previously approved status had vanished without warning. OpenAI's cyber verification page instead invited them to \"Start verification\" as though they had never been cleared. Some also found that Daybreak Blue, an access tier offering vetted cyber defenders expanded capabilities, had disappeared from Codex Desktop and the command-line interface. OpenAI has since acknowledged the problem. Responding to complaints on its community forum, the company said \"a limited set of users\" had lost Daybreak Blue access because of a technical issue and would need to complete verification again. \"This isn't the experience we want to deliver, and we're making sure the issue doesn't happen again,\" OpenAI said. Affected users were told to look for an email titled \"Action required: Reverify your Daybreak Blue access,\" containing instructions for getting back through the door. For some, however, it appears to remain shut. One researcher said they followed the instructions and selected \"Start verification,\" only to be told that the process could not begin because their account was ineligible. Another participant said they had held Daybreak Blue access for more than a month before losing it in the technical snafu. After OpenAI support told them to reapply, the verification system reportedly said it could not verify their identity or that the account was currently ineligible. According to their account of a subsequent exchange with support, OpenAI could neither reset the verification state nor restore or override the previous approval. TAC gives security professionals access to advanced cyber capabilities that are more restricted for other users. Applicants must provide identification and undergo verification before getting access. The aim is to give legitimate defenders more powerful tools for finding and fixing vulnerabilities while restricting access for those with less wholesome intentions. Anthropic operates a comparable scheme called the Cyber Verification Program. That makes this more than an option mysteriously vanishing from a menu. OpenAI had already vetted these researchers - then its own technical problem kicked them out, and its verification system apparently changed its mind. OpenAI didn't respond to The Register's questions about the number of affected users, the cause of the removals, why some previously approved researchers are now deemed ineligible, or whether it can restore access when re-verification fails. It instead directed us to a statement posted on X that blamed the access removals on a \"technical issue,\" saying only a limited number of users were affected, and telling those users they would need to re-verify. For now, some of OpenAI's trusted cyber researchers have discovered an unexpected vulnerability: the front door. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5290238",
+      "rss_tags": [
+        "ai and ml"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
     "id": "4a542274-2505-4381-974a-27d649eb59e8",
     "cluster_id": "ad247f7b-f5aa-4f83-aa2f-985e95ab872c",
     "cluster_size": 3,
@@ -413,6 +441,140 @@
       ],
       "fetch_ok": true,
       "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "feb380f4-f609-4f48-9ddb-b316b032152f",
+    "cluster_id": "55f04d34-953d-4637-b522-9fe57b737bc3",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "China marches towards re-usable rockets with successful first-stage landing",
+    "teaser": "China's startup LandSpace successfully landed its Zhuque-3 rocket booster, marking a major breakthrough toward affordable, reusable space travel.",
+    "summary": "Chinese startup LandSpace achieved a major aerospace milestone by successfully landing its Zhuque-3 first-stage rocket booster on land. This demonstrates China's advancing capability in reusable launch technology, an feat previously accomplished only by select international players.\n\nThe Zhuque-3 is designed to carry up to 21,300 kg to orbit and uses the company’s own TQ-12A liquid oxygen-methane engines. The successful landing verifies the full re-entry process—including atmospheric gliding and controlled deceleration—which is crucial for making space flight cheaper by allowing boosters to be recovered and reused.\n\nWhile LandSpace has ambitious goals (such as building a moon base), this achievement significantly advances China's national space strategy, placing it among the world leaders in advanced rocketry.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/offbeat/2026/08/20/china-marches-towards-re-usable-rockets-with-successful-first-stage-landing/5290095",
+    "date": "2026-08-20T06:21:40Z",
+    "image_url": "https://image.theregister.com/5290116.jpg?imageId=5290116&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "offbeat China marches towards re-usable rockets with successful first-stage landing Red alert for rivals as LandSpace nails it after December disaster Chinese space startup LandSpace has landed a first-stage booster on land, the first time a Middle Kingdom company has achieved the feat. LandSpace flies rockets called Zhuque and has built three generations of the craft. Zhuque-1 only flew once, in 2018. Zhuque-2 became the first liquid oxygen-methane vehicle to reach orbit when it first flew in 2022. It can can carry 6,000 kilograms to a 200km low Earth orbit or 4,000kg to a 600km Sun-synchronous orbit. LandSpace has flown it eight times since 2022. Six missions succeeded. Zhuque-3 is the company's new flagship and can hoist 21,300 kg to a 450km orbit. The rocket uses LandSpace's own TQ-12A engines, which burn liquid oxygen-methane fuel. The rocket's first stage is re-usable, and can land on its four legs. LandSpace flew the Zhuque-3 for the first time last December, but the mission failed - although its on-board Ethernet performed brilliantly . The company did better yesterday, when a Zhuque-3 sent a satellite into orbit and managed to land its first stage. You can see a video of the landing on the company's Weixin account . The company says the rocket lifted off at 7:35 AM yesterday, split its first and second stages 137 seconds into the flight, and landed the first stage at 7:41 AM. The launchpad and landing site are about 250km apart. LandSpace's Zhuque-3 first stage lands in northern China LandSpace says the rocket performed a high-altitude return attitude adjustment, reentry ignition powered deceleration, aerodynamic gliding control, landing ignition deceleration, and deployed its landing legs. \"The mission systematically verified the entire process of the first stage returning to the land landing pad from high-speed flight,\" the company trumpeted. Re-usable rockets reduce the cost of space flight by removing the need to build a vehicle for every launch. LandSpace has designed its engines and first stages to fly up to 20 times. It hasn't proven it can re-use a rocket even once, yet, or how quickly it can get a used vehicle back on the launchpad. Just landing a first stage is, however, mightily impressive as only SpaceX and Blue Origin have previously achieved the feat. China has big ambitions in space, including huge constellations of broadband satellites, extending its space station, and building a moon base. Beijing knows re-usable rockets will help - it recently tested catching them in a net mounted on a barge at sea. State media has hailed LandSpace's feat as a \"major breakthrough\" and reported that China's National Space Agency is working on other re-usable tech to advance the nation's ability to launch more stuff, more often, at lower cost. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5290095",
+      "rss_tags": [
+        "offbeat"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "6642b2f8-854f-47cf-a97c-b98784eec0af",
+    "cluster_id": "b56b1dca-a39f-4a35-a39c-a8659d9c5f2e",
+    "cluster_size": 1,
+    "source": "noreply_accounts",
+    "title": "You shared some Google Account data with powerhouse-hyring.firebaseapp.com",
+    "teaser": "Warning: Your Google Account data was flagged as having been shared with the potentially suspicious domain, powerhouse-hyring.firebaseapp.com.",
+    "summary": "A security alert indicates that Google Account data may have been shared with the domain powerhouse-hyring.firebaseapp.com. This suggests a potential data privacy breach or unauthorized sharing of sensitive account information linked to the user's Google credentials. Users are advised to exercise extreme caution, review their third-party app permissions within their Google accounts, and immediately check for any suspicious activity or unusual log-ins from unrecognized services to mitigate potential security risks.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://c.gle/AKMee0dfJ5ovUTTX1umuZC9iYgYg_aFp0lANMk_ZHboqnY2vCthvgjpWdnhEvQU5yuSOKFMy99UadvPdoD9hDPzAbxueQD8st0B-odZ6a8566umWK-qG_vGP_lYrdlLqkAfdTmNJ_eDHAzgQCXj_Dkm9lNznrOdRDqrWJftC51FoxSHkoqxiWihGM_r9iS0EE2FvZaOrOPeOw-h3aCGh0TXB--Kw_kbwA8gmh24KldQyLU_WUP77i9REIYCGIsYvKyvqbWlti-y4d0Eb0jcNWPovrtppiGi7traWUI0laWtICsXIvjTOQ_MXKcSexWznbqQ5meoCl4H82z__ZKb8sViWlG2CRdlOsKmnZ8w7cLMIAL-QBI74NwfsfONOcNsI0tKwHkKmOX2p3BcAUJQjNTZXk38p0zsk3wk3lCLg8nE67MaLdPwZj9Oa1Q7jr5oq95Jl_ismWY9X0DRqqJYpXBHXTu5-bIs6HrRMWU8P4B9CEHfqeQs1CdR6mONruQXq28A7Sy-jZ-evT_9YprVsfUsmHrMhUGkjfQZ9aBYMeknwQquyIe77uE_FAormUJTxVpjdN6-057zAYzIHnrrak5CfqToY7ZTwvy8Oaz0LHGbGvX3eMu-qay7KyNrGm3_FlQfX-JYJ-uXAdclH_fL6rrQi1vxteualKG8WdHgBmbKtSB8Yj5jgUnb2vxpvLUcobLdqhdEjBMNiBTqJ_eBQRkqbRn_tpBAziNu42PhJvYM2sdA-4ywTAKVvyFd9ttw7hRnlQxtrysE1",
+    "date": "2026-08-20T07:02:17Z",
+    "image_url": null,
+    "source_channel": "gmail",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "Google",
+    "content": "© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043",
+    "raw_meta": {
+      "gmail_message_id": "1366",
+      "gmail_uid": "1366",
+      "gmail_labels": [],
+      "gmail_msgid": "1874024818837772331",
+      "gmail_thrid": "1874024818837772331"
+    }
+  },
+  {
+    "id": "ddfd589e-8163-495b-88e4-b9ae9a5323f7",
+    "cluster_id": "f916b051-0ff6-4762-8775-d1594912e51e",
+    "cluster_size": 1,
+    "source": "The Register",
+    "title": "SparkyLinux 8.4 rekindles support for 32-bit PCs",
+    "teaser": "SparkyLinux 8.4 brings back crucial 32-bit PC support, reviving classic desktop environments like CDE and enabling modern use on old Atom netbooks.",
+    "summary": "SparkyLinux 8.4, a Debian 13 derivative, has revived crucial support for 32-bit PCs after an initial discontinuation. The distribution offers various desktop environments (including MATE and KDE) and is available in rolling-release or stable variants. Users can now run the classic CDE desktop on older hardware, making it potentially useful for reviving devices like Atom netbooks. Despite being a modern build using kernel 6.12, the 32-bit version requires a 686-class CPU with PAE support. Furthermore, Sparky includes a compatible 32-bit build of Firefox 140 ESR.",
+    "importance": 4,
+    "category": "tech_news",
+    "url": "https://www.theregister.com/os-platforms/2026/08/20/sparkylinux-84-rekindles-support-for-32-bit-pcs/5289203",
+    "date": "2026-08-20T08:45:00Z",
+    "image_url": "https://image.theregister.com/1681822.jpg?imageId=1681822&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "OS PLATFORMS SparkyLinux 8.4 rekindles support for 32-bit PCs Debian 13 derivative offers minimal x86 images and lets CDE ride again Almost exactly a year after SparkyLinux 8.0 abandoned installation images for 32-bit PCs, version 8.4 has brought them back. The distro remains based on Debian 13 and retains the codename \"the Seven Sisters.\" SparkyLinux 8.4 with the lightweight LXQt desktop - showing its frugal memory use Liam Proven The Register first checked out SparkyLinux back in 2015, and this vulture took a look at version 7 a couple of years ago. Beyond the changes inherited from the move from Debian 12 to Debian 13, this version isn't hugely different. The project's own self-description covers the basics. (The project also offers release info in Polish , jeśli wolisz to.) It comes in both rolling-release and stable variants, and you get a choice of versions with different desktops: LXQt, MATE, Xfce, and KDE, plus a minimal command-line only edition, and a minimal GUI edition with Openbox. All offer Sparky's improved package manager, called Aptus. Sparky 8.4 isn't the first Debian-derivative we've seen that offers a 32-bit edition. That distinction goes to Window Maker Live 13.2 , and earlier this year, we also scoped out antiX 26 , which offers several older kernel versions. We tried the 64-bit LXQt flavor of SparkyLinux 8.4, and installation was a cinch with the cross-platform Calamares installer. It ships with Linux kernel 6.12 by default. For comparison, we tried the 32-bit edition, in its \"minimal GUI\" variant. There is no graphical installer, so you must run a command-line one in a terminal. It asks numerous questions about locales and keyboard layouts, but gets the job done. At the end, it offered a comprehensive choice of desktop environments, including the original CDE - open sourced in 2012 - and its modern recreation, NsCDE. We compared the two in 2022. SparkyLinux 8.4 in a 32-bit VM, running the classic CDE desktop - using the same kernel version as on 64-bit Liam Proven To see how it looked, we chose CDE. A few minutes later, we rebooted and logged directly into the third-of-a-century-old environment. It works fine: we left the VirtualBox defaults on for a 32-bit VM - 1 GB of RAM and 8 GB of disk - and the system fit comfortably, consuming 6.9 GB of storage and 259 MB of memory. There's no Snap or Flatpak support installed, but it does use systemd, just like Debian itself. The 32-bit edition uses the same kernel version 6.12 as its 64-bit sibling, although the minimum spec has been increased a little: it now requires a 686-class CPU with PAE support. Mozilla ended mainstream 32-bit Linux builds after Firefox 144, with ESR 140 serving as the final supported branch. Sparky supplies its own 32-bit build of Firefox 140 ESR, which worked without complaint. This could be a useful way to revive an old Atom-powered netbook or similar machine: 32-bit code generally has a smaller memory footprint than its 64-bit equivalent. It could also suit extremely small VMs, while remaining worth a look on more capable hardware. ®",
+    "raw_meta": {
+      "rss_entry_id": "https://www.theregister.com/a/5289203",
+      "rss_tags": [
+        "os platforms"
+      ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "97dde1a3-5b3a-4011-b9e4-e531183cd00d",
+    "cluster_id": "588f40b6-8a9d-48ba-a3b4-5ff9a8f31bf0",
+    "cluster_size": 1,
+    "source": "Economist - Finance & Economics",
+    "title": "However you measure it, China’s job market is weak",
+    "teaser": "China’s weak job market is forcing some workers to abandon urban careers and return to farming.",
+    "summary": "Despite positive indicators, China's job market faces persistent difficulties according to recent reports. The overall weakness in the job sector has prompted some blue-collar workers to revert to agricultural labor (farming). This trend signals underlying economic pressure and potential structural adjustments within the Chinese workforce.",
+    "importance": 4,
+    "category": "economics",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
+    "date": "2026-08-20T09:21:25Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Some workers are going back to the farm",
+    "raw_meta": {
+      "rss_entry_id": "2d2d892d-331f-4db1-933e-3ae07d585f00",
+      "rss_tags": [],
+      "fetch_ok": null,
+      "fetch_status": null,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "837fe2c4-0fbe-4cb2-bcf0-f8127ed66282",
+    "cluster_id": "2741e516-e0b9-4953-969f-c62a8db87a56",
+    "cluster_size": 1,
+    "source": "Economist - Finance & Economics",
+    "title": "The high cost of phantom tollbooths",
+    "teaser": "Maintaining freedom of navigation (FON) is essential for global trade, preventing single nations from controlling vital international waters.",
+    "summary": "This piece emphasizes that freedom of navigation (FON) must be maintained as a cornerstone of international law. FON is crucial because it guarantees that the world's oceans remain open for commerce and travel, preventing any country from unilaterally restricting passage through critical waterways. By upholding this principle, global stability is protected, ensuring the continued free movement of goods and people vital to the modern economy.",
+    "importance": 4,
+    "category": "policy",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/20/the-high-cost-of-phantom-tollbooths",
+    "date": "2026-08-20T09:21:32Z",
+    "image_url": null,
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "",
+    "content": "Freedom of navigation is worth preserving",
+    "raw_meta": {
+      "rss_entry_id": "1c8984ce-4ef1-4f65-8d43-de88a2b67210",
+      "rss_tags": [],
+      "fetch_ok": null,
+      "fetch_status": null,
       "fetch_error": null
     }
   },
@@ -1185,6 +1347,32 @@
         "Hardware",
         "smart calendar"
       ],
+      "fetch_ok": true,
+      "fetch_status": 200,
+      "fetch_error": null
+    }
+  },
+  {
+    "id": "9fc03e8b-a563-40b9-ae91-7e3fc4665112",
+    "cluster_id": "733cd9f1-6e8d-423c-9bd1-7d6044ac5566",
+    "cluster_size": 2,
+    "source": "HN: AI",
+    "title": "Don't paste the AI, please",
+    "teaser": "Don't just paste generic AI answers: Experts advise using AI only for drafting while emphasizing human judgment over robot text.",
+    "summary": "This article contains two pieces of commentary on using generative AI. The first section advises against blindly pasting LLM outputs, urging readers to use AI only for drafting and always inject personal context and human judgment when answering questions. Instead of being a 'middleman' between the AI and the answer, users should read, polish, or quote useful snippets while explaining their own take. Separately, the text advertises an interactive platform called 'Your AI Slop Bores Me.' This site is designed for participants to roleplay both sides—asking prompts and responding as AIs—in a structured, almost game-like format that critiques the nature of AI interaction itself.",
+    "importance": 2,
+    "category": "other",
+    "url": "https://dontpastetheai.com/",
+    "date": "2026-08-20T08:20:44Z",
+    "image_url": "https://dontpastetheai.com/assets/og-image.png",
+    "source_channel": "rss",
+    "relation": null,
+    "parent_cluster_id": null,
+    "author": "pjerem",
+    "content": "Prefer another language? EN - English Don't paste the AI , please. When someone asks you something, they want your answer.\n Not a wall of ChatGPT text . A short answer from a human will always be worth\n more than one from a robot, even if the robot is right. What happened Someone asked you an honest question. You dumped it into a chatbot, copied the answer, and sent it back.\n It felt fast. It felt helpful. It wasn't. It might not look like it, but the person on the other side has the same tools you do . If they\n wanted the generic answer, they'd have it in a couple of seconds. They asked you because they wanted\n your take... Your context, your taste, your judgment. The world is full of people who don't want to read or think things through. Don't be one of them. Do this instead You can use AI. Seriously! It's a great tool for drafting. Just read what it gave to you , then write your own version, or polish the text. Don't be a middleman between it and the\n answer. Take the part that actually answers the question and ignore the rest. Three sentences is all it takes, and\n even if they're copied, at least you read them. If some part of the model's answer is genuinely useful, quote it and explain why . \"I asked Claude and this bit here makes sense:\" . If you have nothing to add, just say so. \"No strong opinion\n here\" . Silence is also an option. Want to send this to someone? If someone just committed a wall of LLM text in your DMs, Slack or code review, you\n can send them this link. dontpastetheai.com Click to copy. Want a rougher version? If you'd rather send a version with stronger feelings involved, we got you! I wanna burn\n bridges 🔥 Might not have an amazing reception at work, but you do you - with... Love? Everyone spiritual cousin of nohello.net & dontasktoask.com . written\n by some random guy (believe it or not). Just like in the old days.",
+    "raw_meta": {
+      "rss_entry_id": "https://news.ycombinator.com/item?id=49371857",
+      "rss_tags": [],
       "fetch_ok": true,
       "fetch_status": 200,
       "fetch_error": null
